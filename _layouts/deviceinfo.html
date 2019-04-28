@@ -1,0 +1,60 @@
+---
+layout: default
+---
+{% assign device = site.data.devices[page.device] %}
+<div class="container page">
+    <div class="row">
+        <div class="col-lg-7">
+            <h2>Info about <tt>{{ device.device_id }}</tt></h2>
+            <ul>
+                {% if device.wikidevi_url %}
+                <li><a href="{{ device.wikidevi_url }}">WikiDev</a></li>
+                {% endif %}
+                {% if device.owrt_forum_topic_url %}
+                <li><a href="{{ device.owrt_forum_topic_url }}">Disucssion</a></li>
+                {% endif %}
+            </ul>
+        </div>
+        <div class="col-lg-5">
+            <table class="table">
+                <tbody>
+                    <tr>
+                        <th colspan="2">{{ device.brand }} {{ device.model }}</th>
+                    </tr>
+                    <tr>
+                        <th scope="row">Device Type</th>
+                        <td>{{ device.device_type }}</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Brand</th>
+                        <td>{{ device.brand }}</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Model</th>
+                        <td>{{ device.model }}</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">RAM</th>
+                        <td>{{ device.ram_mb }} MB</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">CPU</th>
+                        <td>{{ device.cpu }} ({{ device.cpu_cores }} x {{ device.cpu_mhz }}MHz)</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Switch</th>
+                        <td>{{ device.switch }}</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Power Supply</th>
+                        <td>{{ device.power_supply }}</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Comments</th>
+                        <td>{{ device.comments }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
