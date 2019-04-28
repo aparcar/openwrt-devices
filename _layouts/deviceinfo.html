@@ -5,7 +5,7 @@ layout: default
 <div class="container page">
     <div class="row">
         <div class="col-lg-7">
-            <h2>Info about <tt>{{ device.device_id }}</tt></h2>
+            <h3>Info about <tt>{{ device.device_id }}</tt></h3>
             <ul>
                 {% if device.wikidevi_url %}
                 <li><a href="{{ device.wikidevi_url }}">WikiDev</a></li>
@@ -14,6 +14,22 @@ layout: default
                 <li><a href="{{ device.owrt_forum_topic_url }}">Disucssion</a></li>
                 {% endif %}
             </ul>
+            <p>
+            {% if device.firmware_openwrt_install_url %}
+            <a href="{{ device.firmware_openwrt_install_url }}" class="btn btn-primary"><i class="material-icons">get_app</i>Stock Image</a>
+            {% endif %}
+            {% if device.firmware_openwrt_upgrade_url %}
+            <a href="{{ device.firmware_openwrt_upgrade_url }}" class="btn btn-primary"><i class="material-icons">get_app</i>Upgrade Image</a>
+            {% endif %}
+            </p>
+            <p>
+            {% if device.firmware_openwrt_snapshot_install_url %}
+            <a href="{{ device.firmware_openwrt_snapshot_install_url }}" class="btn btn-danger"><i class="material-icons">get_app</i>Snapshot Stock Image</a>
+            {% endif %}
+            {% if device.firmware_openwrt_snapshot_install_url %}
+            <a href="{{ device.firmware_openwrt_snapshot_install_url }}" class="btn btn-danger"><i class="material-icons">get_app</i>Snapshot Upgrade Image</a>
+            {% endif %}
+            </p>
         </div>
         <div class="col-lg-5">
             <table class="table">

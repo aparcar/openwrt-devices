@@ -1,0 +1,11 @@
+<footer class="footer bg-light mt-5 px-2 py-4 ">
+  <div class="container">
+    <div class="row">
+      <div class="col-md text-center text-md-left">
+      </div>
+      <div class="col-md">
+        {% if page.last_updated %}Page last updated: {{page.last_updated}}<br/>{% endif %} Site last generated: {{ site.time | date: "%b %-d, %Y" }}</p>
+      </div>
+    </div>
+  </div>
+</footer>

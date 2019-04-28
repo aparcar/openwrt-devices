@@ -1,20 +1,25 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-  <head>
+
+<head>
     <meta charset="utf-8">
     <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons" rel="stylesheet">
 
     <link href="{{ site.baseurl }}/assets/css/material-kit.css" rel="stylesheet">
-  </head>
-  <body>
+</head>
+
+<body>
+    {% include layout/navbar.html %}
     <div class="main-content">
-
-      {{ content }}
-
+        {{ content }}
     </div>
-  </body>
+
+    {% include layout/footer.html %}
+</body>
+
 </html>
