@@ -1,0 +1,30 @@
+availability: Discontinued 2017
+bootloader: Breed
+brand: YOUKU
+button_count: '1'
+cpu: MediaTek MT7620A
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: youku_yk1
+device_type: WiFi Router
+ethernet_100m_ports: '3'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-youku-yk1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-youku-yk1-squashfs-sysupgrade.bin
+flash_mb: '32'
+forum_search: YK1
+git_search: YK1
+installation_method_s: unknown
+led_count: '4'
+model: YK1
+package_architecture: mipsel_24kc
+ram_mb: '128'
+recovery_method_s: unknown
+serial: true
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=e9baf8265bb8938169b882deff2026a7389bd9f7
+supported_since_rel: 17.01.0
+target: ramips
+usb_ports: 1x 2.0
+wlan_driver: unknown
+wlan_hardware: MediaTek MT7620A

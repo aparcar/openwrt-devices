@@ -1,0 +1,29 @@
+availability: unknown 2019
+brand: AVM
+button_count: '2'
+cpu: Lantiq XWAY VRX220
+cpu_cores: '2'
+cpu_mhz: '500'
+device_id: avm_fritz_box_7412
+device_type: WiFi Router
+ethernet_100m_ports: '1'
+fccid: "http://\xBF"
+firmware_oem_stock_url: https://avm.de/service/downloads/?product=fritzbox-7412
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xrx200/openwrt-lantiq-xrx200-avm_fritz7412-squashfs-sysupgrade.bin
+flash_mb: 128NAND
+forum_search: FRITZ!Box 7412
+git_search: FRITZ!Box 7412
+led_count: '5'
+model: FRITZ!Box 7412
+modem: xDSL
+oem_device_homepage_url: https://avm.de/service/fritzbox/fritzbox-7412/uebersicht/
+package_architecture: mips_24kc
+ram_mb: '128'
+recovery_method_s: unknown
+subtarget: xrx200
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=20f48c8ae334f8502e756282995cc84d89fa81c1
+target: lantiq
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9287

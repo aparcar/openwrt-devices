@@ -1,0 +1,33 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: D-Link
+button_count: '2'
+comments: 'Useful page: https://dflund.se/~triad/krad/dlink-dns-313/'
+cpu: Cortina Systems QWCS3512C A3
+cpu_cores: '1'
+cpu_mhz: '300'
+device_id: d-link_dns-313
+device_type: NAS
+ethernet_gbit_ports: '1'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/gemini/generic/
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/gemini/generic/
+forum_search: DNS-313
+git_search: DNS-313
+installation_method_s: unknown
+led_count: '2'
+model: DNS-313
+oem_device_homepage_url: https://eu.dlink.com/uk/en/products/dns-313-sharecenter-solo-1-bay-network-storage-enclosure
+package_architecture: arm_fa526
+power_supply: 12 VDC, 3.0 A
+ram_mb: '64'
+recovery_method_s: unknown
+sata_ports: '1'
+serial: true
+serial_connection_parameters: 19200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=4f74957584cd50786d1d33a3f26867b06a58510f
+supported_since_rel: 18.06.0
+target: gemini
+usb_ports: 1x 2.0 Device
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DNS-313

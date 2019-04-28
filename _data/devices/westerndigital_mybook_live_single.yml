@@ -1,0 +1,34 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Western Digital
+button_count: '1'
+cpu: AppliedMicro APM82181
+cpu_cores: '1'
+cpu_mhz: '800'
+device_id: westerndigital_mybook_live_single
+device_page: mybooklive
+device_type: NAS
+ethernet_gbit_ports: '1'
+firmware_oem_stock_url: http://download.wdc.com/nas/apnc-024310-048-20150507.deb
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/apm821xx/sata/openwrt-18.06.2-apm821xx-sata-wd_mybooklive-ext4-rootfs.img.gz
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/apm821xx/sata/openwrt-apm821xx-sata-wd_mybooklive-ext4-factory.img.gz
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/apm821xx/sata/openwrt-apm821xx-sata-wd_mybooklive-ext4-sysupgrade.img.gz
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/apm821xx/sata/openwrt-18.06.2-apm821xx-sata-wd_mybooklive-ext4-rootfs.img.gz
+flash_mb: more than 8GB
+forum_search: MyBook Live
+git_search: MyBook Live
+installation_method_s: see devicepage
+led_count: '1'
+model: MyBook Live
+oem_device_homepage_url: https://support.wdc.com/product.aspx?ID=902
+package_architecture: powerpc_464fp
+power_supply: 12 VDC, 1.5 A
+ram_mb: '256'
+sata_ports: '1'
+serial: true
+subtarget: sata
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=dc7efaefb53d4671893add07934839eb8d44934d
+supported_since_rel: 17.01.0
+target: apm821xx
+version: Single

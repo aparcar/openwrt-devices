@@ -1,0 +1,28 @@
+availability: unknown 2018
+bootloader: other
+brand: Thomson
+comments_network_ports: 1 PSTN, 2 phone
+cpu: Broadcom BCM6368
+cpu_cores: '2'
+cpu_mhz: '400'
+device_id: thomson_tg789vn
+device_page: tg789vn
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+ethernet_gbit_ports: '1'
+flash_mb: '64'
+forum_search: TG789VN
+git_search: TG789VN
+jtag: true
+model: TG789VN
+modem: xDSL
+package_architecture: mips_mips32
+ram_mb: '128'
+serial: true
+target: brcm63xx
+unsupported_functions: Possible to support
+usb_ports: 2x 2.0
+vlan: false
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM43222KFBG

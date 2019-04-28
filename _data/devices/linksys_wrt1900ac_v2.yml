@@ -1,0 +1,51 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Linksys
+button_count: '1'
+comment_installation: Image name may need to be changed to OEM Code Name
+comment_recovery: Image name MUST be OEM Code Name
+comments: '[Launch Date: 2015.04] Serial 13J2; OEM Firmware Name: cobra.img'
+comments_usb_sata_ports: eSATA <-> USB2
+cpu: Marvell Armada 385 88F6820
+cpu_cores: '2'
+cpu_mhz: '1600'
+detachable_antennas: '4'
+device_id: linksys_wrt1900ac_v2
+device_page: linksys_wrt1900ac
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: https://fcc.io/Q87/-WRT1900ACV2
+firmware_oem_stock_url: https://www.linksys.com/us/support-article?articleNum=148550
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/mvebu/cortexa9/openwrt-18.06.2-mvebu-cortexa9-linksys-wrt1900acv2-squashfs-factory.img
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/mvebu/cortexa9/openwrt-mvebu-cortexa9-linksys-wrt1900acv2-squashfs-factory.img
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/mvebu/cortexa9/openwrt-mvebu-cortexa9-linksys-wrt1900acv2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/mvebu/cortexa9/openwrt-18.06.2-mvebu-cortexa9-linksys-wrt1900acv2-squashfs-sysupgrade.bin
+flash_mb: 128NAND
+forum_search: WRT1900AC
+git_search: WRT1900AC
+installation_method_s: see devicepage
+jtag: true
+led_count: '11'
+model: WRT1900AC
+oem_device_homepage_url: https://www.linksys.com/us/p/P-WRT1900AC/
+package_architecture: arm_cortex-a9_vfpv3
+power_supply: 12 VDC, 3.0 A
+ram_mb: '512'
+recovery_method_s: see devicepage
+sata_ports: '1'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: cortexa9
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=2705cda81389e84687fb0325d2bf6c8bc2756bee
+supported_since_rel: '15.05'
+switch: Marvell 88E6176
+target: mvebu
+version: v2 (cobra)
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT1900AC_v2
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 4x4
+wlan_driver: mwlwifi
+wlan_hardware: Marvell 88W8864

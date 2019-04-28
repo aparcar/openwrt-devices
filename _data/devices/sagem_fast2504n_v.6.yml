@@ -1,0 +1,40 @@
+availability: Discontinued 2012
+bootloader: CFE
+brand: Sagem
+button_count: '2'
+cpu: Broadcom BCM6362
+cpu_cores: '2'
+cpu_mhz: '400'
+device_id: sagem_fast2504n_v.6
+device_page: sagem_fast2504n_v.6
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-FAST2504n-squashfs-cfe.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-FAST2504n-squashfs-cfe.bin
+flash_mb: '8'
+forum_search: F@ST2504n
+git_search: F@ST2504n
+installation_method_s: see devicepage
+jtag: false
+led_count: '3'
+model: F@ST2504n
+modem: ADSL2+
+package_architecture: mips_mips32
+power_supply: 12 VDC, 0.7 A
+ram_mb: '64'
+recovery_method_s: CFE TFTP + serial recovery
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=edbfb81b56805c77242855f7b4be6f7fbe77c2a4
+supported_since_rel: '14.07'
+switch: Broadcom BCM6362
+target: brcm63xx
+version: v.6
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Sagemcom_F@ST_2504n
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_comments: 2x2 MIMO
+wlan_driver: b43
+wlan_hardware: Broadcom BCM6362

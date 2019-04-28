@@ -1,0 +1,20 @@
+availability: unknown 2018
+brand: T-Com / Telekom
+cpu: Broadcom BCM63268
+cpu_cores: '2'
+cpu_mhz: '400'
+device_id: t-comtelekom_speedportw724vtypci
+device_type: WiFi Router
+ethernet_gbit_ports: '4'
+flash_mb: 128NAND
+forum_search: Speedport W 724V Typ Ci
+git_search: Speedport W 724V Typ Ci
+model: Speedport W 724V Typ Ci
+modem: VDSL2
+ram_mb: '128'
+serial: true
+target: brcm63xx
+usb_ports: 1x 2.0
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM63268

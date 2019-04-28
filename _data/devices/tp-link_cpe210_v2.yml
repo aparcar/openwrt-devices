@@ -1,0 +1,39 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TP-Link
+comment_installation: For TFTP, rename -factory image to recovery.bin
+cpu: Qualcomm Atheros QCA9533
+cpu_cores: '1'
+cpu_mhz: '650'
+device_id: tp-link_cpe210_v2
+device_page: cpe210
+device_type: WiFi AP
+ethernet_100m_ports: '1'
+fccid: https://fcc.io/TE7/CPE210V2
+firmware_oem_stock_url: https://www.tp-link.com/en/download/CPE210_V2.html
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-cpe210-v2-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-tplink_cpe210-v2-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-tplink_cpe210-v2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-cpe210-v2-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: CPE210
+git_search: CPE210
+gluon_support: true
+model: CPE210
+oem_device_homepage_url: https://www.tp-link.com/en/products/details/cat-37_CPE210.html
+package_architecture: mips_24kc
+power_supply: 16-27 VDC passive PoE
+ram_mb: '64'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=5c5bf8b8658a588423f6ec445d7ef6a36f99a396
+supported_since_rel: 18.06.0
+target: ar71xx-ath79
+version: v2
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_CPE210_v2.x
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Qualcomm Atheros QCA9533

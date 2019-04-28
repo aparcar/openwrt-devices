@@ -1,0 +1,39 @@
+availability: Discontinued 2014
+bootloader: CFE
+brand: D-Link
+cpu: Broadcom BCM6328
+cpu_cores: '1'
+cpu_mhz: '320'
+device_id: d-link_dsl-2740b1b_f1
+device_page: dsl-2740b
+device_type: Modem
+ethernet_100m_ports: '4'
+fccid: https://fcc.io/KA2/SL2740BF1
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-DSL274XB-F1-squashfs-cfe-EU.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-DSL274XB-F1-squashfs-cfe-EU.bin
+flash_mb: '8'
+forum_search: DSL-2740B/1B
+git_search: DSL-2740B/1B
+installation_method_s: CFE web recovery
+jtag: false
+model: DSL-2740B/1B
+modem: ADSL2+
+oem_device_homepage_url: http://www.dlink.com/de/de/support/product/dsl-2740b-adsl2plus-modem-with-wireless-n-300-router
+package_architecture: mips_mips32
+power_supply: 12 VDC, 1.0 A
+ram_mb: '64'
+recovery_method_s: CFE web recovery
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=61637aea1bf87b34e7f73aa1622ce81767284564
+supported_since_rel: '12.09'
+switch: Broadcom BCM63281
+target: brcm63xx
+unsupported_functions: DSL modem
+version: F1 (EU)
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DSL-2740B_rev_F1
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9287

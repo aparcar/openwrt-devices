@@ -1,0 +1,38 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Globalscale
+cpu: Marvell Armada 3700LP 88F3720
+cpu_cores: '2'
+cpu_mhz: '1000'
+device_id: globalscale_espressobin_v5_0_1
+device_type: Single Board Computer
+ethernet_gbit_ports: '3'
+firmware_oem_stock_url: http://espressobin.net/tech-spec
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/mvebu/cortexa53/
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/mvebu/cortexa53
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/mvebu/cortexa53
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/mvebu/cortexa53/
+flash_mb: microSDHC
+forum_search: ESPRESSObin
+git_search: ESPRESSObin
+gpios: more than 20
+installation_method_s: see git-commit
+jtag: true
+model: ESPRESSObin
+oem_device_homepage_url: http://espressobin.net/
+package_architecture: aarch64_armv8-a
+power_supply: 12 VDC, 2.0 A
+ram_mb: '1024'
+sata_ports: '1'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: cortexa53
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=584d7c53bd2d286a71fe5e8244624f59c529cb26
+supported_since_rel: 18.06.0
+switch: Marvell Topaz 88E6341
+target: mvebu
+version: V5_0_1
+vlan: true
+where_available: www.globalscaletechnologies.com, www.amazon.com, taobao.com
+wlan_hardware: 1x mini-PCIe

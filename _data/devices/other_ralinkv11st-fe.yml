@@ -1,0 +1,32 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Evaluation boards / unbranded boards
+cpu: Ralink RT2880F
+cpu_cores: '1'
+cpu_mhz: '266'
+device_id: other_ralinkv11st-fe
+device_page: v11st-fe
+device_type: Single Board Computer
+ethernet_100m_ports: '4'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt288x/openwrt-ramips-rt288x-v11st-fe-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/rt288x/openwrt-18.06.2-ramips-rt288x-v11st-fe-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: Ralink V11ST-FE
+git_search: Ralink V11ST-FE
+installation_method_s: unknown
+jtag: true
+model: Ralink V11ST-FE
+package_architecture: mipsel_mips32r2
+ram_mb: '32'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt288x
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=3ceebbba14c46704f2b4f04a423d1ed2358319fb
+supported_since_rel: '15.05'
+switch: IC+ IP175C
+target: ramips
+vlan: true
+wlan_driver: unknown
+wlan_hardware: 1x mini-PCI

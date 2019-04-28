@@ -1,0 +1,34 @@
+availability: Discontinued 2017
+bootloader: U-Boot
+brand: Domino
+comments: Domino Pi is a low-cost, compact OpenWrt-based WiFi development board based
+  on Atheros AR9331 WiSoC.
+cpu: Atheros AR9331
+cpu_cores: '1'
+cpu_mhz: '400'
+detachable_antennas: '1'
+device_id: domino_pi
+device_type: Single Board Computer
+ethernet_100m_ports: '2'
+fccid: https://fccid.io/2AE94DOMINO-9331
+firmware_oem_stock_url: http://www.gl-inet.com/firmware/domino/
+flash_mb: '16'
+forum_search: Domino Pi
+git_search: Domino Pi
+gpios: '12'
+jtag: false
+model: Domino Pi
+oem_device_homepage_url: http://www.gl-inet.com/docs/domino/pi/pi/
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?pid=294838\
+package_architecture: mips_24kc
+power_supply: 5 VDC, max. 6.5W
+ram_mb: '64'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=1a092ce0e09a4175bb58f8b2dad3615edc7df0ba
+target: ar71xx
+usb_ports: 1x 2.0
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9331

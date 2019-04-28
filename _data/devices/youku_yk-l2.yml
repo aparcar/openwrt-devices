@@ -1,0 +1,30 @@
+availability: unknown 2019
+bootloader: U-Boot
+brand: YOUKU
+button_count: '2'
+cpu: MediaTek MT7621A
+cpu_cores: '2'
+cpu_mhz: '880'
+device_id: youku_yk-l2
+device_type: WiFi Router
+fccid: "http://\xBF"
+firmware_oem_stock_url: "http://\xBF"
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-youku_yk-l2-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: YK-L2
+git_search: YK-L2
+installation_method_s: see git-commit
+led_count: '8'
+model: YK-L2
+oem_device_homepage_url: "http://\xBF"
+package_architecture: mipsel_24kc
+ram_mb: '256'
+recovery_method_s: unknown
+subtarget: mt7621
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=32689e93c4ec39a8c5cc29716c0b2cfe9ee578e5
+target: ramips
+usb_ports: 1x 3.0
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

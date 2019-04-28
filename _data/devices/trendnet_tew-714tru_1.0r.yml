@@ -1,0 +1,38 @@
+availability: Available 2018
+bootloader: U-Boot
+brand: TRENDnet
+button_count: '2'
+comments_usb_sata_ports: Power-only labeled "5V 1A ~ 2.1A"
+cpu: Ralink RT5350
+cpu_cores: '1'
+cpu_mhz: '360'
+device_id: trendnet_tew-714tru_1.0r
+device_page: tew-714tru
+device_type: Travel Router
+ethernet_100m_ports: '1'
+fccid: https://fcc.io/XU8/TEW713-714
+firmware_oem_stock_url: http://www.trendnet.com/support/supportdetail.asp?prod=250_TEW-714TRU
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-tew-714tru-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-tew-714tru-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: TEW-714TRU
+git_search: TEW-714TRU
+installation_method_s: unknown
+led_count: '2'
+model: TEW-714TRU
+oem_device_homepage_url: http://www.trendnet.com/products/wifi/N-routers/N150/TEW-714TRU
+package_architecture: mipsel_24kc
+power_supply: 100-240 VAC, 50-60 Hz, 2.5W
+ram_mb: '32'
+recovery_method_s: unknown
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=2b1f4945b155ffee7f9c7f44bb90e5498b880ff5
+supported_since_rel: 17.01.0
+target: ramips
+version: 1.0R
+where_available: Amazon US
+wikidevi_url: https://wikidevi.com/wiki/TRENDnet_TEW-714TRU
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink RT5350

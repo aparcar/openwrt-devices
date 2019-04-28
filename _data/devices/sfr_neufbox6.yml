@@ -1,0 +1,31 @@
+availability: Discontinued
+brand: "SFR (Soci\xE9t\xE9 Fran\xE7aise de Radiot\xE9l\xE9phonie)"
+cpu: Broadcom BCM6361
+cpu_cores: '2'
+cpu_mhz: '400'
+device_id: sfr_neufbox6
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-NEUFBOX6-squashfs-cfe.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-NEUFBOX6-squashfs-cfe.bin
+flash_mb: '16'
+git_search: NB6
+installation_method_s: unknown
+model: Neufbox6 (NB6)
+modem: ADSL2+
+package_architecture: mips_mips32
+ram_mb: '64'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=07c4524d33a0bbc74e0127bb37178ed3d005e905
+supported_since_rel: '14.07'
+switch: Realtek RTL8367R
+target: brcm63xx
+usb_ports: 2x 2.0
+wikidevi_url: https://wikidevi.com/wiki/SFR_Neufbox_6
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM6361

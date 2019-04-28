@@ -1,0 +1,37 @@
+availability: Available 2018
+bootloader: U-Boot
+brand: Open-Mesh
+button_count: '1'
+cpu: Qualcomm Atheros IPQ4018
+cpu_cores: '4'
+device_id: open-mesh_a42
+device_type: WiFi AP
+ethernet_gbit_ports: '2'
+fccid: https://fcc.io/WT8OMA42
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ipq40xx/generic/openwrt-18.06.2-ipq40xx-openmesh_a42-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ipq40xx/generic/openwrt-ipq40xx-openmesh_a42-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ipq40xx/generic/openwrt-ipq40xx-openmesh_a42-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ipq40xx/generic/openwrt-18.06.2-ipq40xx-openmesh_a42-squashfs-sysupgrade.bin
+flash_mb: '32'
+forum_search: A42
+git_search: A42
+installation_method_s: see git-commit
+model: A42
+oem_device_homepage_url: https://www.openmesh.com/resource-downloads/A42_Datasheet.pdf
+package_architecture: arm_cortex-a7_neon-vfpv4
+power_supply: 18-24 VDC passive PoE, PoE 802.3af
+ram_mb: '256'
+recovery_method_s: unknown
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=86e18f6706e1f2c881fb6a2b9facf108573416e6
+supported_since_rel: 18.06.0
+switch: Qualcomm Atheros QCA8072
+target: ipq40xx
+usb_ports: 1x 3.0
+wikidevi_url: https://wikidevi.com/wiki/Open_Mesh_A42
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros IPQ4018

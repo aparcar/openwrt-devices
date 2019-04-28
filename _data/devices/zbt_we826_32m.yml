@@ -1,0 +1,34 @@
+availability: Available 2017
+bootloader: U-Boot
+brand: ZBT
+button_count: '2'
+cpu: MediaTek MT7620A
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: zbt_we826_32m
+device_page: we-826
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-zbt-we826-32M-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-zbt-we826-32M-squashfs-sysupgrade.bin
+flash_mb: '32'
+forum_search: WE826
+git_search: WE826
+led_count: '8'
+model: WE826
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=62347
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: '128'
+serial: true
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=2ddaf96a77a92186447ca18935b8a36d46d3db95
+supported_since_rel: 18.06.0
+target: ramips
+usb_ports: 1x 2.0
+version: 32M
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76
+wlan_hardware: MediaTek MT7620A

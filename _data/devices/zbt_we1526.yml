@@ -1,0 +1,31 @@
+availability: Available 2019
+brand: ZBT
+button_count: '1'
+cpu: Qualcomm Atheros QCA9531
+cpu_cores: '1'
+cpu_mhz: '650'
+device_id: zbt_we1526
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-zbt-we1526-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-zbt-we1526-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: WE1526
+git_search: WE1526
+led_count: '8'
+model: WE1526
+oem_device_homepage_url: http://www.zbtlink.com/products/router/Indoorrouter/71.html
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: '128'
+recovery_method_s: unknown
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f478fba663d3ea1bf919137277b9a81344006173
+supported_since_rel: 17.01.0
+target: ar71xx
+usb_ports: 1x 2.0
+where_available: zbt.en.alibaba.com
+wlan_24ghz: b/g/n
+wlan_driver: unknown

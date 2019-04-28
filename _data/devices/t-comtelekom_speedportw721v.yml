@@ -1,0 +1,23 @@
+availability: unknown 2018
+brand: T-Com / Telekom
+cpu: Infineon PSB7200ZDW
+cpu_cores: '1'
+cpu_mhz: '225'
+device_id: t-comtelekom_speedportw721v
+device_page: spw721v
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+flash_mb: '8'
+forum_search: Speedport W 721V
+git_search: Speedport W 721V
+model: Speedport W 721V
+modem: ADSL2+
+package_architecture: mipsel_mips32
+phone_ports: DECT
+ram_mb: '32'
+serial: true
+target: ar7
+unsupported_functions: Possible to support
+wlan_24ghz: b/g
+wlan_driver: unknown
+wlan_hardware: Infineon PSB1350AZGU

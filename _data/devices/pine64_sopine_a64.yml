@@ -1,0 +1,29 @@
+availability: Available 2018
+bootloader: U-Boot
+brand: Pine64
+cpu: Allwinner A64
+cpu_cores: '4'
+cpu_mhz: '1200'
+device_id: pine64_sopine_a64
+device_type: Single Board Computer
+fccid: "http://\xBF"
+firmware_oem_stock_url: https://www.pine64.org/?page_id=1486
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/sunxi/cortexa53/openwrt-18.06.2-sunxi-cortexa53-sun50i-a64-sopine-baseboard-squashfs-sdcard.img.gz
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/sunxi/cortexa53/openwrt-sunxi-cortexa53-sun50i-a64-sopine-baseboard-squashfs-sdcard.img.gz
+forum_search: SOPINE
+git_search: SOPINE
+gpios: more than 20
+installation_method_s: Sunxi installation
+model: SOPINE A64
+oem_device_homepage_url: https://www.pine64.org/?page_id=1491
+package_architecture: aarch64_cortex-a53
+power_supply: 5 VDC, 2.0 A
+ram_mb: '2048'
+serial: true
+subtarget: cortexa53
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=8e1065d681daff321f715ce5c6c172c12036bd6f
+supported_since_rel: 18.06.0
+target: sunxi
+where_available: pine64.org
+wlan_hardware: optional WiFi/BT module

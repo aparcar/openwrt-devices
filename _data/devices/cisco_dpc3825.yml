@@ -1,0 +1,22 @@
+availability: Available 2017
+brand: Cisco
+cpu: Broadcom BCM3380
+cpu_cores: '1'
+cpu_mhz: '333'
+device_id: cisco_dpc3825
+device_page: epc3825
+device_type: Modem
+ethernet_gbit_ports: '4'
+flash_mb: '8'
+forum_search: DPC3825
+git_search: DPC3825
+model: DPC3825
+modem: DOCSIS
+ram_mb: '64'
+serial: true
+target: brcm63xx
+unsupported_functions: Possible to support
+usb_ports: 1x 2.0
+wikidevi_url: https://wikidevi.com/wiki/Cisco_DPC3825
+wlan_24ghz: b/g/n
+wlan_hardware: Broadcom BCM43225 (mini-PCIe)

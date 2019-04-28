@@ -1,0 +1,33 @@
+availability: Available 2018
+brand: Ubiquiti
+button_count: '1'
+comment_installation: EdgePoint R6 uses OpenWrt image of EdgeRouter X-SFP
+comments_network_ports: 1x 1 Gbps SFP
+cpu: MediaTek MT7621AT
+cpu_cores: '2'
+cpu_mhz: '880'
+device_id: ubiquiti_edgepoint_r6
+device_type: Router
+ethernet_gbit_ports: '5'
+firmware_oem_stock_url: https://www.ubnt.com/download/edgemax/edgepoint
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-ubnt-erx-sfp-initramfs-kernel.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-ubnt-erx-sfp-initramfs-kernel.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-ubnt-erx-sfp-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-ubnt-erx-sfp-squashfs-sysupgrade.tar
+flash_mb: 256NAND
+forum_search: EdgePoint R6
+git_search: EdgePoint R6
+installation_method_s: unknown
+led_count: '12'
+model: EdgePoint R6
+oem_device_homepage_url: https://www.ubnt.com/edgemax/edgepoint/
+package_architecture: mipsel_24kc
+power_supply: 24 VDC, 3.0 A, passive PoE 24V 1.4 A
+ram_mb: '256'
+recovery_method_s: unknown
+subtarget: mt7621
+supported_current_rel: 18.06.2
+supported_since_rel: 18.06.0
+target: ramips
+where_available: OEM webshop
+wlan_driver: unknown

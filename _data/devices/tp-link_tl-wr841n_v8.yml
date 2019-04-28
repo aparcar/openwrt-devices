@@ -1,0 +1,45 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TP-Link
+button_count: '2'
+comment_installation: For TFTP, rename -factory image to wr841nv8_tp_recovery.bin
+comment_recovery: For TFTP, rename -factory image to wr841nv8_tp_recovery.bin (newer
+  revs) or mr3420v2_tp_recovery.bin (older revs)
+cpu: Atheros AR9341
+cpu_cores: '1'
+cpu_mhz: '535'
+device_id: tp-link_tl-wr841n_v8
+device_page: tl-wr841nd
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/TE7/WR841NXV8
+firmware_oem_stock_url: http://www.tp-link.com/en/download/TL-WR841N_V8.html
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wr841-v8-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/tiny/openwrt-ath79-tiny-tplink_tl-wr841-v8-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/tiny/openwrt-ath79-tiny-tplink_tl-wr841-v8-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wr841-v8-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: TL-WR841N(D)
+git_search: TL-WR841N(D)
+gluon_support: Broken
+jtag: true
+led_count: '9'
+model: TL-WR841N(D)
+oem_device_homepage_url: http://www.tp-link.com/en/products/details/TL-WR841N.html
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=37010
+package_architecture: mips_24kc
+power_supply: 9 VDC, 0.6 A
+ram_mb: '32'
+serial: true
+subtarget: tiny
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=befb648642e07848943788c5f67808309b0106ef
+supported_since_rel: '12.09'
+switch: Atheros AR9341
+target: ar71xx-ath79
+version: v8
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR841N_v8.x
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9341

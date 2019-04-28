@@ -1,0 +1,38 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Edimax
+cpu: Ralink RT3050F
+cpu_cores: '1'
+cpu_mhz: '320'
+device_id: edimax_3g-6200n
+device_page: 3g-6200n
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/NDD/9562250817
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-3g-6200n-initramfs-kernel.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/lede-ramips-rt305x-3g-6200n-initramfs-kernel.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/lede-ramips-rt305x-3g-6200n-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-3g-6200n-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: 3g-6200n
+git_search: 3g-6200n
+jtag: false
+model: 3g-6200n
+oem_device_homepage_url: http://www.edimax.com/edimax/merchandise/merchandise_detail/data/edimax/global/home_legacy_products_3g_routers/3g-6200n/
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: '32'
+recovery_method_s: U-Boot TFTP recovery
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=372945185d06e388dd834e3fcd85c7f0c1893899
+supported_since_rel: '15.05'
+switch: Ralink RT3050
+target: ramips
+usb_ports: 1x 2.0
+wikidevi_url: https://wikidevi.com/wiki/Edimax_3G-6200n
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink RT3050F

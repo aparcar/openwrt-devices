@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TP-Link
+cpu: Atheros AR9342
+cpu_cores: '1'
+cpu_mhz: '560'
+device_id: tp-link_tl-wr1041n_v2
+device_page: tl-wr1041n
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wr1041n-v2-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wr1041n-v2-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wr1041n-v2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wr1041n-v2-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: TL-WR1041N
+git_search: TL-WR1041N
+installation_method_s: GUI OEM
+jtag: true
+model: TL-WR1041N
+package_architecture: mips_24kc
+power_supply: 9 VDC, 0.85 A
+ram_mb: '32'
+serial: true
+subtarget: tiny
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=948690407958885f170afe459f1a91b6e573c838
+supported_since_rel: '12.09'
+switch: Atheros AR8327
+target: ar71xx
+usb_ports: 1x 2.0
+version: v2
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR1041N_v2
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9342

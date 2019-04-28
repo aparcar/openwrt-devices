@@ -1,0 +1,36 @@
+availability: Discontinued 2011
+bootloader: U-Boot
+brand: D-Link
+cpu: Ralink RT5350
+cpu_cores: '1'
+cpu_mhz: '360'
+device_id: d-link_dir-320_b1
+device_page: dir-320_revb1
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-dir-320-b1-initramfs-kernel.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/lede-ramips-rt305x-dir-320-b1-initramfs-kernel.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/lede-ramips-rt305x-dir-320-b1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-dir-320-b1-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: DIR-320
+git_search: DIR-320
+installation_method_s: D-Link Recovery GUI
+jtag: true
+model: DIR-320
+package_architecture: mipsel_24kc
+ram_mb: '32'
+recovery_method_s: D-Link Recovery GUI
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=5722b32acf21fc6d928333fc1333d397f75c1f86
+supported_since_rel: '14.07'
+target: ramips
+usb_ports: 1x 2.0
+version: B1
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink WiSOC

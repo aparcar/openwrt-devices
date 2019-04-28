@@ -1,0 +1,32 @@
+availability: Discontinued 2017
+bootloader: U-Boot
+brand: Asus
+cpu: Ralink RT3052F
+cpu_cores: '1'
+cpu_mhz: '384'
+device_id: asus_dsl-n12u_b1
+device_page: dsl-n12u
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+fccid: https://fcc.io/MSQ/DSLN12UB1
+firmware_oem_stock_url: https://www.asus.com/Networking/DSLN12U_B1/HelpDesk_BIOS/
+flash_mb: '16'
+forum_search: DSL-N12U
+git_search: DSL-N12U
+jtag: false
+model: DSL-N12U
+modem: ADSL
+oem_device_homepage_url: https://www.asus.com/Networking/DSLN12U_B1/overview/
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: '32'
+serial: true
+subtarget: rt305x
+target: ramips
+unsupported_functions: Possible to support
+usb_ports: 1x 2.0
+version: B1
+wikidevi_url: https://wikidevi.com/wiki/ASUS_DSL-N12U_rev_B1
+wlan_24ghz: b/g/n
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT2880

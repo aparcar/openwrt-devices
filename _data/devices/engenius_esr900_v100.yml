@@ -1,0 +1,40 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: EnGenius
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: '1'
+cpu_mhz: '720'
+device_id: engenius_esr900_v100
+device_page: esr900
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: https://fcc.io/A8J/ESR900
+firmware_oem_stock_url: http://www.engeniusnetworks.com/product/product.php?c=14&s=35&p=115
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-esr900-squashfs-factory.dlf
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-esr900-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: ESR900
+git_search: ESR900
+jtag: false
+led_count: '3'
+model: ESR900
+oem_device_homepage_url: http://www.engeniusnetworks.com/product/product.php?c=14&s=35&p=115
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?pid=237833
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: '128'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=fec25962824da27c3f02021bbd4db969639b8717
+supported_since_rel: '15.05'
+switch: Atheros AR8327N
+target: ar71xx
+usb_ports: 1x 2.0
+version: v1.00
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/EnGenius_ESR900
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: ath9k

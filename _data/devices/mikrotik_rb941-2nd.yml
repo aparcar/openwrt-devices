@@ -1,0 +1,46 @@
+availability: Available 2019
+bootloader: RouterBOOT
+brand: MikroTik
+button_count: '1'
+comment_installation: Requires initramfs network boot to install; run sysupgrade after
+  that.
+comments: Serial is disabled by boot loader, can be enabled.
+cpu: Qualcomm Atheros QCA9533
+cpu_cores: '1'
+cpu_mhz: '650'
+device_id: mikrotik_rb941-2nd
+device_page: rb941_2nd
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+fccid: https://fcc.io/TV7/RB941-2ND
+firmware_oem_stock_url: http://www.mikrotik.com/download
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-rb-nor-flash-16M-initramfs-kernel.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-rb-nor-flash-16M-initramfs-kernel.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-rb-nor-flash-16M-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-rb-nor-flash-16M-squashfs-sysupgrade.bin
+flash_mb: '16'
+git_search: hAP Lite
+installation_method_s: see devicepage
+jtag: true
+led_count: '1'
+model: RB941-2nD (hAP lite)
+oem_device_homepage_url: https://routerboard.com/RB941-2nD
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=62480
+package_architecture: mips_24kc
+power_supply: 5 VDC, 0.6 A
+ram_mb: '32'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: mikrotik
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b18bae37a4f26949f71f1345caa2b6934f6a4663
+supported_since_rel: 18.06.0
+switch: Qualcomm Atheros QCA9533
+target: ar71xx
+usb_ports: "1x \xB5USB (power)"
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_hAP_lite_(RB941-2nD-TC)
+wlan_24ghz: b/g/n
+wlan_comments: Internal antenna, part of the board
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA9533

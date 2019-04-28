@@ -1,0 +1,31 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TRENDnet
+cpu: MediaTek MT7620A
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: trendnet_tew-810dr
+device_page: trendnet_tew-810dr_1.0_1.1
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/XU8/TEW810DR
+flash_mb: '8'
+forum_search: TEW-810DR
+git_search: TEW-810DR
+jtag: false
+led_count: '2'
+model: TEW-810DR
+oem_device_homepage_url: https://www.trendnet.com/products/product-detail?prod=100_TEW-810DR
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: '64'
+serial: true
+subtarget: mt7620
+switch: MediaTek MT7620A
+target: ramips
+unsupported_functions: WiFi 5GHz
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TRENDnet_TEW-810DR
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

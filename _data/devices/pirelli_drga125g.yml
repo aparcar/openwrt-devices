@@ -1,0 +1,28 @@
+availability: Discontinued
+bootloader: CFE
+brand: Pirelli
+cpu: Broadcom BCM6348
+cpu_cores: '1'
+cpu_mhz: '240'
+device_id: pirelli_drga125g
+device_page: a125g
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+flash_mb: '4'
+forum_search: DRG A125G
+git_search: DRG A125G
+jtag: true
+model: DRG A125G
+modem: ADSL2+
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=28625
+package_architecture: mips_mips32
+ram_mb: '16'
+serial: true
+subtarget: generic
+target: brcm63xx
+unsupported_functions: Impossible
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Pirelli_DRG_A125G
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318 (onboard)

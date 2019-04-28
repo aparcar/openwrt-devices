@@ -1,0 +1,38 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: ZBT
+button_count: '1'
+cpu: MediaTek MT7621AT
+cpu_cores: '2'
+cpu_mhz: '880'
+detachable_antennas: '4'
+device_id: zbt_we1326
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-zbt-we1326-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-zbt-we1326-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: WE1326
+git_search: WE1326
+jtag: true
+led_count: '8'
+model: WE1326
+oem_device_homepage_url: http://www.zbt-china.com/products/router/213.html
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 2.0 A
+ram_mb: '512'
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt7621
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ff258effd508fc75edfb08ba709b333619d3f1e8
+supported_since_rel: 18.06.0
+switch: MediaTek MT7621AT
+target: ramips
+usb_ports: 1x 2.0
+vlan: true
+where_available: zbt.en.alibaba.com
+wikidevi_url: https://wikidevi.com/wiki/ZBT_WE1326
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

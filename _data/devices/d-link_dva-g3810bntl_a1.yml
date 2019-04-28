@@ -1,0 +1,42 @@
+availability: Discontinued
+bootloader: CFE
+brand: D-Link
+button_count: '1'
+cpu: Broadcom BCM6358
+cpu_cores: '2'
+cpu_mhz: '300'
+detachable_antennas: '1'
+device_id: d-link_dva-g3810bntl_a1
+device_page: dva-g3810bn-tl
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/KA2/VAG3810BNA1
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-DVAG3810BN-squashfs-cfe.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-DVAG3810BN-squashfs-cfe.bin
+flash_mb: '8'
+forum_search: DVA-G3810BN/TL
+git_search: DVA-G3810BN/TL
+installation_method_s: CFE web recovery
+led_count: '5'
+model: DVA-G3810BN/TL
+modem: ADSL2+
+package_architecture: mips_mips32
+phone_ports: '1'
+power_supply: 12 VDC, 2.1 A
+ram_mb: '32'
+recovery_method_s: CFE web recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=3e83f60a6658cfc6e62f9f599efbe8f779a41b4e
+supported_since_rel: '14.07'
+switch: Broadcom BCM5325F
+target: brcm63xx
+usb_ports: 1x 2.0
+version: A1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DVA-G3810BN/TL
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318

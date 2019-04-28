@@ -1,0 +1,36 @@
+availability: Available 2017
+bootloader: U-Boot
+brand: Ubiquiti
+cpu: Atheros AR7240
+cpu_cores: '1'
+cpu_mhz: '400'
+detachable_antennas: '2'
+device_id: ubiquiti_unifi_outdoorplus
+device_page: unifi_outdoorplus
+device_type: WiFi Router
+ethernet_100m_ports: '2'
+fccid: https://fcc.io/SWX/-UAPOUTDOOR
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ubnt-unifi-outdoor-plus-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-ubnt-unifi-outdoor-plus-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-ubnt-unifi-outdoor-plus-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ubnt-unifi-outdoor-plus-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: UniFi Outdoor Plus
+git_search: UniFi Outdoor Plus
+model: UniFi Outdoor Plus
+oem_device_homepage_url: https://www.ubnt.com/unifi/unifi-ap-outdoor/
+package_architecture: mips_24kc
+power_supply: 48 VDC, 0.5 A, PoE 802.3af
+ram_mb: '64'
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ae70358b1b0dc6b5881ad931213e00793d8df9c2
+supported_since_rel: '15.05'
+target: ar71xx
+version: '1'
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Ubiquiti_Networks_UniFi_AP_Outdoor%2B_%28UAP-Outdoor%2B%29
+wlan_24ghz: b/g/n
+wlan_comments: 2x2 MIMO
+wlan_driver: unknown
+wlan_hardware: Atheros AR7240

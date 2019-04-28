@@ -1,0 +1,43 @@
+availability: Discontinued 2017
+bootloader: U-Boot
+brand: EnGenius
+button_count: '2'
+comment_installation: ath79 installation instructions see git commit ee34740ca3f90a5359392d629544e4520030e52e
+comment_recovery: ath79 recovery instructions see git commit ee34740ca3f90a5359392d629544e4520030e52e
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: '1'
+cpu_mhz: '720'
+device_id: engenius_epg5000_v100
+device_page: epg5000
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: https://fcc.io/A8J/EPG5000
+firmware_oem_stock_url: http://www.engenius-europe.com/index.php/product-zoo/home-soho/item/epg5000\
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-epg5000-squashfs-factory.dlf
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-engenius_epg5000-squashfs-factory.dlf
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-engenius_epg5000-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-epg5000-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: EPG5000
+git_search: EPG5000
+led_count: '5'
+model: EPG5000
+oem_device_homepage_url: http://www.engenius-europe.com/index.php/product-zoo/home-soho/item/epg5000
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: '256'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=710a17e16d0afae90865ae6bd001479a3a0eda2c
+supported_since_rel: '15.05'
+switch: Qualcomm Atheros QCA8337N
+target: ar71xx-ath79
+usb_ports: 1x 2.0
+version: v1.0.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/EnGenius_EPG5000
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k

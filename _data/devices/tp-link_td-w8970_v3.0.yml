@@ -1,0 +1,32 @@
+availability: Available 2017
+brand: TP-Link
+cpu: Broadcom BCM6362
+cpu_cores: '1'
+cpu_mhz: '400'
+detachable_antennas: '2'
+device_id: tp-link_td-w8970_v3.0
+device_page: tp-link_td-w8970_v3.0
+device_type: WiFi Router
+ethernet_gbit_ports: '4'
+fccid: https://fcc.io/TE7/TDW8970V3
+firmware_oem_stock_url: http://www.tp-link.com/en/download/TD-W8970.html
+flash_mb: '16'
+forum_search: TD-W8970
+git_search: TD-W8970
+model: TD-W8970
+modem: ADSL2+
+oem_device_homepage_url: http://www.tp-link.com/en/products/details/cat-15_TD-W8970.html
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=42380
+power_supply: 12 VDC, 1.5 A
+ram_mb: '64'
+serial: true
+switch: Broadcom BCM53125
+target: brcm63xx
+usb_ports: 1x 2.0
+version: v3.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TD-W8970_v3
+wlan_24ghz: b/g/n
+wlan_comments: 2x2
+wlan_driver: b43
+wlan_hardware: Broadcom BCM6362

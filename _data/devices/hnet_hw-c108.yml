@@ -1,0 +1,30 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Hnet
+button_count: '1'
+cpu: MediaTek MT7620A
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: hnet_hw-c108
+device_type: Travel Router - Battery powered
+ethernet_100m_ports: '1'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-c108-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-c108-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: HW-C108
+git_search: HW-C108
+led_count: '5'
+model: HW-C108
+oem_device_homepage_url: http://www.szhwtech88.com/Product-product-cid-100-id-4374.html
+package_architecture: mipsel_24kc
+power_supply: 5 VDC, 1.0 A, 6000 mAh battery
+ram_mb: '64'
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=80829022b044d2109056b5e6e35bf16b9daf0719
+supported_since_rel: 18.06.0
+target: ramips
+usb_ports: 1x Power only
+where_available: alibaba.com
+wlan_24ghz: b/g/n
+wlan_driver: unknown

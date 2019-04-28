@@ -1,0 +1,28 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Sitecom
+cpu: Atheros AR1022
+cpu_cores: '1'
+device_id: sitecom_wlr-7100
+device_page: wlr-7100
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+flash_mb: '8'
+forum_search: WLR-7100
+git_search: WLR-7100
+model: WLR-7100
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=58159
+power_supply: 12 VDC, 1.25 A
+ram_mb: '64'
+serial: true
+switch: Atheros AR8327N
+target: ar71xx
+unsupported_functions: WIP
+usb_ports: 1x 2.0
+version: v1 001
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Sitecom_WLR-7100
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 3x3 MIMO
+wlan_driver: ath10k

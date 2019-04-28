@@ -1,0 +1,41 @@
+availability: Discontinued 2015
+bootloader: U-Boot
+brand: EnGenius
+button_count: '2'
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: '1'
+cpu_mhz: '720'
+device_id: engenius_esr1750_v110
+device_page: esr1750
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: https://fcc.io/A8J/ESR1750
+firmware_oem_stock_url: https://www.engeniustech.com/engenius-products/dual-band-wireless-ac1750-gigabit-cloud-router/
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-esr1750-squashfs-factory.dlf
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-esr1750-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: ESR1750
+git_search: ESR1750
+led_count: '5'
+model: ESR1750
+oem_device_homepage_url: https://www.engeniustech.com/engenius-products/dual-band-wireless-ac1750-gigabit-cloud-router/
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: '256'
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=c4c25e741ed4a89822182991acb37e68d685b79f
+supported_since_rel: '14.07'
+switch: Qualcomm Atheros QCA8337N
+target: ar71xx
+usb_ports: 1x 2.0
+version: v1.1.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/EnGenius_ESR1750
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 3x3
+wlan_driver: ath10k

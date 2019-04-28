@@ -1,0 +1,43 @@
+availability: Discontinued
+bootloader: JBoot
+brand: D-Link
+button_count: '2'
+comments: 'GELAN support ready: https://github.com/openwrt/openwrt/pull/1510'
+comments_network_ports: 'Gigabit PHY: Marvell 88E1510'
+cpu: MediaTek MT7620A
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: d-link_dwr-118_a2
+device_page: d-link_dwr-118
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+ethernet_gbit_ports: '1'
+fccid: "http://\xBF"
+firmware_oem_stock_url: https://eu.dlink.com/uk/en/products/dwr-118-wireless-ac750-dual-band-multi-wan-router
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-dlink_dwr-118-a2-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-dlink_dwr-118-a2-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: DWR-118
+git_search: DWR-118
+jtag: false
+led_count: '5'
+model: DWR-118
+oem_device_homepage_url: https://eu.dlink.com/uk/en/products/dwr-118-wireless-ac750-dual-band-multi-wan-router
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: '128'
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt7620
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=37af596593b0e84d0a076ab8f173066e3d7bc810
+switch: MediaTek MT7620A
+target: ramips
+unsupported_functions: Gbit Ethernet port (PR ready)
+usb_ports: 1x 2.0
+version: A2
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DWR-118_rev_A2
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

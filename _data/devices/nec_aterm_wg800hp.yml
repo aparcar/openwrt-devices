@@ -1,0 +1,32 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: NEC
+button_count: '3'
+cpu: Qualcomm Atheros QCA9563
+cpu_cores: '1'
+device_id: nec_aterm_wg800hp
+device_type: WiFi Router
+ethernet_gbit_ports: '4'
+fccid: "http://\xBF"
+firmware_oem_stock_url: http://www.aterm.jp/support/verup/wg800hp/fw.html
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-nec_wg800hp-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-nec_wg800hp-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: Aterm WG800HP
+git_search: Aterm WG800HP
+led_count: '8'
+model: Aterm WG800HP
+oem_device_homepage_url: http://www.aterm.jp/product/atermstation/product/warpstar/wg800hp/
+package_architecture: mips_24kc
+ram_mb: '64'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=c566439c9bf3cf2b4e5e5a059332c64199d97611
+target: ath79
+where_available: amazon.co.jp
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k-ct

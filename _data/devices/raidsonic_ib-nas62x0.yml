@@ -1,0 +1,31 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: RaidSonic
+button_count: '3'
+cpu: Marvell 88F6281
+cpu_cores: '1'
+cpu_mhz: '1200'
+device_id: raidsonic_ib-nas62x0
+device_type: NAS
+ethernet_gbit_ports: '1'
+fccid: "http://\xBF"
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/kirkwood/generic/openwrt-18.06.2-kirkwood-raidsonic_ib-nas62x0-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/kirkwood/generic/openwrt-kirkwood-raidsonic_ib-nas62x0-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/kirkwood/generic/openwrt-kirkwood-raidsonic_ib-nas62x0-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/kirkwood/generic/openwrt-18.06.2-kirkwood-raidsonic_ib-nas62x0-squashfs-sysupgrade.bin
+flash_mb: 256NAND
+forum_search: IB-NAS62x0
+installation_method_s: unknown
+led_count: '4'
+model: IB-NAS62x0
+package_architecture: arm_xscale
+power_supply: 12 VDC, 2.0 A
+ram_mb: '256'
+recovery_method_s: unknown
+sata_ports: '2'
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=213cbf42976441e5b2181303bcaa2c80e60e8586
+supported_since_rel: '12.09'
+target: kirkwood
+usb_ports: 3x 2.0

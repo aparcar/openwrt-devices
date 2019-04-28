@@ -1,0 +1,38 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: ZBT
+button_count: '2'
+cpu: MediaTek MT7620A
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: zbt_we826_16m
+device_page: we-826
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/2AH9T/W826
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-zbt-we826-16M-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-zbt-we826-16M-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: WE826
+git_search: WE826
+led_count: '8'
+model: WE826
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=62347
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: '128'
+serial: true
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=96eb5c6fa8ead2bf749b78dff2f55a340cff020e
+supported_since_rel: 17.01.0
+switch: MediaTek MT7620A
+target: ramips
+usb_ports: 1x 2.0
+version: 16M
+vlan: true
+where_available: zbt.en.alibaba.com
+wikidevi_url: https://wikidevi.com/wiki/ZBT_WE826
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

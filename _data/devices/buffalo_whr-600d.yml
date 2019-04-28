@@ -1,0 +1,32 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Buffalo
+cpu: MediaTek MT7620A
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: buffalo_whr-600d
+device_page: whr-600d
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/FDI/000000011
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-whr-600d-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-whr-600d-squashfs-sysupgrade.bin
+forum_search: WHR-600D
+git_search: WHR-600D
+installation_method_s: unknown
+model: WHR-600D
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: '64'
+recovery_method_s: unknown
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=43de7c1cfa8b6afd15c226676ec64a0fa765fc6b
+supported_since_rel: '15.05'
+switch: MediaTek MT7620A
+target: ramips
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Buffalo_WHR-600D
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: mt76

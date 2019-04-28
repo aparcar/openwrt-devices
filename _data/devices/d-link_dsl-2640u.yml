@@ -1,0 +1,30 @@
+availability: Discontinued
+bootloader: CFE
+brand: D-Link
+cpu: Broadcom BCM6348
+cpu_cores: '1'
+cpu_mhz: '256'
+device_id: d-link_dsl-2640u
+device_page: dsl-2640u
+device_type: Modem
+ethernet_100m_ports: '4'
+flash_mb: '4'
+forum_search: DSL-2640U(B)
+git_search: DSL-2640U(B)
+model: DSL-2640U(B)
+modem: ADSL
+package_architecture: mips_mips32
+power_supply: 12 VDC, 1.0 A
+ram_mb: '16'
+recovery_method_s: CFE TFTP + serial recovery
+subtarget: generic
+supported_current_rel: 10.03.1
+supported_since_rel: '10.03'
+target: brcm63xx
+unsupported_functions: DSL modem
+version: B2 (RU)
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DSL-2640U_rev_B2
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318

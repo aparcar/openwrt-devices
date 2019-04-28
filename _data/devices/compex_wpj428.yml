@@ -1,0 +1,39 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Compex
+button_count: '1'
+cpu: Qualcomm Atheros IPQ4028
+cpu_cores: '4'
+cpu_mhz: '628'
+detachable_antennas: '4'
+device_id: compex_wpj428
+device_type: Single Board Computer
+ethernet_gbit_ports: '2'
+fccid: https://fcc.io/TK4/WPJ428
+firmware_oem_stock_url: "http://\xBF"
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ipq40xx/generic/openwrt-ipq40xx-compex_wpj428-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ipq40xx/generic/openwrt-18.06.2-ipq40xx-compex_wpj428-squashfs-sysupgrade.bin
+forum_search: WPJ428
+git_search: WPJ428
+installation_method_s: see git-commit
+jtag: true
+led_count: '4'
+model: WPJ428
+oem_device_homepage_url: http://www.compex.com.sg/product/wpj428/
+package_architecture: arm_cortex-a7_neon-vfpv4
+power_supply: 12-24 VDC, passive PoE 24 VDC, 24-56 VDC, PoE 802.3af
+ram_mb: '256'
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=2796ab85ed5097d91623e60abf22325bd9086407
+supported_since_rel: 18.06.0
+target: ipq40xx
+usb_ports: 1x 3.0
+where_available: shop.compex.com.sg
+wikidevi_url: https://wikidevi.com/wiki/Compex_WPJ428
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 2x2 MIMO
+wlan_driver: unknown
+wlan_hardware: Qualcomm Atheros IPQ4028

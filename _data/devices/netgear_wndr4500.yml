@@ -1,0 +1,32 @@
+availability: Discontinued
+bootloader: CFE
+brand: Netgear
+cpu: Broadcom BCM4706
+cpu_cores: '1'
+cpu_mhz: '600'
+device_id: netgear_wndr4500
+device_page: wndr4500
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+firmware_oem_stock_url: http://support.netgear.de/product/WNDR4500
+flash_mb: 128NAND
+forum_search: WNDR4500
+git_search: WNDR4500
+jtag: true
+model: WNDR4500
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=31966
+package_architecture: mipsel_74kc
+ram_mb: '128'
+serial: true
+subtarget: mips74k
+switch: Broadcom BCM53115
+target: brcm47xx
+unsupported_functions: Possible to support
+usb_ports: 2x 2.0
+version: v1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Netgear_WNDR4500v1
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4331

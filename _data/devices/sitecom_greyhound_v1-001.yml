@@ -1,0 +1,33 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Sitecom
+button_count: '2'
+cpu: Qualcomm Atheros IPQ8064
+cpu_cores: '2'
+cpu_mhz: '1400'
+device_id: sitecom_greyhound_v1-001
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+firmware_oem_stock_url: http://www.sitecomlearningcentre.com/download/firmware/2804
+flash_mb: '128'
+forum_search: Greyhound
+git_search: Greyhound
+led_count: '11'
+model: Greyhound
+oem_device_homepage_url: http://www.greyhoundrouter.com/
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=61439
+package_architecture: arm_cortex-a15_neon-vfpv4
+power_supply: 12 VDC, 3.3 A
+ram_mb: '512'
+serial: true
+subtarget: generic
+switch: Qualcomm Atheros QCA8337
+target: ipq806x
+usb_ports: 2x 3.0
+version: V1-001
+vlan: true
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: MU-MIMO, Beamforming, StreamBoost
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA9980

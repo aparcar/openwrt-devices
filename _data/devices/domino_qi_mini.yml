@@ -1,0 +1,31 @@
+availability: Discontinued 2017
+bootloader: U-Boot
+brand: Domino
+button_count: '3'
+cpu: Atheros AR9331
+cpu_cores: '1'
+cpu_mhz: '400'
+detachable_antennas: '1'
+device_id: domino_qi_mini
+device_type: Single Board Computer
+ethernet_100m_ports: '1'
+fccid: https://fccid.io/2AE94DOMINO-9331
+firmware_oem_stock_url: http://www.gl-inet.com/firmware/domino/
+flash_mb: '16'
+forum_search: Domino Qi Mini
+git_search: Domino Qi Mini
+gpios: '12'
+jtag: true
+led_count: '4'
+model: Domino Qi Mini
+oem_device_homepage_url: http://www.gl-inet.com/docs/domino/qi/
+package_architecture: mips_24kc
+power_supply: 5 VDC, 1.0 A
+ram_mb: '64'
+serial: true
+subtarget: generic
+target: ar71xx
+usb_ports: 1x 2.0
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9331

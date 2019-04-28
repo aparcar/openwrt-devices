@@ -1,0 +1,44 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TP-Link
+button_count: '2'
+cpu: MediaTek MT7620A
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: tp-link_archer_c20_ac750_v1
+device_page: tp-link_archer_c20_v1
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/TE7/C20
+firmware_oem_stock_url: http://www.tp-link.com/en/download/Archer-C20_V1.html
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-tplink_c20-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-tplink_c20-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-tplink_c20-v1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-tplink_c20-v1-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: Archer C20 AC750
+git_search: Archer C20 AC750
+led_count: '8'
+lede_forum_topic_url: https://forum.lede-project.org/t/tp-link-archer-c20-v1-build/5114
+model: Archer C20 AC750
+oem_device_homepage_url: http://www.tp-link.com/en/products/details/cat-9_Archer-C20.html
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: '64'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=161a3be5adb21135eb75da81247fa5e04b6ea676
+supported_since_rel: 18.06.0
+switch: MediaTek MT7620A
+target: ramips
+unsupported_functions: WiFi 5GHz
+usb_ports: 1x 2.0
+version: v1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C20_v1.x
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 3x3 MIMO, 2 x 2.4GHz Antennas, 1 x 5GHz Antenna
+wlan_driver: mt76

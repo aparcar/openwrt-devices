@@ -1,0 +1,27 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: Asus
+cpu: Atheros AR2317
+cpu_cores: '1'
+cpu_mhz: '183'
+device_id: asus_rt-g32_a1
+device_page: rt-g32_atheros
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+flash_mb: '4'
+forum_search: RT-G32
+git_search: RT-G32
+jtag: true
+model: RT-G32
+oem_device_homepage_url: https://www.asus.com/Networking/RTG32/
+power_supply: 12 VDC, 1.0 A
+ram_mb: '16'
+serial: true
+switch: Atheros AR8216
+target: ath25
+unsupported_functions: Impossible
+version: A1
+wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-G32_rev_A1
+wlan_24ghz: b/g/n
+wlan_driver: ath5k
+wlan_hardware: Atheros AR2317

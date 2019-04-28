@@ -1,0 +1,35 @@
+availability: Discontinued
+bootloader: CFE
+brand: Linksys
+cpu: Broadcom BCM4716
+cpu_cores: '1'
+cpu_mhz: '300'
+device_id: linksys_wrt160n_v3
+device_page: wrt160n
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-linksys-wrt160n-v3-squashfs.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-linksys-wrt160n-v3-squashfs.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-linksys-wrt160n-v3-squashfs.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-linksys-wrt160n-v3-squashfs.bin
+flash_mb: '4'
+forum_search: WRT160N
+git_search: WRT160N
+jtag: true
+model: WRT160N
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 0.5 A
+ram_mb: '32'
+recovery_method_s: CFE web recovery
+serial: true
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_rel: '15.05'
+switch: Broadcom BCM5325E
+target: brcm47xx
+version: v3
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT160N_v3
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4716

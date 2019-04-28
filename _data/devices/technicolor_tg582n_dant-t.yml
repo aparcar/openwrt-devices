@@ -1,0 +1,39 @@
+availability: unknown 2018
+bootloader: CFE
+brand: Technicolor
+button_count: '3'
+comment_installation: Stock bootloader unsupported, CFE must be installed before OpenWrt
+  installation
+cpu: Broadcom BCM63281
+cpu_cores: '1'
+cpu_mhz: '320'
+device_id: technicolor_tg582n_dant-t
+device_page: tg582n
+device_type: Modem
+ethernet_100m_ports: '4'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-A4001N-squashfs-cfe.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-A4001N-squashfs-cfe.bin
+forum_search: TG582n
+git_search: TG582n
+installation_method_s: see devicepage
+jtag: true
+led_count: '10'
+model: TG582n
+modem: ADSL2+
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=46784
+package_architecture: mips_mips32
+power_supply: 12 VDC, 1.0 A
+ram_mb: '64'
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_rel: '15.05'
+switch: Broadcom BCM63281
+target: brcm63xx
+usb_ports: 1x 2.0
+version: DANT-T
+vlan: true
+wlan_24ghz: b/g/n
+wlan_comments: 2x2
+wlan_driver: b43
+wlan_hardware: Broadcom BCM43227

@@ -1,0 +1,35 @@
+availability: Available 2019
+bootloader: RouterBOOT
+brand: MikroTik
+comments_network_ports: 1x SFP, 10M-1Gbit
+cpu: Atheros AR9344
+cpu_cores: '1'
+cpu_mhz: '600'
+device_id: mikrotik_rb2011uias-2hnd-in
+device_page: rb2011uias
+device_type: Single Board Computer
+ethernet_100m_ports: '5'
+ethernet_gbit_ports: '5'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-vmlinux-initramfs-lzma.elf
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-vmlinux-initramfs-lzma.elf
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-nand-large-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-nand-large-squashfs-sysupgrade.bin
+flash_mb: 128NAND
+forum_search: RB2011UiAS
+git_search: RB2011UiAS
+model: RB2011UiAS-2HnD-IN
+oem_device_homepage_url: https://routerboard.com/RB2011UiAS-2HnD-IN
+package_architecture: mips_24kc
+ram_mb: '128'
+serial: true
+subtarget: mikrotik
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=254b2670e182bc95370c1f41018441170df0d1bc
+supported_since_rel: '14.07'
+target: ar71xx
+usb_ports: 1x 2.0
+vlan: true
+where_available: mikrotik-store.eu
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9344

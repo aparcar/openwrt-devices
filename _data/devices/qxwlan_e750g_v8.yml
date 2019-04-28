@@ -1,0 +1,38 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Qxwlan
+button_count: '1'
+cpu: Atheros AR9344
+cpu_cores: '1'
+cpu_mhz: '560'
+detachable_antennas: '2'
+device_id: qxwlan_e750g_v8
+device_page: e750g
+device_type: WiFi AP
+ethernet_100m_ports: '2'
+ethernet_gbit_ports: '2'
+fccid: "http://\xBF"
+firmware_oem_stock_url: "http://\xBF"
+flash_mb: '16'
+forum_search: E750G
+git_search: E750G
+jtag: false
+led_count: '7'
+model: E750G
+oem_device_homepage_url: http://www.qxwlan.com/product/p/75.html
+package_architecture: mips_24kc
+power_supply: 9-48 VDC, PoE
+ram_mb: '128'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=53a45020135b504cb4bee0fa8d98c8eaf6391066
+supported_since_rel: 18.06.0
+target: ar71xx
+usb_ports: 1x Header
+version: v8
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9344

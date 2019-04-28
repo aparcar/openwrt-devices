@@ -1,0 +1,36 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TP-Link
+comments: 3G via USB
+cpu: Atheros AR9331
+cpu_cores: '1'
+cpu_mhz: '400'
+device_id: tp-link_tl-mr11u_v1
+device_page: tl-mr11u
+device_type: Travel Router - Battery powered
+ethernet_100m_ports: '1'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/17.01.5/targets/ar71xx/generic/lede-17.01.5-ar71xx-generic-tl-mr11u-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-mr11u-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-mr11u-v1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/17.01.5/targets/ar71xx/generic/lede-17.01.5-ar71xx-generic-tl-mr11u-v1-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: TL-MR11U
+git_search: TL-MR11U
+model: TL-MR11U
+oem_device_homepage_url: http://www.tp-link.com.cn/product_233.html
+package_architecture: mips_24kc
+power_supply: "5 VDC (\xB5USB), 2000 mAh battery"
+ram_mb: '32'
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 17.01.5
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=97e4ddd012546ecaf5dea609af784e339408e502
+supported_since_rel: '12.09'
+target: ar71xx
+version: v1
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-MR11U
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9331

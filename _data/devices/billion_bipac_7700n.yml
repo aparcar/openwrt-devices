@@ -1,0 +1,42 @@
+availability: Discontinued 2013
+bootloader: CFE
+brand: Billion
+button_count: '3'
+cpu: Broadcom BCM63281
+cpu_cores: '1'
+cpu_mhz: '320'
+device_id: billion_bipac_7700n
+device_page: billion_bipac_7700n
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+firmware_oem_stock_url: http://www.billion.uk.com/esupport/index.php?/Knowledgebase/Article/View/321/95/bipac-7700n-vb038_n28_gh_uk-00-4300
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-FAST2704V2-squashfs-cfe.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/openwrt-brcm63xx-generic-FAST2704V2-squashfs-cfe.bin
+flash_mb: '8'
+forum_search: BiPAC 7700N
+git_search: F@ST2704
+gpios: '1'
+installation_method_s: GUI generic
+jtag: false
+led_count: '9'
+model: BiPAC 7700N
+modem: ADSL2+ Annex B
+oem_device_homepage_url: https://www.billion.uk.com/product/wireless/7700n.htm
+owrt_forum_topic_url: https://forum.openwrt.org/t/billion-bipac-7700n-new-device/32377
+package_architecture: mips_mips32
+power_supply: 12 VDC, 1.0 A
+ram_mb: '32'
+recovery_method_s: Serial
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+switch: Broadcom BCM63281
+target: brcm63xx
+unsupported_functions: DSL modem
+vlan: true
+wlan_24ghz: b/g/n
+wlan_comments: b43 driver only supported (so no kmod-brcmsmac or kmod-brcm-wl) and
+  N mode is not supported by the b43 driver.
+wlan_driver: b43
+wlan_hardware: Broadcom BCM43225

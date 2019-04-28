@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: CFE
+brand: Linksys
+cpu: Broadcom BCM4718
+cpu_cores: '1'
+cpu_mhz: '480'
+device_id: linksys_e3000_v1
+device_page: e3000
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: https://fcc.io/Q87/-E3000
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/generic/openwrt-18.06.2-brcm47xx-generic-linksys-e3000-v1-squashfs.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/generic/lede-brcm47xx-generic-linksys-e3000-v1-squashfs.bin
+flash_mb: '8'
+forum_search: E3000
+git_search: E3000
+installation_method_s: GUI OEM
+jtag: true
+model: E3000
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=33560
+package_architecture: mipsel_mips32
+power_supply: 12 VDC, 1.5 A
+ram_mb: '64'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_rel: '14.07'
+switch: Broadcom BCM53115
+target: brcm47xx
+usb_ports: 1x 2.0
+version: v1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Linksys_E3000
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: b43

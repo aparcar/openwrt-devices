@@ -1,0 +1,32 @@
+audio_ports: HDMI
+availability: Discontinued
+brand: Raspberry Pi Foundation
+cpu: Broadcom BCM2835
+cpu_cores: '1'
+cpu_mhz: '700'
+device_id: raspberry_pi_a
+device_page: raspberry_pi
+device_type: Single Board Computer
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm2708/bcm2708/openwrt-18.06.2-brcm2708-bcm2708-rpi-ext4-factory.img.gz
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm2708/bcm2708/openwrt-brcm2708-bcm2708-rpi-ext4-factory.img.gz
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm2708/bcm2708/openwrt-brcm2708-bcm2708-rpi-ext4-sysupgrade.img.gz
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm2708/bcm2708/openwrt-18.06.2-brcm2708-bcm2708-rpi-ext4-sysupgrade.img.gz
+flash_mb: SD
+forum_search: Raspberry Pi
+git_search: Raspberry Pi
+gpios: '17'
+model: Raspberry Pi
+package_architecture: arm_arm1176jzf-s_vfp
+power_supply: "5 VDC, 1.0 A (\xB5USB)"
+ram_mb: '256'
+recovery_method_s: SD card
+serial: true
+subtarget: bcm2708
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=0e9e7dcd10c4f0653252076ccc4289cfcf55c4b4
+supported_since_rel: '14.07'
+target: brcm2708
+version: A
+video_ports: HDMI
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/RPF_Raspberry_Pi_Model_A

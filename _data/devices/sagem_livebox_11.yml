@@ -1,0 +1,22 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Sagem
+comments_network_ports: 2x
+cpu: Ikanos Fusiv Vx150
+cpu_cores: '1'
+cpu_mhz: '200'
+device_id: sagem_livebox_11
+device_page: livebox
+device_type: WiFi Router
+flash_mb: '8'
+forum_search: Livebox
+git_search: Livebox
+model: Livebox
+modem: ADSL
+ram_mb: '32'
+unsupported_functions: Possible to support
+usb_ports: 1x 1.1
+version: '1.1'
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4306 (mini-PCI)

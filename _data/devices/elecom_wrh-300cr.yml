@@ -1,0 +1,37 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: ELECOM
+button_count: '1'
+comments: CRWH=white; CRBK=black
+cpu: MediaTek MT7620N
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: elecom_wrh-300cr
+device_type: Travel Router
+ethernet_100m_ports: '1'
+firmware_oem_stock_url: http://www2.elecom.co.jp/products/WRH-300CRWH.html
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-wrh-300cr-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/lede-ramips-mt7620-wrh-300cr-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/lede-ramips-mt7620-wrh-300cr-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-wrh-300cr-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: WRH-300CR
+git_search: WRH-300CR
+installation_method_s: unknown
+led_count: '3'
+model: WRH-300CR
+oem_device_homepage_url: http://www2.elecom.co.jp/products/WRH-300CRWH.html
+package_architecture: mipsel_24kc
+power_supply: 5 VDC, 0.5 A
+ram_mb: '64'
+recovery_method_s: unknown
+serial: true
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=37b50fdb92742024849241cf41091f97e11b2ba0
+supported_since_rel: 17.01.0
+target: ramips
+where_available: amazon.co.jp
+wlan_24ghz: b/g/n
+wlan_driver: mt76
+wlan_hardware: MediaTek MT7620N

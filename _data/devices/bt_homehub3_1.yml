@@ -1,0 +1,38 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: BT
+cpu: Lantiq XWAY ARX168
+cpu_cores: '2'
+cpu_mhz: '333'
+device_id: bt_homehub3_1
+device_page: homehub_v3a
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xway/openwrt-18.06.2-lantiq-xway-bt_homehub-v3a-initramfs-kernel.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xway/openwrt-lantiq-xway-bt_homehub-v3a-initramfs-kernel.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xway/openwrt-lantiq-xway-bt_homehub-v3a-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xway/openwrt-18.06.2-lantiq-xway-bt_homehub-v3a-squashfs-sysupgrade.bin
+flash_mb: '32'
+forum_search: Home Hub 3
+git_search: Home Hub 3
+installation_method_s: unknown
+model: Home Hub 3
+modem: ADSL2+
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=35606
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: '64'
+recovery_method_s: unknown
+serial: true
+subtarget: xway
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=9d7d29439b72df7ddac6a6644f5aab77fcb87e83
+supported_since_rel: '15.05'
+switch: Lantiq PSB 6972
+target: lantiq
+usb_ports: 1x 2.0
+version: Type A
+wikidevi_url: https://wikidevi.com/wiki/BT_Home_Hub_3.0A
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9227

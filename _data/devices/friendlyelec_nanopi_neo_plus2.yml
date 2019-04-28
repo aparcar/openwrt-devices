@@ -1,0 +1,43 @@
+audio_ports: other
+availability: Available 2019
+bluetooth: '4.0'
+bootloader: U-Boot
+brand: FriendlyElec
+comment_installation: Similar to install method for Raspberry Pi
+comments: Both 512MB and 1024MB RAM versions are available
+comments_av_ports: Audio and Video ports are on the header, see OEM wiki for more
+  information
+cpu: Allwinner H5
+cpu_cores: '4'
+cpu_mhz: '1200'
+detachable_antennas: '1'
+device_id: friendlyelec_nanopi_neo_plus2
+device_page: friendlyelec_nanopi_neo_plus2
+device_type: Single Board Computer
+ethernet_gbit_ports: '1'
+firmware_oem_stock_url: http://www.friendlyarm.com/index.php?route=information/information&information_id=7
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/sunxi/cortexa53/openwrt-18.06.2-sunxi-cortexa53-sun50i-h5-nanopi-neo-plus2-ext4-sdcard.img.gz
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/sunxi/cortexa53/openwrt-sunxi-cortexa53-sun50i-h5-nanopi-neo-plus2-ext4-sdcard.img.gz
+forum_search: NanoPi NEO Plus2
+git_search: NanoPi NEO Plus2
+gpios: more than 20
+led_count: '3'
+model: NanoPi NEO Plus2
+oem_device_homepage_url: http://www.friendlyarm.com/index.php?route=product/product&product_id=196
+package_architecture: aarch64_cortex-a53
+power_supply: 5 VDC, 2.0 A
+ram_mb: '1024'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: cortexa53
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=3c24a1d423a6052b101c00cb7d94e70d72702639
+supported_since_rel: 18.06.0
+switch: Realtek RTL8211E
+target: sunxi
+video_ports: other
+vlan: false
+where_available: friendlyarm.com
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: AMPAK AP6212A

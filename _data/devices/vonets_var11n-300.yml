@@ -1,0 +1,33 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: VONETS
+button_count: '1'
+cpu: MediaTek MT7620N
+cpu_cores: '1'
+cpu_mhz: '600'
+device_id: vonets_var11n-300
+device_type: WiFi Router
+ethernet_100m_ports: '2'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-vonets_var11n-300-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-vonets_var11n-300-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: VAR11N-300
+git_search: VAR11N-300
+installation_method_s: see git-commit
+led_count: '5'
+model: VAR11N-300
+package_architecture: mipsel_24kc
+power_supply: 5 VDC, 1.0 A
+ram_mb: '32'
+recovery_method_s: see git-commit
+serial: true
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=fe6f298b07941758a759354c6751188c825c5ffb
+supported_since_rel: 18.06.0
+switch: MediaTek MT7620N
+target: ramips
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: mt76
+wlan_hardware: MediaTek MT7620N

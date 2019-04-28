@@ -1,0 +1,31 @@
+availability: Available 2017
+bootloader: U-Boot
+brand: SolidRun
+cpu: Marvell Armada 380
+cpu_cores: '2'
+cpu_mhz: '1600'
+device_id: solidrun_clearfog_base
+device_page: clearfog
+device_type: Router
+ethernet_gbit_ports: '2'
+firmware_oem_stock_url: https://wiki.solid-run.com/doku.php?id=products:a38x:software
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/mvebu/cortexa9/openwrt-18.06.2-mvebu-cortexa9-armada-388-clearfog-base-squashfs-sdcard.img.gz
+firmware_openwrt_snapshot_install_url: https://downloads.openwrt.org/snapshots/targets/mvebu/cortexa9/openwrt-mvebu-cortexa9-armada-388-clearfog-base-squashfs-sdcard.img.gz
+flash_mb: microSD
+forum_search: ClearFog Base
+git_search: ClearFog Base
+installation_method_s: see devicepage
+jtag: false
+model: ClearFog Base
+oem_device_homepage_url: https://wiki.solid-run.com/doku.php?id=products:a38x:clearfog
+package_architecture: arm_cortex-a9_vfpv3
+power_supply: 9-32 VDC
+ram_mb: '1024'
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ee1cee2cac67108194f1496c29fead90afff1763
+supported_since_rel: 17.01.4
+target: mvebu
+usb_ports: 1x 3.0
+wlan_driver: unknown

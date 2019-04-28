@@ -1,0 +1,30 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: HiWiFi/Gee
+button_count: '1'
+cpu: MediaTek MT7628AN
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: hiwifi_gee_hc5661a
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt76x8/openwrt-ramips-mt76x8-hc5661a-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt76x8/openwrt-18.06.2-ramips-mt76x8-hc5661a-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: HC5661A
+git_search: HC5661A
+installation_method_s: see git-commit
+led_count: '3'
+model: HC5661A
+package_architecture: mipsel_24kc
+power_supply: "5 VDC, 1.0 A (\xB5USB)"
+ram_mb: '128'
+serial: true
+subtarget: mt76x8
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=d48cc5e0449fec6f7717e85a68f06a61abd7b0ae
+supported_since_rel: 18.06.0
+target: ramips
+usb_ports: "1x \xB5USB (power)"
+wlan_24ghz: b/g/n
+wlan_driver: unknown

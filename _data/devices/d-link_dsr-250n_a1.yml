@@ -1,0 +1,33 @@
+availability: Discontinued 2017
+bootloader: U-Boot
+brand: D-Link
+cpu: Cavium CNS3411
+cpu_cores: '1'
+cpu_mhz: '300'
+detachable_antennas: '2'
+device_id: d-link_dsr-250n_a1
+device_page: dsr-250n
+device_type: WiFi Router
+ethernet_gbit_ports: '9'
+fccid: https://fcc.io/KA2/SR250NA1
+firmware_oem_stock_url: http://www.dlink.com/de/de/support/product/dsr-250n-wireless-n-unified-service-router
+flash_mb: 256NAND
+forum_search: DSR-250N
+git_search: DSR-250N
+jtag: false
+model: DSR-250N
+oem_device_homepage_url: http://www.dlink.com/de/de/products/dsr-250n-wireless-n-unified-service-router
+package_architecture: arm_mpcore_vfp
+ram_mb: '1024'
+serial: true
+subtarget: generic
+switch: Broadcom BCM53128
+target: cns3xxx
+unsupported_functions: Possible to support
+usb_ports: 1x 2.0
+version: A1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DSR-250N
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink RT3092

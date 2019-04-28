@@ -1,0 +1,38 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Devolo
+button_count: '1'
+comments_network_ports: Atheros AR8035 (PoE in), Atheros AR8033
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: '1'
+cpu_mhz: '720'
+detachable_antennas: '2'
+device_id: devolo_wifi_pro_1200e
+device_type: WiFi AP
+ethernet_gbit_ports: '2'
+fccid: https://fcc.io/NDD/9576791401
+firmware_oem_stock_url: https://www.devolo.de/support/downloads/download/devolo-wifi-pro-1200e.html
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-devolo_dvl1200e-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: WiFi pro 1200e
+git_search: WiFi pro 1200e
+led_count: '2'
+model: WiFi pro 1200e
+oem_device_homepage_url: https://www.devolo.de/support/downloads/download/devolo-wifi-pro-1200e.html
+owrt_forum_topic_url: https://forum.openwrt.org/t/devolo-wifi-pro-1750e-edimax-pro-wap1750-acelink-ew-7679wac/25411/50
+package_architecture: mips_24kc
+power_supply: 12 VDC, 2.5 A, PoE 802.3af/at
+ram_mb: '128'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=1724d4e9ed7716a5444eca42adf045c2f3afc554
+switch: Atheros AR8035
+target: ath79
+vlan: true
+where_available: amazon.de
+wikidevi_url: https://wikidevi.com/wiki/Devolo_WiFi_pro_1200e
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac

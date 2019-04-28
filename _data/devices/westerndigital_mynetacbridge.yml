@@ -1,0 +1,21 @@
+availability: Available 2017
+brand: Western Digital
+cpu: Broadcom BCM4706
+cpu_cores: '1'
+cpu_mhz: '600'
+device_id: westerndigital_mynetacbridge
+device_page: acbr
+device_type: WiFi Router
+ethernet_gbit_ports: '4'
+flash_mb: '8'
+forum_search: My Net AC Bridge
+git_search: My Net AC Bridge
+model: My Net AC Bridge
+package_architecture: mipsel_74kc
+ram_mb: '64'
+subtarget: mips74k
+target: brcm47xx
+wikidevi_url: https://wikidevi.com/wiki/Western_Digital_My_Net_AC_Bridge
+wlan_50ghz: a/n/ac
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4360

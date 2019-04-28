@@ -1,0 +1,27 @@
+availability: Discontinued
+bootloader: CFE
+brand: Linksys
+cpu: Broadcom BCM6348
+cpu_cores: '1'
+cpu_mhz: '240'
+device_id: linksys_wag54gs
+device_page: wag54gs
+device_type: Modem
+ethernet_100m_ports: '4'
+flash_mb: '4'
+forum_search: WAG54GS
+git_search: WAG54GS
+jtag: true
+model: WAG54GS
+modem: ADSL
+package_architecture: mips_mips32
+power_supply: 12 VDC, 1.0 A
+ram_mb: '16'
+serial: true
+subtarget: generic
+target: brcm63xx
+unsupported_functions: Impossible
+wikidevi_url: https://wikidevi.com/wiki/Linksys_WAG54GS
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318

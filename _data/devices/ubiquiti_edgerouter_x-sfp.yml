@@ -1,0 +1,39 @@
+availability: Available 2018
+bootloader: U-Boot
+brand: Ubiquiti
+button_count: '1'
+comments_network_ports: 1x SFP; 5 x passive PoE (24V) out
+cpu: MediaTek MT7621AT
+cpu_cores: '2'
+cpu_mhz: '880'
+device_id: ubiquiti_edgerouter_x-sfp
+device_page: ubiquiti_edgerouter_x_er-x_ka
+device_type: Router
+ethernet_gbit_ports: '5'
+firmware_openwrt_install_url: https://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-ubnt-erx-sfp-initramfs-kernel.bin
+firmware_openwrt_snapshot_install_url: https://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-ubnt-erx-sfp-initramfs-kernel.bin
+firmware_openwrt_snapshot_upgrade_url: https://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-ubnt-erx-sfp-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: https://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-ubnt-erx-sfp-squashfs-sysupgrade.tar
+flash_mb: 256NAND
+forum_search: EdgeRouter X-SFP
+git_search: EdgeRouter X-SFP
+gluon_support: true
+jtag: true
+lede_forum_topic_url: https://forum.lede-project.org/t/ubiquiti-edgerouter-x-er-x-edgerouter-x-sfp-er-x-sfp/1409/7
+model: EdgeRouter X-SFP
+oem_device_homepage_url: https://www.ubnt.com/edgemax/edgerouter-x-sfp/
+package_architecture: mipsel_24kc
+power_supply: 9-26 VDC, 2.5 A
+ram_mb: '256'
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt7621
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=9715beb04c74a918697945b3e2d23a139bd04b70
+supported_since_rel: 18.06.0
+switch: MediaTek MT7530
+target: ramips
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Ubiquiti_Networks_EdgeRouter_X_SFP
+wlan_driver: unknown

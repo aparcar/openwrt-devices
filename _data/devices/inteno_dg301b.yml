@@ -1,0 +1,26 @@
+availability: Discontinued
+bootloader: CFE
+brand: Inteno
+cpu: Broadcom BCM63268
+cpu_cores: '2'
+cpu_mhz: '400'
+device_id: inteno_dg301b
+device_page: dg301b
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+flash_mb: 128NAND
+forum_search: DG301B
+git_search: DG301B
+jtag: false
+model: DG301B
+modem: VDSL2
+oem_device_homepage_url: https://www.intenogroup.com/products/legacy/dg301/
+power_supply: 12 VDC, 2.0 A
+ram_mb: '256'
+serial: true
+target: brcm63xx
+usb_ports: 2x 2.0
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM435f

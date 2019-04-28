@@ -1,0 +1,39 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Netgear
+comments: Hardwarewise identical to WNR1000v2
+cpu: Atheros AR7240
+cpu_cores: '1'
+cpu_mhz: '400'
+device_id: netgear_wnr1000_v2-vc
+device_page: wnr1000_v2
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/PY3/09300122
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-wnr1000v2-vc-squashfs-factory.img
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-wnr1000v2-vc-squashfs-factory.img
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-wnr1000v2-vc-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-wnr1000v2-vc-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: WNR1000
+git_search: WNR1000
+installation_method_s: unknown
+model: WNR1000
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: '32'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: tiny
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=31fd66f808e7ea16cacef362877139b7e0e8ac7d
+supported_since_rel: '15.05'
+switch: Atheros AR7240
+target: ar71xx
+version: v2-VC
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Netgear_WNR1000v2
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9285

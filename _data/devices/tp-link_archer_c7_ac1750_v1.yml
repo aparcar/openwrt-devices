@@ -1,0 +1,46 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TP-Link
+button_count: '2'
+comments: ath10k on this device causes a boot loop in 17.03 and newer OpenWrt, removing
+  minipcie card or building image without ath10k should work
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: '1'
+cpu_mhz: '720'
+detachable_antennas: '3'
+device_id: tp-link_archer_c7_ac1750_v1
+device_page: archer-c5-c7-wdr7500
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: https://fcc.io/TE7/C7
+firmware_oem_stock_url: https://www.tp-link.com/en/download/Archer-C7_V1.html
+firmware_openwrt_install_url: http://archive.openwrt.org/chaos_calmer/15.05.1/ar71xx/generic/openwrt-15.05.1-ar71xx-generic-archer-c7-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-tplink_archer-c7-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-tplink_archer-c7-v1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://archive.openwrt.org/chaos_calmer/15.05.1/ar71xx/generic/openwrt-15.05.1-ar71xx-generic-archer-c7-v1-squashfs-sysupgrade.bin
+flash_mb: '8'
+git_search: Archer C7 AC1750
+jtag: true
+led_count: '10'
+model: Archer C7 AC1750
+oem_device_homepage_url: https://www.tp-link.com/en/products/details/Archer-C7.html
+owrt_forum_topic_url: https://forum.openwrt.org/t/archer-c7-v1-0-crashes-on-boot/19784/41
+package_architecture: mips_24kc
+power_supply: 12 VDC, 2.5 A
+ram_mb: '128'
+recovery_method_s: U-Boot TFTP recovery
+serial: true
+subtarget: generic
+supported_current_rel: 15.05.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=d19dae6e2d9f5f0f332b048443a0419b6238fa25
+supported_since_rel: '14.07'
+switch: Atheros AR8327N
+target: ar71xx-ath79
+unsupported_functions: WiFi 5GHz
+usb_ports: 2x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C7_v1.x
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 3x3
+wlan_driver: ath10k

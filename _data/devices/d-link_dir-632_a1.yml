@@ -1,0 +1,32 @@
+availability: Discontinued 2017
+bootloader: U-Boot
+brand: D-Link
+cpu: Atheros AR7242
+cpu_cores: '1'
+cpu_mhz: '400'
+device_id: d-link_dir-632_a1
+device_page: dir-632
+device_type: WiFi Router
+ethernet_100m_ports: '9'
+firmware_oem_stock_url: https://support.dlink.com/ProductInfo.aspx?m=DIR-632
+flash_mb: '8'
+forum_search: DIR-632
+git_search: DIR-632
+jtag: true
+model: DIR-632
+oem_device_homepage_url: https://support.dlink.com/ProductInfo.aspx?m=DIR-632
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=32621
+package_architecture: mips_24kc
+power_supply: 5 VDC, 2.5 A
+ram_mb: '32'
+serial: true
+subtarget: generic
+switch: Realtek RTL8309G
+target: ar71xx
+unsupported_functions: WIP
+usb_ports: 1x 2.0
+version: A1
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-632
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9287

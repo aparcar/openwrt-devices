@@ -1,0 +1,34 @@
+availability: unknown 2018
+bootloader: CFE
+brand: Huawei
+cpu: Broadcom BCM6358
+cpu_cores: '2'
+cpu_mhz: '300'
+device_id: huawei_hg553
+device_page: hg553
+device_type: Modem
+ethernet_100m_ports: '4'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-HG553-squashfs-cfe.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-HG553-squashfs-cfe.bin
+flash_mb: '16'
+forum_search: HG553
+git_search: HG553
+jtag: true
+model: HG553
+modem: ADSL2+
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=30947
+package_architecture: mips_mips32
+ram_mb: '64'
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b339304425b63073e8757cf104621279a5a38b5d
+supported_since_rel: '12.09'
+switch: Broadcom BCM5325
+target: brcm63xx
+unsupported_functions: DSL modem
+usb_ports: 2x 2.0
+vlan: true
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318

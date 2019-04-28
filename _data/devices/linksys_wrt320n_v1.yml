@@ -1,0 +1,39 @@
+availability: Discontinued
+bootloader: CFE
+brand: Linksys
+comments: USB/TTL is solderable on the pcb card for debricking.
+cpu: Broadcom BCM4717
+cpu_cores: '1'
+cpu_mhz: '354'
+device_id: linksys_wrt320n_v1
+device_page: wrt320n
+device_type: WiFi Router
+ethernet_100m_ports: '1'
+ethernet_gbit_ports: '4'
+fccid: https://fcc.io/Q87/-WRT320N
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-linksys-wrt320n-v1-squashfs.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-linksys-wrt320n-v1-squashfs.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-linksys-wrt320n-v1-squashfs.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-linksys-wrt320n-v1-squashfs.bin
+flash_mb: '8'
+forum_search: WRT320N
+git_search: WRT320N
+installation_method_s: GUI OEM
+model: WRT320N
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: '32'
+serial: true
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e2b59e4dbc97a54333ae69ab9f694edb6fe9dcb0
+supported_since_rel: '14.07'
+switch: Broadcom BCM53115
+target: brcm47xx
+version: v1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT320N_v1
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4717

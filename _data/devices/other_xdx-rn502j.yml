@@ -1,0 +1,32 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Evaluation boards / unbranded boards
+cpu: Ralink RT3052
+cpu_cores: '1'
+cpu_mhz: '384'
+detachable_antennas: '2'
+device_id: other_xdx-rn502j
+device_page: sl-r7205
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-xdxrn502j-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-xdxrn502j-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: XDX-RN502J
+git_search: XDX-RN502J
+model: XDX-RN502J
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=34878
+package_architecture: mipsel_24kc
+ram_mb: '32'
+recovery_method_s: U-Boot TFTP + serial recovery
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=0e486d2fd297d28ddfc34d4adb4eae7050f0d138
+supported_since_rel: '12.09'
+switch: Ralink RT3052
+target: ramips
+usb_ports: 1x 2.0
+vlan: false
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9285

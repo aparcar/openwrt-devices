@@ -1,0 +1,35 @@
+availability: Discontinued
+bootloader: CFE
+brand: Asus
+button_count: '1'
+cpu: Broadcom BCM5352E
+cpu_cores: '1'
+cpu_mhz: '200'
+detachable_antennas: '2'
+device_id: asus_wl-320gp
+device_page: wl320g
+device_type: Travel Router
+ethernet_100m_ports: '1'
+fccid: https://fcc.io/MSQ/WL320GP
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/legacy/openwrt-18.06.2-brcm47xx-legacy-asus-wl-320gp-squashfs.trx
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/legacy/lede-brcm47xx-legacy-asus-wl-320gp-squashfs.trx
+flash_mb: '4'
+forum_search: WL-320gP
+git_search: WL-320gP
+installation_method_s: CFE TFTP recovery
+led_count: '4'
+model: WL-320gP
+package_architecture: mipsel_mips32
+power_supply: 5 VDC, 2.0 A
+ram_mb: '16'
+recovery_method_s: CFE TFTP recovery
+serial: true
+subtarget: legacy
+supported_current_rel: 18.06.2
+supported_since_rel: '7.06'
+target: brcm47xx
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/ASUS_WL-320gP
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM5352E

@@ -1,0 +1,31 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: PHICOMM
+button_count: '1'
+cpu: MediaTek MT7620A
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: phicomm_k2_psg1218
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-psg1218a-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-psg1218a-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: K2 PSG1218
+git_search: K2 PSG1218
+installation_method_s: unknown
+led_count: '1'
+model: K2 PSG1218
+oem_device_homepage_url: http://www.phicomm.com/cn/index.php/Products/family_details/cateid/18/id/65.html
+package_architecture: mipsel_24kc
+ram_mb: '64'
+recovery_method_s: unknown
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=dce5c4f5c8629af13bdb7cb5803a349cb8305d70
+supported_since_rel: 17.01.0
+target: ramips
+version: rev. A
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: unknown

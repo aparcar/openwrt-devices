@@ -1,0 +1,36 @@
+availability: Available 2019
+bluetooth: '4.0'
+bootloader: U-Boot
+brand: FriendlyElec
+button_count: '1'
+cpu: Allwinner H3
+cpu_cores: '4'
+cpu_mhz: '1200'
+device_id: friendlyelec_nanopi_m1_plus
+device_type: Single Board Computer
+ethernet_gbit_ports: '1'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/sunxi/cortexa7/openwrt-18.06.2-sunxi-cortexa7-sun8i-h3-nanopi-m1-plus-ext4-sdcard.img.gz
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/sunxi/cortexa7/openwrt-sunxi-cortexa7-sun8i-h3-nanopi-m1-plus-ext4-sdcard.img.gz
+flash_mb: '8'
+forum_search: NanoPi M1 Plus
+git_search: NanoPi M1 Plus
+gpios: more than 20
+installation_method_s: unknown
+led_count: '2'
+model: NanoPi M1 Plus
+oem_device_homepage_url: http://nanopi.io/nanopi-m1-plus.html
+package_architecture: arm_cortex-a8_vfpv3
+power_supply: 5 VDC, 2.0 A
+ram_mb: '1024'
+recovery_method_s: unknown
+serial: true
+subtarget: cortexa7
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b31c1237c749b927d296f18c16894f162abccd30
+supported_since_rel: 18.06.0
+target: sunxi
+unsupported_functions: Bluetooth
+wlan_24ghz: b/g/n
+wlan_comments: Bluetooth also via AMPAK AP6212A
+wlan_driver: unknown
+wlan_hardware: AMPAK AP6212A

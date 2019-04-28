@@ -1,0 +1,43 @@
+availability: Discontinued
+bootloader: CFE
+brand: Asus
+button_count: '2'
+cpu: Broadcom BCM4718
+cpu_cores: '1'
+cpu_mhz: '480'
+detachable_antennas: '3'
+device_id: asus_rt-n16
+device_page: rt-n16
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: https://fcc.io/MSQ/RTN16
+firmware_oem_stock_url: http://dlcdnet.asus.com/pub/ASUS/wireless/RT-N16/FW_RT_N16_30043763754.zip
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-asus-rt-n16-squashfs.trx
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-asus-rt-n16-squashfs.trx
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-asus-rt-n16-squashfs.trx
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-asus-rt-n16-squashfs.trx
+flash_mb: '32'
+forum_search: RT-N16
+git_search: RT-N16
+jtag: true
+led_count: '2'
+model: RT-N16
+oem_device_homepage_url: https://www.asus.com/us/Networking/RTN16/
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 1.25 A
+ram_mb: '128'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=8ba8225686ce9b88e54039eefb4b25b0319cae24
+supported_since_rel: '14.07'
+switch: Broadcom BCM53115
+target: brcm47xx
+usb_ports: 2x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N16
+wlan_24ghz: b/g/n
+wlan_comments: 2x3
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4718

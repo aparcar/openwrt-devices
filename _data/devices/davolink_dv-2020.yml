@@ -1,0 +1,28 @@
+availability: Discontinued
+bootloader: CFE
+brand: Davolink
+cpu: Broadcom BCM6348
+cpu_cores: '1'
+cpu_mhz: '256'
+detachable_antennas: '1'
+device_id: davolink_dv-2020
+device_page: dv-2020
+device_type: Modem
+ethernet_100m_ports: '4'
+flash_mb: '8'
+forum_search: DV-2020
+git_search: DV-2020
+jtag: true
+model: DV-2020
+modem: ADSL2+
+package_architecture: mips_mips32
+ram_mb: '16'
+serial: true
+subtarget: generic
+target: brcm63xx
+unsupported_functions: Impossible
+usb_ports: 1x 1.1 Device
+vlan: true
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318 (integrated)

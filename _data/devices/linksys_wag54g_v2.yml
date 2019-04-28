@@ -1,0 +1,31 @@
+availability: Discontinued
+bootloader: Adam2
+brand: Linksys
+cpu: Texas Instruments TNETD7300GDU (AR7WRD)
+cpu_cores: '1'
+cpu_mhz: '150'
+device_id: linksys_wag54g_v2
+device_page: wag54g
+device_type: Modem
+ethernet_100m_ports: '4'
+flash_mb: '4'
+forum_search: WAG54G
+git_search: WAG54G
+installation_method_s: unknown
+model: WAG54G
+modem: ADSL
+package_architecture: mipsel_mips32
+power_supply: 12 VDC, 1.0 A
+ram_mb: '16'
+recovery_method_s: unknown
+serial: true
+supported_current_rel: 10.03.1
+supported_since_rel: '10.03'
+switch: ADMtek ADM6996L
+target: ar7
+version: v2
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/Linksys_WAG54G_v2
+wlan_24ghz: b/g
+wlan_driver: unknown
+wlan_hardware: TI TNETW1130GVF (mini-PCI)

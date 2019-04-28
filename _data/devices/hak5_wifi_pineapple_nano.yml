@@ -1,0 +1,29 @@
+availability: Available 2019
+brand: HAK5
+button_count: '1'
+cpu: Atheros AR9331
+cpu_cores: '1'
+cpu_mhz: '400'
+detachable_antennas: '2'
+device_id: hak5_wifi_pineapple_nano
+device_type: WiFi AP
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-wifi-pineapple-nano-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-wifi-pineapple-nano-squashfs-sysupgrade.bin
+forum_search: WiFi Pineapple NANO
+git_search: WiFi Pineapple NANO
+led_count: '1'
+model: WiFi Pineapple NANO
+oem_device_homepage_url: https://www.hak5.org/gear/wifi-pineapple
+package_architecture: mips_24kc
+power_supply: 5 VDC, 1.5 A
+ram_mb: '64'
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=950b278c81cb380df869b0dadc02fa8258a91a6a
+supported_since_rel: 18.06.0
+target: ar71xx
+usb_ports: 1x 2.0
+where_available: shop.hak5.org
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9331

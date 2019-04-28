@@ -1,0 +1,33 @@
+availability: Available 2017
+brand: NXP
+button_count: '1'
+comments: 32b and 64b firmware available
+cpu: NXP LS1012A
+cpu_cores: '1'
+cpu_mhz: '800'
+device_id: nxp_ls1012ardb
+device_type: Single Board Computer
+ethernet_gbit_ports: '2'
+firmware_oem_stock_url: https://www.nxp.com/products/microcontrollers-and-processors/arm-processors/qoriq-layerscape-arm-processors/qoriq-ls1012a-reference-design-board:LS1012A-RDB
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/layerscape/armv8_32b/openwrt-18.06.2-layerscape-armv8_32b-ls1012ardb-ubifs-firmware.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/layerscape/armv8_32b/openwrt-layerscape-armv8_32b-ls1012ardb-ubifs-firmware.bin
+forum_search: LS1012ARDB
+git_search: LS1012ARDB
+installation_method_s: unknown
+jtag: true
+led_count: '1'
+model: LS1012ARDB
+oem_device_homepage_url: https://www.nxp.com/products/microcontrollers-and-processors/arm-processors/qoriq-layerscape-arm-processors/qoriq-ls1012a-reference-design-board:LS1012A-RDB
+package_architecture: arm_cortex-a15_neon-vfpv4
+power_supply: PoE
+ram_mb: '1024'
+recovery_method_s: unknown
+sata_ports: '1'
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=15a14cf1665ef3d8b5c77cce69b52d131340e3b3
+supported_since_rel: 17.01.0
+target: layerscape
+usb_ports: 1x 3.0
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: SDIO WiFi module

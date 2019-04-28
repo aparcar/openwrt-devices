@@ -1,0 +1,42 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: ZyXEL
+button_count: '2'
+cpu: Lantiq XWAY VRX288
+cpu_cores: '2'
+cpu_mhz: '500'
+device_id: zyxel_p-2812hnu-f1
+device_page: p2812hnu-f1
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+firmware_oem_stock_url: https://www.zyxel.com/support/SupportLandingSR.shtml?c=gb&l=en&kbid=MD09036&md=P-2812HNU-F1
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xrx200/openwrt-lantiq-xrx200-zyxel_p-2812hnu-f1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xrx200/openwrt-18.06.2-lantiq-xrx200-zyxel_p-2812hnu-f1-squashfs-sysupgrade.bin
+flash_mb: 128NAND
+forum_search: P-2812HNU-F1
+git_search: P-2812HNU-F1
+installation_method_s: see devicepage
+jtag: false
+led_count: '13'
+model: P-2812HNU-F1
+modem: VDSL2
+oem_device_homepage_url: https://www.zyxel.com/support/SupportLandingSR.shtml?c=gb&l=en&kbid=MD09036&md=P-2812HNU-F1
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=53511
+package_architecture: mips_24kc
+power_supply: 12 VDC, 2.0 A
+ram_mb: '128'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: xrx200
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=7f77870c19218b65d4262e329b1736ababb9e384
+supported_since_rel: '15.05'
+switch: XWAY PEF 42068 F
+target: lantiq
+usb_ports: 2x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/ZyXEL_P-2812HNU-F1
+wlan_24ghz: b/g/n
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT3062F

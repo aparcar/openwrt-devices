@@ -1,0 +1,31 @@
+availability: Available 2017
+bootloader: U-Boot
+brand: YunCore
+button_count: '1'
+comment_installation: See git commit of AP90Q for installation instructions.
+cpu: Qualcomm Atheros QCA9531
+cpu_cores: '1'
+cpu_mhz: '535'
+device_id: yuncore_cpe830
+device_type: WiFi AP
+ethernet_100m_ports: '2'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-cpe830-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-cpe830-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: CPE830
+git_search: CPE830
+led_count: '8'
+model: CPE830
+oem_device_homepage_url: http://yuncore.com.cn/product.php?id=165&language=en_us
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.5 A, PoE 24V
+ram_mb: '64'
+recovery_method_s: U-Boot TFTP + serial recovery
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e33dcd1cfe105cb0e1ad09887144e4911eac653f
+supported_since_rel: 17.01.0
+target: ar71xx
+wlan_24ghz: b/g/n
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA9531

@@ -1,0 +1,34 @@
+availability: Discontinued
+bootloader: CFE
+brand: Asus
+cpu: Broadcom BCM4704
+cpu_cores: '1'
+cpu_mhz: '264'
+device_id: asus_wl-500w
+device_page: wl500w
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/MSQ/WL500W
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/legacy/openwrt-18.06.2-brcm47xx-legacy-asus-wl-500w-squashfs.trx
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/legacy/lede-brcm47xx-legacy-asus-wl-500w-squashfs.trx
+flash_mb: '8'
+forum_search: WL-500W
+git_search: WL-500W
+model: WL-500W
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=54195
+package_architecture: mipsel_mips32
+power_supply: 5 VDC, 2.5 A
+ram_mb: '32'
+serial: true
+subtarget: legacy
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=89b89ef77d578ed227fe0c127c9e332eafaf9f78
+supported_since_rel: '10.03'
+switch: Broadcom BCM5325F
+target: brcm47xx
+usb_ports: 2x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/ASUS_WL-500W
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4321 (mini-PCI)

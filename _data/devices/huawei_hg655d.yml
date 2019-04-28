@@ -1,0 +1,43 @@
+availability: unknown 2018
+bootloader: CFE
+brand: Huawei
+button_count: '3'
+comment_installation: bootloader needs replacing; HG655b image is also valid for HG655d,
+  but the HG655d rejects to flash it -> JTAG cable is required to replace the CFE
+  bootloader.
+cpu: Broadcom BCM6368
+cpu_cores: '2'
+cpu_mhz: '400'
+device_id: huawei_hg655d
+device_page: hg655d
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/smp/openwrt-18.06.2-brcm63xx-smp-HG655b-squashfs-cfe.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/smp/openwrt-brcm63xx-smp-HG655b-squashfs-cfe.bin
+flash_mb: '8'
+forum_search: HG655d
+git_search: HG655d
+installation_method_s: see devicepage
+jtag: true
+led_count: '11'
+model: HG655d
+modem: xDSL
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=50207
+package_architecture: mips_mips32
+phone_ports: '2'
+ram_mb: '64'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: smp
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=509c3211d66ec5d3bc741361c06eff993bf39b85
+supported_since_rel: '15.05'
+switch: Broadcom BCM6368
+target: brcm63xx
+unsupported_functions: DSL modem
+usb_ports: 1x 2.0
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT3062F

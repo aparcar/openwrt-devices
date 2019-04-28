@@ -1,0 +1,28 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Belkin
+button_count: '1'
+cpu: Ralink RT5350F
+cpu_cores: '1'
+cpu_mhz: '360'
+device_id: belkin_f7c030
+device_page: f7c030
+device_type: other
+fccid: https://fcc.io/K7S/F7C030
+flash_mb: '16'
+forum_search: F7C030
+git_search: F7C030
+led_count: '1'
+model: F7C030
+oem_device_homepage_url: http://www.belkin.com/us/p/P-F7C030/
+package_architecture: mipsel_24kc
+ram_mb: '32'
+serial: true
+subtarget: rt305x
+target: ramips
+vlan: false
+where_available: amazon.com
+wikidevi_url: https://wikidevi.com/wiki/Belkin_WeMo_Light_Switch_(F7C030)
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink RT5350

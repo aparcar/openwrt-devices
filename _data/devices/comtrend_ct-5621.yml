@@ -1,0 +1,34 @@
+availability: Discontinued
+bootloader: CFE
+brand: Comtrend
+comments_network_ports: '5'
+cpu: Broadcom BCM6348
+cpu_cores: '1'
+cpu_mhz: '256'
+device_id: comtrend_ct-5621
+device_page: ct5621
+device_type: Router
+ethernet_100m_ports: '4'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-CT-536_CT-5621-squashfs-cfe.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-CT-536_CT-5621-squashfs-cfe.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-CT-536_CT-5621-squashfs-cfe.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-CT-536_CT-5621-squashfs-cfe.bin
+flash_mb: '4'
+forum_search: CT-5621
+git_search: CT-5621
+jtag: true
+model: CT-5621
+modem: ADSL2+
+package_architecture: mips_mips32
+ram_mb: '16'
+recovery_method_s: CFE web recovery
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=44e22cbd49deeb17e9033da8bc72059887acb92f
+supported_since_rel: '10.03'
+switch: Broadcom BCM5325
+target: brcm63xx
+unsupported_functions: DSL modem
+usb_ports: Mod
+vlan: true

@@ -1,0 +1,36 @@
+availability: Available 2018
+bootloader: U-Boot
+brand: WRTnode
+cpu: MediaTek MT7620N
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: wrtnode_wrtnode_1
+device_page: wrtnode
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-wrtnode-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-wrtnode-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: WRTnode
+git_search: WRTnode
+installation_method_s: unknown
+model: WRTnode
+oem_device_homepage_url: http://wiki.wrtnode.com/index.php?title=Main_Page
+package_architecture: mipsel_24kc
+power_supply: "5 VDC, 0.5 A (\xB5USB)"
+ram_mb: '64'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=96fa58bafd6b311a9a3686b704bf8074905c4bea
+supported_since_rel: '14.07'
+target: ramips
+usb_ports: 1x 2.0
+version: '1'
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/WRTnode
+wlan_24ghz: b/g/n
+wlan_driver: mt76
+wlan_hardware: MediaTek MT7620N

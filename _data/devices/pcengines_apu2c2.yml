@@ -1,0 +1,36 @@
+availability: Available 2018
+bootloader: Coreboot
+brand: PC Engines
+button_count: '1'
+comments: 'bare board, requires case, PS and media for OS. See: https://www.pcengines.ch/newshop.php?c=4'
+comments_network_ports: 3 Intel i211AT
+cpu: AMD GX-412TC
+cpu_cores: '4'
+cpu_mhz: '1000'
+device_id: pcengines_apu2c2
+device_page: apu2
+device_type: Router
+ethernet_gbit_ports: '3'
+firmware_openwrt_install_url: https://downloads.openwrt.org/releases/18.06.2/targets/x86/64/openwrt-18.06.2-x86-64-combined-squashfs.img.gz
+firmware_openwrt_snapshot_install_url: https://downloads.openwrt.org/snapshots/targets/x86/64/openwrt-x86-64-combined-squashfs.img.gz
+firmware_openwrt_snapshot_upgrade_url: https://downloads.openwrt.org/snapshots/targets/x86/64/openwrt-x86-64-combined-squashfs.img.gz
+firmware_openwrt_upgrade_url: https://downloads.openwrt.org/releases/18.06.2/targets/x86/64/openwrt-18.06.2-x86-64-combined-squashfs.img.gz
+flash_mb: SD
+forum_search: APU2C2
+git_search: APU2C2
+led_count: '3'
+lede_forum_topic_url: https://forum.lede-project.org/t/compiling-for-apu2/633
+model: APU2C2
+oem_device_homepage_url: http://www.pcengines.ch/apu2c2.htm
+package_architecture: x86_64
+power_supply: 12 VDC, 2.0 A
+ram_mb: '2048'
+sata_ports: '1'
+serial: true
+subtarget: '64'
+supported_current_rel: 18.06.2
+supported_since_commit: "http://\xBF"
+supported_since_rel: 17.01.2
+target: x86
+usb_ports: 2x 3.0
+wlan_comments: 2 miniPCI express for add in cards

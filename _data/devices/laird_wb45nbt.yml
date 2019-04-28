@@ -1,0 +1,33 @@
+availability: Available 2018
+bluetooth: '4.0'
+bootloader: U-Boot
+brand: Laird
+cpu: Atmel ARM926EJS
+cpu_cores: '1'
+cpu_mhz: '400'
+detachable_antennas: '3'
+device_id: laird_wb45nbt
+device_type: other
+fccid: https://fcc.io/SQG-WB45NBT
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/at91/legacy/
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/at91/legacy/
+flash_mb: '128'
+forum_search: WB45NBT
+git_search: WB45NBT
+installation_method_s: unknown
+model: WB45NBT
+oem_device_homepage_url: https://www.lairdtech.com/products/wb45nbt
+package_architecture: arm_arm926ej-s
+power_supply: 3.3 VDC
+ram_mb: '64'
+recovery_method_s: unknown
+subtarget: legacy
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=86d037e4a27fcf8f465fb1e79db727995ad5c684
+supported_since_rel: 18.06.1
+target: at91
+vlan: false
+wlan_24ghz: b/g/n
+wlan_50ghz: a
+wlan_driver: unknown
+wlan_hardware: Qualcomm Atheros AR6003

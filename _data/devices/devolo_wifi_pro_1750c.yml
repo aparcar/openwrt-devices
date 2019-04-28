@@ -1,0 +1,31 @@
+availability: Discontinued
+brand: Devolo
+button_count: '1'
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: '1'
+cpu_mhz: '720'
+device_id: devolo_wifi_pro_1750c
+device_type: WiFi AP
+ethernet_gbit_ports: '1'
+fccid: "http://\xBF"
+firmware_oem_stock_url: https://www2.devolo.com/en/Business-Solutions/Downloads/devolo-WiFi-pro-1750c
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-devolo_dvl1750c-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: WiFi pro 1750c
+git_search: WiFi pro 1750c
+led_count: '2'
+model: WiFi pro 1750c
+oem_device_homepage_url: https://www2.devolo.com/en/Business-Solutions/Downloads/devolo-WiFi-pro-1750c
+package_architecture: mips_24kc
+power_supply: 12 VDC, 2.5 A, PoE 802.3at
+ram_mb: '128'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=e67da3443168fa6b6727cd81a35d559be77d6b4c
+target: ath79
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k-ct

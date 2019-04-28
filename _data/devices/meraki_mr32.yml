@@ -1,0 +1,31 @@
+availability: Discontinued 2017
+bluetooth: '4.1'
+bootloader: U-Boot
+brand: Meraki
+cpu: Broadcom BCM53016A1
+cpu_cores: '2'
+cpu_mhz: '1000'
+device_id: meraki_mr32
+device_page: meraki_mr32
+device_type: WiFi AP
+ethernet_gbit_ports: '1'
+fccid: https://fcc.io/UDX/-60031010
+firmware_oem_stock_url: "http://\xBF"
+flash_mb: 128NAND
+forum_search: MR32
+git_search: MR32
+jtag: true
+led_count: '1'
+model: MR32
+oem_device_homepage_url: https://meraki.cisco.com/lib/pdf/meraki_datasheet_MR32.pdf
+power_supply: PoE
+ram_mb: '128'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+target: bcm53xx
+wikidevi_url: https://wikidevi.com/wiki/Cisco_Meraki_MR32
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 2x2
+wlan_driver: unknown
+wlan_hardware: Broadcom BCM43520

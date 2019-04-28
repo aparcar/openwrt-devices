@@ -1,0 +1,42 @@
+availability: Discontinued
+bootloader: CFE
+brand: Observa
+button_count: '2'
+cpu: Broadcom BCM6368
+cpu_cores: '2'
+cpu_mhz: '400'
+device_id: observa_vh4032n
+device_page: vh4032n
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+firmware_oem_stock_url: https://drive.google.com/uc?export=download&id=1RI1Sj9mx3t63D9oYetJyJFKWw4kkvn_M
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/smp/openwrt-18.06.2-brcm63xx-smp-VH4032N-squashfs-cfe.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/smp/lede-brcm63xx-smp-VH4032N-squashfs-cfe.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/smp/lede-brcm63xx-smp-VH4032N-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/smp/openwrt-18.06.2-brcm63xx-smp-VH4032N-squashfs-sysupgrade.bin
+flash_mb: '32'
+forum_search: VH4032N
+git_search: VH4032N
+jtag: true
+led_count: '8'
+model: VH4032N
+modem: VDSL2
+package_architecture: mips_mips32
+phone_ports: '2'
+power_supply: 15 VDC, 1.2 A
+ram_mb: '128'
+recovery_method_s: CFE web recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: smp
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=41ad9ed13a7792775ad3cca88e9d4eac6e594c63
+supported_since_rel: 17.01.2
+switch: Broadcom BCM6368 in SoC
+target: brcm63xx
+usb_ports: 3x 2.0
+vlan: true
+where_available: ebay.es
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM43222

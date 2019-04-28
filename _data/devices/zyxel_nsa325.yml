@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: ZyXEL
+button_count: '2'
+comments_network_ports: WoL supported
+cpu: Marvell 88F6702
+cpu_cores: '1'
+cpu_mhz: '1600'
+device_id: zyxel_nsa325
+device_type: NAS
+ethernet_gbit_ports: '1'
+firmware_oem_stock_url: http://www.zyxel.com/support/SupportLandingSR.shtml?c=gb&l=en&kbid=M-00038&md=NSA325
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/kirkwood/generic/openwrt-18.06.2-kirkwood-zyxel_nsa325-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/kirkwood/generic/openwrt-kirkwood-zyxel_nsa325-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/kirkwood/generic/openwrt-kirkwood-zyxel_nsa325-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/kirkwood/generic/openwrt-18.06.2-kirkwood-zyxel_nsa325-squashfs-sysupgrade.bin
+flash_mb: '128'
+forum_search: NSA325
+git_search: NSA325
+installation_method_s: see git-commit
+jtag: true
+led_count: '6'
+model: NSA325
+oem_device_homepage_url: http://www.zyxeltech.de/nsa-325.htm
+package_architecture: arm_xscale
+power_supply: 100-240 VAC, 50-60 Hz, max. 27W
+ram_mb: '512'
+sata_ports: '2'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=4383c13aee8963ee93ca1950e7f0ea5a35309ab4
+supported_since_rel: 18.06.0
+target: kirkwood
+vlan: true
+wlan_driver: unknown

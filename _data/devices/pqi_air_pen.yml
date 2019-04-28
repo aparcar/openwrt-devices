@@ -1,0 +1,31 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: PQI
+button_count: '2'
+cpu: Atheros AR9331
+cpu_cores: '1'
+cpu_mhz: '400'
+device_id: pqi_air_pen
+device_type: WiFi Router
+ethernet_100m_ports: '1'
+firmware_oem_stock_url: http://jp.pqigroup.com/prod_driver.aspx?mnuid=&modid=145&prodid=539
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/tiny/openwrt-ath79-tiny-pqi_air-pen-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-pqi-air-pen-squashfs-sysupgrade.bin
+forum_search: Air Pen
+git_search: Air Pen
+installation_method_s: unknown
+led_count: '2'
+model: Air Pen
+oem_device_homepage_url: http://jp.pqigroup.com/prod_in.aspx?prodid=539&modid=145
+package_architecture: mips_24kc
+power_supply: 5 VDC, LiPo battery
+recovery_method_s: unknown
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=261415a660c12a5673fe3d48dabaf677e1d5c32c
+supported_since_rel: 18.06.0
+target: ar71xx-ath79
+usb_ports: 1x 2.0
+where_available: amazon.de
+wlan_24ghz: b/g/n
+wlan_driver: ath9k

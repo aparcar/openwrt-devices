@@ -1,0 +1,31 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: Inventel
+button_count: '2'
+cpu: Broadcom BCM6348
+cpu_cores: '1'
+cpu_mhz: '256'
+device_id: inventel_liveboxprov1_dv4410
+device_page: dv4210
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+flash_mb: '8'
+forum_search: Livebox Pro V1
+git_search: Livebox Pro V1
+jtag: true
+led_count: '4'
+model: Livebox Pro V1
+modem: ADSL2+
+package_architecture: mips_mips32
+power_supply: 15 VDC, 1.2 A
+ram_mb: '16'
+serial: true
+subtarget: generic
+switch: Broadcom BCM5325
+target: brcm63xx
+unsupported_functions: Impossible
+version: DV4410
+vlan: true
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318 rev. 9 (mini-PCI)

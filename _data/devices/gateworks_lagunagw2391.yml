@@ -1,0 +1,33 @@
+availability: Available 2017
+brand: Gateworks
+cpu: Cavium CNS3410
+cpu_cores: '1'
+cpu_mhz: '300'
+device_id: gateworks_lagunagw2391
+device_page: gateworks
+device_type: Single Board Computer
+ethernet_gbit_ports: '1'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/cns3xxx/generic/
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/cns3xxx/generic/
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/cns3xxx/generic/
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/cns3xxx/generic/
+flash_mb: '16'
+forum_search: Laguna GW2391
+git_search: Laguna GW2391
+installation_method_s: unknown
+model: Laguna GW2391
+oem_device_homepage_url: http://www.gateworks.com/product\
+package_architecture: arm_mpcore_vfp
+power_supply: 8-60 VDC, PoE 802.3af
+ram_mb: '256'
+recovery_method_s: unknown
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b591e15f362de31f9fba8905347451b3122cff8c
+supported_since_rel: '14.07'
+target: cns3xxx
+usb_ports: 2x 2.0
+vlan: false
+wlan_driver: unknown
+wlan_hardware: 2x mini-PCIe

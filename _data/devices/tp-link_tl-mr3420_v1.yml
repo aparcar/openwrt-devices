@@ -1,0 +1,42 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TP-Link
+button_count: '2'
+cpu: Atheros AR7241
+cpu_cores: '1'
+cpu_mhz: '400'
+detachable_antennas: '2'
+device_id: tp-link_tl-mr3420_v1
+device_page: tl-mr3420
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/TE7/MR3420
+firmware_oem_stock_url: https://www.tp-link.com/en/download/TL-MR3420_V1.html
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/17.01.5/targets/ar71xx/generic/lede-17.01.5-ar71xx-generic-tl-mr3420-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/tiny/openwrt-ath79-tiny-tplink_tl-mr3420-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/tiny/openwrt-ath79-tiny-tplink_tl-mr3420-v1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/17.01.5/targets/ar71xx/generic/lede-17.01.5-ar71xx-generic-tl-mr3420-v1-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: TL-MR3420
+git_search: TL-MR3420
+jtag: false
+model: TL-MR3420
+oem_device_homepage_url: https://www.tp-link.com/en/download/TL-MR3420_V1.html
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: '32'
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 17.01.5
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=2fdc8aea047bcc7ca142e2fc960263647e79eda1
+supported_since_rel: 10.03.1
+switch: Atheros AR7241
+target: ar71xx-ath79
+usb_ports: 1x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-MR3420_v1
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9287

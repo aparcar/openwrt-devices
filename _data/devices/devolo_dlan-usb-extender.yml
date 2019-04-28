@@ -1,0 +1,21 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Devolo
+cpu: Moschip MCS8140
+cpu_cores: '1'
+cpu_mhz: '175'
+device_id: devolo_dlan-usb-extender
+device_page: dlan-usb-extender
+device_type: Modem
+ethernet_100m_ports: '1'
+flash_mb: '8'
+forum_search: dlan-usb-extender
+git_search: dlan-usb-extender
+model: dlan-usb-extender
+modem: Powerline
+ram_mb: '16'
+serial: true
+target: mcs814x
+unsupported_functions: Impossible
+usb_ports: 1x 2.0
+wlan_driver: unknown

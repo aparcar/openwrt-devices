@@ -1,0 +1,33 @@
+availability: unknown 2018
+bootloader: brnboot
+brand: Arcadyan / Astoria
+button_count: '4'
+cpu: Lantiq XWAY VRX288 v1.1
+cpu_cores: '2'
+cpu_mhz: '500'
+device_id: arcadyanastoria_vgv7519kw_r01
+device_page: vgv7519
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xrx200/openwrt-18.06.2-lantiq-xrx200-arcadyan_vgv7519-brn-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xrx200/openwrt-lantiq-xrx200-arcadyan_vgv7519-brn-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xrx200/openwrt-lantiq-xrx200-arcadyan_vgv7519-nor-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xrx200/openwrt-18.06.2-lantiq-xrx200-arcadyan_vgv7519-nor-squashfs-sysupgrade.bin
+flash_mb: '16'
+jtag: true
+model: VGV7519KW (KPN Experia Box v8)
+modem: VDSL2
+package_architecture: mips_24kc
+ram_mb: '64'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: xrx200
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=4f3797386fdd41b548de8f85c911f5f1855499c5
+supported_since_rel: 17.01.0
+target: lantiq
+usb_ports: 2x 2.0
+version: R01
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink RT5362F

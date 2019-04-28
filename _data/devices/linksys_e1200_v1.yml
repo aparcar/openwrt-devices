@@ -1,0 +1,34 @@
+availability: Discontinued 2017
+brand: Linksys
+cpu: Broadcom BCM5357B0
+cpu_cores: '1'
+cpu_mhz: '300'
+device_id: linksys_e1200_v1
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/Q87/-E1200
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-linksys-e1200-v1-squashfs.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-linksys-e1200-v1-squashfs.bin
+flash_mb: '4'
+forum_search: E1200
+git_search: E1200
+installation_method_s: unknown
+lede_forum_topic_url: https://forum.lede-project.org/t/e1200-no-wifi-option-whatsoever-confused/8425
+model: E1200
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 0.5 A
+ram_mb: '32'
+recovery_method_s: unknown
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=bc5b56f42b7185e1dc41aab77b2c1f98410918bf
+supported_since_rel: 17.01.0
+switch: Broadcom BCM5357B0
+target: brcm47xx
+unsupported_functions: WiFi 2.4GHz
+version: v1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Linksys_E1200_v1
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM5357B0

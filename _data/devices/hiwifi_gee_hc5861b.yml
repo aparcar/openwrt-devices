@@ -1,0 +1,30 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: HiWiFi/Gee
+comments: aka "Gee Enjoy1200"
+cpu: MediaTek MT7628AN
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: hiwifi_gee_hc5861b
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: "http://\xBF"
+firmware_oem_stock_url: "http://\xBF"
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt76x8/openwrt-ramips-mt76x8-hiwifi_hc5861b-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: HC5861B
+git_search: HC5861B
+installation_method_s: see git-commit
+model: HC5861B
+oem_device_homepage_url: "http://\xBF"
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: '128'
+recovery_method_s: unknown
+subtarget: mt76x8
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=d20f4fc628e9e3c1e1d4063a0798e4097ffb3c4a
+target: ramips
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

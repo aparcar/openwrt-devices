@@ -1,0 +1,33 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: Senao
+button_count: '2'
+cpu: Atheros AR7161
+cpu_cores: '1'
+cpu_mhz: '680'
+detachable_antennas: '2'
+device_id: senao_eap7660d
+device_type: WiFi AP
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-eap7660d-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-eap7660d-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: EAP7660D
+git_search: EAP7660D
+installation_method_s: unknown
+led_count: '4'
+lede_forum_topic_url: https://forum.lede-project.org/search?q=EAP7660D
+model: EAP7660D
+package_architecture: mips_24kc
+ram_mb: '64'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=7bff9c01010f5c8ba3147da4feffff477eccb164
+supported_since_rel: 17.01.0
+target: ar71xx
+vlan: true
+wlan_24ghz: b/g
+wlan_50ghz: a
+wlan_driver: unknown

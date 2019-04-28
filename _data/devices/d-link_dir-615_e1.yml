@@ -1,0 +1,36 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: D-Link
+button_count: '1'
+cpu: Atheros AR7240
+cpu_cores: '1'
+cpu_mhz: '400'
+device_id: d-link_dir-615_e1
+device_page: dir-615
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/KA2/IR615E1
+firmware_openwrt_install_url: http://archive.openwrt.org/chaos_calmer/15.05.1/ar71xx/generic/openwrt-15.05.1-ar71xx-generic-dir-615-e1-squashfs-factory.bin
+flash_mb: '4'
+forum_search: DIR-615
+git_search: DIR-615
+jtag: true
+model: DIR-615
+package_architecture: mips_24kc
+power_supply: 5 VDC, 1.2 A
+ram_mb: '32'
+recovery_method_s: unknown
+serial: true
+subtarget: generic
+supported_current_rel: 15.05.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=60ec05fdcbcb3dea5e6cf1f47cd1e340807c08f3
+supported_since_rel: '10.03'
+switch: Atheros AR7240
+target: ar71xx
+usb_ports: Mod
+version: E1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-615_rev_E1
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9287

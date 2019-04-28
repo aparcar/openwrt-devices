@@ -1,0 +1,35 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Pogoplug
+comments: Pogoplug Mobile uses firmware of POGO-E02 acc. OWrt devicepage. No GUI installation.
+  No going back to OEM.
+cpu: Marvell 88F6192
+cpu_cores: '1'
+cpu_mhz: '800'
+device_id: pogoplug_pogoplugmobilev4
+device_page: pogo-v4
+device_type: NAS
+ethernet_gbit_ports: '1'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/kirkwood/generic/openwrt-18.06.2-kirkwood-cloudengines_pogoe02-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/kirkwood/generic/openwrt-kirkwood-cloudengines_pogoe02-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/kirkwood/generic/openwrt-kirkwood-cloudengines_pogoe02-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/kirkwood/generic/openwrt-18.06.2-kirkwood-cloudengines_pogoe02-squashfs-sysupgrade.bin
+flash_mb: 128NAND
+forum_search: Pogoplug Mobile
+git_search: Pogoplug Mobile
+installation_method_s: see devicepage
+jtag: true
+model: Pogoplug Mobile
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=51769
+package_architecture: arm_xscale
+power_supply: 12 VDC, 2.0 A
+ram_mb: '128'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_rel: '15.05'
+target: kirkwood
+usb_ports: 1x 2.0
+version: POGO-V4-A1-01
+wikidevi_url: https://wikidevi.com/wiki/Pogoplug_Mobile

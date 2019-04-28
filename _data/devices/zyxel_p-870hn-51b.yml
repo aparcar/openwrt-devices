@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: CFE
+brand: ZyXEL
+comments: SMP-enabled build is required for dual-core support
+cpu: Broadcom BCM6368
+cpu_cores: '2'
+cpu_mhz: '400'
+device_id: zyxel_p-870hn-51b
+device_page: p-870hn-51b
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+fccid: https://fcc.io/I88/P870HN51B
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/smp/openwrt-18.06.2-brcm63xx-smp-96368MVWG-generic-squashfs-cfe.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/smp/lede-brcm63xx-smp-96368MVWG-generic-squashfs-cfe.bin
+flash_mb: '8'
+forum_search: P-870HN-51b
+git_search: P-870HN-51b
+installation_method_s: GUI OEM
+model: P-870HN-51b
+modem: xDSL
+oem_device_homepage_url: https://www.zyxel.com/products_services/p_870hn_51b.shtml
+package_architecture: mips_mips32
+power_supply: 12 VDC, 1.0 A
+ram_mb: '32'
+serial: true
+subtarget: smp
+supported_current_rel: 18.06.2
+supported_since_rel: '15.05'
+switch: Broadcom BCM6368U
+target: brcm63xx
+unsupported_functions: WIP; Not working
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/ZyXEL_P-870HN-51b
+wlan_24ghz: b/g/n
+wlan_comments: 2x2
+wlan_driver: b43
+wlan_hardware: Broadcom BCM43222

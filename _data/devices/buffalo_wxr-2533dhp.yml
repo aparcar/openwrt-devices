@@ -1,0 +1,34 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Buffalo
+button_count: '8'
+cpu: Qualcomm Atheros IPQ8064
+cpu_cores: '2'
+cpu_mhz: '1400'
+device_id: buffalo_wxr-2533dhp
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: "http://\xBF"
+firmware_oem_stock_url: http://d.buffalo.jp/wxr-2533dhp/
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ipq806x/generic/openwrt-ipq806x-buffalo_wxr-2533dhp-initramfs-uImage
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ipq806x/generic/openwrt-ipq806x-buffalo_wxr-2533dhp-squashfs-sysupgrade.bin
+flash_mb: '256'
+forum_search: WXR-2533DHP
+git_search: WXR-2533DHP
+led_count: '10'
+model: WXR-2533DHP
+oem_device_homepage_url: "http://\xBF"
+power_supply: 12 VDC, 4.0 A
+ram_mb: '512'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=51fe956c4fbd6ea78f46a4aa835f142e94f32cee
+target: ipq806x
+usb_ports: 2x 3.0
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k-ct
+wlan_hardware: Qualcomm Atheros QCA9880

@@ -1,0 +1,30 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: Linksys
+cpu: Intel IXP425
+cpu_cores: '1'
+cpu_mhz: '266'
+detachable_antennas: '1'
+device_id: linksys_wrv54g
+device_page: wrv54g
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/Q87/-WRV54G
+flash_mb: '8'
+forum_search: WRV54G
+git_search: WRV54G
+jtag: true
+model: WRV54G
+oem_device_homepage_url: http://www.cisco.com/c/en/us/support/routers/wrv54g-wireless-router/model.html
+package_architecture: armeb_xscale
+power_supply: 5 VDC, 2.5 A
+ram_mb: '32'
+serial: true
+subtarget: generic
+target: ixp4xx
+version: v1
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/Linksys_WRV54G_v1
+wlan_24ghz: b/g
+wlan_driver: unknown
+wlan_hardware: Intersil Prism (mini-PCI)

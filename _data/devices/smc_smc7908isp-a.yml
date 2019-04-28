@@ -1,0 +1,29 @@
+availability: Discontinued
+brand: SMC
+button_count: '2'
+comments: Identical to ARV4518PW, see https://dev.openwrt.org/changeset/35352
+comments_network_ports: 2xVOIP
+cpu: Lantiq XWAY Danube
+cpu_cores: '2'
+cpu_mhz: '333'
+device_id: smc_smc7908isp-a
+device_page: arv4518pw
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+flash_mb: '4'
+forum_search: SMC7908ISP-A
+git_search: SMC7908ISP-A
+installation_method_s: unknown
+model: SMC7908ISP-A
+package_architecture: mips_24kc
+power_supply: 15 VDC, 1.0 A
+ram_mb: '64'
+recovery_method_s: unknown
+serial: true
+supported_current_rel: '14.07'
+supported_since_rel: 10.03.1
+target: lantiq
+usb_ports: 1x 2.0
+wlan_24ghz: b/g
+wlan_driver: ath5k
+wlan_hardware: Atheros AR2317

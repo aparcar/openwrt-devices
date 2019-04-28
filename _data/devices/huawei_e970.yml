@@ -1,0 +1,30 @@
+availability: Discontinued
+bootloader: CFE
+brand: Huawei
+cpu: Broadcom BCM5354
+cpu_cores: '1'
+cpu_mhz: '240'
+detachable_antennas: '1'
+device_id: huawei_e970
+device_page: e970
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/legacy/openwrt-18.06.2-brcm47xx-legacy-huawei-e970-squashfs.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/legacy/lede-brcm47xx-legacy-huawei-e970-squashfs.bin
+flash_mb: '4'
+forum_search: E970
+git_search: E970
+model: E970
+modem: Mobile Wireless/Cellular network
+package_architecture: mipsel_mips32
+ram_mb: '32'
+serial: true
+subtarget: legacy
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=c78e4fb220169b5ee8358f7b2582972c00b88fd7
+supported_since_rel: '15.05'
+target: brcm47xx
+vlan: true
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM5354

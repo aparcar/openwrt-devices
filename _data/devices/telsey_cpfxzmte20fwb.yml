@@ -1,0 +1,21 @@
+availability: unknown 2018
+brand: Telsey
+comments_network_ports: 4x Eth, 1x fiber, 2x RJ9
+cpu: Broadcom BCM6369
+cpu_cores: '2'
+cpu_mhz: '400'
+device_id: telsey_cpfxzmte20fwb
+device_type: WiFi Router
+forum_search: CPFXZMTE20FWB
+git_search: CPFXZMTE20FWB
+model: CPFXZMTE20FWB
+package_architecture: mips_mips32
+ram_mb: '64'
+subtarget: generic
+target: brcm63xx
+unsupported_functions: Possible to support
+usb_ports: 2x 2.0
+vlan: false
+wlan_24ghz: b/g/n
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT2860T

@@ -1,0 +1,24 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: Ubiquiti
+comments_network_ports: (passive, PoE)
+cpu: Atheros AR2313
+cpu_cores: '1'
+cpu_mhz: '180'
+device_id: ubiquiti_picostation5
+device_page: picostation5
+device_type: WiFi Router
+ethernet_100m_ports: '1'
+flash_mb: '8'
+forum_search: PicoStation 5
+git_search: PicoStation 5
+jtag: true
+model: PicoStation 5
+ram_mb: '32'
+serial: true
+supported_current_rel: 10.03.1
+supported_since_rel: 10.03.1
+target: ath25
+wlan_50ghz: a
+wlan_driver: unknown
+wlan_hardware: Atheros AR2313

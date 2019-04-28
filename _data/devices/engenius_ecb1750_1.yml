@@ -1,0 +1,36 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: EnGenius
+button_count: '1'
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: '1'
+cpu_mhz: '720'
+detachable_antennas: '6'
+device_id: engenius_ecb1750_1
+device_page: engenius_ecb1750_1
+device_type: WiFi Router
+ethernet_gbit_ports: '1'
+firmware_oem_stock_url: http://www.engeniustech.com/resources/Firmware/ECB-1750-v1.2.3.30.bin
+flash_mb: '16'
+forum_search: ECB1750
+git_search: ECB1750
+installation_method_s: TFTP generic
+jtag: false
+led_count: '4'
+model: ECB1750
+oem_device_homepage_url: http://www.engeniustech.com/products/indoor-access-points-client-bridges/desktop-wall-mount/ecb1750.html
+owrt_forum_topic_url: https://forum.openwrt.org/t/future-of-engenius-ecb1750-project/939/6
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 2.0 A, PoE 48 VDC 0.375 A
+ram_mb: '128'
+recovery_method_s: TFTP generic
+serial: true
+serial_connection_parameters: 115200 / 8N1
+target: ath79
+version: v1
+vlan: false
+where_available: amazon.com
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 2.4GHz MIMO 3x3:3, 5.0GHz MIMO 3x3:3
+wlan_driver: ath10k-ct

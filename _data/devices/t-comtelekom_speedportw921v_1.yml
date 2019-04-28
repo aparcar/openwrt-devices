@@ -1,0 +1,24 @@
+availability: Discontinued 2014
+brand: T-Com / Telekom
+cpu: Lantiq XWAY VRX288
+cpu_cores: '2'
+cpu_mhz: '500'
+device_id: t-comtelekom_speedportw921v_1
+device_page: spw921v
+device_type: WiFi Router
+ethernet_gbit_ports: '4'
+flash_mb: '32'
+forum_search: Speedport W921V
+git_search: Speedport W921V
+model: Speedport W921V
+modem: VDSL2
+package_architecture: mips_24kc
+phone_ports: DECT
+ram_mb: '128'
+serial: true
+subtarget: xrx200
+target: lantiq
+usb_ports: 2x 2.0
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: unknown

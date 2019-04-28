@@ -1,0 +1,42 @@
+availability: Discontinued
+bootloader: other
+brand: TP-Link
+button_count: '1'
+comments_network_ports: 1 (PoE) + 1 (PoE pass through)
+cpu: Atheros AR9350-BC2B
+cpu_cores: '1'
+cpu_mhz: '560'
+device_id: tp-link_cpe510_v1
+device_page: cpe510
+device_type: WiFi Router
+ethernet_100m_ports: '2'
+fccid: http://fcc.io/TE7/CPE510V1
+firmware_oem_stock_url: https://www.tp-link.com/en/support/download/cpe510/
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-cpe510-520-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-cpe510-520-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-cpe510-520-v1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-cpe510-520-v1-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: CPE510
+git_search: CPE510
+gluon_support: true
+installation_method_s: see devicepage
+led_count: '7'
+lede_forum_topic_url: https://forum.lede-project.org/t/tp-link-510-report
+model: CPE510
+oem_device_homepage_url: https://www.tp-link.com/en/business-networking/outdoor-radio/cpe510/
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=55907
+package_architecture: mips_24kc
+power_supply: 16-27 VDC, passive PoE
+ram_mb: '64'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=47ab1cbf23aef658f46bd86af88edb4e3f665639
+supported_since_rel: '14.07'
+target: ar71xx
+version: v1
+wlan_50ghz: a/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9350

@@ -1,0 +1,41 @@
+availability: Available 2017
+bootloader: U-Boot
+brand: ZyXEL
+button_count: '3'
+comments: The 18.06.0 and 18.06.1 images *cause bootloop*, this was fixed in 18.06.2
+cpu: Qualcomm Atheros QCA9557
+cpu_cores: '1'
+cpu_mhz: '720'
+device_id: zyxel_nbg6616
+device_page: nbg6616
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: https://fcc.io/I88/NBG6616
+firmware_oem_stock_url: https://www.zyxel.com/support/SupportLandingSR.shtml?c=gb&l=en&kbid=M-01999&md=NBG6616
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-NBG6616-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-NBG6616-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: NBG6616
+git_search: NBG6616
+led_count: '11'
+model: NBG6616
+oem_device_homepage_url: https://www.zyxel.com/products_services/nbg6616.shtml?t=p
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=54020
+package_architecture: mips_24kc
+power_supply: 12 VDC, 2.0 A
+ram_mb: '128'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ae7e7239b864c00b1e6c8b7856f1770a56c38c29
+supported_since_rel: 17.01.0
+switch: Qualcomm Atheros QCA8337
+target: ar71xx
+usb_ports: 2x 2.0
+version: A00
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/ZyXEL_NBG6616
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k

@@ -1,0 +1,29 @@
+availability: unknown 2018
+bootloader: CFE
+brand: BT
+cpu: Broadcom BCM6361
+cpu_cores: '2'
+cpu_mhz: '400'
+device_id: bt_homehub3_2
+device_page: homehub_v3b
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+flash_mb: '32'
+forum_search: Home Hub 3
+git_search: Home Hub 3
+jtag: false
+model: Home Hub 3
+modem: ADSL2+
+package_architecture: mips_mips32
+ram_mb: '64'
+serial: false
+subtarget: generic
+target: brcm63xx
+unsupported_functions: WIP
+usb_ports: 1x 2.0
+version: Type B
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/BT_Home_Hub_3.0B
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM6361

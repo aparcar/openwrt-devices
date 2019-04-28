@@ -1,0 +1,34 @@
+availability: Available 2018
+bootloader: U-Boot
+brand: Ubiquiti
+button_count: '1'
+cpu: Atheros AR9342
+cpu_cores: '1'
+cpu_mhz: '535'
+device_id: ubiquiti_nanobeam_m5
+device_page: nanobeam
+device_type: WiFi Router
+ethernet_100m_ports: '1'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ubnt-loco-m-xw-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-ubnt-loco-m-xw-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-ubnt-loco-m-xw-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ubnt-loco-m-xw-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: NanoBeam M5
+git_search: NanoBeam M5
+gluon_support: Broken
+led_count: '6'
+model: NanoBeam M5
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=49305
+package_architecture: mips_24kc
+power_supply: 24 VDC, 0.5 A (PoE)
+ram_mb: '64'
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_rel: '15.05'
+target: ar71xx
+wlan_50ghz: a/n
+wlan_comments: 2x2 MIMO
+wlan_driver: unknown
+wlan_hardware: Atheros AR9342

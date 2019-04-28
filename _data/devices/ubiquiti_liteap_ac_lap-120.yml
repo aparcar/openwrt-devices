@@ -1,0 +1,28 @@
+availability: Available 2019
+brand: Ubiquiti
+cpu: Atheros AR9342
+cpu_cores: '1'
+cpu_mhz: '533'
+device_id: ubiquiti_liteap_ac_lap-120
+device_type: WiFi AP
+ethernet_gbit_ports: '1'
+fccid: "http://\xBF"
+firmware_oem_stock_url: https://www.ubnt.com/download/airmax-ac/liteap-ac
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-ubnt_lap-120-initramfs-kernel.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-ubnt_lap-120-squashfs-sysupgrade.bin
+flash_mb: '16'
+model: LiteAP ac (LAP-120)
+oem_device_homepage_url: https://www.ubnt.com/airmax/liteap-ac/
+package_architecture: mips_24kc
+power_supply: 24 VDC, 0.5 A, passive PoE
+ram_mb: '64'
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=23f9b2d9a981c61b7166557febde31778d13b86f
+target: ath79
+where_available: amazon.com, eurodk.com
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA899X (PCI)

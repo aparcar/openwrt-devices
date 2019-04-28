@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: CFE
+brand: Comtrend
+button_count: '1'
+cpu: Broadcom BCM6328
+cpu_cores: '1'
+cpu_mhz: '320'
+device_id: comtrend_ar-5387un
+device_page: ar5387un
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-AR5387un-squashfs-cfe.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-AR5387un-squashfs-cfe.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-AR5387un-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-AR5387un-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: AR-5387un
+git_search: AR-5387un
+led_count: '5'
+model: AR-5387un
+modem: ADSL2+
+package_architecture: mips_mips32
+power_supply: 12 VDC, 1.0 A
+ram_mb: '64'
+recovery_method_s: CFE web recovery
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=c9b2e96909cb89f8bd91ef13ab7f89799783ae3b
+supported_since_rel: '14.07'
+switch: Broadcom BCM6328
+target: brcm63xx
+unsupported_functions: DSL modem
+usb_ports: 1x 2.0
+vlan: true
+wlan_24ghz: b/g/n
+wlan_hardware: Broadcom BCM43225

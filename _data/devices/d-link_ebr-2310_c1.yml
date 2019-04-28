@@ -1,0 +1,28 @@
+availability: Discontinued
+brand: D-Link
+cpu: Atheros AR7240
+cpu_cores: '1'
+cpu_mhz: '400'
+device_id: d-link_ebr-2310_c1
+device_type: Router
+ethernet_100m_ports: '5'
+firmware_oem_stock_url: http://support.dlink.com/ProductInfo.aspx?m=EBR-2310
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-ebr-2310-c1-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-ebr-2310-c1-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: EBR-2310
+git_search: EBR-2310
+installation_method_s: unknown
+led_count: '3'
+model: EBR-2310
+oem_device_homepage_url: http://us.dlink.com/us/en/home-solutions/connect/routers/ebr-2310-ethernet-broadband-router.html
+package_architecture: mips_24kc
+power_supply: 5 VDC, 2.0 A
+ram_mb: '32'
+recovery_method_s: unknown
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=6cce9557a0b77ee2450e75779c05231692e4c71f
+target: ar71xx
+version: C1
+wlan_driver: unknown

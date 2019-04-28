@@ -1,0 +1,31 @@
+availability: Available 2017
+bluetooth: '4.0'
+brand: Asus
+button_count: '1'
+comments: ZigBee, Speaker
+cpu: Qualcomm Atheros IPQ8064
+cpu_cores: '2'
+cpu_mhz: '1400'
+device_id: asus_srt-ac1900_a
+device_type: WiFi Router
+ethernet_gbit_ports: '2'
+flash_mb: '4096'
+forum_search: SRT-AC1900
+git_search: SRT-AC1900
+jtag: false
+led_count: '1'
+model: SRT-AC1900
+oem_device_homepage_url: https://www.asus.com/Networking/OnHub-SRT-AC1900/
+package_architecture: arm_cortex-a15_neon-vfpv4
+power_supply: 19 VDC, 1.75 A
+ram_mb: '1024'
+serial: false
+subtarget: generic
+switch: Qualcomm Atheros QCA8337
+target: ipq806x
+usb_ports: 1x 3.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/ASUS_SRT-AC1900_(ASUS_OnHub)
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k

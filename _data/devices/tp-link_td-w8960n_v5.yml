@@ -1,0 +1,37 @@
+availability: Discontinued 2017
+bootloader: CFE
+brand: TP-Link
+button_count: '3'
+comments: The Plusnet Fast2704N v1 and TD-W8960N v5 are almost similar.
+comments_network_ports: One LAN port convertible to WAN in settings of stock f/w.
+cpu: Broadcom BCM6318
+cpu_cores: '1'
+cpu_mhz: '333'
+detachable_antennas: '2'
+device_id: tp-link_td-w8960n_v5
+device_page: fast2704nv1
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+firmware_oem_stock_url: http://www.tp-link.com/en/download/TD-W8960N_V5.html
+flash_mb: '8'
+forum_search: TD-W8960N
+git_search: TD-W8960N
+led_count: '7'
+model: TD-W8960N
+modem: ADSL2+
+oem_device_homepage_url: http://www.tp-link.com/en/products/details/cat-15_TD-W8960N.html
+package_architecture: mips_mips32
+power_supply: 9 VDC, 0.85 A
+ram_mb: '64'
+serial: true
+switch: Broadcom BCM6318
+target: brcm63xx
+unsupported_functions: DSL modem
+usb_ports: Mod
+version: v5
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TD-W8960N_v5.x
+wlan_24ghz: b/g/n
+wlan_comments: '2'
+wlan_driver: b43
+wlan_hardware: Broadcom BCM43217 (mini-PCIe)

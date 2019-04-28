@@ -1,0 +1,21 @@
+availability: Discontinued
+bootloader: CFE
+brand: Scientific Atlanta
+cpu: Broadcom BCM3349
+cpu_cores: '1'
+cpu_mhz: '200'
+device_id: scientificatlanta_dpx2213
+device_page: thg520
+device_type: Modem
+ethernet_100m_ports: '1'
+flash_mb: '4'
+forum_search: DPX2213
+git_search: DPX2213
+jtag: true
+model: DPX2213
+ram_mb: '16'
+serial: true
+target: brcm63xx
+unsupported_functions: Impossible
+usb_ports: 1x Device
+wlan_driver: unknown

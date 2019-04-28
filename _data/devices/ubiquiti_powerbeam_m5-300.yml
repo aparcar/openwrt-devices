@@ -1,0 +1,34 @@
+availability: Available 2018
+brand: Ubiquiti
+button_count: '1'
+cpu: Atheros AR9xxx
+cpu_cores: '1'
+cpu_mhz: '560'
+device_id: ubiquiti_powerbeam_m5-300
+device_page: powerbeam
+device_type: other
+ethernet_100m_ports: '1'
+fccid: https://fcc.io/SWX-PBE5M
+firmware_oem_stock_url: https://www.ubnt.com/download/airmax-m
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ubnt-loco-m-xw-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-ubnt-loco-m-xw-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-ubnt-loco-m-xw-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ubnt-loco-m-xw-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: PowerBeam M5-300
+git_search: PowerBeam M5-300
+installation_method_s: unknown
+led_count: '6'
+model: PowerBeam M5-300
+oem_device_homepage_url: https://www.ubnt.com/airmax/powerbeam/
+package_architecture: mips_24kc
+power_supply: PoE 24 VDC, 0.5 A
+ram_mb: '64'
+recovery_method_s: unknown
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: "http://\xBF"
+target: ar71xx
+where_available: amazon.de, amazon.com
+wlan_50ghz: a/n
+wlan_driver: unknown

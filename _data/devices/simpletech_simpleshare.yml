@@ -1,0 +1,20 @@
+availability: Discontinued
+brand: SimpleTech
+comments_network_ports: '1'
+cpu: Broadcom BCM4780
+cpu_cores: '1'
+cpu_mhz: '300'
+device_id: simpletech_simpleshare
+device_page: simpleshare
+device_type: NAS
+flash_mb: '8'
+forum_search: SimpleShare
+git_search: SimpleShare
+model: SimpleShare
+ram_mb: '32'
+supported_current_rel: '10.03'
+supported_since_rel: '10.03'
+target: brcm47xx
+usb_ports: 2x 2.0
+vlan: false
+wlan_driver: unknown

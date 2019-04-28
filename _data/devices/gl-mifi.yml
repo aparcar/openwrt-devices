@@ -1,0 +1,44 @@
+availability: Available 2017
+bootloader: U-Boot
+brand: GL.iNet
+button_count: '2'
+comments: 3G/4G LTE - There is a PCI-e slot and the device can be purchased with or
+  without a region specific modem card. Battery is optional. V2.22 firmware => r47065
+comments_network_ports: 1 WAN, 1 LAN
+cpu: Atheros AR9331
+cpu_cores: '1'
+cpu_mhz: '400'
+device_id: gl-mifi
+device_type: Travel Router - Battery powered
+ethernet_100m_ports: '2'
+fccid: https://fccid.io/2AFIW-MIFIV1
+firmware_oem_stock_url: http://www.gl-inet.com/firmware/mifi/v1/
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-gl-mifi-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-gl-mifi-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: GL-MiFi
+git_search: GL-MiFi
+gpios: '18'
+installation_method_s: GUI OEM
+jtag: false
+led_count: '4'
+model: GL-MiFi
+modem: Mobile Wireless/Cellular network
+oem_device_homepage_url: https://www.gl-inet.com/mifi/
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?pid=294869\
+package_architecture: mips_24kc
+power_supply: "5 VDC, 2.0 A (\xB5USB), 5000mAh battery"
+ram_mb: '64'
+recovery_method_s: U-Boot web recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=42305ae24aa7ce95824d3b2303a40ab211f1a766
+supported_since_rel: 17.01.0
+switch: Atheros AR9331
+target: ar71xx
+vlan: true
+where_available: amazon.com
+wlan_24ghz: b/g/n
+wlan_driver: unknown

@@ -1,0 +1,36 @@
+availability: Discontinued
+bootloader: CFE
+brand: Asus
+cpu: Broadcom BCM5354
+cpu_cores: '1'
+cpu_mhz: '240'
+detachable_antennas: '1'
+device_id: asus_wl-500gpremium_v2
+device_page: wl500gp
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/MSQ/WL500GPV2
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/legacy/openwrt-18.06.2-brcm47xx-legacy-asus-wl-500gp-v2-squashfs.trx
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/legacy/lede-brcm47xx-legacy-asus-wl-500gp-v2-squashfs.trx
+flash_mb: '8'
+forum_search: WL-500g Premium
+git_search: WL-500g Premium
+jtag: true
+model: WL-500g Premium
+package_architecture: mipsel_mips32
+power_supply: 5 VDC, 2.5 A
+ram_mb: '32'
+serial: true
+subtarget: legacy
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=c15de3860cf87f9d820cec7d9fb54a8a57686e46
+supported_since_rel: '14.07'
+switch: Broadcom BCM5354
+target: brcm47xx
+usb_ports: 2x 2.0
+version: v2
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/ASUS_WL-500g_Premium_v2
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM5354

@@ -1,0 +1,36 @@
+availability: Discontinued
+brand: Buffalo
+cpu: Atheros AR7240
+cpu_cores: '1'
+cpu_mhz: '400'
+detachable_antennas: '1'
+device_id: buffalo_whr-hp-gn_v1
+device_page: whr-hp-g300n
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/FDI/-09101567-0
+firmware_openwrt_install_url: http://downloads.lede-project.org/releases/17.01.2/targets/ar71xx/generic/lede-17.01.2-ar71xx-generic-whr-hp-gn-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-whr-hp-gn-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-whr-hp-gn-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.lede-project.org/releases/17.01.2/targets/ar71xx/generic/lede-17.01.2-ar71xx-generic-whr-hp-gn-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: WHR-HP-GN
+git_search: WHR-HP-GN
+installation_method_s: see devicepage
+model: WHR-HP-GN
+oem_device_homepage_url: http://www.buffalo-technology.com/en/products/networking/150mbps-wireless/routers/archive/airstation-trade-n-technology-150mbps-cable-router/
+package_architecture: mips_24kc
+power_supply: 5 VDC, 2.0 A
+ram_mb: '32'
+subtarget: generic
+supported_current_rel: 17.01.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=034b2b7cde661e638184f7a946aacbad311eeee4
+supported_since_rel: '12.09'
+switch: Atheros AR7240
+target: ar71xx
+version: v1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Buffalo_WHR-HP-GN
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9280

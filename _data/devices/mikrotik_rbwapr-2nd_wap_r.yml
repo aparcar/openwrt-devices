@@ -1,0 +1,33 @@
+availability: Available 2019
+bootloader: RouterBOOT
+brand: MikroTik
+button_count: '1'
+comments_network_ports: 1x mini-PCIe for LTE modem
+cpu: Qualcomm Atheros QCA9531
+cpu_cores: '1'
+cpu_mhz: '650'
+device_id: mikrotik_rbwapr-2nd_wap_r
+device_type: WiFi AP
+ethernet_100m_ports: '1'
+fccid: https://fcc.io/TV7/WAPR2ND
+firmware_oem_stock_url: "http://\xBF"
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-vmlinux-initramfs.elf
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-rb-nor-flash-16M-squashfs-sysupgrade.bin
+flash_mb: '16'
+installation_method_s: see git-commit
+led_count: '5'
+model: RBwAPR-2nD (wAP R)
+oem_device_homepage_url: https://mikrotik.com/product/RBwAPR-2nD
+package_architecture: mips_24kc
+power_supply: 9-30V Passive PoE, 9-30V DC jack, 9-30V automotive jack
+ram_mb: '64'
+recovery_method_s: unknown
+subtarget: mikrotik
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=81d446b045176e3e25bb0ef74e3d060b51a0a353
+target: ar71xx
+where_available: mikrotik-store.eu
+wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_wAP_R_(RBwAPR-2nD)
+wlan_24ghz: b/g/n
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA9531

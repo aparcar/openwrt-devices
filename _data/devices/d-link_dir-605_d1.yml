@@ -1,0 +1,25 @@
+availability: Discontinued
+brand: D-Link
+cpu: Broadcom BCM4716
+cpu_cores: '1'
+cpu_mhz: '300'
+device_id: d-link_dir-605_d1
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+flash_mb: '4'
+forum_search: DIR-605
+git_search: DIR-605
+model: DIR-605
+package_architecture: mipsel_74kc
+power_supply: 5 VDC, 1.2 A
+ram_mb: '32'
+subtarget: mips74k
+switch: Broadcom BCM5325E
+target: brcm47xx
+unsupported_functions: Possible to support
+version: D1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-605_rev_D1
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4716

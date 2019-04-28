@@ -1,0 +1,22 @@
+availability: Discontinued
+brand: Catch Tec
+cpu: Broadcom BCM5354
+cpu_cores: '1'
+cpu_mhz: '240'
+device_id: catchtec_cw5354u
+device_page: cw5354u
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+flash_mb: '16'
+forum_search: CW5354U
+git_search: CW5354U
+model: CW5354U
+package_architecture: mipsel_mips32
+ram_mb: '32'
+subtarget: legacy
+target: brcm47xx
+usb_ports: 1x 2.0
+vlan: true
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318

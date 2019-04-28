@@ -1,0 +1,30 @@
+availability: Discontinued
+bootloader: Coreboot
+brand: PC Engines
+cpu: AMD T40E
+cpu_cores: '2'
+cpu_mhz: '1000'
+device_id: pcengines_apu1c
+device_page: apu
+device_type: Single Board Computer
+ethernet_gbit_ports: '3'
+firmware_openwrt_install_url: https://downloads.openwrt.org/releases/18.06.2/targets/x86/64/openwrt-18.06.2-x86-64-combined-squashfs.img.gz
+firmware_openwrt_snapshot_install_url: https://downloads.openwrt.org/snapshots/targets/x86/64/openwrt-x86-64-combined-squashfs.img.gz
+firmware_openwrt_snapshot_upgrade_url: https://downloads.openwrt.org/snapshots/targets/x86/64/openwrt-x86-64-combined-squashfs.img.gz
+firmware_openwrt_upgrade_url: https://downloads.openwrt.org/releases/18.06.2/targets/x86/64/openwrt-18.06.2-x86-64-combined-squashfs.img.gz
+flash_mb: SD
+forum_search: APU1C
+git_search: APU1C
+model: APU1C
+package_architecture: x86_64
+ram_mb: '2048'
+sata_ports: '1'
+serial: true
+subtarget: '64'
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=1898f7339fc6a6f39e093562f2c4b6de534ef4db
+target: x86
+usb_ports: 2x 2.0
+vlan: false
+wlan_driver: unknown
+wlan_hardware: Optional (2x mini-PCI-E/1x mini-PCI-E for 3G)

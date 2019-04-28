@@ -1,0 +1,41 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: GL.iNet
+button_count: '1'
+comments: This is a USB Stick and works off of a PC with Ethernet over USB or can
+  run wireless off a USB battery
+comments_network_ports: Ethernet over USB
+cpu: Atheros AR9331
+cpu_cores: '1'
+cpu_mhz: '400'
+device_id: gl.inet_gl-usb150
+device_type: WiFi Router
+fccid: https://fcc.io/2AFIW-USB150
+firmware_oem_stock_url: http://www.gl-inet.com/firmware/usb150/
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-gl-usb150-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-gl-usb150-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: GL-USB150
+git_search: GL-USB150
+installation_method_s: GUI OEM
+jtag: false
+led_count: '2'
+model: GL-USB150
+oem_device_homepage_url: http://www.gl-inet.com/usb150/
+package_architecture: mips_24kc
+power_supply: 5 VDC, 1.0 A (USB type A)
+ram_mb: '64'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=90d8c0f0a2f4c902348a2f514ba33f2c9c34e005
+supported_since_rel: 18.06.0
+target: ar71xx
+usb_ports: 1x 2.0 Device
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/GL.iNet_GL-USB150
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9331

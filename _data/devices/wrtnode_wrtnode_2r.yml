@@ -1,0 +1,37 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: WRTnode
+cpu: MediaTek MT7688AN
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: wrtnode_wrtnode_2r
+device_type: Single Board Computer
+ethernet_100m_ports: '5'
+fccid: "http://\xBF"
+firmware_oem_stock_url: "http://\xBF"
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt76x8/openwrt-ramips-mt76x8-wrtnode2r-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt76x8/openwrt-18.06.2-ramips-mt76x8-wrtnode2r-squashfs-sysupgrade.bin
+flash_mb: '32'
+forum_search: WRTnode
+git_search: WRTnode
+gpios: more than 20
+installation_method_s: unknown
+model: WRTnode
+oem_device_homepage_url: "http://\xBF"
+package_architecture: mipsel_24kc
+power_supply: 3.3 VDC, 0.3A
+ram_mb: '256'
+recovery_method_s: unknown
+serial: true
+subtarget: mt76x8
+supported_current_rel: 18.06.2
+supported_since_commit: "http://\xBF"
+supported_since_rel: 17.01.0
+switch: MediaTek MT7688AN
+target: ramips
+usb_ports: 1x 2.0
+version: 2R
+wikidevi_url: https://wikidevi.com/wiki/WRTnode_2R
+wlan_24ghz: b/g/n
+wlan_driver: mt76
+wlan_hardware: MediaTek MT7688AN

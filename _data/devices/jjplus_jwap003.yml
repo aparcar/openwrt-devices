@@ -1,0 +1,33 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: jjPlus
+button_count: '1'
+cpu: Atheros AR7130
+cpu_cores: '1'
+cpu_mhz: '300'
+detachable_antennas: '1'
+device_id: jjplus_jwap003
+device_type: WiFi AP
+ethernet_100m_ports: '2'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-jwap003-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-jwap003-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: JWAP003
+git_search: JWAP003
+installation_method_s: unknown
+jtag: true
+led_count: '6'
+model: JWAP003
+package_architecture: mips_24kc
+ram_mb: '32'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=697f5d0bdd131565201a0d2409fdfb8f688d2ebf
+supported_since_rel: 17.01.0
+target: ar71xx
+usb_ports: 2x 2.0
+wlan_driver: unknown
+wlan_hardware: mini-PCI

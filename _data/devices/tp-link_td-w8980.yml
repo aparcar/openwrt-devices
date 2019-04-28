@@ -1,0 +1,45 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TP-Link
+button_count: '3'
+cpu: Lantiq XWAY VRX268
+cpu_cores: '2'
+cpu_mhz: '500'
+detachable_antennas: '3'
+device_id: tp-link_td-w8980
+device_page: td-w8980
+device_type: WiFi Router
+ethernet_gbit_ports: '4'
+fccid: https://fcc.io/TE7/TDW8980V1
+firmware_oem_stock_url: https://www.tp-link.com/en/support/download/td-w8980/
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xrx200/openwrt-lantiq-xrx200-tplink_tdw8980-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xrx200/openwrt-18.06.2-lantiq-xrx200-tplink_tdw8980-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: TD-W8980
+git_search: TD-W8980
+jtag: true
+led_count: '7'
+model: TD-W8980
+modem: xDSL
+oem_device_homepage_url: https://www.tp-link.com/en/home-networking/dsl-modem-router/td-w8980/
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=49413
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: '64'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: xrx200
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=161179f40bd7899516518f3844fea28c6dd86efc
+supported_since_rel: 17.01.0
+switch: Lantiq PSB 80910
+target: lantiq
+unsupported_functions: WiFi 5GHz
+usb_ports: 2x 2.0
+version: v1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TD-W8980_v1
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_comments: 2.4GHz 2 internal antennas, 5GHz 3 external antennas
+wlan_driver: ath9k

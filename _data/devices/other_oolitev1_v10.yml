@@ -1,0 +1,36 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Gainstrong
+comments: Vendor firmware is based on OpenWrt.
+cpu: Atheros AR9331
+cpu_cores: '1'
+cpu_mhz: '400'
+device_id: other_oolitev1_v10
+device_page: oolitev1
+device_type: Single Board Computer
+ethernet_100m_ports: '2'
+firmware_oem_stock_url: https://github.com/ooioe
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-oolite-v1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-oolite-v1-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: Oolite
+git_search: Oolite
+installation_method_s: Sysupgrade
+jtag: true
+model: Oolite
+oem_device_homepage_url: http://www.ooioe.com/oolitev1/
+package_architecture: mips_24kc
+ram_mb: '64'
+recovery_method_s: unknown
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=4ea54b827ffc7a3880ef34d7394c477d62c9d79d
+supported_since_rel: '14.07'
+target: ar71xx
+usb_ports: 1x 2.0
+version: v1.0
+vlan: false
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9331

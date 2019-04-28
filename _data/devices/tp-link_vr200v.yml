@@ -1,0 +1,38 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: TP-Link
+button_count: '4'
+cpu: Lantiq XWAY VRX288
+cpu_cores: '2'
+cpu_mhz: '500'
+detachable_antennas: '3'
+device_id: tp-link_vr200v
+device_page: vr200v
+device_type: WiFi Router
+ethernet_gbit_ports: '4'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xrx200/openwrt-lantiq-xrx200-tplink_vr200v-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xrx200/openwrt-18.06.2-lantiq-xrx200-tplink_vr200v-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: VR200v
+git_search: VR200v
+installation_method_s: see devicepage
+led_count: '8'
+lede_forum_topic_url: https://forum.lede-project.org/t/tp-link-archer-vr200v-state-of-support/907
+model: VR200v
+modem: ADSL2+ Annex B
+oem_device_homepage_url: https://www.tp-link.com/de/products/details/cat-15_Archer-VR200v.html
+package_architecture: mips_24kc
+power_supply: 12 VDC, 2.5 A
+ram_mb: '128'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: xrx200
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=13b8b8c2e7f3f0acf8d23a28a011a3ea261757f5
+supported_since_rel: 17.01.0
+switch: Internal configurable (Infineon)
+target: lantiq
+usb_ports: 2x 2.0
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: unknown

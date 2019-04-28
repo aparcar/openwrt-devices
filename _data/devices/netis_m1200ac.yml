@@ -1,0 +1,40 @@
+availability: Discontinued 2017
+bootloader: U-Boot
+brand: Netis
+button_count: '1'
+comments: Failsafe mode not workign acc. https://dev.openwrt.org/changeset/47619
+cpu: MediaTek MT7621AT
+cpu_cores: '2'
+cpu_mhz: '880'
+device_id: netis_m1200ac
+device_page: wf-2881
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+firmware_oem_stock_url: http://netiskorea.co.kr/atboard.php?grp1=support&grp2=download
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-wf-2881-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-wf-2881-squashfs-sysupgrade.bin
+flash_mb: 128NAND
+forum_search: M1200AC
+git_search: M1200AC
+jtag: false
+led_count: '10'
+model: M1200AC
+oem_device_homepage_url: http://netiskorea.co.kr/product.php?uid=50&model=WF2881
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 2.0 A
+ram_mb: '128'
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+subtarget: mt7621
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=8c1f5141ceee722cdd282f909390b73455968cfd
+supported_since_rel: 17.01.0
+switch: MediaTek MT7530
+target: ramips
+unsupported_functions: Failsafe mode
+usb_ports: 1x 3.0
+vlan: true
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 2x 2x2
+wlan_driver: mt76

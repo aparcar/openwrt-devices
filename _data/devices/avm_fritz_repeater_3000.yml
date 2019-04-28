@@ -1,0 +1,34 @@
+availability: Available 2019
+bootloader: EVA
+brand: AVM
+button_count: '1'
+cpu: Qualcomm IPQ4019
+cpu_cores: '4'
+cpu_mhz: '717'
+device_id: avm_fritz_repeater_3000
+device_type: Range Extender
+ethernet_gbit_ports: '2'
+fccid: "http://\xBF"
+firmware_oem_stock_url: https://avm.de/service/downloads/?product=fritzrepeater-3000
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ipq40xx/generic/openwrt-ipq40xx-avm_fritzrepeater-3000-initramfs-fit-uImage.itb
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ipq40xx/generic/openwrt-ipq40xx-avm_fritzrepeater-3000-squashfs-sysupgrade.bin
+flash_mb: 128NAND
+forum_search: FRITZ!Repeater 3000
+git_search: FRITZ!Repeater 3000
+installation_method_s: see git-commit
+led_count: '2'
+model: FRITZ!Repeater 3000
+oem_device_homepage_url: https://avm.de/produkte/fritzwlan/fritzrepeater-3000/
+power_supply: 12 VDC, 1.0 A
+ram_mb: '256'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=148d29d47b1d555d0058dcc5dda450b74c4628ec
+target: ipq40xx
+where_available: alternate.de, conrad.de, reichelt.de
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k

@@ -1,0 +1,33 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: Fon
+button_count: '1'
+comments: Releases past Backfire are essentially worthless because of lack of RAM
+cpu: Atheros AR2315
+cpu_cores: '1'
+cpu_mhz: '180'
+detachable_antennas: '1'
+device_id: fon_fonera_fon2201
+device_page: fonera2
+device_type: WiFi Router
+ethernet_100m_ports: '2'
+fccid: https://fcc.io/UVA/-FON2201
+flash_mb: '8'
+forum_search: Fonera+
+git_search: Fonera+
+jtag: true
+model: Fonera+
+power_supply: 7.5 VDC, 1.0 A
+ram_mb: '16'
+recovery_method_s: RedBoot TFTP + serial recovery
+serial: true
+supported_current_rel: 10.03.1
+supported_since_rel: 8.09.2
+switch: Marvell 88E6060
+target: ath25
+version: FON2201
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/La_Fonera%2B_FON2201
+wlan_24ghz: b/g
+wlan_driver: unknown
+wlan_hardware: Atheros AR2315

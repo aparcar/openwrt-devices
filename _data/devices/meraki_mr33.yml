@@ -1,0 +1,36 @@
+availability: unknown 2018
+bluetooth: BLE
+bootloader: U-Boot
+brand: Meraki
+button_count: '1'
+cpu: Qualcomm Atheros IPQ4029
+cpu_cores: '4'
+device_id: meraki_mr33
+device_page: mr33
+device_type: WiFi AP
+ethernet_gbit_ports: '1'
+fccid: https://fcc.io/UDX-60052010
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ipq40xx/generic/openwrt-ipq40xx-meraki_mr33-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ipq40xx/generic/openwrt-18.06.2-ipq40xx-meraki_mr33-squashfs-sysupgrade.bin
+flash_mb: 128NAND
+forum_search: MR33
+git_search: MR33
+led_count: '4'
+model: MR33
+oem_device_homepage_url: https://meraki.cisco.com/products/wireless/mr33
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=70514
+package_architecture: arm_cortex-a7_neon-vfpv4
+power_supply: 12 VDC, 37-57 VDC, PoE 802.3af
+ram_mb: '256'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=4943afd7818f56053231a5a7ae90e55da44f1f08
+supported_since_rel: 18.06.0
+switch: Qualcomm Atheros AR8035
+target: ipq40xx
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 2x2 MU-MIMO
+wlan_driver: ath10k
