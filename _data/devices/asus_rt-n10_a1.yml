@@ -1,0 +1,33 @@
+availability: Discontinued
+brand: Asus
+cpu: Broadcom BCM5356
+cpu_cores: '1'
+cpu_mhz: '300'
+detachable_antennas: '1'
+device_id: asus_rt-n10_a1
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/MSQ/-RTN10
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-asus-rt-n10-squashfs.trx
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-asus-rt-n10-squashfs.trx
+flash_mb: '4'
+forum_search: RT-N10
+git_search: RT-N10
+installation_method_s: unknown
+model: RT-N10
+package_architecture: mipsel_74kc
+power_supply: 9 VDC, 1.0 A
+ram_mb: '16'
+recovery_method_s: unknown
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=1268e064aa122e5f9ae2b58ce14fac617f878be6
+supported_since_rel: 10.03.1
+switch: Broadcom BCM5356
+target: brcm47xx
+unsupported_functions: WiFi 2.4GHz
+version: A1
+wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N10
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM5356

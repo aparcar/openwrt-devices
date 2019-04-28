@@ -1,0 +1,29 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: Freecom
+cpu: Intel IXP425/IXP422
+cpu_cores: '1'
+cpu_mhz: '266'
+device_id: freecom_fsg-3
+device_page: fsg-3
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ixp4xx/
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/releases/17.01.4/targets/ixp4xx/
+flash_mb: '4'
+forum_search: FSG-3
+git_search: FSG-3
+installation_method_s: see devicepage
+model: FSG-3
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=63966
+package_architecture: armeb_xscale
+ram_mb: '64'
+recovery_method_s: see devicepage
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_rel: 10.03.1
+target: ixp4xx
+usb_ports: 4x 2.0
+wlan_driver: unknown
+wlan_hardware: 1x mini-PCI

@@ -1,0 +1,35 @@
+availability: Discontinued 2017
+bootloader: U-Boot
+brand: TP-Link
+cpu: Atheros AR9344
+cpu_cores: '1'
+cpu_mhz: '560'
+device_id: tp-link_tl-wdr3320_v2
+device_page: tl-wdr3320
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+firmware_oem_stock_url: http://service.tp-link.com.cn/list_download_software_1_0_302.html
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/17.01.5/targets/ar71xx/generic/lede-17.01.5-ar71xx-generic-tl-wdr3320-v2-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wdr3320-v2-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wdr3320-v2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/17.01.5/targets/ar71xx/generic/lede-17.01.5-ar71xx-generic-tl-wdr3320-v2-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: TL-WDR3320
+git_search: TL-WDR3320
+installation_method_s: unknown
+model: TL-WDR3320
+oem_device_homepage_url: http://www.tp-link.com.cn/product_double_302.html
+package_architecture: mips_24kc
+ram_mb: '64'
+recovery_method_s: unknown
+subtarget: generic
+supported_current_rel: 17.01.5
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=0dbced8a484faeb8bea0c29a35c1b0f6d58dbf4c
+supported_since_rel: 17.01.0
+switch: Atheros AR9344
+target: ar71xx
+version: v2
+vlan: true
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: ath9k

@@ -1,0 +1,48 @@
+availability: Discontinued 2015
+bootloader: U-Boot
+brand: TP-Link
+button_count: '1'
+comments: This device is very similar to the TP-Link TL-WDR4300. For USB mod, see
+  device page.
+comments_network_ports: 1 WAN + 4x LAN
+cpu: Atheros AR9344
+cpu_cores: '1'
+cpu_mhz: '560'
+detachable_antennas: '2'
+device_id: tp-link_tl-wdr3600_v1
+device_page: tl-wdr3600
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: https://fcc.io/TE7/WDR3600
+firmware_oem_stock_url: http://www.tp-link.com/res/down/soft/TL-WDR3600_V1_150518.zip
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-tl-wdr3600-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-tplink_tl-wdr3600-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-tplink_tl-wdr3600-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-tl-wdr3600-v1-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: TL-WDR3600
+git_search: TL-WDR3600
+gluon_support: true
+jtag: true
+led_count: '9'
+model: TL-WDR3600
+oem_device_homepage_url: http://www.tp-link.com/en/products/details/cat-9_TL-WDR3600.html
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: '128'
+recovery_method_s: U-Boot TFTP recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=0517183b9cb942102f02f40e587162a5e92f1335
+supported_since_rel: '14.07'
+switch: Atheros AR8327N
+target: ar71xx-ath79
+usb_ports: 2x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WDR3600
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_comments: 2x2 MIMO 2.4GHz, 2x2 MIMO 5GHz, ath9k
+wlan_driver: ath9k

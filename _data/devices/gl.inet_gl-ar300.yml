@@ -1,0 +1,41 @@
+availability: Discontinued 2017
+bootloader: U-Boot
+brand: GL.iNet
+button_count: '1'
+comments: TF-Card, PoE option
+cpu: Atheros AR9344
+cpu_cores: '1'
+cpu_mhz: '560'
+device_id: gl.inet_gl-ar300
+device_page: gl-ar300
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+firmware_oem_stock_url: http://www.gl-inet.com/firmware/ar300/
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-gl-ar300-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-gl-ar300-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: GL-AR300
+git_search: GL-AR300
+gpios: '7'
+jtag: false
+led_count: '3'
+model: GL-AR300
+oem_device_homepage_url: http://www.gl-inet.com/ar300/
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?pid=294868\
+package_architecture: mips_24kc
+power_supply: 12 VDC, 2.0 A
+ram_mb: '128'
+recovery_method_s: U-Boot web recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=a04c3e73a33f9effc77511076bdbf8a0013a9574
+supported_since_rel: 17.01.0
+switch: Atheros AR9344
+target: ar71xx
+usb_ports: 2x 2.0
+version: v3
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: unknown

@@ -1,0 +1,42 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TP-Link
+button_count: '2'
+comment_installation: Rename installation image to openwrt.bin before flashing.
+cpu: Atheros AR9341
+cpu_cores: '1'
+cpu_mhz: '535'
+detachable_antennas: '2'
+device_id: tp-link_tl-wa830re_v2
+device_page: tl-wa830re
+device_type: Range Extender
+ethernet_100m_ports: '1'
+fccid: https://fcc.io/TE7/WA830REV2
+firmware_oem_stock_url: http://www.tp-link.us/resources/software/TL-WA830RE_V2_140901.zip
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wa830re-v2-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wa830re-v2-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wa830re-v2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wa830re-v2-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: TL-WA830RE
+git_search: TL-WA830RE
+installation_method_s: GUI OEM
+led_count: '4'
+model: TL-WA830RE
+oem_device_homepage_url: http://www.tp-link.com/en/products/details/cat-10_TL-WA830RE.html
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=44102
+package_architecture: mips_24kc
+power_supply: 9 VDC, 0.6 A
+ram_mb: '32'
+recovery_method_s: unknown
+serial: true
+subtarget: tiny
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=42a37b2a894fc774e1ee13993c434ea2909c3f67
+supported_since_rel: 15.05.1
+target: ar71xx
+version: v2
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WA830RE_v2
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9341

@@ -1,0 +1,28 @@
+availability: Available 2017
+brand: NXP
+comments: Also 64b firmware available
+comments_network_ports: additional 1x 10G network port
+cpu: NXP LS1088A
+cpu_cores: '8'
+cpu_mhz: '1800'
+device_id: nxp_ls1088ardb
+device_type: Single Board Computer
+ethernet_gbit_ports: '8'
+firmware_oem_stock_url: https://www.nxp.com/products/software-and-tools/software-development-tools/codewarrior-development-tools/suite-for-networked-applications/qoriq-ls1088a-rdb-reference-design-board:LS1088A-RDB
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/layerscape/armv8_64b/openwrt-18.06.2-layerscape-armv8_64b-ls1088ardb-ubifs-firmware.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/layerscape/armv8_64b/openwrt-layerscape-armv8_64b-ls1088ardb-ubifs-firmware.bin
+forum_search: LS1088ARDB
+git_search: LS1088ARDB
+installation_method_s: unknown
+jtag: true
+model: LS1088ARDB
+oem_device_homepage_url: https://www.nxp.com/products/software-and-tools/software-development-tools/codewarrior-development-tools/suite-for-networked-applications/qoriq-ls1088a-rdb-reference-design-board:LS1088A-RDB
+package_architecture: aarch64_generic
+recovery_method_s: unknown
+sata_ports: '1'
+serial: true
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=1866368a8ab8cacf73aa47f67138040d5620439d
+supported_since_rel: 17.01.0
+target: layerscape
+usb_ports: 2x 3.0

@@ -1,0 +1,34 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: ZBT
+button_count: '1'
+cpu: MediaTek MT7621AT
+cpu_cores: '2'
+cpu_mhz: '880'
+device_id: zbt_we3526
+device_type: WiFi AP
+ethernet_gbit_ports: '5'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-zbtlink_zbt-we3526-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-zbtlink_zbt-we3526-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: WE3526
+git_search: WE3526
+installation_method_s: unknown
+led_count: '8'
+model: WE3526
+oem_device_homepage_url: http://www.zbtlink.com/products/313.html
+package_architecture: mipsel_24kc
+ram_mb: '512'
+recovery_method_s: unknown
+subtarget: mt7621
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=9996480b0ee80456af0b9fc3d44580393b09c84b
+supported_since_rel: 18.06.0
+switch: MediaTek MT7621AT
+target: ramips
+usb_ports: 1x 2.0
+vlan: true
+where_available: zbt.en.alibaba.com
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

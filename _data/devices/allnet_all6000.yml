@@ -1,0 +1,21 @@
+availability: Discontinued
+brand: Allnet
+cpu: Marvell 88F6281
+cpu_cores: '1'
+cpu_mhz: '1200'
+device_id: allnet_all6000
+device_type: Single Board Computer
+ethernet_gbit_ports: '2'
+flash_mb: 1024NAND
+forum_search: ALL6000
+git_search: ALL6000
+model: ALL6000
+oem_device_homepage_url: https://shop.allnet.de/detail/index/sArticle/234030
+package_architecture: arm_xscale
+ram_mb: '128'
+serial: true
+subtarget: generic
+target: kirkwood
+unsupported_functions: WIP
+vlan: false
+wlan_driver: unknown

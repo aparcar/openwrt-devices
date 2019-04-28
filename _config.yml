@@ -1,0 +1,26 @@
+title: OpenWrt devices
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+header_pages:
+   - devices.md
+
+exclude:
+   - Gemfile
+   - Gemfile.lock
+   - node_modules
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
+
+page_gen:
+    - index_files: true
+      data: devices
+      template: device
+      name: 0
+      dir: devices/info/

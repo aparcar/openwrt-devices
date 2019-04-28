@@ -1,0 +1,41 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: PowerCloud Systems
+button_count: '2'
+comments: aka "Senao WBR4200AGN", aka"Skydog", serial header is not populated
+cpu: Atheros AR1022
+cpu_cores: '1'
+cpu_mhz: '535'
+device_id: powercloud_systems_cr5000
+device_page: powercloud_systems_cr5000
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: https://fcc.io/U2M/-WBR4200AGN
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-cr3000-nocloud-squashfs-sysupgrade.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-pcs_cr5000-squashfs-sysupgrade.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-pcs_cr5000-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-cr3000-nocloud-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: CR5000
+git_search: CR5000
+jtag: false
+led_count: '3'
+model: CR5000
+oem_device_homepage_url: http://skydog.com/
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.25 A
+ram_mb: '64'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=fb1273dfddd89ff487dae16265a2870e9d175dfb
+supported_since_rel: 17.01.0
+switch: Atheros AR8327
+target: ar71xx-ath79
+usb_ports: 1x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Senao_WBR4200AGN
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: ath9k

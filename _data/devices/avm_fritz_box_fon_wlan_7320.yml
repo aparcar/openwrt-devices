@@ -1,0 +1,38 @@
+availability: Discontinued
+bootloader: Adam2
+brand: AVM
+button_count: '2'
+comments: see also http://www.wehavemorefun.de/fritzbox/7320
+cpu: Lantiq PSB50812
+cpu_cores: '2'
+cpu_mhz: '393'
+device_id: avm_fritz_box_fon_wlan_7320
+device_page: avm_fritz_box_7320
+device_type: WiFi Router
+ethernet_gbit_ports: '2'
+firmware_oem_stock_url: https://avm.de/service/fritzbox/fritzbox-7320/downloads/
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xway/openwrt-lantiq-xway-avm_fritz7320-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xway/openwrt-18.06.2-lantiq-xway-avm_fritz7320-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: FRITZ!Box Fon WLAN 7320
+git_search: Fritz7320
+installation_method_s: see devicepage
+jtag: true
+led_count: '5'
+model: FRITZ!Box Fon WLAN 7320
+modem: ADSL2+ Annex B
+oem_device_homepage_url: https://avm.de/service/fritzbox/fritzbox-7320/uebersicht/
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: '64'
+serial: true
+serial_connection_parameters: 38400 / 8N1
+subtarget: xway
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=2c33df03761f366193eeb2c3ffd28dfea475de41
+supported_since_rel: 17.01.0
+target: lantiq
+usb_ports: 2x 2.0
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9227

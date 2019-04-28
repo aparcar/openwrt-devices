@@ -1,0 +1,37 @@
+availability: Discontinued
+brand: TP-Link
+button_count: '2'
+comment_installation: For OEM GUI installation, rename ...squashfs-factory.bin to
+  firmware.bin
+cpu: Qualcomm Atheros QCA9533
+cpu_cores: '1'
+cpu_mhz: '650'
+detachable_antennas: '2'
+device_id: tp-link_tl-wa801nd_v4
+device_page: tl-wa801nd
+device_type: WiFi AP
+ethernet_100m_ports: '1'
+fccid: https://fcc.io/TE7/WA801NDV4
+firmware_oem_stock_url: https://www.tp-link.com/en/download/TL-WA801ND_V4.html
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wa801nd-v4-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wa801nd-v4-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: TL-WA801ND
+git_search: TL-WA801ND
+led_count: '4'
+model: TL-WA801ND
+oem_device_homepage_url: https://www.tp-link.com/en/products/details/TL-WA801ND.html
+package_architecture: mips_24kc
+power_supply: 9 VDC, 0.6 A, passive PoE
+ram_mb: '32'
+recovery_method_s: unknown
+serial: true
+subtarget: tiny
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=02494fa35ca07f01598e8bddb14303486ba69ba4
+target: ar71xx
+version: v4
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WA801ND_v4
+wlan_24ghz: b/g/n
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA9533

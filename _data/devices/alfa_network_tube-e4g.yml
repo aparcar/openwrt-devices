@@ -1,0 +1,30 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: ALFA Network
+button_count: '1'
+cpu: MediaTek MT7620A
+cpu_cores: '1'
+cpu_mhz: '580'
+detachable_antennas: '1'
+device_id: alfa_network_tube-e4g
+device_type: Modem
+ethernet_100m_ports: '1'
+fccid: "http://\xBF"
+firmware_oem_stock_url: "http://\xBF"
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-alfa-network_tube-e4g-squashfs-sysupgrade.bin
+flash_mb: '32'
+forum_search: Tube-E4G
+git_search: Tube-E4G
+led_count: '5'
+model: Tube-E4G
+modem: LTE
+oem_device_homepage_url: "http://\xBF"
+package_architecture: mipsel_24kc
+ram_mb: '256'
+recovery_method_s: U-Boot web recovery
+serial: true
+subtarget: mt7620
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=9b6413982c4c7f9191d08995f1e9b67e38f259de
+target: ramips
+wlan_driver: unknown

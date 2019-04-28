@@ -1,0 +1,37 @@
+availability: Discontinued 2017
+bootloader: JBoot
+brand: D-Link
+button_count: '2'
+cpu: MediaTek MT7620A
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: d-link_dir-510l
+device_page: d-link_dir-510l_a1
+device_type: Travel Router - Battery powered
+ethernet_100m_ports: '1'
+fccid: https://fcc.io/KA2/IR510LA1
+firmware_oem_stock_url: https://support.dlink.com/ProductInfo.aspx?m=DIR-510L
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-dlink_dir-510l-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-dlink_dir-510l-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: DIR-510L
+git_search: DIR-510L
+installation_method_s: JBoot web recovery
+led_count: '2'
+model: DIR-510L
+oem_device_homepage_url: https://eu.dlink.com/uk/en/products/dir-510l-wi-fi-ac750-portable-router-and-charger
+package_architecture: mipsel_24kc
+power_supply: "5 VDC, 1.8 A (\xB5USB), 4000 mAh Li-ion battery"
+ram_mb: '128'
+recovery_method_s: JBoot web recovery
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt7620
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=67fced9ba336dd69c5a35aec3157db4b158a9e2d
+target: ramips
+version: A1
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-510L_rev_A1
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

@@ -1,0 +1,40 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: D-Link
+button_count: '2'
+comments: Phased out 09/01/2018 acc. OEM website
+cpu: Qualcomm Atheros QCA9533 v2
+cpu_cores: '1'
+cpu_mhz: '650'
+device_id: d-link_dap-1330_a1
+device_type: Range Extender
+ethernet_100m_ports: '1'
+fccid: https://fcc.io/KA2/AP1330A1
+firmware_oem_stock_url: https://eu.dlink.com/uk/en/products/dap-1330-n300-wi-fi-range-extender
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-dap-1330-a1-squashfs-factory.img
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-dap-1330-a1-squashfs-factory.img
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-dap-1330-a1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-dap-1330-a1-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: DAP-1330
+git_search: DAP-1330
+gluon_support: true
+installation_method_s: GUI OEM
+led_count: '6'
+model: DAP-1330
+oem_device_homepage_url: https://eu.dlink.com/uk/en/products/dap-1330-n300-wi-fi-range-extender
+package_architecture: mips_24kc
+power_supply: 110-240 VAC, 50/60Hz
+ram_mb: '64'
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=d265a8f2ca49a67a46493cf57de7c265855b317f
+supported_since_rel: 18.06.0
+target: ar71xx
+version: A1
+where_available: reichelt.de, voelkner.de
+wlan_24ghz: b/g/n
+wlan_comments: 2T2R
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA9533

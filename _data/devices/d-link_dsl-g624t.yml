@@ -1,0 +1,40 @@
+availability: Discontinued
+bootloader: Adam2
+brand: D-Link
+button_count: '1'
+cpu: Texas Instruments TNETD7300
+cpu_cores: '1'
+cpu_mhz: '150'
+detachable_antennas: '1'
+device_id: d-link_dsl-g624t
+device_page: dsl-624t
+device_type: Modem
+ethernet_100m_ports: '4'
+firmware_oem_stock_url: ftp://ftp.dlink.eu/Products/dsl/dsl-g624t/driver_software/DSL-G624T_fw_revA_310B01T02EUA20070613_ALL_en_20070613.zip
+firmware_openwrt_install_url: http://downloads.openwrt.org/barrier_breaker/14.07/ar7/generic/openwrt-ar7-generic-squashfs.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/barrier_breaker/14.07/ar7/generic/openwrt-ar7-generic-squashfs.bin
+flash_mb: '4'
+forum_search: DSL-G624T
+git_search: DSL-G624T
+installation_method_s: see devicepage
+jtag: true
+led_count: '8'
+model: DSL-G624T
+modem: ADSL2+ Annex A
+oem_device_homepage_url: http://www.dlink.com/uk/en/support/product/dsl-g624t-wireless-4-port-adsl-router-with-firewall-qos-control-adsl-2-2-compliant
+package_architecture: mipsel_mips32
+power_supply: 12 VAC, 1.2 A
+ram_mb: '16'
+serial: true
+serial_connection_parameters: 38400 / 8N1
+subtarget: generic
+supported_current_rel: '14.07'
+supported_since_rel: 10.03.1
+switch: Infineon ADM6996M
+target: ar7
+version: A1 (EU)
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DSL-G624T_rev_A1
+wlan_24ghz: b/g
+wlan_driver: unknown
+wlan_hardware: TI ACX111 (TNETW1130)

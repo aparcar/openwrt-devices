@@ -1,0 +1,35 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Ubiquiti
+cpu: Atheros AR9342
+cpu_cores: '1'
+cpu_mhz: '560'
+device_id: ubiquiti_nanostation_ac_loco
+device_page: ubiquiti_nanostation_ac_loco
+device_type: WiFi AP
+ethernet_gbit_ports: '1'
+fccid: https://fcc.io/SWX/-NS5ACLW
+firmware_oem_stock_url: https://www.ubnt.com/download/airmax-ac/nanostation-ac
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-ubnt_nanostation-ac-loco-initramfs-kernel.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-ubnt_nanostation-ac-loco-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: NanoStation AC loco
+git_search: NanoStation AC loco
+led_count: '1'
+model: NanoStation AC loco
+oem_device_homepage_url: https://www.ubnt.com/airmax/nanostation-ac/
+package_architecture: mips_24kc
+power_supply: 24 VDC, 0.3 A, passive PoE
+ram_mb: '64'
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=5736af8024bed7a49a8a3e469436bdfe0c02c312
+target: ath79
+where_available: amazon.de, alternate.de, omg.de, mindfactory.de
+wikidevi_url: https://wikidevi.com/wiki/Ubiquiti_Networks_NanoStation_AC_loco_(NS-5ACLW)
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA988X

@@ -1,0 +1,26 @@
+availability: Available 2017
+bootloader: U-Boot
+brand: Planex
+comments: Equipped with touch LCD (not supported), Stereo speakers
+device_id: planex_mzk-wdpr
+device_type: WiFi Router
+ethernet_100m_ports: '2'
+firmware_oem_stock_url: https://www.planex.co.jp/support/download/router/mzk-wdpr/fw.shtml
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-mzk-wdpr-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-mzk-wdpr-squashfs-sysupgrade.bin
+forum_search: MZK-WDPR
+git_search: MZK-WDPR
+installation_method_s: unknown
+model: MZK-WDPR
+oem_device_homepage_url: https://www.planex.co.jp/product/router/mzk-wdpr/spec.shtml
+package_architecture: mipsel_24kc
+power_supply: 9 VDC, 2.0 A
+recovery_method_s: unknown
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=1b9985cfe294ab1140450732884c4d6ad4b91e7d
+supported_since_rel: 17.01.0
+target: ramips
+usb_ports: 2x 2.0
+wlan_24ghz: b/g/n
+wlan_driver: unknown

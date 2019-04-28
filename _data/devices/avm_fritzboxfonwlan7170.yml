@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: EVA
+brand: AVM
+comments: See also http://www.wehavemorefun.de/fritzbox/7170
+cpu: Texas Instruments AR7
+cpu_cores: '1'
+cpu_mhz: '212'
+device_id: avm_fritzboxfonwlan7170
+device_page: fritz.box.wlan.7170
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+firmware_openwrt_install_url: http://downloads.openwrt.org/chaos_calmer/15.05/ar7/generic/openwrt-15.05-ar7-generic-EVA-3.18-squashfs.bin
+flash_mb: '8'
+forum_search: FRITZ!Box Fon WLAN 7170
+git_search: FRITZ!Box Fon WLAN 7170
+installation_method_s: see devicepage
+jtag: true
+led_count: '5'
+model: FRITZ!Box Fon WLAN 7170
+modem: ADSL2+
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=59627
+package_architecture: mipsel_mips32
+phone_ports: '2'
+power_supply: 12 VDC, 1.2 A
+ram_mb: '32'
+serial: true
+subtarget: generic
+supported_current_rel: '15.05'
+supported_since_rel: '15.05'
+switch: Infineon ADM6996FC
+target: ar7
+usb_ports: 1x 1.1
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/AVM_FRITZ!Box_Fon_WLAN_7170
+wlan_24ghz: b/g
+wlan_driver: unknown
+wlan_hardware: ac111 on-board

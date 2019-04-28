@@ -1,0 +1,33 @@
+availability: Discontinued
+bootloader: CFE
+brand: Asus
+cpu: Broadcom BCM5358U
+cpu_cores: '1'
+cpu_mhz: '500'
+device_id: asus_rt-ac53u
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/MSQ/-RTAC53U
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-asus-rt-ac53u-squashfs.trx
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-asus-rt-ac53u-squashfs.trx
+flash_mb: '16'
+forum_search: RT-AC53U
+git_search: RT-AC53U
+installation_method_s: unknown
+model: RT-AC53U
+oem_device_homepage_url: https://www.asus.com/Networking/RTAC53U/
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: '64'
+recovery_method_s: unknown
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=69aefc771fd8a7d7450e856a5432fcc15cfc8fc9
+supported_since_rel: 17.01.0
+switch: Broadcom BCM5358
+target: brcm47xx
+usb_ports: 1x 2.0
+wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-AC53U
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: b43

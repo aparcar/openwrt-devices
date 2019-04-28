@@ -1,0 +1,35 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: PHICOMM
+button_count: '1'
+cpu: Qualcomm Atheros QCA9563
+cpu_cores: '1'
+cpu_mhz: '750'
+device_id: phicomm_k2t
+device_type: WiFi Router
+ethernet_gbit_ports: '3'
+fccid: "http://\xBF"
+firmware_oem_stock_url: "http://\xBF"
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-phicomm_k2t-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: K2T
+git_search: K2T
+led_count: '1'
+model: K2T
+oem_device_homepage_url: http://www.phicomm.com/cn/index.php/Products/family_details/cateid/18/id/125.html
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.25 A
+ram_mb: '64'
+recovery_method_s: unknown
+serial: true
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=97c5cbc496e9cf8139994cd3ea987f4e9c70adbe
+switch: Qualcomm Atheros QCA8337
+target: ath79
+usb_ports: 1x 3.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Phicomm_K2T
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k

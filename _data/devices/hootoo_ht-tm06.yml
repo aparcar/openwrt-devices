@@ -1,0 +1,29 @@
+availability: Available 2017
+bootloader: U-Boot
+brand: HooToo
+button_count: '1'
+cpu: MediaTek MT7620N
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: hootoo_ht-tm06
+device_page: hootoo_ht-tm06
+device_type: Travel Router - Battery powered
+ethernet_100m_ports: '1'
+flash_mb: '8'
+forum_search: HT-TM06 (TripMate Elite U)
+git_search: HT-TM06 (TripMate Elite U)
+led_count: '5'
+model: HT-TM06 (TripMate Elite U)
+oem_device_homepage_url: http://www.hootoo.com/hootoo-tripmate-ht-tm06-wireless-router.html
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=60110
+package_architecture: mipsel_24kc
+power_supply: 110-240 VAC, 6000 mAh battery
+ram_mb: '32'
+serial: true
+subtarget: mt7620
+target: ramips
+unsupported_functions: WIP
+usb_ports: 2x 2.0
+wlan_24ghz: b/g/n
+wlan_driver: mt76
+wlan_hardware: MediaTek MT7620N

@@ -1,0 +1,40 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Netgear
+button_count: '1'
+cpu: Atheros AR7161
+cpu_cores: '1'
+cpu_mhz: '680'
+detachable_antennas: '2'
+device_id: netgear_wndap360
+device_page: wndap360
+device_type: WiFi Router
+ethernet_gbit_ports: '1'
+fccid: https://fcc.io/PY3/11100154
+firmware_oem_stock_url: https://www.netgear.com/support/product/WNDAP360
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-wndap360-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-wndap360-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: WNDAP360
+git_search: WNDAP360
+model: WNDAP360
+oem_device_homepage_url: https://www.netgear.com/support/product/WNDAP360
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=43042
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.0 A, PoE 802.3af
+ram_mb: '128'
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+serial_connection_parameters: 9600 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=c70694e755910904cb31267800cf15ff428cb704
+supported_since_rel: '14.07'
+target: ar71xx
+version: PY311100154
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/Netgear_WNDAP360
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_comments: 2x2
+wlan_driver: ath9k

@@ -1,0 +1,35 @@
+availability: Discontinued 2017
+bootloader: U-Boot
+brand: Aerohive
+button_count: '1'
+comments: End-of-Sale date for this product is August 1st, 2017
+cpu: Atheros AR9344
+cpu_cores: '1'
+cpu_mhz: '560'
+device_id: aerohive_ap121
+device_type: WiFi AP
+ethernet_gbit_ports: '1'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/nand/openwrt-18.06.2-ar71xx-nand-hiveap-121-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/nand/openwrt-ar71xx-nand-hiveap-121-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/nand/openwrt-ar71xx-nand-hiveap-121-squashfs-sysupgrade.tar
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/nand/openwrt-18.06.2-ar71xx-nand-hiveap-121-squashfs-sysupgrade.tar
+flash_mb: 128NAND
+forum_search: AP121
+git_search: AP121
+model: AP121
+oem_device_homepage_url: http://www.aerohive.com/products/access-points/ap121.html
+package_architecture: mips_24kc
+power_supply: PoE 802.3af
+ram_mb: '128'
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+serial_connection_parameters: 9600 / 8N1
+subtarget: nand
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=10d11859dfbad0b4482d1a50b20ef91eeeeca2d7
+supported_since_rel: 18.06.0
+target: ar71xx
+usb_ports: 1x 2.0
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: ath9k

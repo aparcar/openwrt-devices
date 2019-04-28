@@ -1,0 +1,43 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Buffalo
+comments: 'CAUTION: Problems with clients of the router connecting to each other have
+  been reported with LEDE 17.01.4 https://forum.lede-project.org/t/clients-in-same-wlan-cant-reach-each-other/2501
+  . Older releases such as Chaos Calmer do not have this issue.'
+cpu: Atheros AR7161
+cpu_cores: '1'
+cpu_mhz: '680'
+device_id: buffalo_wzr-600dhp
+device_page: wzr-600dhp
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: https://fcc.io/FDI/-09101889-0
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-wzr-600dhp-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-wzr-600dhp-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-wzr-600dhp-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-wzr-600dhp-squashfs-sysupgrade.bin
+flash_mb: '32'
+forum_search: WZR-600DHP
+git_search: WZR-600DHP
+gluon_support: true
+jtag: true
+lede_forum_topic_url: https://forum.lede-project.org/t/clients-in-same-wlan-cant-reach-each-other/2501
+model: WZR-600DHP
+package_architecture: mips_24kc
+power_supply: 12 VDC, 2.0 A
+ram_mb: '128'
+recovery_method_s: U-Boot TFTP recovery
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=107e0c6d1f37fa474b8cc667d5a2e8d0c47eafea
+supported_since_rel: '14.07'
+switch: Atheros AR8316
+target: ar71xx
+usb_ports: 1x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Buffalo_WZR-600DHP
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9280 Rev 2

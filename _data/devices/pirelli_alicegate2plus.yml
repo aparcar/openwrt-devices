@@ -1,0 +1,26 @@
+availability: Discontinued
+bootloader: CFE
+brand: Pirelli
+cpu: Broadcom BCM6348
+cpu_cores: '1'
+cpu_mhz: '256'
+device_id: pirelli_alicegate2plus
+device_page: aga
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+flash_mb: '8'
+forum_search: Alice Gate2 Plus Wi-Fi AGA
+git_search: Alice Gate2 Plus Wi-Fi AGA
+model: Alice Gate2 Plus Wi-Fi AGA
+package_architecture: mips_mips32
+ram_mb: '16'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+target: brcm63xx
+unsupported_functions: Impossible
+usb_ports: 1x 2.0
+vlan: true
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318

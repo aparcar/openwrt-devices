@@ -1,0 +1,39 @@
+availability: Discontinued
+bootloader: brnboot
+brand: Arcadyan / Astoria
+button_count: '2'
+cpu: Lantiq XWAY Danube
+cpu_cores: '2'
+cpu_mhz: '333'
+device_id: arcadyanastoria_arv7518pw
+device_page: arv7518pw
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xway/openwrt-18.06.2-lantiq-xway-arcadyan_arv7518pw-initramfs-kernel.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xway/openwrt-lantiq-xway-arcadyan_arv7518pw-initramfs-kernel.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xway/openwrt-lantiq-xway-arcadyan_arv7518pw-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xway/openwrt-18.06.2-lantiq-xway-arcadyan_arv7518pw-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: ARV7518PW
+git_search: ARV7518PW
+installation_method_s: see devicepage
+jtag: true
+model: ARV7518PW
+modem: ADSL2+ Annex A
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: '64'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: xway
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=a8819fd2205a3016b048511fafdbda907e2f5b8b
+supported_since_rel: '12.09'
+switch: Atheros AR8216
+target: lantiq
+usb_ports: 1x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Arcadyan_ARV7518PW
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9223

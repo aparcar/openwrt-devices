@@ -1,0 +1,47 @@
+availability: Discontinued 2017
+bootloader: U-Boot
+brand: TP-Link
+button_count: '4'
+comment_installation: Rename installation image to ArcherC2600_1.0_tp_recovery.bin
+  before flashing, see devicepage.
+comment_recovery: 'TFTP-Recoveryname: ArcherC2600_1.0_tp_recovery.bin'
+cpu: Qualcomm Atheros IPQ8064
+cpu_cores: '2'
+cpu_mhz: '1400'
+detachable_antennas: '4'
+device_id: tp-link_archer_c2600
+device_page: tp-link_archer_c2600_v1
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: https://fcc.io/TE7/C2600
+firmware_oem_stock_url: https://www.tp-link.com/en/download/Archer-C2600.html#Firmware
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ipq806x/generic/openwrt-18.06.2-ipq806x-tplink_c2600-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ipq806x/generic/openwrt-ipq806x-tplink_c2600-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ipq806x/generic/openwrt-ipq806x-tplink_c2600-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ipq806x/generic/openwrt-18.06.2-ipq806x-tplink_c2600-squashfs-sysupgrade.bin
+flash_mb: '32'
+forum_search: Archer C2600
+git_search: Archer C2600
+gluon_support: Broken
+led_count: '10'
+model: Archer C2600
+oem_device_homepage_url: https://www.tp-link.com/en/products/details/cat-2_Archer-C2600.html
+owrt_forum_topic_url: https://forum.archive.openwrt.org/viewtopic.php?id=54973
+package_architecture: arm_cortex-a15_neon-vfpv4
+power_supply: 12 VDC, 4.0 A
+ram_mb: '512'
+serial: false
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ef02e8967cac02ebec78fadd063b367e67f8fbc6
+supported_since_rel: 17.01.0
+switch: Qualcomm Atheros QCA8337
+target: ipq806x
+usb_ports: 2x 3.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C2600_v1.x
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 4x4
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA9980

@@ -1,0 +1,41 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: GL.iNet
+button_count: '2'
+comments: USB power can not be controlled via GPIO, see OEM website.
+cpu: Qualcomm Atheros QCA9531
+cpu_cores: '1'
+cpu_mhz: '650'
+device_id: gl.inet_gl-ar300m-lite
+device_page: gl.inet_gl-ar300m-lite
+device_type: Travel Router
+ethernet_100m_ports: '1'
+fccid: http://fcc.io/2AFIW-AR300M
+firmware_oem_stock_url: https://dl.gl-inet.com/firmware/ar300m/v1/
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-glinet_gl-ar300m-lite-squashfs-sysupgrade.bin
+flash_mb: '16'
+gpios: '2'
+jtag: false
+led_count: '3'
+model: GL-AR300M-Lite
+oem_device_homepage_url: https://docs.gl-inet.com/en/3/hardware/ar300m/
+package_architecture: mips_24kc
+power_supply: "5 VDC, 1.0 A (\xB5USB)"
+ram_mb: '128'
+recovery_method_s: U-Boot web recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=fefa34def84561688e6af2feeec2dbb390ba4486
+switch: Qualcomm Atheros QCA9531
+target: ath79
+usb_ports: 1x 2.0
+version: v1
+vlan: true
+where_available: store.gl-inet.com, amazon.com, amazon.de
+wikidevi_url: https://wikidevi.com/wiki/GL.iNet_GL-AR300M
+wlan_24ghz: b/g/n
+wlan_comments: 2x2
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA9531

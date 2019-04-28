@@ -1,0 +1,29 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Mercury
+cpu: MediaTek MT7628AN
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: mercury_mac1200r_v2
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt76x8/openwrt-ramips-mt76x8-mac1200r-v2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt76x8/openwrt-18.06.2-ramips-mt76x8-mac1200r-v2-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: MAC1200R
+git_search: MAC1200R
+installation_method_s: unknown
+model: MAC1200R
+oem_device_homepage_url: http://www.mercurycom.com.cn/product-1-1.html
+package_architecture: mipsel_24kc
+ram_mb: '64'
+recovery_method_s: unknown
+subtarget: mt7628
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=083ef3fefecd024b2b9cdc496e1f7811c225041e
+supported_since_rel: 17.01.0
+target: ramips
+version: v2
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: unknown

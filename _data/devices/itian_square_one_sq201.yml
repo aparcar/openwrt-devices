@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: other
+brand: ITian
+button_count: '1'
+comments: 'Useful website: https://dflund.se/~triad/krad/itian-squareone/'
+cpu: Storm SL3516
+cpu_cores: '1'
+cpu_mhz: '300'
+detachable_antennas: '2'
+device_id: itian_square_one_sq201
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: http://fcc.io/VCVSQ201
+firmware_oem_stock_url: "http://\xBF"
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/gemini/generic/openwrt-gemini-sysupgrade-sq201.tar.gz
+flash_mb: '16'
+installation_method_s: unknown
+jtag: true
+led_count: '5'
+model: Square One SQ201
+oem_device_homepage_url: "http://\xBF"
+package_architecture: arm_fa526
+power_supply: 12 VDC, 4.0 A
+ram_mb: '128'
+recovery_method_s: unknown
+sata_ports: '1'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=1c1e2542445040b62a13862e42f961ac9c7e54f5
+switch: Vitesse VSC7395XYV
+target: gemini
+usb_ports: 3x 2.0
+wlan_24ghz: b/g
+wlan_driver: unknown
+wlan_hardware: Ralink RT2561T (mini-PCI)

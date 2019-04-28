@@ -1,0 +1,25 @@
+availability: Discontinued
+brand: Kintec
+comments_network_ports: '1'
+cpu: Cavium CNS2132
+cpu_cores: '1'
+cpu_mhz: '250'
+device_id: kintec_ns-k330_12
+device_type: NAS
+firmware_openwrt_install_url: http://downloads.openwrt.org/barrier_breaker/14.07/cns21xx/generic/
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/barrier_breaker/14.07/cns21xx/generic/
+flash_mb: '4'
+forum_search: NS-K330
+git_search: NS-K330
+installation_method_s: unknown
+model: NS-K330
+ram_mb: '32'
+recovery_method_s: unknown
+subtarget: generic
+supported_current_rel: '14.07'
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=36e9a33df799859b11d98d18065bfe2f332ee344
+supported_since_rel: '14.07'
+target: cns21xx
+usb_ports: true
+version: '1.2'
+wlan_driver: unknown

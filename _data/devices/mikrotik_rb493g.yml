@@ -1,0 +1,36 @@
+availability: Available 2019
+bootloader: RouterBOOT
+brand: MikroTik
+cpu: Atheros AR7161
+cpu_cores: '1'
+cpu_mhz: '680'
+device_id: mikrotik_rb493g
+device_page: rb493g
+device_type: Router
+ethernet_gbit_ports: '9'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-vmlinux-initramfs-lzma.elf
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-vmlinux-initramfs-lzma.elf
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-nand-large-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-nand-large-squashfs-sysupgrade.bin
+forum_search: RB493G
+git_search: RB493G
+jtag: true
+model: RB493G
+oem_device_homepage_url: https://routerboard.com/RB493G
+package_architecture: mips_24kc
+power_supply: 10-28 VDC, PoE
+ram_mb: '256'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: mikrotik
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=a136b676049eb239b67a91ea65000ad38db31568
+supported_since_rel: '12.09'
+switch: Atheros AR8316
+target: ar71xx
+usb_ports: 1x 2.0
+vlan: true
+where_available: mikrotik-store.eu
+wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_493G_(RB493G)
+wlan_driver: unknown
+wlan_hardware: 3x mini-PCI

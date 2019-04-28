@@ -1,0 +1,40 @@
+availability: Discontinued
+brand: Buffalo
+button_count: '2'
+comments: Exchangeable mains plugs
+cpu: Atheros AR7240
+cpu_cores: '1'
+cpu_mhz: '400'
+device_id: buffalo_wlae-ag300n_v1
+device_type: Travel Router
+ethernet_100m_ports: '2'
+fccid: https://fcc.io/FDI/-09101592-0
+firmware_openwrt_install_url: http://downloads.lede-project.org/releases/17.01.2/targets/ar71xx/generic/lede-17.01.2-ar71xx-generic-wlae-ag300n-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-wlae-ag300n-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-wlae-ag300n-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.lede-project.org/releases/17.01.2/targets/ar71xx/generic/lede-17.01.2-ar71xx-generic-wlae-ag300n-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: WLAE-AG300N
+git_search: WLAE-AG300N
+installation_method_s: unknown
+led_count: '2'
+model: WLAE-AG300N
+oem_device_homepage_url: http://www.buffalo-technology.com/en/products/network-devices/dual-band-n/adapters-converters/archive/wlae-ag300n-airstation-trade-nfiniti-trade-dual-band-wireless-n-ethernet-converter-access-point-and-bridge/
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=29260
+package_architecture: mips_24kc
+power_supply: 100-240 VAC, 50/60 Hz, 0.3 A
+ram_mb: '32'
+recovery_method_s: unknown
+subtarget: generic
+supported_current_rel: 17.01.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=010aec06194cff6b6619b8ca2155da4750d15bef
+supported_since_rel: '12.09'
+switch: Atheros AR7240
+target: ar71xx
+version: v1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Buffalo_WLAE-AG300N
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9280

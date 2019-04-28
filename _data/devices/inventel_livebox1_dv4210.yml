@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: Inventel
+button_count: '2'
+comments: '>32MB RAM memory mod required for current Openwrt version'
+cpu: Broadcom BCM6348
+cpu_cores: '1'
+cpu_mhz: '256'
+device_id: inventel_livebox1_dv4210
+device_page: dv4210
+device_type: WiFi Router
+ethernet_100m_ports: '2'
+firmware_openwrt_install_url: https://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-livebox-squashfs-redboot.bin
+flash_mb: '8'
+forum_search: Livebox 1
+git_search: Livebox 1
+installation_method_s: TFTP generic
+jtag: true
+led_count: '4'
+model: Livebox 1
+modem: ADSL2+
+package_architecture: mips_mips32
+phone_ports: '1'
+power_supply: 15 VDC, 1.2 A
+ram_mb: '16'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_rel: 17.01.0
+target: brcm63xx
+unsupported_functions: Impossible
+version: DV4210
+vlan: false
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318 rev. 9 (mini-PCI)

@@ -1,0 +1,26 @@
+availability: Discontinued
+bootloader: PSPBoot
+brand: Linksys
+comments: Ticket "Cannot mount rootfs" https://dev.openwrt.org/ticket/13636
+cpu: Texas Instruments TNETV1060
+cpu_cores: '1'
+cpu_mhz: '200'
+device_id: linksys_rtp300_10
+device_page: rtp300
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+flash_mb: '8'
+forum_search: RTP300
+git_search: RTP300
+jtag: true
+model: RTP300
+package_architecture: mipsel_mips32
+phone_ports: '2'
+ram_mb: '32'
+serial: true
+target: ar7
+version: '1.0'
+vlan: false
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9103

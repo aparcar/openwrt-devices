@@ -1,0 +1,31 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: AsiaRF
+cpu: Ralink RT5350F
+cpu_cores: '1'
+cpu_mhz: '360'
+device_id: asiarf_awm003
+device_page: awm-evb
+device_type: WiFi Router
+ethernet_100m_ports: '2'
+fccid: https://fcc.io/TKZ/AWM003
+firmware_openwrt_upgrade_url: http://downloads.lede-project.org/releases/17.01.4/targets/ramips/rt305x/lede-17.01.4-ramips-rt305x-awm003-evb-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: AWM003
+git_search: AWM003
+installation_method_s: see devicepage
+model: AWM003
+package_architecture: mipsel_24kc
+ram_mb: '64'
+serial: true
+subtarget: rt305x
+supported_current_rel: 17.01.4
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=2c356c4bb7ab3e0090c8af440e3c6622c6be3fa3
+supported_since_rel: '14.07'
+target: ramips
+usb_ports: 1x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/AsiaRF_AWM003
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink RT5350

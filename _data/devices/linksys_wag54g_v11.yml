@@ -1,0 +1,31 @@
+availability: Discontinued
+bootloader: CFE
+brand: Linksys
+comments_network_ports: '4'
+cpu: Broadcom BCM6348
+cpu_cores: '1'
+cpu_mhz: '240'
+device_id: linksys_wag54g_v11
+device_page: wag54g
+device_type: Modem
+firmware_openwrt_install_url: http://downloads.openwrt.org/backfire/10.03.1/brcm63xx/openwrt-96348GW-generic-squashfs-cfe.bin
+flash_mb: '4'
+forum_search: WAG54G
+git_search: WAG54G
+jtag: true
+model: WAG54G
+modem: ADSL
+package_architecture: mips_mips32
+ram_mb: '16'
+recovery_method_s: CFE TFTP + serial recovery
+serial: true
+subtarget: generic
+supported_current_rel: 10.03.1
+supported_since_rel: '10.03'
+target: brcm63xx
+unsupported_functions: DSL modem
+version: v1.1
+vlan: true
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318

@@ -1,0 +1,44 @@
+availability: Discontinued
+bootloader: EVA
+brand: AVM
+button_count: '1'
+comment_installation: 'For snapshot images: Select image according to the flash chip
+  used. Open device to determine the flash chip. For details see devicepage.'
+comments: See also https://boxmatrix.info/wiki/FRITZ!Box_WLAN_3370 (old http://www.wehavemorefun.de/fritzbox/3370)
+cpu: Lantiq XWAY VRX288
+cpu_cores: '2'
+cpu_mhz: '500'
+device_id: avm_fritz_box_wlan_3370
+device_page: fritz.box.wlan.3370
+device_type: WiFi Router
+ethernet_gbit_ports: '4'
+firmware_oem_stock_url: ftp://ftp.avm.de/archive/fritz.box/fritzbox.wlan_3370/firmware/english/FRITZ.Box_WLAN_3370.en-de-es-it-fr-pl.103.06.52.image
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xrx200/
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xrx200/openwrt-18.06.2-lantiq-xrx200-avm_fritz3370-squashfs-sysupgrade.bin
+flash_mb: 512NAND
+forum_search: FRITZ!Box WLAN 3370
+git_search: FRITZ!Box WLAN 3370
+installation_method_s: EVA FTP
+jtag: true
+led_count: '5'
+lede_forum_topic_url: https://forum.lede-project.org/t/how-to-install-lede-on-fritz-box-3370/4416
+model: FRITZ!Box WLAN 3370
+modem: xDSL
+package_architecture: mips_24kc
+power_supply: 12 VDC, 2.0 A
+ram_mb: '128'
+recovery_method_s: EVA FTP
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: xrx200
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=a57ffc09a766c5a05f47e60b3800bbf87ff8ac60
+supported_since_rel: '15.05'
+switch: Lantiq PSB 80920
+target: lantiq
+usb_ports: 2x 2.0
+wikidevi_url: https://wikidevi.com/wiki/AVM_FRITZ!Box_WLAN_3370
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9380

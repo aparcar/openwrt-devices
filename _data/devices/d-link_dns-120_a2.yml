@@ -1,0 +1,28 @@
+availability: Discontinued
+bootloader: ADMboot
+brand: D-Link
+cpu: Infineon ADM5120
+cpu_cores: '1'
+cpu_mhz: '150'
+device_id: d-link_dns-120_a2
+device_page: dns-120
+device_type: NAS
+ethernet_100m_ports: '1'
+flash_mb: '4'
+forum_search: DNS-120
+git_search: DNS-120
+installation_method_s: GUI OEM
+jtag: true
+model: DNS-120
+power_supply: 5 VDC, 2.5 A
+ram_mb: '32'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+supported_current_rel: '10.03'
+supported_since_rel: '10.03'
+target: adm5120
+usb_ports: 2x 2.0
+version: A2
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DNS-120_rev_A2
+wlan_driver: unknown

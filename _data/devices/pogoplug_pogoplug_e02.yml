@@ -1,0 +1,34 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Pogoplug
+cpu: Marvell 88F6281
+cpu_cores: '1'
+cpu_mhz: '1200'
+device_id: pogoplug_pogoplug_e02
+device_page: pogoplug
+device_type: NAS
+ethernet_gbit_ports: '1'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/kirkwood/generic/openwrt-18.06.2-kirkwood-cloudengines_pogoe02-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/kirkwood/generic/openwrt-kirkwood-cloudengines_pogoe02-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/kirkwood/generic/openwrt-kirkwood-cloudengines_pogoe02-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/kirkwood/generic/openwrt-18.06.2-kirkwood-cloudengines_pogoe02-squashfs-sysupgrade.bin
+flash_mb: '128'
+forum_search: Pogoplug V2
+git_search: Pogoplug V2
+installation_method_s: see devicepage
+jtag: true
+model: Pogoplug V2
+package_architecture: arm_xscale
+power_supply: 100-240 VAC, 50-60 Hz
+ram_mb: '256'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=2b0fa00da8fc26e34f08680670f4637766bbd3e8
+supported_since_rel: '15.05'
+target: kirkwood
+usb_ports: 4x 2.0
+version: POGO-E02
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/Pogoplug

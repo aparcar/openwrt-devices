@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TP-Link
+comments: TL-WR847N v8 is a rebranded model of WR841N v8 with updated bootloader.
+  Hardwarewise identical.
+cpu: Atheros AR9341
+cpu_cores: '1'
+cpu_mhz: '535'
+device_id: tp-link_tl-wr847n_v8
+device_page: tl-wr841nd
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wr847n-v8-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wr847n-v8-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wr847n-v8-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wr847n-v8-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: TL-WR847N
+git_search: TL-WR847N
+jtag: true
+model: TL-WR847N
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=37010
+package_architecture: mips_24kc
+power_supply: 9 VDC, 0.6 A
+ram_mb: '32'
+serial: true
+subtarget: tiny
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=73acd5050f2f92bd66b6b0fe78aabe2584dcd70d
+supported_since_rel: '12.09'
+switch: Atheros AR9341
+target: ar71xx
+version: v8
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9341

@@ -1,0 +1,23 @@
+availability: Discontinued
+brand: Belkin
+cpu: Atheros AR9130
+cpu_cores: '1'
+cpu_mhz: '400'
+device_id: belkin_f5l049_v1
+device_type: WiFi Router
+ethernet_100m_ports: '1'
+flash_mb: '16'
+forum_search: F5L049
+git_search: F5L049
+model: F5L049
+package_architecture: mips_24kc
+ram_mb: '64'
+subtarget: generic
+target: ar71xx
+unsupported_functions: Possible to support
+usb_ports: 4x 2.0
+version: v1
+wikidevi_url: https://wikidevi.com/wiki/Belkin_F5L049
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Atheros (integrated)

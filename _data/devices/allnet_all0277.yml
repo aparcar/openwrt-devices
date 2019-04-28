@@ -1,0 +1,24 @@
+availability: Discontinued
+brand: Allnet
+comments_network_ports: '5'
+cpu: Broadcom BCM4702
+cpu_cores: '1'
+cpu_mhz: '125'
+detachable_antennas: '1'
+device_id: allnet_all0277
+device_type: WiFi Router
+firmware_openwrt_install_url: http://downloads.openwrt.org/backfire/10.03.1/brcm-2.4/openwrt-brcm-2.4-squashfs.trx
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/backfire/10.03.1/brcm-2.4/openwrt-brcm-2.4-squashfs.trx
+flash_mb: '4'
+forum_search: ALL0277
+git_search: ALL0277
+installation_method_s: unknown
+model: ALL0277
+ram_mb: '16'
+recovery_method_s: unknown
+supported_current_rel: 10.03.1
+supported_since_rel: '8.09'
+target: brcm47xx
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4702

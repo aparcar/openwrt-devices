@@ -1,0 +1,29 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Vizio
+cpu: Atheros AR7161
+cpu_cores: '1'
+cpu_mhz: '680'
+device_id: vizio_xwr100
+device_page: xwr100
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+firmware_oem_stock_url: http://store.vizio.com/documents/downloads/accessories/XWR100/677VIZIO_1.01.02_Jun-9-2010.bin
+flash_mb: '8'
+forum_search: XWR100
+git_search: XWR100
+model: XWR100
+modem: ADSL
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=43609
+package_architecture: mips_24kc
+ram_mb: '32'
+serial: true
+subtarget: generic
+switch: Atheros AR8236
+target: ar71xx
+usb_ports: 1x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/VIZIO_XWR100
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: ath9k

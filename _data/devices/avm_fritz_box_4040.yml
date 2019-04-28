@@ -1,0 +1,43 @@
+availability: Available 2019
+bootloader: EVA
+brand: AVM
+button_count: '2'
+comment_recovery: AVM provides a recovery tool for Windows
+cpu: Qualcomm Atheros IPQ4018
+cpu_cores: '4'
+cpu_mhz: '638'
+device_id: avm_fritz_box_4040
+device_page: avm_fritz_box_4040
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+firmware_oem_stock_url: https://ftp.avm.de/fritzbox/fritzbox-4040/
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ipq40xx/generic/openwrt-18.06.2-ipq40xx-avm_fritzbox-4040-squashfs-eva.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ipq40xx/generic/openwrt-ipq40xx-avm_fritzbox-4040-squashfs-eva.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ipq40xx/generic/openwrt-ipq40xx-avm_fritzbox-4040-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ipq40xx/generic/openwrt-18.06.2-ipq40xx-avm_fritzbox-4040-squashfs-sysupgrade.bin
+flash_mb: '32'
+forum_search: FRITZ!Box 4040
+git_search: FRITZ!Box 4040
+gluon_support: true
+installation_method_s: EVA FTP
+led_count: '5'
+model: FRITZ!Box 4040
+oem_device_homepage_url: https://avm.de/produkte/fritzbox/fritzbox-4040/
+package_architecture: arm_cortex-a7_neon-vfpv4
+power_supply: 12 VDC, 1.5 A
+ram_mb: '256'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=1cb406d019dc84497a8405c470f0b0394d5ff64a
+supported_since_rel: 18.06.0
+switch: Qualcomm Atheros QCA8075
+target: ipq40xx
+unsupported_functions: VLAN on WAN port
+where_available: amazon.de
+wikidevi_url: https://wikidevi.com/wiki/AVM_FRITZ!Box_4040
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros IPQ4018

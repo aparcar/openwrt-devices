@@ -1,0 +1,29 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: EnGenius
+button_count: '1'
+cpu: Qualcomm Atheros QCA9531
+cpu_cores: '1'
+device_id: engenius_ews511ap
+device_page: engenius_ews511ap
+device_type: WiFi AP
+ethernet_100m_ports: '2'
+fccid: "http://\xBF"
+firmware_oem_stock_url: "http://\xBF"
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-engenius_ews511ap-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: EWS511AP
+git_search: EWS511AP
+led_count: '5'
+model: EWS511AP
+oem_device_homepage_url: http://www.engeniusthailand.com/recommend-products/ews511ap-dual-band-ac750-neutron-wireless-managed-wall-access-point.html
+package_architecture: mips_24kc
+power_supply: PoE 802.3af
+ram_mb: '128'
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=9ebb44aef4db8f423f7bf1fd2436906b2eafb570
+target: ath79
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k-ct

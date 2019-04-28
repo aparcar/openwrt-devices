@@ -1,0 +1,34 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: VoCore
+comments: 'See also the vocore forum: http://forum.vocore.io/viewforum.php?f=16; Vendor
+  firmware is based on OpenWrt.'
+cpu: MediaTek MT7688AN
+cpu_cores: '1'
+cpu_mhz: '580'
+detachable_antennas: '1'
+device_id: vocore_vocore2_lite
+device_type: Single Board Computer
+ethernet_100m_ports: '1'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt76x8/openwrt-ramips-mt76x8-vocore2lite-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt76x8/openwrt-18.06.2-ramips-mt76x8-vocore2lite-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: VoCore2 Lite
+git_search: VoCore2 Lite
+gpios: more than 20
+lede_forum_topic_url: https://forum.lede-project.org/t/support-for-vocore-2-lite/3885
+model: VoCore2 Lite
+oem_device_homepage_url: http://vocore.io/
+package_architecture: mipsel_24kc
+power_supply: 3.6-6 VDC, 0.23 A
+ram_mb: '64'
+serial: true
+subtarget: mt76x8
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=df3295f50e54909090846de12f7deb3ff8de6557
+supported_since_rel: 18.06.0
+target: ramips
+usb_ports: 1x 2.0
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: MediaTek MT7688AN

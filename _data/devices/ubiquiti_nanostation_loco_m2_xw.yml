@@ -1,0 +1,41 @@
+availability: Available 2019
+brand: Ubiquiti
+comment_installation: Flashing through the system upgrade GUI is only possible with
+  the unsigned OEM firmware v5.6.12 or v5.6.15!
+comment_recovery: Power off the device, press and hold reset 8 sec. with power on
+  to start the recovery tftp loader
+cpu: Atheros AR9342
+cpu_cores: '1'
+cpu_mhz: '535'
+device_id: ubiquiti_nanostation_loco_m2_xw
+device_page: nanostationm2
+device_type: WiFi AP
+ethernet_100m_ports: '1'
+fccid: https://fcc.io/SWX/-M2L
+firmware_oem_stock_url: https://dl.ubnt.com/firmwares/XW-fw/v5.6.15/XW.v5.6.15.30572.170328.1052.bin
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ubnt-loco-m-xw-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-ubnt-loco-m-xw-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-ubnt-loco-m-xw-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ubnt-loco-m-xw-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: NanoStation Loco M2
+git_search: NanoStation Loco M2
+installation_method_s: Sysupgrade
+led_count: '6'
+model: NanoStation Loco M2 xw
+oem_device_homepage_url: https://www.ubnt.com/airmax/nanostationm/
+package_architecture: mips_24kc
+power_supply: PoE 24V
+ram_mb: '64'
+recovery_method_s: TFTP generic
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: "http://\xBF"
+supported_since_rel: 18.06.1
+target: ar71xx
+vlan: true
+where_available: amazon.com
+wikidevi_url: "http://\xBF"
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9340 Rev:2

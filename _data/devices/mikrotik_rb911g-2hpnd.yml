@@ -1,0 +1,32 @@
+availability: Available 2019
+bootloader: RouterBOOT
+brand: MikroTik
+cpu: Atheros AR9342
+cpu_cores: '1'
+cpu_mhz: '600'
+device_id: mikrotik_rb911g-2hpnd
+device_type: WiFi Router
+ethernet_gbit_ports: '1'
+fccid: https://fcc.io/TV7/RB911G2HPND
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-vmlinux-initramfs.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-vmlinux-initramfs.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-nand-large-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-nand-large-squashfs-sysupgrade.bin
+flash_mb: 128NAND
+forum_search: RB911G-2HPnD
+git_search: RB911G-2HPnD
+installation_method_s: Mikrotik TFTP
+model: RB911G-2HPnD
+oem_device_homepage_url: https://mikrotik.com/product/RB911G-2HPnD
+package_architecture: mips_24kc
+power_supply: 6-30 VDC, passive PoE
+ram_mb: '64'
+recovery_method_s: unknown
+subtarget: mikrotik
+supported_current_rel: 18.06.2
+supported_since_commit: "http://\xBF"
+target: ar71xx
+where_available: mikrotik-store.eu, amazon.de
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Atheros AR9342

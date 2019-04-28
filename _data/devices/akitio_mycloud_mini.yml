@@ -1,0 +1,30 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Akitio
+button_count: '1'
+cpu: PLX NAS782x
+cpu_cores: '2'
+cpu_mhz: '750'
+device_id: akitio_mycloud_mini
+device_type: NAS
+ethernet_gbit_ports: '1'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/oxnas/ox820/openwrt-oxnas-ox820-akitio-mycloud-squashfs-sysupgrade.tar
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/oxnas/ox820/openwrt-18.06.2-oxnas-ox820-akitio-mycloud-squashfs-sysupgrade.tar
+flash_mb: 256NAND
+forum_search: MyCloud Mini
+git_search: MyCloud Mini
+installation_method_s: unknown
+led_count: '1'
+model: MyCloud Mini
+oem_device_homepage_url: https://www.akitio.com/network-storage/mycloud-mini
+package_architecture: arm_mpcore
+power_supply: 5 VDC, 2.0 A
+ram_mb: '256'
+recovery_method_s: unknown
+sata_ports: '1'
+subtarget: ox820
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=012da658a4565b60d2cae8d888fcd487c8ecfac9
+supported_since_rel: 17.01.0
+target: oxnas
+usb_ports: 2x 2.0

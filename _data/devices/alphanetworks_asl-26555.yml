@@ -1,0 +1,32 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Alpha Networks
+cpu: Ralink RT3052F
+cpu_cores: '1'
+cpu_mhz: '384'
+device_id: alphanetworks_asl-26555
+device_page: asl26555
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-asl26555-16M-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-asl26555-16M-squashfs-sysupgrade.bin
+forum_search: ASL-26555
+model: ASL-26555
+modem: ADSL2+
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: '32'
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=7bfab6e308a54d4fc2b99d9f80b4a4cd735de5b1
+supported_since_rel: '14.07'
+target: ramips
+unsupported_functions: DSL modem
+usb_ports: 1x 2.0
+vlan: true
+wlan_24ghz: b/g/n
+wlan_comments: 2x2 MIMO
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT3052F

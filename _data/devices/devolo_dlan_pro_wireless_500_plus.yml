@@ -1,0 +1,35 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Devolo
+button_count: '3'
+cpu: Atheros AR9344
+cpu_cores: '1'
+cpu_mhz: '560'
+device_id: devolo_dlan_pro_wireless_500_plus
+device_page: devolo_dlan_pro_wireless_500_plus
+device_type: WiFi Router
+ethernet_100m_ports: '3'
+firmware_oem_stock_url: http://www.devolo.de/business-solutions/produkte/article/dlan-pro-500-wireless/
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-dlan-pro-500-wp-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-dlan-pro-500-wp-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: dlan pro wireless 500 plus
+git_search: dlan pro wireless 500 plus
+led_count: '4'
+model: dlan pro wireless 500 plus
+modem: Powerline
+oem_device_homepage_url: http://www.devolo.de/business-solutions/produkte/article/dlan-pro-500-wireless/
+package_architecture: mips_24kc
+power_supply: 196-250 VAC 50Hz, 6 Watt
+ram_mb: '128'
+recovery_method_s: U-Boot TFTP recovery
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=02984a6e09416230d929c17e5dc738c09127934c
+supported_since_rel: '15.05'
+target: ar71xx
+vlan: true
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_comments: 2x2 MIMO
+wlan_driver: unknown

@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Airlink101
+cpu: Ralink RT2880
+cpu_cores: '1'
+cpu_mhz: '266'
+device_id: airlink101_ar725w
+device_page: ar725w
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/MXF/-R971009GN
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt288x/openwrt-ramips-rt288x-ar725w-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/rt288x/openwrt-18.06.2-ramips-rt288x-ar725w-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: AR725W
+git_search: AR725W
+installation_method_s: unknown
+model: AR725W
+package_architecture: mipsel_mips32r2
+power_supply: 12 VDC, 1.0 A
+ram_mb: '32'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt288x
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=284ada8a3eeb1911caa08c1e3486969d6aa3e636
+supported_since_rel: '14.07'
+switch: IC+ IP175E
+target: ramips
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Airlink101_AR725W
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_comments: 2x3
+wlan_driver: unknown
+wlan_hardware: Ralink RT2872

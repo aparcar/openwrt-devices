@@ -1,0 +1,27 @@
+availability: Discontinued 2018
+brand: GL.iNet
+button_count: '1'
+comments: separate mcu with 4x pwm, Wi-Fi controller for R/C cars, robots with video
+  streaming
+cpu: Atheros AR9331
+cpu_cores: '1'
+cpu_mhz: '400'
+detachable_antennas: '1'
+device_id: gl-moto-mini
+device_type: Single Board Computer
+firmware_oem_stock_url: http://www.gl-inet.com/moto-mini/
+flash_mb: '16'
+forum_search: GL-Moto-Mini
+git_search: GL-Moto-Mini
+led_count: '4'
+model: GL-Moto-Mini
+oem_device_homepage_url: http://www.gl-inet.com/moto-mini/
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?pid=294841\
+package_architecture: mips_24kc
+ram_mb: '64'
+serial: true
+subtarget: generic
+target: ar71xx
+usb_ports: 1x 2.0
+wlan_24ghz: b/g/n
+wlan_driver: unknown

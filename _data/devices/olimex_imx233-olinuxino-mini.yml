@@ -1,0 +1,27 @@
+availability: Available 2018
+bootloader: U-Boot
+brand: Olimex
+cpu: Freescale i.MX233
+cpu_cores: '1'
+cpu_mhz: '454'
+device_id: olimex_imx233-olinuxino-mini
+device_page: imx233-olinuxino
+device_type: Single Board Computer
+firmware_oem_stock_url: https://www.olimex.com/Products/OLinuXino/iMX233/iMX233-OLinuXino-MINI/open-source-hardware
+flash_mb: microSD
+forum_search: OLinuXino
+jtag: false
+model: iMX233-OLinuXino-MINI
+oem_device_homepage_url: https://www.olimex.com/Products/OLinuXino/iMX233/iMX233-OLinuXino-MINI/open-source-hardware
+package_architecture: arm_arm926ej-s
+ram_mb: '64'
+recovery_method_s: SD card
+serial: true
+subtarget: generic
+supported_current_rel: '15.05'
+supported_since_rel: '14.07'
+target: mxs
+usb_ports: 3x 2.0
+vlan: false
+where_available: olimex.com
+wlan_driver: unknown

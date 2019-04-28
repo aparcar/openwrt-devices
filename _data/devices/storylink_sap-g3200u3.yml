@@ -1,0 +1,38 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: STORYLiNK
+button_count: '2'
+cpu: MediaTek MT7621AT
+cpu_cores: '2'
+cpu_mhz: '880'
+device_id: storylink_sap-g3200u3
+device_page: sap-g3200u3
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+firmware_oem_stock_url: http://update.gostorylink.com/SAP-G3200/
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-sap-g3200u3-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-sap-g3200u3-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: SAP-G3200U3
+git_search: SAP-G3200U3
+jtag: false
+led_count: '9'
+model: SAP-G3200U3
+oem_device_homepage_url: http://www.storylink.co.kr/front/php/category.php?cate_no=52
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 2.0 A
+ram_mb: '128'
+recovery_method_s: U-Boot TFTP recovery
+serial: true
+subtarget: mt7621
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=dcae3723fdde4ef48ee1336abfbd2d57a2b8cc85
+supported_since_rel: 17.01.0
+switch: MediaTek MT7530
+target: ramips
+usb_ports: 1x 3.0
+vlan: true
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 2x 2x2
+wlan_driver: mt76

@@ -1,0 +1,20 @@
+availability: Available 2019
+brand: QEMU (x86_64)
+comments_network_ports: '1'
+cpu: kvm x86_64
+cpu_cores: '1'
+cpu_mhz: Emulator
+device_id: qemu_x86_64
+device_page: qemu
+device_type: Emulator
+installation_method_s: see devicepage
+model: qemu-system-x86_64
+oem_device_homepage_url: https://www.qemu.org/
+package_architecture: x86_64
+subtarget: '64'
+supported_current_rel: 15.05.1
+supported_since_rel: '15.05'
+target: x86
+version: '>2.0'
+where_available: qemu.org
+wlan_driver: unknown

@@ -1,0 +1,30 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: 7Links
+comments: 4M image not built for 18.06.0
+cpu: Ralink RT5350
+cpu_cores: '1'
+cpu_mhz: '360'
+device_id: 7links_px-4885
+device_page: px4885
+device_type: Travel Router - Battery powered
+ethernet_100m_ports: '1'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-px-4885-8M-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-px-4885-8M-squashfs-sysupgrade.bin
+forum_search: PX-4885
+git_search: PX-4885
+model: PX-4885
+oem_device_homepage_url: http://www.7links.me/3G-WLAN-Router-PX-4885-919.shtml
+package_architecture: mipsel_24kc
+power_supply: "5 VDC (\xB5USB), 5200 mAh battery"
+ram_mb: '32'
+serial: true
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=cd5f3584e2c2044c2cd53d723350a8d02b227aff
+supported_since_rel: '14.07'
+target: ramips
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink RT5350

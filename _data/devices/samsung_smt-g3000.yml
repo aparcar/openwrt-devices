@@ -1,0 +1,21 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Samsung
+cpu: Infineon PSB50505
+cpu_cores: '1'
+cpu_mhz: '235'
+device_id: samsung_smt-g3000
+device_page: smt-g3xx0
+device_type: Modem
+ethernet_100m_ports: '1'
+flash_mb: '16'
+forum_search: SMT-G3000
+git_search: SMT-G3000
+jtag: true
+model: SMT-G3000
+modem: ADSL2+
+ram_mb: '64'
+serial: true
+target: lantiq
+vlan: false
+wlan_driver: unknown

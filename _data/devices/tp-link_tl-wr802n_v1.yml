@@ -1,0 +1,43 @@
+availability: Discontinued 2017
+bootloader: U-Boot
+brand: TP-Link
+comment_installation: For TFTP, rename -factory image to wr802nv1_tp_recovery.bin
+comment_recovery: For TFTP, rename -factory image to wr802nv1_tp_recovery.bin
+cpu: Qualcomm Atheros QCA9533-AL3A
+cpu_cores: '1'
+cpu_mhz: '550'
+device_id: tp-link_tl-wr802n_v1
+device_page: tl-wr802n
+device_type: Travel Router
+ethernet_100m_ports: '1'
+fccid: https://fcc.io/TE7/WR802N
+firmware_oem_stock_url: http://www.tp-link.com/en/download/TL-WR802N_V1.html
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wr802n-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wr802n-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wr802n-v1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wr802n-v1-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: TL-WR802N
+git_search: TL-WR802N
+gluon_support: Broken
+jtag: false
+led_count: '1'
+model: TL-WR802N
+oem_device_homepage_url: http://www.tp-link.com/en/download/TL-WR802N_V1.html
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=46475
+package_architecture: mips_24kc
+power_supply: 5 VDC, 0.55 A
+ram_mb: '32'
+recovery_method_s: U-Boot TFTP recovery
+serial: true
+subtarget: tiny
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=a71a8955f20e3c3ac13323072a70362f3c9d80fd
+supported_since_rel: 17.01.0
+target: ar71xx
+usb_ports: "1x \xB5USB (power)"
+version: v1
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR802N_v1.0
+wlan_24ghz: b/g/n
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA9533

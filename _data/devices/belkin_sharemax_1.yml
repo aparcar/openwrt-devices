@@ -1,0 +1,24 @@
+availability: Discontinued
+brand: Belkin
+cpu: Broadcom BCM4718
+cpu_cores: '1'
+cpu_mhz: '480'
+device_id: belkin_sharemax_1
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+flash_mb: '8'
+forum_search: Share Max (F7D3301)
+git_search: Share Max (F7D3301)
+model: Share Max (F7D3301)
+package_architecture: mipsel_74kc
+ram_mb: '64'
+switch: Broadcom BCM53115
+target: brcm47xx
+unsupported_functions: Possible to support
+usb_ports: 2x 2.0
+version: '1'
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Belkin_F7D3301
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4718

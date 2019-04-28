@@ -1,0 +1,27 @@
+availability: Discontinued
+brand: Allnet
+cpu: Atheros AR2313
+cpu_cores: '1'
+cpu_mhz: '180'
+detachable_antennas: '2'
+device_id: allnet_all0258
+device_type: WiFi Router
+ethernet_100m_ports: '1'
+flash_mb: '8'
+forum_search: ALL0258
+git_search: ALL0258
+installation_method_s: unknown
+model: ALL0258
+oem_device_homepage_url: http://www.allnet.de/fileadmin/transfer/products/77673.pdf
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=26689
+power_supply: 24 VDC, 1.0 A, Proprietary PoE
+ram_mb: '32'
+recovery_method_s: unknown
+supported_current_rel: '8.09'
+supported_since_rel: '8.09'
+target: ath25
+vlan: false
+wlan_24ghz: b/g
+wlan_50ghz: a
+wlan_driver: ath5k
+wlan_hardware: Atheros AR2313

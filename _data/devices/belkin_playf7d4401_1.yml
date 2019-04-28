@@ -1,0 +1,29 @@
+availability: Discontinued
+bootloader: CFE
+brand: Belkin
+cpu: Broadcom BCM4718
+cpu_cores: '1'
+cpu_mhz: '480'
+device_id: belkin_playf7d4401_1
+device_page: f7d4401
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+flash_mb: '8'
+forum_search: Play (F7D4401)
+git_search: Play (F7D4401)
+jtag: true
+model: Play (F7D4401)
+modem: ADSL
+package_architecture: mipsel_74kc
+ram_mb: '64'
+serial: true
+switch: Broadcom BCM53115
+target: brcm47xx
+unsupported_functions: Possible to support
+usb_ports: 2x 2.0
+version: '1'
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Belkin_F7D4401
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: b43

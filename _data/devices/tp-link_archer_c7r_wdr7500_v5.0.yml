@@ -1,0 +1,28 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: TP-Link
+button_count: '1'
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: '1'
+cpu_mhz: '720'
+device_id: tp-link_archer_c7r_wdr7500_v5.0
+device_page: archer-c5-c7-wdr7500
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+flash_mb: '8'
+led_count: '10'
+model: Archer C7R WDR7500
+oem_device_homepage_url: http://www.tp-link.com.cn/product_double_299.html
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=59343
+power_supply: 12 VDC, 2.0 A
+ram_mb: '128'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+switch: Atheros AR8327N
+target: ar71xx
+usb_ports: 2x 2.0
+version: v5.0 (CN)
+vlan: true
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k

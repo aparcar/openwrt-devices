@@ -1,0 +1,29 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: Abicom International
+cpu: Atheros AR5312
+cpu_cores: '1'
+cpu_mhz: '220'
+detachable_antennas: '2'
+device_id: abicominternational_freedomcpe
+device_page: freedom_cpe
+device_type: Single Board Computer
+ethernet_100m_ports: '1'
+flash_mb: '8'
+forum_search: Freedom CPE
+git_search: Freedom CPE
+jtag: true
+model: Freedom CPE
+power_supply: 6 VDC, 1.2 A
+ram_mb: '32'
+serial: true
+supported_current_rel: '10.03'
+supported_since_rel: '10.03'
+target: ath25
+version: Rev 05
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/Abicom_International_Freedom_CPE_rev_05
+wlan_24ghz: b/g
+wlan_50ghz: a
+wlan_driver: unknown
+wlan_hardware: Atheros AR5312

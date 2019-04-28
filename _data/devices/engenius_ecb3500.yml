@@ -1,0 +1,23 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: EnGenius
+cpu: Atheros AR2316A
+cpu_cores: '1'
+cpu_mhz: '180'
+detachable_antennas: '2'
+device_id: engenius_ecb3500
+device_page: ecb3500
+device_type: WiFi Router
+ethernet_100m_ports: '1'
+flash_mb: '8'
+forum_search: ECB3500
+git_search: ECB3500
+model: ECB3500
+power_supply: 12 VDC, 1.0 A
+ram_mb: '32'
+serial: true
+target: ar71xx
+wikidevi_url: https://wikidevi.com/wiki/EnGenius_ECB3500
+wlan_24ghz: b/g
+wlan_driver: ath5k
+wlan_hardware: Atheros AR2316A

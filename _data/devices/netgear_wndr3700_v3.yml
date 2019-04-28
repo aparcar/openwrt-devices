@@ -1,0 +1,39 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Netgear
+comments_network_ports: 1 WAN + 4x LAN
+cpu: Broadcom BCM4718A1
+cpu_cores: '1'
+cpu_mhz: '480'
+device_id: netgear_wndr3700_v3
+device_page: wndr3700
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: https://fcc.io/PY3/11200166
+firmware_oem_stock_url: http://support.netgear.de/product/WNDR3700v3
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-netgear-wndr3700-v3-squashfs.chk
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-netgear-wndr3700-v3-squashfs.chk
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-netgear-wndr3700-v3-squashfs.chk
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-netgear-wndr3700-v3-squashfs.chk
+flash_mb: '8'
+forum_search: WNDR3700
+git_search: WNDR3700
+gluon_support: true
+model: WNDR3700
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 2.5 A
+ram_mb: '64'
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ca7f9638d59b62454c660dd0342367b861764a80
+supported_since_rel: '14.07'
+switch: Broadcom BCM53115
+target: brcm47xx
+usb_ports: 1x 2.0
+version: v3
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Netgear_WNDR3700v3
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_comments: 2x2
+wlan_driver: b43

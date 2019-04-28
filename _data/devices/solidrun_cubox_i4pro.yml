@@ -1,0 +1,33 @@
+audio_ports: S/PDIF
+availability: unknown 2018
+bluetooth: '4.0'
+bootloader: U-Boot
+brand: SolidRun
+cpu: NXP i.MX6 Quad
+cpu_cores: '4'
+cpu_mhz: '1000'
+device_id: solidrun_cubox_i4pro
+device_type: Single Board Computer
+ethernet_gbit_ports: '1'
+fccid: "http://\xBF"
+firmware_oem_stock_url: "http://\xBF"
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/imx6/generic/
+flash_mb: microSD
+forum_search: CuBox i4Pro
+git_search: CuBox i4Pro
+model: CuBox i4Pro
+oem_device_homepage_url: https://www.solid-run.com/nxp-family/cubox-i/cubox-i-specifications/
+package_architecture: arm_cortex-a9_neon
+power_supply: 5 VDC, 3.0 A
+ram_mb: '2048'
+recovery_method_s: SD card
+sata_ports: '1'
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=6cda4f68619ec139be7897ea61b7f22c72c38b59
+target: imx6
+usb_ports: 2x 2.0
+video_ports: HDMI
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Broadcom BCM4329

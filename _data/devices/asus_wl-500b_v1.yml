@@ -1,0 +1,29 @@
+availability: Discontinued
+brand: Asus
+cpu: Broadcom BCM4710
+cpu_cores: '1'
+cpu_mhz: '125'
+device_id: asus_wl-500b_v1
+device_page: wl500b
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+firmware_openwrt_install_url: http://downloads.openwrt.org/backfire/10.03.1/brcm-2.4/openwrt-brcm-2.4-squashfs.trx
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/backfire/10.03.1/brcm-2.4/openwrt-brcm-2.4-squashfs.trx
+flash_mb: '4'
+forum_search: WL-500b
+git_search: WL-500b
+model: WL-500b
+package_architecture: mipsel_mips32
+power_supply: 5 VDC, 2.0 A
+ram_mb: '16'
+subtarget: legacy
+supported_current_rel: 10.03.1
+supported_since_rel: '0.9'
+target: brcm47xx
+usb_ports: 1x 1.1
+version: v1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/ASUS_WL-500b
+wlan_24ghz: b
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4301 (mini-PCI)

@@ -1,0 +1,35 @@
+availability: unknown 2018
+bootloader: brnboot
+brand: Arcadyan / Astoria
+cpu: Lantiq XWAY Danube PSB 50702
+cpu_cores: '2'
+cpu_mhz: '333'
+device_id: arcadyanastoria_arv7519pw
+device_page: arv7519pw
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xway/openwrt-18.06.2-lantiq-xway-arcadyan_arv7519pw-initramfs-kernel.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xway/openwrt-lantiq-xway-arcadyan_arv7519pw-initramfs-kernel.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xway/openwrt-lantiq-xway-arcadyan_arv7519pw-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xway/openwrt-18.06.2-lantiq-xway-arcadyan_arv7519pw-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: ARV7519PW
+git_search: ARV7519PW
+installation_method_s: unknown
+jtag: false
+model: ARV7519PW
+modem: ADSL2+
+package_architecture: mips_24kc
+phone_ports: '2'
+ram_mb: '64'
+recovery_method_s: unknown
+serial: true
+subtarget: xway
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e733242a2399fb444997a6c10f45f15d2166c872
+supported_since_rel: '14.07'
+target: lantiq
+usb_ports: 1x 2.0
+wlan_24ghz: b/g/n
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT3062F

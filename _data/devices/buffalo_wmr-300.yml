@@ -1,0 +1,39 @@
+availability: Discontinued 2016
+bootloader: U-Boot
+brand: Buffalo
+button_count: '2'
+cpu: MediaTek MT7620N
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: buffalo_wmr-300
+device_page: wmr-300
+device_type: Travel Router
+ethernet_100m_ports: '1'
+fccid: https://fcc.io/FDI/000000012
+firmware_oem_stock_url: http://www.buffalotech.com/support-and-downloads/download/wmr300-200.zip
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-wmr-300-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-wmr-300-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: WMR-300
+git_search: WMR-300
+jtag: false
+led_count: '2'
+model: WMR-300
+oem_device_homepage_url: http://www.buffalotech.com/products/wireless/single-band-routers/airstation-n300-wireless-travel-router
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=54395
+package_architecture: mipsel_24kc
+power_supply: 5 VDC, 0.5 A, USB Male A
+ram_mb: '64'
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e4b6dcee5e7c67a11a417c04790ac22bb287aa58
+supported_since_rel: '14.07'
+target: ramips
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/Buffalo_WMR-300
+wlan_24ghz: b/g/n
+wlan_comments: 2x2
+wlan_driver: mt76
+wlan_hardware: MediaTek MT7620N

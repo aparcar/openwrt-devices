@@ -1,0 +1,40 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TP-Link
+button_count: '1'
+comments_network_ports: cpu is connected to 2 switch ports
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: '1'
+cpu_mhz: '720'
+device_id: tp-link_archer_c7r_wdr7500_v3_cn
+device_page: archer-c5-c7-wdr7500
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-tl-wdr7500-v3-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-tl-wdr7500-v3-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-tl-wdr7500-v3-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-tl-wdr7500-v3-squashfs-sysupgrade.bin
+flash_mb: '8'
+installation_method_s: unknown
+led_count: '10'
+model: Archer C7R WDR7500
+oem_device_homepage_url: http://www.tp-link.com.cn/product_double_299.html
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=44201
+package_architecture: mips_24kc
+ram_mb: '128'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=7cc3beff324d2418c261b59a25dcf180b56232de
+supported_since_rel: 17.01.0
+switch: Atheros AR8327N
+target: ar71xx
+usb_ports: 2x 2.0
+version: v3.0 (CN)
+vlan: true
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 3x3
+wlan_driver: ath10k

@@ -1,0 +1,30 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: RaidSonic
+button_count: '3'
+cpu: Storm SL3516
+cpu_cores: '1'
+cpu_mhz: '300'
+device_id: raidsonic_ib-nas4220-b
+device_type: NAS
+ethernet_gbit_ports: '1'
+firmware_oem_stock_url: "http://\xBF"
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/gemini/raidsonic/openwrt-gemini-raidsonic-sysupgrade-ib4220.tar.gz
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/gemini/generic/openwrt-18.06.2-gemini-sysupgrade-ib4220b.tar.gz
+flash_mb: '16'
+forum_search: IB-NAS4220-B
+git_search: IB-NAS4220-B
+installation_method_s: unknown
+led_count: '2'
+model: IB-NAS4220-B
+oem_device_homepage_url: "http://\xBF"
+package_architecture: arm_fa526
+ram_mb: '128'
+recovery_method_s: unknown
+sata_ports: '2'
+subtarget: raidsonic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=da5001475c093f296248fe6842d9188d4f64fd4e
+supported_since_rel: '15.05'
+target: gemini
+usb_ports: 2x 2.0

@@ -1,0 +1,45 @@
+availability: Available 2017
+bootloader: CFE
+brand: Asus
+comments: 'RT-N66U = black case; RT-N66W = white case; RT-N66R = retail packaging
+  for some countries; All devices (U,W,R) are the same hardware + software. (Source:
+  wikidevi + https://forum.openwrt.org/viewtopic.php?pid=292174)'
+cpu: Broadcom BCM4706
+cpu_cores: '1'
+cpu_mhz: '600'
+detachable_antennas: '3'
+device_id: asus_rt-n66u_b1
+device_page: rt-n66u
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+firmware_oem_stock_url: https://www.asus.com/Networking/RTN66U/HelpDesk_BIOS/
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-asus-rt-n66u-squashfs.trx
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-asus-rt-n66u-squashfs.trx
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-asus-rt-n66u-squashfs.trx
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-asus-rt-n66u-squashfs.trx
+flash_mb: '32'
+forum_search: RT-N66U
+git_search: RT-N66U
+installation_method_s: unknown
+jtag: true
+led_count: '5'
+model: RT-N66U
+oem_device_homepage_url: https://www.asus.com/Networking/RTN66U/
+package_architecture: mipsel_74kc
+power_supply: 19 VDC, 1.58 A
+ram_mb: '256'
+recovery_method_s: unknown
+serial: true
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f08a10f2b98535c256cc4066c6c90b746890b820
+supported_since_rel: '15.05'
+switch: Broadcom BCM53125
+target: brcm47xx
+usb_ports: 2x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N66U
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4331

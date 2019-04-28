@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Sercomm
+button_count: '3'
+comments: aka "Picasso gateway"; RAM NANYA NT5TU64M16GG-AC;
+cpu: MediaTek MT7620A
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: sercomm_na930
+device_type: other
+ethernet_gbit_ports: '1'
+fccid: https://fcc.io/P27/NA930ZW2G
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-na930-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-na930-squashfs-sysupgrade.bin
+forum_search: NA930
+git_search: NA930
+installation_method_s: unknown
+led_count: '7'
+model: NA930
+modem: Mobile Wireless/Cellular network
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=60355
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: '64'
+recovery_method_s: unknown
+serial: true
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b56bef28d79c2cb3ffdc86d9b84b5aa16c649547
+supported_since_rel: '15.05'
+target: ramips
+usb_ports: 1x 2.0
+wikidevi_url: https://wikidevi.com/wiki/Telefonica_Smart_Home_Gateway_(Picasso)
+wlan_24ghz: b/g/n
+wlan_comments: Z-Wave capable
+wlan_driver: mt76
+wlan_hardware: MediaTek MT7620A

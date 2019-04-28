@@ -1,0 +1,37 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Qxwlan
+button_count: '1'
+cpu: Qualcomm Atheros QCA9531
+cpu_cores: '1'
+cpu_mhz: '650'
+detachable_antennas: '3'
+device_id: qxwlan_e600gac_v2
+device_page: e600gac
+device_type: WiFi AP
+ethernet_100m_ports: '2'
+fccid: "http://\xBF"
+firmware_oem_stock_url: http://www.qxwlan.com/product/p/79.html
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-e600gac-v2-16M-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-e600gac-v2-16M-squashfs-sysupgrade.bin
+forum_search: E600GAC
+git_search: E600GAC
+jtag: true
+led_count: '6'
+model: E600GAC
+oem_device_homepage_url: http://www.qxwlan.com/product/p/79.html
+package_architecture: mips_24kc
+power_supply: 9-12 VDC
+ram_mb: '128'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=d8e6c3f6d95304bc84269d2292581767fc9bfd3a
+supported_since_rel: 18.06.0
+target: ar71xx
+usb_ports: 1x Header
+version: v2
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k

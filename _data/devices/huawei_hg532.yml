@@ -1,0 +1,29 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Huawei
+cpu: Ralink RT3052F
+cpu_cores: '1'
+cpu_mhz: '384'
+device_id: huawei_hg532
+device_page: hg532
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+flash_mb: '4'
+forum_search: HG532
+git_search: HG532
+jtag: true
+model: HG532
+modem: ADSL2+
+package_architecture: mipsel_24kc
+ram_mb: '16'
+serial: true
+subtarget: rt305x
+switch: Ralink RT3052F
+target: ramips
+unsupported_functions: Impossible
+usb_ports: 1x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Huawei_EchoLife_HG532
+wlan_24ghz: b/g/n
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT3052F

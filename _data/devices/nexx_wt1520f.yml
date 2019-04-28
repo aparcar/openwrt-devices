@@ -1,0 +1,36 @@
+availability: Available 2017
+bootloader: U-Boot
+brand: Nexx
+cpu: Ralink RT5350
+cpu_cores: '1'
+cpu_mhz: '360'
+device_id: nexx_wt1520f
+device_page: wt1520
+device_type: Travel Router
+ethernet_100m_ports: '2'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-wt1520-8M-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/lede-ramips-rt305x-wt1520-8M-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/lede-ramips-rt305x-wt1520-8M-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-wt1520-8M-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: WT1520
+git_search: WT1520
+model: WT1520F
+oem_device_homepage_url: http://www.nexx.com.cn/index.php/home/detail?pid=195
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=48481
+package_architecture: mipsel_24kc
+power_supply: 5 VDC, 1.0 A
+ram_mb: '32'
+recovery_method_s: U-Boot TFTP recovery
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=af1207b58c61eed1eaa86f5e670347b84fd75a09
+supported_since_rel: '15.05'
+target: ramips
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Nexx_WT1520
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink RT5350

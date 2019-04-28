@@ -1,0 +1,23 @@
+availability: Discontinued
+brand: Tenda
+cpu: Broadcom BCM6348
+cpu_cores: '1'
+cpu_mhz: '256'
+detachable_antennas: '1'
+device_id: tenda_w548d
+device_page: w548d
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+flash_mb: '4'
+forum_search: W548D
+git_search: W548D
+model: W548D
+package_architecture: mips_mips32
+ram_mb: '16'
+subtarget: generic
+target: brcm63xx
+unsupported_functions: Impossible
+usb_ports: true
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318

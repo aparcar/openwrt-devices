@@ -1,0 +1,43 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Sitecom
+button_count: '1'
+cpu: Ralink RT3883
+cpu_cores: '1'
+cpu_mhz: '500'
+device_id: sitecom_wlr-6000
+device_page: wlr-6000
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: https://fcc.io/U2M/-WBR5200MGN
+firmware_oem_stock_url: http://www.sitecomlearningcentre.com/products/wlr-6000v1001/wireless-gigabit-router-n750-x6/downloads
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/rt3883/openwrt-18.06.2-ramips-rt3883-wlr-6000-squashfs-factory.dlf
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt3883/lede-ramips-rt3883-wlr-6000-squashfs-factory.dlf
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt3883/lede-ramips-rt3883-wlr-6000-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/rt3883/openwrt-18.06.2-ramips-rt3883-wlr-6000-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: WLR-6000
+git_search: WLR-6000
+installation_method_s: unknown
+led_count: '2'
+model: WLR-6000
+oem_device_homepage_url: https://www.sitecom.com/en/wireless-gigabit-router-n750-x6/wlr-6000/p/359
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=62704
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 1.25 A
+ram_mb: '64'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt3883
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=3d680c57286a2f77b9cfba275756c711730c7fe2
+supported_since_rel: 17.01.0
+switch: Atheros AR8327
+target: ramips
+usb_ports: 1x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Sitecom_WLR-6000
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: unknown

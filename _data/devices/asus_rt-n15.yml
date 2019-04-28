@@ -1,0 +1,39 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Asus
+button_count: '2'
+cpu: Ralink RT2880
+cpu_cores: '1'
+cpu_mhz: '266'
+device_id: asus_rt-n15
+device_page: rt-n15
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: https://fcc.io/MSQ/-RTN15
+firmware_oem_stock_url: https://www.asus.com/us/Networking/RTN15/HelpDesk_BIOS/
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt288x/openwrt-ramips-rt288x-rt-n15-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/rt288x/openwrt-18.06.2-ramips-rt288x-rt-n15-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: RT-N15
+git_search: RT-N15
+installation_method_s: unknown
+led_count: '7'
+model: RT-N15
+oem_device_homepage_url: https://www.asus.com/us/Networking/RTN15/
+package_architecture: mipsel_mips32r2
+power_supply: 5 VDC, 2.5 A
+ram_mb: '32'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt288x
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=3fccc3b3767a2782b5140092d35682fbe88988ff
+supported_since_rel: '14.07'
+switch: Realtek RTL8366SR
+target: ramips
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N15
+wlan_24ghz: b/g/n
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT2880

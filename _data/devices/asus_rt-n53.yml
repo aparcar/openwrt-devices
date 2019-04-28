@@ -1,0 +1,36 @@
+availability: Discontinued
+brand: Asus
+cpu: Broadcom BCM5358
+cpu_cores: '1'
+cpu_mhz: '500'
+device_id: asus_rt-n53
+device_page: rt-n53
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/MSQ/-RTN53
+firmware_oem_stock_url: https://www.asus.com/us/Networking/RTN53/HelpDesk_Download/
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-asus-rt-n53-squashfs.trx
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-asus-rt-n53-squashfs.trx
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-asus-rt-n53-squashfs.trx
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-asus-rt-n53-squashfs.trx
+flash_mb: '8'
+forum_search: RT-N53
+git_search: RT-N53
+installation_method_s: unknown
+model: RT-N53
+oem_device_homepage_url: https://www.asus.com/us/Networking/RTN53/overview/
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: '32'
+recovery_method_s: unknown
+serial: true
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=69aefc771fd8a7d7450e856a5432fcc15cfc8fc9
+supported_since_rel: '15.05'
+switch: Broadcom BCM5358
+target: brcm47xx
+wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N53
+wlan_24ghz: b/g/n
+wlan_50ghz: a
+wlan_driver: b43

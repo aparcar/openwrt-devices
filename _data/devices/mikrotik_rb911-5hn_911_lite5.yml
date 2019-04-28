@@ -1,0 +1,36 @@
+availability: Available 2019
+bootloader: RouterBOOT
+brand: MikroTik
+button_count: '1'
+cpu: Atheros AR9344
+cpu_cores: '1'
+cpu_mhz: '600'
+detachable_antennas: '1'
+device_id: mikrotik_rb911-5hn_911_lite5
+device_type: WiFi Router
+ethernet_100m_ports: '1'
+firmware_oem_stock_url: https://mikrotik.com/download
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-rb-nor-flash-16M-initramfs-kernel.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-rb-nor-flash-16M-initramfs-kernel.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-rb-nor-flash-16M-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-rb-nor-flash-16M-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: RB911-5Hn
+git_search: RB911-5Hn
+jtag: true
+led_count: '8'
+model: RB911-5Hn (911 Lite5)
+oem_device_homepage_url: https://mikrotik.com/product/RB911-5Hn
+package_architecture: mips_24kc
+power_supply: 10-30 VDC passive PoE
+ram_mb: '64'
+serial: true
+subtarget: mikrotik
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=eb9e3651dd1a081e0d908e7e5162d6683098c1f3
+supported_since_rel: 18.06.0
+target: ar71xx
+where_available: mikrotik-store.eu
+wlan_50ghz: a/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9344

@@ -1,0 +1,22 @@
+availability: Available 2019
+brand: Texas Instruments
+comments_network_ports: '1'
+cpu: OMAP4 (ARM Cortex-A9)
+cpu_cores: '1'
+cpu_mhz: '1000'
+device_id: texasinstruments_pandaboard
+device_type: Single Board Computer
+flash_mb: SD
+forum_search: PandaBoard
+git_search: PandaBoard
+model: PandaBoard
+oem_device_homepage_url: http://pandaboard.org/
+power_supply: 5 VDC, 4 A
+ram_mb: '1024'
+serial: true
+subtarget: generic
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=f9e41adc80d0492ff9c94b4b660ac9ac8a6cae02
+target: omap
+usb_ports: true
+video_ports: HDMI
+vlan: false

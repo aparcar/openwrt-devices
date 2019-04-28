@@ -1,0 +1,34 @@
+availability: Available 2017
+bootloader: RouterBOOT
+brand: MikroTik
+cpu: Atheros AR9344
+cpu_cores: '1'
+cpu_mhz: '600'
+detachable_antennas: '2'
+device_id: mikrotik_rb2011
+device_page: rb2011
+device_type: Single Board Computer
+ethernet_100m_ports: '5'
+ethernet_gbit_ports: '5'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/
+forum_search: RB2011
+git_search: RB2011
+installation_method_s: Mikrotik TFTP
+model: RB2011
+package_architecture: mips_24kc
+power_supply: 7-31 VDC, 6W
+ram_mb: '128'
+serial: true
+subtarget: mikrotik
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=6ae5ec16e0f030649e759e340f791df388d6e38d
+supported_since_rel: '15.05'
+target: ar71xx
+usb_ports: true
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: depending on model

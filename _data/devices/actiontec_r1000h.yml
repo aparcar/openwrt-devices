@@ -1,0 +1,27 @@
+availability: Discontinued
+brand: Actiontec
+cpu: Broadcom BCM6368
+cpu_cores: '2'
+cpu_mhz: '400'
+device_id: actiontec_r1000h
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/smp/openwrt-18.06.2-brcm63xx-smp-R1000H-squashfs-cfe.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/smp/openwrt-brcm63xx-smp-R1000H-squashfs-cfe.bin
+flash_mb: '32'
+forum_search: R1000H
+git_search: R1000H
+installation_method_s: unknown
+model: R1000H
+oem_device_homepage_url: https://actiontecsupport.zendesk.com/hc/en-us/categories/115000076506-R1000H-Wireless-N-Gigabit-Ethernet-Router
+package_architecture: mips_mips32
+ram_mb: '64'
+recovery_method_s: unknown
+subtarget: smp
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f9b67b89d31dbffd20aedcb33cf10dfe1a206aab
+supported_since_rel: 18.06.0
+target: brcm63xx
+usb_ports: 1x 2.0
+wlan_24ghz: b/g/n
+wlan_driver: unknown

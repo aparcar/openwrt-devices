@@ -1,0 +1,30 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: ZBT
+button_count: '1'
+cpu: MediaTek MT7620N
+cpu_cores: '1'
+cpu_mhz: '580'
+detachable_antennas: '2'
+device_id: zbt_we526
+device_page: we526
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+flash_mb: '8'
+forum_search: WE526 (WE1626)
+git_search: WE526 (WE1626)
+jtag: true
+led_count: '8'
+model: WE526 (WE1626)
+oem_device_homepage_url: http://www.zbtlink.com/products/router/WE526.html
+package_architecture: mipsel_24kc
+ram_mb: '64'
+serial: true
+subtarget: mt7620
+supported_since_rel: 15.05.1
+switch: MediaTek MT7620N
+target: ramips
+usb_ports: 1x 2.0
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: unknown

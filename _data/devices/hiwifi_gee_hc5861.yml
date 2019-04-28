@@ -1,0 +1,25 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: HiWiFi/Gee
+cpu: MediaTek MT7620A
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: hiwifi_gee_hc5861
+device_page: hiwifi_gee_hc5661
+device_type: WiFi Router
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-hc5861-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-hc5861-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: HC5861
+git_search: HC5861
+installation_method_s: see devicepage
+model: HC5861
+oem_device_homepage_url: http://www.hiwifi.com
+package_architecture: mipsel_24kc
+ram_mb: '128'
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=dd8f5abb23c7222e427ad10703164c9aef13b148
+supported_since_rel: 17.01.0
+target: ramips
+wlan_driver: unknown

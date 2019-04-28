@@ -1,0 +1,30 @@
+availability: Available 2019
+bluetooth: '4.0'
+bootloader: U-Boot
+brand: Laird
+cpu: Atmel SAMA5D31
+cpu_cores: '1'
+cpu_mhz: '536'
+device_id: laird_wb50nbt
+device_type: other
+fccid: https://fcc.io/SQG-WB50NBT
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/at91/sama5/
+flash_mb: '128'
+forum_search: WB50NBT
+git_search: WB50NBT
+installation_method_s: unknown
+model: WB50NBT
+oem_device_homepage_url: https://www.lairdtech.com/Products/wb50nbt-wi-fi-bluetooth-module
+package_architecture: arm_cortex-a5_neon-vfpv4
+ram_mb: '64'
+recovery_method_s: unknown
+subtarget: sama5
+supported_current_rel: snapshot
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f81b353c9f33f5afa32eebe0ee1dc290e927e5ee
+target: at91
+vlan: false
+where_available: mouser.de
+wlan_24ghz: b/g/n
+wlan_50ghz: a
+wlan_driver: unknown
+wlan_hardware: Qualcomm Atheros AR6004

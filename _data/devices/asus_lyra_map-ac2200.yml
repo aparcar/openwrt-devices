@@ -1,0 +1,35 @@
+availability: Available 2019
+bluetooth: '4.0'
+brand: Asus
+button_count: '2'
+cpu: Qualcomm IPQ4019
+cpu_cores: '4'
+cpu_mhz: '717'
+device_id: asus_lyra_map-ac2200
+device_type: WiFi Router
+ethernet_gbit_ports: '2'
+fccid: https://fcc.io/MSQ/-RTACBX00
+firmware_oem_stock_url: https://www.asus.com/Networking/Lyra/HelpDesk_BIOS/
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ipq40xx/generic/openwrt-ipq40xx-asus_map-ac2200-initramfs-fit-uImage.itb
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ipq40xx/generic/openwrt-ipq40xx-asus_map-ac2200-squashfs-sysupgrade.bin
+flash_mb: 128NAND
+forum_search: Lyra (MAP-AC2200)
+git_search: Lyra (MAP-AC2200)
+installation_method_s: see git-commit
+model: Lyra (MAP-AC2200)
+oem_device_homepage_url: https://www.asus.com/Networking/Lyra/
+power_supply: 12 VDC, 2.0 A
+ram_mb: '256'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=9ad3967f140bd6d08796f1ec151b753186b3eb44
+switch: Qualcomm Atheros QCA8072
+target: ipq40xx
+where_available: amazon.com, amazon.de
+wikidevi_url: https://wikidevi.com/wiki/ASUS_Lyra
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k

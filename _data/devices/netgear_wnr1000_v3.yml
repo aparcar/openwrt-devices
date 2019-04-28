@@ -1,0 +1,40 @@
+availability: Discontinued
+bootloader: CFE
+brand: Netgear
+cpu: Broadcom BCM5356
+cpu_cores: '1'
+cpu_mhz: '333'
+device_id: netgear_wnr1000_v3
+device_page: wnr1000_v3
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/PY3/09300117
+firmware_oem_stock_url: https://www.netgear.com/support/product/WNR1000v3
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-netgear-wnr1000-v3-squashfs.chk
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-netgear-wnr1000-v3-squashfs.chk
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-netgear-wnr1000-v3-squashfs.chk
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-netgear-wnr1000-v3-squashfs.chk
+flash_mb: '4'
+forum_search: WNR1000
+git_search: WNR1000
+installation_method_s: unknown
+model: WNR1000
+oem_device_homepage_url: https://www.netgear.com/support/product/WNR1000v3
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: '16'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=da2178eb7e02f8482d3b0e59372a2a04cb4a0bfe
+supported_since_rel: 17.01.0
+switch: Broadcom BCM5356
+target: brcm47xx
+unsupported_functions: WiFi 2.4GHz
+version: v3
+wikidevi_url: https://wikidevi.com/wiki/Netgear_WNR1000v3
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM5356

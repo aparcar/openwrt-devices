@@ -1,0 +1,27 @@
+availability: Discontinued
+bootloader: PSPBoot
+brand: Actiontec
+comments_network_ports: '4'
+cpu: Texas Instruments TNETD7200
+cpu_cores: '1'
+cpu_mhz: '212'
+device_id: actiontec_gt724wg
+device_page: gt724wg
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+flash_mb: '4'
+forum_search: GT724WG
+git_search: GT724WG
+model: GT724WG
+modem: ADSL2+
+package_architecture: mipsel_mips32
+ram_mb: '16'
+serial: true
+serial_connection_parameters: 38400 / 8N1
+switch: Marvell 88E6060
+target: ar7
+unsupported_functions: Impossible
+vlan: false
+wlan_24ghz: b/g
+wlan_driver: unknown
+wlan_hardware: TI TNETW1350A

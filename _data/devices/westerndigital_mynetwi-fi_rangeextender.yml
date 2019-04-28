@@ -1,0 +1,34 @@
+availability: Available 2018
+bootloader: U-Boot
+brand: Western Digital
+cpu: Atheros AR7370
+cpu_cores: '1'
+cpu_mhz: '560'
+device_id: westerndigital_mynetwi-fi_rangeextender
+device_page: rext
+device_type: WiFi Router
+ethernet_gbit_ports: '1'
+fccid: https://fcc.io/N89-WE206A1
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-mynet-rext-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-mynet-rext-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-mynet-rext-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-mynet-rext-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: My Net Wi-Fi Range Extender
+git_search: My Net Wi-Fi Range Extender
+model: My Net Wi-Fi Range Extender
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: '32'
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f02c8802e363317211ce72b62c29a89911019769
+supported_since_rel: '14.07'
+target: ar71xx
+wikidevi_url: https://wikidevi.com/wiki/Western_Digital_My_Net_Wi-Fi_Range_Extender
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9340

@@ -1,0 +1,41 @@
+availability: Available 2019
+bootloader: EVA
+brand: AVM
+button_count: '2'
+comment_recovery: AVM provides a recovery tool for Windows
+cpu: Qualcomm Atheros QCA9561
+cpu_cores: '1'
+cpu_mhz: '750'
+device_id: avm_fritz_box_4020
+device_page: fritz.box.4020
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: "http://\xBF"
+firmware_oem_stock_url: https://avm.de/service/downloads/?product=fritzbox-4020
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-avm_fritz4020-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-fritz4020-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: FRITZ!Box 4020
+git_search: Box 4020
+gluon_support: true
+led_count: '5'
+model: FRITZ!Box 4020
+oem_device_homepage_url: https://avm.de/produkte/fritzbox/fritzbox-4020/
+package_architecture: mips_24kc
+ram_mb: '128'
+recovery_method_s: EVA FTP
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=b6a4c674684585902ee07a4ba7c89d988d633650
+supported_since_rel: 18.06.0
+switch: Qualcomm Atheros QCA9561
+target: ar71xx-ath79
+unsupported_functions: USB
+usb_ports: 1x 2.0
+vlan: true
+where_available: amazon.de
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Qualcomm Atheros QCA9561

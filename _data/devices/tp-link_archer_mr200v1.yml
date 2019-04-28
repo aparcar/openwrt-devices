@@ -1,0 +1,43 @@
+availability: Discontinued 2017
+bootloader: U-Boot
+brand: TP-Link
+button_count: '2'
+cpu: MediaTek MT7620A
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: tp-link_archer_mr200v1
+device_page: archer-mr200
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+fccid: https://fcc.io/TE7/MR200V1
+firmware_oem_stock_url: http://www.tp-link.com/en/download/Archer-MR200_V1.html
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-ArcherMR200-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-ArcherMR200-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: MR200
+git_search: MR200
+jtag: false
+led_count: '10'
+model: Archer MR200
+modem: LTE
+oem_device_homepage_url: http://www.tp-link.com/en/products/details/cat-4691_Archer-MR200.html
+owrt_forum_topic_url: http://forum.openwrt.org/viewtopic.php?id=64293
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: '64'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=c8043137bbd323b1490ae8613eab915ba9c138ee
+supported_since_rel: 17.01.0
+switch: MediaTek MT7620A
+target: ramips
+unsupported_functions: WiFi 5GHz
+version: v1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_MR200
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 2x2; mt7610e support added in Dec. 2018 -> available in snapshots
+wlan_driver: mt76

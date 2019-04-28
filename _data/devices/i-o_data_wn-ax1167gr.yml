@@ -1,0 +1,35 @@
+availability: Available 2018
+bootloader: U-Boot
+brand: I-O Data
+button_count: '3'
+comment_installation: upgrade on stock firmware using factory -> 'mtd erase firmware'
+  -> sysupgrade
+cpu: MediaTek MT7621A
+cpu_cores: '2'
+cpu_mhz: '880'
+device_id: i-o_data_wn-ax1167gr
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: "http://\xBF"
+firmware_oem_stock_url: https://www.iodata.jp/lib/product/w/5053.htm
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-iodata_wn-ax1167gr-initramfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-iodata_wn-ax1167gr-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: WN-AX1167GR
+git_search: WN-AX1167GR
+led_count: '2'
+model: WN-AX1167GR
+oem_device_homepage_url: https://www.iodata.jp/product/network/wnlan/wn-ax1167gr/index.htm
+package_architecture: mipsel_24kc
+power_supply: 12 VDC
+ram_mb: '64'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: mt7621
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=0b83a235602dace3de116a10de9515cda5b76be4
+target: ramips
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

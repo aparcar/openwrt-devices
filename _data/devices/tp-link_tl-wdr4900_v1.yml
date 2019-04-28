@@ -1,0 +1,45 @@
+availability: Discontinued 2015
+bootloader: U-Boot
+brand: TP-Link
+comments: Image build disabled in master with 324e94f31bfdcf9c2245303434b087b306de0262
+cpu: Freescale P1014
+cpu_cores: '1'
+cpu_mhz: '800'
+detachable_antennas: '3'
+device_id: tp-link_tl-wdr4900_v1
+device_page: tl-wdr4900
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: https://fcc.io/TE7/WDR4900
+firmware_oem_stock_url: https://www.tp-link.com/en/download/TL-WDR4900_V1.html
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/mpc85xx/generic/openwrt-18.06.2-mpc85xx-generic-tl-wdr4900-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/mpc85xx/generic/lede-mpc85xx-generic-tl-wdr4900-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/mpc85xx/generic/lede-mpc85xx-generic-tl-wdr4900-v1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/mpc85xx/generic/openwrt-18.06.2-mpc85xx-generic-tl-wdr4900-v1-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: TL-WDR4900
+git_search: TL-WDR4900
+gluon_support: true
+jtag: true
+led_count: '6'
+model: TL-WDR4900
+oem_device_homepage_url: https://www.tp-link.com/en/products/details/TL-WDR4900.html
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=42062
+package_architecture: powerpc_8540
+power_supply: 12 VDC, 2.5 A
+ram_mb: '128'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=1996cfe9dd27d6f369983bb024b31f01acd0e267
+supported_since_rel: '14.07'
+switch: Atheros AR8327N
+target: mpc85xx
+unsupported_functions: HwNAT
+usb_ports: 2x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WDR4900_v1
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: ath9k

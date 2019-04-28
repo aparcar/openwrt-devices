@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: CFE
+brand: Asus
+comments: Releases after Backfire are not viable because of lack of sufficient RAM.
+cpu: Broadcom BCM5354
+cpu_cores: '1'
+cpu_mhz: '240'
+device_id: asus_wl-330ge
+device_type: Travel Router
+ethernet_100m_ports: '1'
+fccid: https://fcc.io/MSQ/WL330GE
+firmware_oem_stock_url: http://dlcdnet.asus.com/pub/ASUS/wireless/WL-330gE/FW_WL_330gE_2020.zip
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/legacy/openwrt-18.06.2-brcm47xx-legacy-asus-wl-330ge-squashfs.trx
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/legacy/lede-brcm47xx-legacy-asus-wl-330ge-squashfs.trx
+flash_mb: '4'
+forum_search: WL-330gE
+git_search: WL-330gE
+jtag: false
+model: WL-330gE
+oem_device_homepage_url: http://www.asus.com/Networking/WL330gE/
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=18903
+package_architecture: mipsel_mips32
+power_supply: 5 VDC, 1.0 A
+ram_mb: '16'
+recovery_method_s: CFE TFTP recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: legacy
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f5fba5bc3ccf493289396deaa64a7ce7385d8590
+supported_since_rel: '10.03'
+target: brcm47xx
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/ASUS_WL-330gE
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM5354

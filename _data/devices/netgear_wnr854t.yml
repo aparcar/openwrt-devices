@@ -1,0 +1,36 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Netgear
+button_count: '1'
+cpu: Marvell 88F5180NB1
+cpu_cores: '1'
+cpu_mhz: '500'
+device_id: netgear_wnr854t
+device_page: wnr854t
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: https://fcc.io/PY3/06200049
+firmware_oem_stock_url: https://www.netgear.com/support/product/WNR854T
+firmware_openwrt_install_url: http://downloads.openwrt.org/attitude_adjustment/12.09/orion/generic/openwrt-wnr854t-squashfs-factory.img
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/attitude_adjustment/12.09/orion/generic/openwrt-wnr854t-squashfs-sysupgrade.img
+flash_mb: '8'
+forum_search: WNR854T
+git_search: WNR854T
+jtag: true
+model: WNR854T
+oem_device_homepage_url: https://www.netgear.com/support/product/WNR854T
+power_supply: 12 VDC, 1.5 A
+ram_mb: '32'
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: '12.09'
+supported_since_rel: '10.03'
+switch: Marvell 88E6131
+target: orion
+unsupported_functions: PCI Wireless not supported as firmware image not available
+wikidevi_url: https://wikidevi.com/wiki/Netgear_WNR854T
+wlan_24ghz: b/g/n
+wlan_driver: mwlwifi
+wlan_hardware: Gemtek WMIM-205GN mini-PCI Marvell 88W8361

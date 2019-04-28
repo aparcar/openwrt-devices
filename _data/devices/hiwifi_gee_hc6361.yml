@@ -1,0 +1,41 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: HiWiFi/Gee
+button_count: '1'
+comment_installation: Need to downgrade (unlock) U-Boot at first, do not reboot, then
+  issue sysupgrade -F -n sysupgrade -F -n *sysupgrade.bin to install Openwrt, you
+  might not able to revert to stock firmware afterwards
+comment_recovery: The Hiwifi stock firmware recovery method is this, not sure whether
+  it's applicable to OpenWRT
+comments: The stock firmware is a modified version of Openwrt, you need to request
+  to open developer mode to ssh the router
+cpu: Atheros AR9331
+cpu_cores: '1'
+cpu_mhz: '400'
+detachable_antennas: '1'
+device_id: hiwifi_gee_hc6361
+device_page: hc6361
+device_type: WiFi Router
+ethernet_100m_ports: '3'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-hiwifi-hc6361-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-hiwifi-hc6361-squashfs-sysupgrade.bin
+forum_search: HC6361
+git_search: HC6361
+led_count: '4'
+model: HC6361
+package_architecture: mips_24kc
+power_supply: 5 VDC, 1.0 A
+ram_mb: '64'
+recovery_method_s: U-Boot web recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=5c1105d2a149f80386dbaeb6f52af7ccbdc48adc
+supported_since_rel: '14.07'
+target: ar71xx
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/HiWiFi_HC6361
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9331

@@ -1,0 +1,28 @@
+availability: unknown 2018
+brand: Patriot Memory
+button_count: '3'
+comments: includes 320GB HD, Lithium-ion polymer battery up to 5.5 hours
+cpu: Ralink RT5350F
+cpu_cores: '1'
+cpu_mhz: '360'
+device_id: patriotmemory_gauntletnode
+device_page: gauntletnode
+device_type: Travel Router - Battery powered
+firmware_oem_stock_url: https://patriotmemory.com/product/gauntlet-node-portable-wireless-2-5-enclosure/
+flash_mb: '8'
+forum_search: Gauntlet Node
+git_search: Gauntlet Node
+led_count: '3'
+model: Gauntlet Node
+oem_device_homepage_url: https://patriotmemory.com/product/gauntlet-node-portable-wireless-2-5-enclosure/
+package_architecture: mipsel_24kc
+power_supply: 5 VDC, battery
+ram_mb: '64'
+serial: true
+subtarget: rt305x
+target: ramips
+unsupported_functions: WIP
+usb_ports: 1x 2.0
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink RT5350F

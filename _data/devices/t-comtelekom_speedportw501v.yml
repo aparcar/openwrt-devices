@@ -1,0 +1,25 @@
+availability: Discontinued
+bootloader: Adam2
+brand: T-Com / Telekom
+comments: See also http://www.wehavemorefun.de/fritzbox/Speedport_W_501V
+cpu: Texas Instruments TNETD7200ZDW
+cpu_cores: '1'
+cpu_mhz: '211'
+device_id: t-comtelekom_speedportw501v
+device_page: spw501v
+device_type: WiFi Router
+ethernet_100m_ports: '1'
+flash_mb: '4'
+forum_search: Speedport W 501V
+git_search: Speedport W 501V
+model: Speedport W 501V
+modem: ADSL2+
+package_architecture: mipsel_mips32
+ram_mb: '16'
+serial: true
+target: ar7
+unsupported_functions: Impossible
+vlan: false
+wlan_24ghz: b/g
+wlan_driver: unknown
+wlan_hardware: TI TNETW1350A

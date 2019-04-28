@@ -1,0 +1,26 @@
+availability: Discontinued
+bootloader: CFE
+brand: Compex
+cpu: Infineon ADM5120
+cpu_cores: '1'
+cpu_mhz: '175'
+device_id: compex_wp54g_6e
+device_page: wp54
+device_type: WiFi Router
+ethernet_100m_ports: '2'
+flash_mb: '4'
+forum_search: WP54g
+git_search: WP54g
+jtag: true
+model: WP54g
+ram_mb: '16'
+recovery_method_s: CFE TFTP recovery
+serial: true
+supported_current_rel: 10.03.1
+supported_since_rel: '10.03'
+target: adm5120
+version: 6E
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Compex_WP54G
+wlan_driver: unknown
+wlan_hardware: Compex WLM54G / WLM54AG (mini-PCI)

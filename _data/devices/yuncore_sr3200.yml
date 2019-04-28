@@ -1,0 +1,30 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: YunCore
+cpu: Qualcomm Atheros QCA9563
+cpu_cores: '1'
+cpu_mhz: '775'
+detachable_antennas: '6'
+device_id: yuncore_sr3200
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-sr3200-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-sr3200-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: SR3200
+git_search: SR3200
+lede_forum_topic_url: https://forum.lede-project.org/search?q=yuncore%20sr3200
+model: SR3200
+oem_device_homepage_url: http://www.yuncore.com.cn/product.php?id=83
+package_architecture: mips_24kc
+ram_mb: '128'
+recovery_method_s: U-Boot TFTP + serial recovery
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=c198ca682c187e61730119134e1dde75da2e7a16
+supported_since_rel: 17.01.0
+target: ar71xx
+usb_ports: 2x 2.0
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k

@@ -1,0 +1,37 @@
+availability: Discontinued 2010
+bootloader: U-Boot
+brand: D-Link
+cpu: Atheros AR7240
+cpu_cores: '1'
+cpu_mhz: '400'
+detachable_antennas: '1'
+device_id: d-link_dir-600_a1
+device_page: dir-600
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/KA2/DIR600A1
+firmware_openwrt_install_url: http://downloads.lede-project.org/releases/17.01.1/targets/ar71xx/generic/lede-17.01.1-ar71xx-generic-dir-600-a1-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: https://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-dir-600-a1-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: https://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-dir-600-a1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.lede-project.org/releases/17.01.1/targets/ar71xx/generic/lede-17.01.1-ar71xx-generic-dir-600-a1-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: DIR-600
+git_search: DIR-600
+installation_method_s: D-Link Recovery GUI
+model: DIR-600
+package_architecture: mips_24kc
+power_supply: 5 VDC, 1.2 A
+ram_mb: '32'
+recovery_method_s: D-Link Recovery GUI
+subtarget: generic
+supported_current_rel: 17.01.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=58301cdeb8cb81acb213726407f0b1da20ad466f
+supported_since_rel: '10.03'
+switch: Atheros AR7240
+target: ar71xx
+version: A1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-600_rev_A1
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9285

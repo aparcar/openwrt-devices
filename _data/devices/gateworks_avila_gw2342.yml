@@ -1,0 +1,35 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: Gateworks
+button_count: '1'
+cpu: Intel IXP425
+cpu_cores: '1'
+cpu_mhz: '533'
+device_id: gateworks_avila_gw2342
+device_page: gateworks_avila_gw2342
+device_type: Single Board Computer
+ethernet_100m_ports: '2'
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ixp4xx/generic/
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ixp4xx/generic/
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ixp4xx/generic/lede-ixp4xx-generic-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ixp4xx/generic/openwrt-18.06.2-ixp4xx-generic-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: Avila GW2342
+git_search: Avila GW2342
+jtag: true
+led_count: '1'
+model: Avila GW2342
+package_architecture: armeb_xscale
+power_supply: 6-28 VDC
+ram_mb: '64'
+recovery_method_s: RedBoot TFTP recovery
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=1834a712041e0907ff05eac19fbba768cde2c19a
+supported_since_rel: '7.06'
+target: ixp4xx
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/Gateworks_Avila_GW2342
+wlan_driver: unknown
+wlan_hardware: 4x mini-PCI

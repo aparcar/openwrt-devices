@@ -1,0 +1,38 @@
+availability: Available 2017
+bootloader: U-Boot
+brand: ALFA Network
+comments: Same as Hornet-UB / AP121 / AP121U?
+cpu: Atheros AR9331
+cpu_cores: '1'
+cpu_mhz: '400'
+detachable_antennas: '1'
+device_id: alfanetwork_ap121
+device_page: ap121
+device_type: WiFi Router
+ethernet_100m_ports: '2'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-ap121-8M-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ap121-8M-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: AP121
+git_search: AP121
+installation_method_s: see devicepage
+jtag: true
+model: AP121
+oem_device_homepage_url: http://www.alfa.com.tw/products_show.php?pc=35&ps=121
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.0 A, PoE
+ram_mb: '32'
+recovery_method_s: unknown
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f332dbd7bed9a2cea90dde1a93182d01e3bc0369
+supported_since_rel: '12.09'
+switch: Atheros AR9331
+target: ar71xx
+usb_ports: 1x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/ALFA_Network_AP121
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9330

@@ -1,0 +1,30 @@
+availability: Discontinued 2015
+brand: Linksys
+comments: image build disabled as of 2017-01-25, see https://git.lede-project.org/?p=source.git;a=commit;h=55ff15cfd50927c393300c372efe55ccbc41ad6d
+cpu: Broadcom BCM4708A0
+cpu_cores: '2'
+cpu_mhz: '800'
+device_id: linksys_ea6300_v1
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+firmware_oem_stock_url: http://www.linksys.com/us/support-article?articleNum=148392
+flash_mb: '128'
+forum_search: EA6300
+git_search: EA6300
+model: EA6300
+oem_device_homepage_url: http://www.linksys.com/us/p/P-EA6300/
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?pid=280612
+package_architecture: arm_cortex-a9
+power_supply: 12 VDC, 2.0 A
+ram_mb: '128'
+subtarget: generic
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=c6401c6d617748f2f76cf548e525c88b9942ce98
+switch: Broadcom BCM4708A0
+target: bcm53xx
+unsupported_functions: image build disabled as of 2017-01-25
+usb_ports: 1x 3.0
+version: v1
+wikidevi_url: https://wikidevi.com/wiki/Linksys_EA6300_v1
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: b43

@@ -1,0 +1,29 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: Netgear
+cpu: Intel IXP422BB
+cpu_cores: '1'
+cpu_mhz: '266'
+detachable_antennas: '2'
+device_id: netgear_wg302_v2
+device_page: wg302
+device_type: WiFi AP
+ethernet_100m_ports: '1'
+firmware_oem_stock_url: http://support.netgear.com/product/WG302v2
+flash_mb: '8'
+forum_search: WG302
+git_search: WG302
+installation_method_s: see devicepage
+model: WG302
+package_architecture: armeb_xscale
+ram_mb: '16'
+serial: true
+subtarget: generic
+supported_current_rel: '12.09'
+supported_since_rel: '12.09'
+target: ixp4xx
+version: v2
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Netgear_WG302v2
+wlan_24ghz: b/g
+wlan_driver: unknown

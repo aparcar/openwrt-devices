@@ -1,0 +1,34 @@
+availability: Discontinued 2013
+bootloader: CFE
+brand: Comtrend
+button_count: '3'
+cpu: Broadcom BCM6368
+cpu_cores: '2'
+cpu_mhz: '400'
+device_id: comtrend_vr-3026e_v1
+device_page: vr3026e
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+firmware_oem_stock_url: http://www.o2.cz/_pub/b4/15/75/236868_957667__657004_298_VR_3028e_CFE_A641_406TO2_C04_R01_.bin
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-VR-3026e-squashfs-cfe.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-VR-3026e-squashfs-cfe.bin
+flash_mb: '8'
+forum_search: VR-3026e
+git_search: VR-3026e
+jtag: true
+model: VR-3026e
+modem: xDSL
+package_architecture: mips_mips32
+ram_mb: '64'
+recovery_method_s: CFE web recovery
+serial: true
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=78f253f9b10fe2cea7e8a6b8e792523ba05bad77
+supported_since_rel: 17.01.0
+target: brcm63xx
+unsupported_functions: DSL modem
+version: v1
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM43222

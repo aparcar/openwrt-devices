@@ -1,0 +1,21 @@
+availability: unknown 2018
+brand: Sagem
+comments_network_ports: '4'
+cpu: Ikanos Fusiv Vx160
+cpu_cores: '1'
+cpu_mhz: '200'
+device_id: sagem_livebox_2
+device_page: livebox.2
+device_type: WiFi Router
+flash_mb: '32'
+forum_search: Livebox
+git_search: Livebox
+model: Livebox
+modem: ADSL
+ram_mb: '64'
+unsupported_functions: Possible to support
+usb_ports: 2x 2.0
+version: '2'
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9223 (mini-PCI)

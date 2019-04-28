@@ -1,0 +1,21 @@
+availability: unknown 2018
+bootloader: other
+brand: VMware
+comments: Works with fusion workstation player esx; convert gz raw img image file
+  to vmdk format for VMware Hypervisor
+comments_network_ports: as many NICs as needed
+cpu: x86
+cpu_cores: '1'
+device_id: other_vmware_x86_virtual_machine_2015_latest
+device_page: vmware
+device_type: Emulator
+forum_search: VMware x86 virtual machine
+git_search: VMware x86 virtual machine
+installation_method_s: see devicepage
+model: VMware x86 virtual machine
+package_architecture: i386_pentium4
+supported_current_rel: '15.05'
+supported_since_rel: '15.05'
+target: x86
+version: 2015 latest
+wlan_driver: unknown

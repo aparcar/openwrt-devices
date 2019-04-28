@@ -1,0 +1,36 @@
+availability: Discontinued 2015
+bootloader: U-Boot
+brand: Meraki
+cpu: Atheros AR7242
+cpu_cores: '1'
+cpu_mhz: '400'
+device_id: meraki_mr12
+device_page: mr12
+device_type: WiFi Router
+ethernet_100m_ports: '1'
+ethernet_gbit_ports: '1'
+fccid: https://fcc.io/UDX/-60013010
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-mr12-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-mr12-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: MR12
+git_search: MR12
+led_count: '6'
+model: MR12
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=51073
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.5 A, PoE 802.3af
+ram_mb: '64'
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=66950455b7d1c462db1a1fd72622f0703d55ce6e
+supported_since_rel: '15.05'
+target: ar71xx
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Cisco_Meraki_MR12
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Atheros AR7242

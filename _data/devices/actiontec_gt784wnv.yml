@@ -1,0 +1,43 @@
+availability: Discontinued
+bootloader: CFE
+brand: Actiontec
+comments: wpad must be installed for wireless to work properly
+cpu: Broadcom BCM6328
+cpu_cores: '1'
+cpu_mhz: '320'
+device_id: actiontec_gt784wnv
+device_page: gt784wnv
+device_type: Modem
+ethernet_100m_ports: '4'
+fccid: https://fcc.io/LNQ/GT784WN
+firmware_oem_stock_url: http://www.actiontecsupport.com/broadband/20/GT784WNV/
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-96328avng-generic-squashfs-cfe-16M.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-96328avng-generic-squashfs-cfe-16M.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-96328avng-generic-squashfs-cfe-16M.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-96328avng-generic-squashfs-cfe-16M.bin
+flash_mb: '16'
+forum_search: GT784WNV
+git_search: GT784WNV
+jtag: true
+model: GT784WNV
+modem: ADSL2+
+oem_device_homepage_url: http://www.actiontec.com/262.html
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=48556
+package_architecture: mips_mips32
+power_supply: 12 VDC, 1.0 A
+ram_mb: '64'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=3fc76fb7814dded3730571768f1b6d75fb981f0d
+supported_since_rel: '14.07'
+switch: Broadcom BCM63281
+target: brcm63xx
+usb_ports: 1x 2.0
+version: 5A
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Actiontec_GT784WNV
+wlan_24ghz: b/g/n
+wlan_comments: 2x2
+wlan_hardware: Broadcom BCM43225

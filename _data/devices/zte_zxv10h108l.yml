@@ -1,0 +1,22 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: ZTE
+cpu: Lantiq AMAZON-SE
+cpu_cores: '1'
+cpu_mhz: '266'
+device_id: zte_zxv10h108l
+device_page: zxv10h108l
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+flash_mb: '4'
+forum_search: ZTE ZXV10 H108L
+git_search: ZTE ZXV10 H108L
+model: ZXV10 H108L
+modem: ADSL2+
+ram_mb: '16'
+serial: true
+target: lantiq
+unsupported_functions: Impossible
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Atheros

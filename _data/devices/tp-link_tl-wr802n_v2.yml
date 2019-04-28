@@ -1,0 +1,35 @@
+availability: Discontinued
+brand: TP-Link
+cpu: Qualcomm Atheros QCA9533
+cpu_cores: '1'
+cpu_mhz: '560'
+device_id: tp-link_tl-wr802n_v2
+device_type: Travel Router
+ethernet_100m_ports: '1'
+fccid: https://fcc.io/TE7/WR802NV2
+firmware_oem_stock_url: https://www.tp-link.com/de/support/download/tl-wr802n/v2/
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wr802n-v2-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wr802n-v2-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wr802n-v2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wr802n-v2-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: TL-WR802N
+git_search: TL-WR802N
+model: TL-WR802N
+oem_device_homepage_url: https://www.tp-link.com/de/home-networking/wifi-router/tl-wr802n/
+package_architecture: mips_24kc
+power_supply: 5 VDC, 1.0 A
+ram_mb: '32'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: tiny
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f9278337cf4b9c699a41dfc1e4c448213be53e61
+supported_since_rel: 18.06.0
+target: ar71xx
+usb_ports: "1x \xB5USB (power)"
+version: v2
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR802N_v2.x
+wlan_24ghz: b/g/n
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA9533

@@ -1,0 +1,26 @@
+availability: unknown 2018
+bootloader: brnboot
+brand: T-Com / Telekom
+cpu: Lantiq AMAZON-ME
+cpu_cores: '1'
+cpu_mhz: '235'
+device_id: t-comtelekom_speedportw700v
+device_page: spw700v
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+flash_mb: '4'
+forum_search: Speedport W 700V
+git_search: Speedport W 700V
+model: Speedport W 700V
+modem: ADSL2+
+power_supply: 12 VDC, 1.2 A
+ram_mb: '32'
+serial: true
+switch: Infineon ADM6996I
+target: lantiq
+unsupported_functions: WIP
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/T-Com_Speedport_W700V
+wlan_24ghz: b/g
+wlan_driver: unknown
+wlan_hardware: Atheros AR2413

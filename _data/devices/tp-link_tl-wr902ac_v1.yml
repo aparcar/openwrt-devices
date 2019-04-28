@@ -1,0 +1,40 @@
+availability: Discontinued 2017
+bootloader: U-Boot
+brand: TP-Link
+button_count: '3'
+cpu: Qualcomm Atheros QCA9531
+cpu_cores: '1'
+cpu_mhz: '650'
+device_id: tp-link_tl-wr902ac_v1
+device_page: tl-wr902ac_v1
+device_type: Travel Router
+ethernet_100m_ports: '1'
+fccid: https://fcc.io/TE7/WR902AC
+firmware_oem_stock_url: http://www.tp-link.com/en/download/TL-WR902AC.html
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-tl-wr902ac-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-tl-wr902ac-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-tl-wr902ac-v1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-tl-wr902ac-v1-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: TL-WR902AC
+git_search: TL-WR902AC
+gluon_support: Broken
+led_count: '5'
+lede_forum_topic_url: https://forum.lede-project.org/t/plans-for-lede-to-support-tp-link-tl-wr902ac
+model: TL-WR902AC
+oem_device_homepage_url: http://www.tp-link.com/en/products/details/TL-WR902AC.html
+package_architecture: mips_24kc
+power_supply: 5 VDC, 2.0 A
+ram_mb: '64'
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=6165e4aab0e22b780b6b1dde887ed803a7c8210a
+supported_since_rel: 18.06.0
+target: ar71xx
+version: v1
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR902AC_v1.x
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 2T2R 2.4 GHz, 1T1R 5 GHz
+wlan_driver: ath10k

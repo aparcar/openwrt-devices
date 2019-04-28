@@ -1,0 +1,37 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: COMFAST
+button_count: '1'
+cpu: MediaTek MT7620N
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: comfast_cf-wr800n
+device_page: cf-wr800n
+device_type: WiFi Router
+ethernet_100m_ports: '1'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-cf-wr800n-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-cf-wr800n-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: CF-WR800N
+git_search: CF-WR800N
+installation_method_s: see devicepage
+led_count: '3'
+model: CF-WR800N
+oem_device_homepage_url: http://en.comfast.com.cn/product/item-170.html
+package_architecture: mipsel_24kc
+power_supply: 100-240 VAC, 50-60 Hz, 0.05 A
+ram_mb: '32'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=5e96c2d5413425816eb2e0113d0dca994ba7275c
+supported_since_rel: '15.05'
+switch: MediaTek MT7530
+target: ramips
+version: v1
+vlan: true
+where_available: newegg.com
+wlan_24ghz: b/g/n
+wlan_driver: mt76
+wlan_hardware: MediaTek MT7620N

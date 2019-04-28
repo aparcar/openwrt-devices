@@ -1,0 +1,43 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Dovado
+button_count: '1'
+cpu: MediaTek MT7620A
+cpu_cores: '1'
+cpu_mhz: '580'
+detachable_antennas: '1'
+device_id: dovado_tiny_ac
+device_page: dovado_tiny_ac
+device_type: WiFi Router
+ethernet_gbit_ports: '2'
+firmware_oem_stock_url: http://www.dovado.com/en/support/firmware
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-tiny-ac-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-tiny-ac-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: Tiny AC
+git_search: Tiny AC
+installation_method_s: unknown
+jtag: false
+led_count: '5'
+model: Tiny AC
+oem_device_homepage_url: https://www.dovado.com/product-details/?pg=4115
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: '64'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=3760b95702b65de9d6d0f6a1029a654e3b11f72f
+supported_since_rel: 17.01.0
+switch: MediaTek MT7620A
+target: ramips
+unsupported_functions: WiFi 5GHz
+usb_ports: 1x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Dovado_TINY_AC
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 2.4GHz
+wlan_driver: mt76

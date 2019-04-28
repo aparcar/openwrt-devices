@@ -1,0 +1,46 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TP-Link
+button_count: '1'
+comments: C7 v3 works with images of C7 v2
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: '1'
+cpu_mhz: '720'
+detachable_antennas: '3'
+device_id: tp-link_archer_c7_ac1750_v3
+device_page: archer-c5-c7-wdr7500
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: https://fcc.io/TE7/C7V3
+firmware_oem_stock_url: https://www.tp-link.com/en/download/Archer-C7_V2.html
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-archer-c7-v2-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-archer-c7-v2-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-archer-c7-v2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-archer-c7-v2-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: Archer C7 v3
+git_search: Archer C7 v3
+installation_method_s: see devicepage
+jtag: true
+led_count: '6'
+model: Archer C7 AC1750
+oem_device_homepage_url: https://www.tp-link.com/en/products/details/Archer-C7.html
+package_architecture: mips_24kc
+power_supply: 12 VDC, 2.5 A
+ram_mb: '128'
+recovery_method_s: unknown
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=1bce5e83284a9fb8c5c9eb3f53bf1335a3f52744
+supported_since_rel: '14.07'
+switch: Atheros AR8327N
+target: ar71xx
+usb_ports: 2x 2.0
+version: v3
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C7_v3.x
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 3x3
+wlan_driver: ath10k

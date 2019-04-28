@@ -1,0 +1,36 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Airlink101
+cpu: Ralink RT2880
+cpu_cores: '1'
+cpu_mhz: '266'
+device_id: airlink101_ar670w
+device_page: ar670w
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/RRK/-WRGN16
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/rt288x/openwrt-18.06.2-ramips-rt288x-ar670w-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt288x/lede-ramips-rt288x-ar670w-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt288x/lede-ramips-rt288x-ar670w-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/rt288x/openwrt-18.06.2-ramips-rt288x-ar670w-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: AR670W
+git_search: AR670W
+model: AR670W
+oem_device_homepage_url: https://web.archive.org/web/20180122070605/http://airlink101.com/products/ar670w.php
+package_architecture: mipsel_mips32r2
+power_supply: 5 VDC, 2.0 A
+ram_mb: '32'
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt288x
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=cc5194cf030c422ef82442091598582cf4aeca34
+supported_since_rel: '15.05'
+switch: IC+ IP175C
+target: ramips
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Airlink101_AR670W
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink RT2872

@@ -1,0 +1,26 @@
+availability: Discontinued
+bootloader: CFE
+brand: Option
+cpu: Broadcom BCM5354
+cpu_cores: '1'
+cpu_mhz: '240'
+device_id: option_globesurferiii
+device_page: gs3
+device_type: WiFi Router
+ethernet_100m_ports: '2'
+flash_mb: '32'
+forum_search: Globesurfer III
+git_search: Globesurfer III
+model: Globesurfer III
+modem: Mobile Wireless/Cellular network
+package_architecture: mipsel_mips32
+power_supply: 5 VDC, 3.0 A
+ram_mb: '32'
+serial: true
+subtarget: legacy
+target: brcm47xx
+usb_ports: 1x 2.0
+wikidevi_url: https://wikidevi.com/wiki/Option_GlobeSurfer_III
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318

@@ -1,0 +1,30 @@
+availability: Available 2017
+bootloader: U-Boot
+brand: ZTE
+button_count: '3'
+cpu: MediaTek MT7620A
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: zte_q7
+device_type: Travel Router - Battery powered
+ethernet_100m_ports: '1'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-zte-q7-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-zte-q7-squashfs-sysupgrade.bin
+forum_search: ZTE Q7
+git_search: ZTE Q7
+installation_method_s: unknown
+model: Q7
+package_architecture: mipsel_24kc
+power_supply: "5 VDC (\xB5USB), 5200 mAh battery"
+ram_mb: '64'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=449c5f7b30e3ec4d685c11ecf88f3412be6a22cf
+supported_since_rel: 17.01.0
+target: ramips
+wlan_24ghz: b/g/n
+wlan_driver: mt76
+wlan_hardware: MediaTek MT7620A

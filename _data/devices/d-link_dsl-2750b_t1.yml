@@ -1,0 +1,42 @@
+availability: Discontinued
+bootloader: CFE
+brand: D-Link
+button_count: '2'
+comments: Flashed via CFE recovery (hold down reset when powering up device)
+cpu: Broadcom BMIPS4350 v7.5
+cpu_cores: '1'
+cpu_mhz: '320'
+device_id: d-link_dsl-2750b_t1
+device_type: Modem
+ethernet_100m_ports: '4'
+fccid: https://fcc.io/KA2/SL2750UT1
+firmware_oem_stock_url: ftp://files.dlink.com.au/products/DSL-2750B/REV_T/Firmware/
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-A4001N-squashfs-cfe.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-A4001N-squashfs-cfe.bin
+flash_mb: '8'
+forum_search: DSL-2750B
+git_search: DSL-275
+installation_method_s: unknown
+led_count: '10'
+model: DSL-2750B
+modem: ADSL2+
+oem_device_homepage_url: http://support.dlink.com.au/download/download.aspx?product=DSL-2750B
+package_architecture: mips_mips32
+phone_ports: '1'
+power_supply: 12 VDC, 1.0 A
+ram_mb: '64'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_rel: 17.01.0
+switch: Broadcom BCM63281
+target: brcm63xx
+unsupported_functions: DSL modem
+usb_ports: 1x 2.0 Device
+version: T1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DSL-2750B_rev_T1
+wlan_24ghz: b/g/n
+wlan_hardware: Broadcom BCM43225

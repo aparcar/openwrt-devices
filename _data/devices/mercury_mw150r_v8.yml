@@ -1,0 +1,29 @@
+availability: unknown 2018
+brand: Mercury
+cpu: Atheros AR9331
+cpu_cores: '1'
+cpu_mhz: '400'
+device_id: mercury_mw150r_v8
+device_page: mw150r
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+forum_search: MW150R
+git_search: MW150R
+installation_method_s: unknown
+jtag: false
+led_count: '4'
+model: MW150R
+oem_device_homepage_url: http://www.mercurycom.com.cn/Download/detail?pd=10
+package_architecture: mips_24kc
+ram_mb: '32'
+recovery_method_s: unknown
+serial: true
+subtarget: generic
+supported_current_rel: '10.03'
+supported_since_rel: '10.03'
+target: ar71xx
+version: v8
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9331

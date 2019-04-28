@@ -1,0 +1,31 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: ALFA Network
+button_count: '1'
+cpu: MediaTek MT7620A
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: alfa_network_ac1200rm
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-alfa-network_ac1200rm-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-alfa-network_ac1200rm-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: AC1200RM
+git_search: AC1200RM
+installation_method_s: see git-commit
+led_count: '9'
+model: AC1200RM
+package_architecture: mipsel_24kc
+power_supply: 12-24 VDC
+ram_mb: '64'
+serial: true
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=5352669c2c470f2d2bb02deccfa758e1867e07b0
+supported_since_rel: 18.06.0
+target: ramips
+usb_ports: 1x 2.0
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

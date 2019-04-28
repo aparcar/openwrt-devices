@@ -1,0 +1,38 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: TP-Link
+button_count: '2'
+cpu: MediaTek MT7628N
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: tp-link_tl-mr3420_v5
+device_page: tl-mr3420
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+firmware_oem_stock_url: https://www.tp-link.com/en/download/TL-MR3420_V5.html
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt76x8/openwrt-18.06.2-ramips-mt76x8-tplink_tl-mr3420-v5-squashfs-tftp-recovery.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt76x8/openwrt-ramips-mt76x8-tplink_tl-mr3420-v5-squashfs-tftp-recovery.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt76x8/openwrt-ramips-mt76x8-tplink_tl-mr3420-v5-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt76x8/openwrt-18.06.2-ramips-mt76x8-tplink_tl-mr3420-v5-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: TL-MR3420 v5
+git_search: TL-MR3420 v5
+led_count: '8'
+model: TL-MR3420
+oem_device_homepage_url: https://www.tp-link.com/en/products/details/TL-MR3420.html
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: '64'
+recovery_method_s: U-Boot TFTP recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: mt76x8
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=39e9bfb18199b046bd3b613002112e4e6dd53658
+supported_since_rel: 18.06.0
+target: ramips
+usb_ports: 1x 2.0
+version: v5
+wlan_24ghz: b/g/n
+wlan_driver: mt76
+wlan_hardware: MediaTek MT7628N

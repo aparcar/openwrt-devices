@@ -1,0 +1,26 @@
+availability: Available 2019
+brand: Linksys
+cpu: MediaTek MT7620A
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: linksys_ea6100_10
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+flash_mb: 128NAND
+forum_search: EA6100
+git_search: EA6100
+model: EA6100
+oem_device_homepage_url: http://www.linksys.com/en-eu/products/routers/EA6100
+package_architecture: mipsel_24kc
+ram_mb: '128'
+subtarget: mt7620
+switch: MediaTek MT7620A
+target: ramips
+unsupported_functions: Possible to support
+usb_ports: 1x 2.0
+version: '1.0'
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Linksys_EA6100
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

@@ -1,0 +1,38 @@
+availability: Discontinued 2010
+bootloader: CFE
+brand: D-Link
+comments: Remove eth1. Change and configure SWITCH on eth0, after install firmware.
+cpu: Broadcom BCM5836
+cpu_cores: '1'
+cpu_mhz: '264'
+detachable_antennas: '2'
+device_id: d-link_dir-330_a1
+device_page: dir-330
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/KA2/DIR330A1
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/legacy/openwrt-18.06.2-brcm47xx-legacy-asus-wl-500gp-v1-squashfs.trx
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/legacy/lede-brcm47xx-legacy-asus-wl-500gp-v1-squashfs.trx
+flash_mb: '8'
+forum_search: DIR-330
+git_search: DIR-330
+jtag: true
+model: DIR-330
+package_architecture: mipsel_mips32
+power_supply: 5 VDC, 2.5 A
+ram_mb: '32'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: legacy
+supported_current_rel: 18.06.2
+supported_since_rel: 17.01.0
+switch: Broadcom BCM5325E
+target: brcm47xx
+unsupported_functions: wan port not working by default
+usb_ports: 1x 1.1
+version: A1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-330
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318

@@ -1,0 +1,38 @@
+availability: Discontinued
+brand: Netgear
+cpu: Broadcom BCM4708A0
+cpu_cores: '2'
+cpu_mhz: '800'
+device_id: netgear_r6300_v2
+device_page: netgear_r6300_v2
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: https://fcc.io/PY3/13200227
+firmware_oem_stock_url: https://www.netgear.de/support/product/R6300v2
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/bcm53xx/generic/openwrt-18.06.2-bcm53xx-netgear-r6300-v2-squashfs.chk
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/bcm53xx/generic/lede-bcm53xx-netgear-r6300-v2-squashfs.chk
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/bcm53xx/generic/lede-bcm53xx-netgear-r6300-v2-squashfs.chk
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/bcm53xx/generic/openwrt-18.06.2-bcm53xx-netgear-r6300-v2-squashfs.chk
+flash_mb: 128NAND
+forum_search: R6300
+git_search: R6300
+installation_method_s: CFE TFTP + serial recovery
+model: R6300
+oem_device_homepage_url: https://www.netgear.com/home/products/networking/wifi-routers/R6300.aspx
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=46758
+package_architecture: arm_cortex-a9
+power_supply: 12 VDC, 2.5 A
+ram_mb: '256'
+recovery_method_s: CFE TFTP + serial recovery
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=66922082ed418667b613af4e375cec5b8265fb5f
+supported_since_rel: '15.05'
+switch: Broadcom BCM4708A0
+target: bcm53xx
+version: v2
+wikidevi_url: https://wikidevi.com/wiki/Netgear_R6300_v2
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 3x3
+wlan_driver: b43

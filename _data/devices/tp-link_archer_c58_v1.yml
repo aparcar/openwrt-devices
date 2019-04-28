@@ -1,0 +1,40 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TP-Link
+button_count: '3'
+comment_installation: For TFTP, rename ...squashfs-factory.bin image to tp_recovery.bin
+cpu: Qualcomm Atheros QCA9561
+cpu_cores: '1'
+cpu_mhz: '775'
+device_id: tp-link_archer_c58_v1
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+firmware_oem_stock_url: http://www.tp-link.com/en/download/Archer-C58_V1.html
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-archer-c58-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-tplink_archer-c58-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-tplink_archer-c58-v1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-archer-c58-v1-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: Archer C58
+git_search: Archer C58
+gluon_support: Broken
+led_count: '6'
+lede_forum_topic_url: https://forum.lede-project.org/t/support-for-archer-c58
+model: Archer C58
+oem_device_homepage_url: http://www.tp-link.com/en/download/Archer-C58_V1.html
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: '64'
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b05c7193fd289ff697324caccf77adf9ffa76373
+supported_since_rel: 18.06.0
+switch: Qualcomm Atheros QCA9561
+target: ar71xx-ath79
+version: v1
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C58_v1.x
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 3T3R 2.4 GHz, 2T2R 5 GHz
+wlan_driver: ath10k

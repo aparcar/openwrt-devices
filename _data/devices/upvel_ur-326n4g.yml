@@ -1,0 +1,38 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Upvel
+button_count: '1'
+cpu: Ralink RT3052
+cpu_cores: '1'
+cpu_mhz: '384'
+detachable_antennas: '2'
+device_id: upvel_ur-326n4g
+device_page: ur-326n4g
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/2AAII/UR-326N4G
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-ur-326n4g-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-ur-326n4g-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: UR-326N4G
+git_search: UR-326N4G
+installation_method_s: unknown
+led_count: '9'
+model: UR-326N4G
+oem_device_homepage_url: http://upvel.ru/items/ur-326n4g.html
+package_architecture: mipsel_24kc
+power_supply: 9 VDC, 1.0 A
+ram_mb: '32'
+recovery_method_s: unknown
+serial: true
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=fe3df4b593d4d203a89781b4632e4a6f9f570734
+supported_since_rel: '15.05'
+switch: Ralink RT3052
+target: ramips
+usb_ports: 1x 2.0
+wikidevi_url: https://wikidevi.com/wiki/UPVEL_UR-326N4G
+wlan_24ghz: b/g/n
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT3052

@@ -1,0 +1,41 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Netgear
+comments: Also NA factory + sysupgrade image available
+cpu: Lantiq XWAY ARX168
+cpu_cores: '2'
+cpu_mhz: '333'
+device_id: netgear_dgn3500
+device_page: dgn3500b
+device_type: WiFi Router
+ethernet_gbit_ports: '4'
+firmware_oem_stock_url: https://support.netgear.com/product/DGN3500
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xway/openwrt-18.06.2-lantiq-xway-netgear_dgn3500-squashfs-factory.img
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xway/openwrt-lantiq-xway-netgear_dgn3500-squashfs-factory.img
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xway/openwrt-lantiq-xway-netgear_dgn3500-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xway/openwrt-18.06.2-lantiq-xway-netgear_dgn3500-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: DGN3500
+git_search: DGN3500
+led_count: '8'
+model: DGN3500
+modem: ADSL2+
+oem_device_homepage_url: https://support.netgear.com/product/DGN3500
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=24195
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: '64'
+serial: true
+subtarget: xway
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=090a75447ba7c4f45047c5d3628bfc70514570a4
+supported_since_rel: '14.07'
+switch: Realtek RTL8366RB
+target: lantiq
+usb_ports: 1x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Netgear_DGN3500
+wlan_24ghz: b/g/n
+wlan_comments: 2x2
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9223

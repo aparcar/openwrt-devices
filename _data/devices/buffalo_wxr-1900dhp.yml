@@ -1,0 +1,33 @@
+availability: unknown 2018
+brand: Buffalo
+cpu: Broadcom BCM4709A0
+cpu_cores: '2'
+cpu_mhz: '1000'
+detachable_antennas: '2'
+device_id: buffalo_wxr-1900dhp
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: https://fcc.io/FDI/000000022
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/bcm53xx/generic/openwrt-18.06.2-bcm53xx-buffalo-wxr-1900dhp-squashfs.trx
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/bcm53xx/generic/lede-bcm53xx-buffalo-wxr-1900dhp-squashfs.trx
+flash_mb: '128'
+forum_search: WXR-1900DHP
+git_search: WXR-1900DHP
+installation_method_s: unknown
+model: WXR-1900DHP
+package_architecture: arm_cortex-a9
+power_supply: 12 VDC, 3.0 A
+ram_mb: '512'
+recovery_method_s: unknown
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=24e9f521068575a0670028f21fe0323461f80bf1
+supported_since_rel: '15.05'
+switch: Broadcom BCM4709A0
+target: bcm53xx
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Buffalo_WXR-1900DHP
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4360

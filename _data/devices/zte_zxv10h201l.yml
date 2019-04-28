@@ -1,0 +1,34 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: ZTE
+cpu: Lantiq AMAZON-SE
+cpu_cores: '1'
+cpu_mhz: '266'
+device_id: zte_zxv10h201l
+device_page: zxv10h201l
+device_type: WiFi Router
+ethernet_gbit_ports: '4'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xway/openwrt-lantiq-xway-zte_h201l-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xway/openwrt-18.06.2-lantiq-xway-zte_h201l-squashfs-sysupgrade.bin
+flash_mb: '8'
+forum_search: ZTE H201L
+git_search: ZTE H201L
+installation_method_s: unknown
+jtag: true
+model: ZXV10 H201L
+modem: ADSL2+
+oem_device_homepage_url: http://wwwen.zte.com.cn/pub/en/products/access/cpe/201111/t20111110_262342.html
+package_architecture: mips_24kc
+ram_mb: '32'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: xway
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=7d2c5682b9bd626759daba4f39b1f7e21c06421b
+supported_since_rel: 17.01.0
+switch: Realtek RTL8306G
+target: lantiq
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9271

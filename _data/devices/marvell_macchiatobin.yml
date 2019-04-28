@@ -1,0 +1,33 @@
+availability: Available 2018
+bootloader: U-Boot
+brand: Marvell
+comments_network_ports: Dual 10GbE (1/2.5/10GbE) via SFP; 2.5GbE (1/2.5GbE) via SFP
+cpu: Marvell Armada 8040
+cpu_cores: '4'
+cpu_mhz: '1600'
+device_id: marvell_macchiatobin
+device_type: Single Board Computer
+ethernet_gbit_ports: '1'
+fccid: "http://\xBF"
+firmware_oem_stock_url: http://macchiatobin.net/
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/mvebu/cortexa72/
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/mvebu/cortexa72/
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/mvebu/cortexa72/
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/mvebu/cortexa72/
+forum_search: MACCHIATObin
+git_search: MACCHIATObin
+installation_method_s: see git-commit
+jtag: true
+model: MACCHIATObin
+oem_device_homepage_url: http://macchiatobin.net/
+package_architecture: aarch64_cortex-a72
+power_supply: 12 VDC
+ram_mb: '4096'
+sata_ports: '3'
+serial: true
+subtarget: cortexa72
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=2534141322b0541daa627a516280638c12a262fe
+supported_since_rel: 18.06.0
+target: mvebu
+where_available: solid-run.com

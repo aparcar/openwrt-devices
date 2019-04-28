@@ -1,0 +1,26 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Sercomm
+cpu: Ralink RT3052_MP1
+cpu_cores: '1'
+cpu_mhz: '384'
+device_id: sercomm_ip1006rrv2
+device_page: wl-341
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+flash_mb: '4'
+forum_search: IP1006RRv2
+git_search: IP1006RRv2
+installation_method_s: see devicepage
+jtag: false
+model: IP1006RRv2
+package_architecture: mipsel_24kc
+ram_mb: '16'
+serial: true
+subtarget: rt305x
+supported_current_rel: '12.09'
+supported_since_rel: '12.09'
+target: ramips
+wlan_24ghz: b/g/n
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT2800pci

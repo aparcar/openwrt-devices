@@ -1,0 +1,27 @@
+availability: Discontinued
+brand: A-Link
+cpu: Realtek RTL8197DN
+cpu_cores: '1'
+cpu_mhz: '660'
+device_id: a-link_rrap
+device_page: rrap
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+firmware_oem_stock_url: https://eagleerp.eu/files/public-docs/A-Link/RRAP/RRAP_v97dn.3464-d160128_U.bin
+firmware_openwrt_install_url: http://eagleerp.eu/files/public-docs/A-Link/RRAP/
+firmware_openwrt_upgrade_url: http://eagleerp.eu/files/public-docs/A-Link/RRAP/
+flash_mb: '4'
+forum_search: RRAP
+git_search: RRAP
+jtag: false
+model: RRAP
+oem_device_homepage_url: https://www.alinetrade.com/index.php/en/products/network/rrap
+power_supply: 12 VDC, 1.0 A
+ram_mb: '64'
+serial: false
+switch: Realtek RTL8367RB
+usb_ports: 1x 2.0
+vlan: true
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: rtl819x

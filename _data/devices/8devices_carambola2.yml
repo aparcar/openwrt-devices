@@ -1,0 +1,40 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: 8devices
+button_count: '2'
+cpu: Atheros AR9331
+cpu_cores: '1'
+cpu_mhz: '400'
+device_id: 8devices_carambola2
+device_page: carambola2
+device_type: Single Board Computer
+ethernet_100m_ports: '2'
+fccid: https://fcc.io/Z9W/-CM2
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-carambola2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-carambola2-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: Carambola 2
+git_search: Carambola 2
+gpios: more than 20
+installation_method_s: unknown
+led_count: '3'
+model: Carambola 2
+oem_device_homepage_url: http://shop.8devices.com/carambola2
+package_architecture: mips_24kc
+power_supply: 3.3 VDC, 0.2 A
+ram_mb: '64'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=39531131a9186a7810b9f67e2694ccd6b65d14bd
+supported_since_rel: '14.07'
+switch: Atheros AR9331
+target: ar71xx
+vlan: true
+where_available: shop.8devices.com
+wikidevi_url: https://wikidevi.com/wiki/8devices_Carambola_2
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9331

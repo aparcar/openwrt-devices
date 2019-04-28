@@ -1,0 +1,34 @@
+availability: Discontinued
+bootloader: CFE
+brand: Buffalo
+cpu: Broadcom BCM5354
+cpu_cores: '1'
+cpu_mhz: '240'
+device_id: buffalo_whr-g125
+device_page: whr-g125
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/FDI/-09101584-0
+firmware_openwrt_install_url: http://downloads.openwrt.org/backfire/10.03.1/brcm-2.4/openwrt-brcm-2.4-squashfs.trx
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/backfire/10.03.1/brcm-2.4/openwrt-brcm-2.4-squashfs.trx
+flash_mb: '4'
+forum_search: WHR-G125
+git_search: WHR-G125
+installation_method_s: CFE TFTP recovery
+jtag: true
+model: WHR-G125
+package_architecture: mipsel_mips32
+power_supply: 3.3 VDC, 2.0 A
+ram_mb: '16'
+recovery_method_s: CFE TFTP recovery
+serial: true
+subtarget: legacy
+supported_current_rel: 10.03.1
+supported_since_rel: '8.09'
+switch: Broadcom BCM5354
+target: brcm47xx
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Buffalo_WHR-G125
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM5354

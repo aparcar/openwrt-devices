@@ -1,0 +1,27 @@
+availability: Discontinued
+bootloader: CFE
+brand: Thomson
+cpu: Broadcom BCM6338
+cpu_cores: '1'
+cpu_mhz: '240'
+device_id: thomson_tg585_v7
+device_page: tg585
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+flash_mb: '4'
+forum_search: TG585
+git_search: TG585
+jtag: true
+model: TG585
+modem: ADSL2+
+ram_mb: '16'
+serial: true
+switch: Broadcom BCM5325E
+target: brcm63xx
+unsupported_functions: Impossible
+version: v7
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Thomson_TG585v7
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318 (onboard)

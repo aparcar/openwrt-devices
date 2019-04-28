@@ -1,0 +1,23 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: 3Com
+cpu: Atheros AR2315
+cpu_cores: '1'
+cpu_mhz: '180'
+device_id: 3com_3crwer200-75
+device_page: 3crwer200_75
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+flash_mb: '4'
+forum_search: 3CRWER200-75
+git_search: 3CRWER200-75
+model: 3CRWER200-75
+power_supply: 12 VDC, 1.25 A
+ram_mb: '16'
+serial: true
+switch: IC+ IP175C
+target: ath25
+wikidevi_url: https://wikidevi.com/wiki/3Com_OfficeConnect_3CRWER200-75
+wlan_24ghz: b/g
+wlan_driver: unknown
+wlan_hardware: Atheros (integrated)

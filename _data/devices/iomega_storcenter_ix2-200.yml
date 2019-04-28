@@ -1,0 +1,31 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Iomega
+cpu: Marvell 88F6281
+cpu_cores: '1'
+cpu_mhz: '1000'
+device_id: iomega_storcenter_ix2-200
+device_type: NAS
+ethernet_gbit_ports: '1'
+fccid: "http://\xBF"
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/kirkwood/generic/openwrt-kirkwood-iom_ix2_200-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/kirkwood/generic/openwrt-kirkwood-iom_ix2_200-squashfs-sysupgrade.bin
+flash_mb: '32'
+forum_search: Storcenter ix2-200
+git_search: Storcenter ix2-200
+jtag: true
+model: Storcenter ix2-200
+oem_device_homepage_url: http://portal.iomegacloud.com/ix2200ce.php
+package_architecture: arm_xscale
+power_supply: 12 VDC, 4.0 A
+ram_mb: '256'
+recovery_method_s: unknown
+sata_ports: '2'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=27b2f0fc0fc5513304a5be3c5b8cb23aeb09e6f5
+target: kirkwood
+usb_ports: 3x 2.0
+wikidevi_url: https://wikidevi.com/wiki/Iomega_StorCenter_ix2-200

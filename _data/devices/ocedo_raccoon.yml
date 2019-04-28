@@ -1,0 +1,31 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Ocedo
+button_count: '1'
+comments: The U-Boot won't boot with the serial attached. Boot the device without
+  serial attached and attach it after 3 seconds.
+cpu: Atheros AR9344
+cpu_cores: '1'
+device_id: ocedo_raccoon
+device_type: WiFi AP
+ethernet_gbit_ports: '1'
+fccid: http://fcc.io/2AAUY-RACCOON
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-ocedo_raccoon-initramfs-kernel.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-ocedo_raccoon-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: Raccoon
+git_search: Raccoon
+led_count: '4'
+model: Raccoon
+power_supply: 12 VDC, 2.0 A
+ram_mb: '128'
+recovery_method_s: U-Boot TFTP recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=647614803473757e3b2d93d46938afccd61a5a5d
+target: ath79
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: ath9k

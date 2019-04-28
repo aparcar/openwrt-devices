@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: JBoot
+brand: D-Link
+button_count: '2'
+cpu: MediaTek MT7620N
+cpu_cores: '1'
+cpu_mhz: '580'
+detachable_antennas: '2'
+device_id: d-link_dwr-922_e2
+device_page: d-link_dwr-922
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: "http://\xBF"
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-dlink_dwr-922-e2-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-dlink_dwr-922-e2-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: DWR-922
+git_search: DWR-922
+led_count: '6'
+model: DWR-922
+modem: LTE
+oem_device_homepage_url: https://www.dlink.com.au/home-solutions/dwr-922-wireless-n300-4g-lte-voip-router-with-sim-slot/
+package_architecture: mipsel_24kc
+phone_ports: '1'
+power_supply: 12 VDC, 1.0 A
+ram_mb: '64'
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt7620
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=9f0e2335764674d0324dd90adb3e185cc8befe5f
+target: ramips
+usb_ports: 1x 2.0
+version: E2
+wlan_24ghz: b/g/n
+wlan_comments: for wifi internal antennas only; external antennas are for 4G LTE
+wlan_driver: unknown

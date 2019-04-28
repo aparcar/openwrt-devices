@@ -1,0 +1,28 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Ubiquiti
+comments_network_ports: (passive, PoE)
+cpu: Atheros AR7240 rev 2
+cpu_cores: '1'
+cpu_mhz: '390'
+device_id: ubiquiti_airgridm5
+device_page: airgrid
+device_type: WiFi Router
+ethernet_100m_ports: '1'
+flash_mb: '8'
+forum_search: AirGrid M5
+git_search: AirGrid M5
+model: AirGrid M5
+package_architecture: mips_24kc
+ram_mb: '32'
+recovery_method_s: U-Boot TFTP recovery
+serial: true
+subtarget: generic
+supported_current_rel: '10.03'
+supported_since_rel: '10.03'
+target: ar71xx
+vlan: false
+wlan_50ghz: a/n
+wlan_comments: 1x1 MIMO
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9280 + AN950 PA

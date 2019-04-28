@@ -1,0 +1,34 @@
+availability: Available 2018
+bootloader: U-Boot
+brand: Olimex
+cpu: Allwinner A10
+cpu_cores: '1'
+cpu_mhz: '1000'
+device_id: olimex_a10-olinuxino-lime
+device_page: a10-olinuxino
+device_type: Single Board Computer
+ethernet_100m_ports: '1'
+firmware_oem_stock_url: ftp://staging.olimex.com/Allwinner_Images/A10-OLinuXino-LIME/
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/sunxi/cortexa8/openwrt-18.06.2-sunxi-cortexa8-sun4i-a10-olinuxino-lime-squashfs-sdcard.img.gz
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/sunxi/cortexa8/openwrt-sunxi-cortexa8-sun4i-a10-olinuxino-lime-squashfs-sdcard.img.gz
+flash_mb: microSD
+forum_search: A10-OLinuXino-LIME
+git_search: A10-OLinuXino-LIME
+gpios: more than 20
+installation_method_s: Sunxi installation
+jtag: false
+model: A10-OLinuXino-LIME
+oem_device_homepage_url: https://www.olimex.com/Products/OLinuXino/A10/A10-OLinuXino-LIME/open-source-hardware
+package_architecture: arm_cortex-a8_vfpv3
+power_supply: 5V DC, 3.7V LiPo battery
+ram_mb: '512'
+sata_ports: '1'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: cortexa8
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=1ae42098e9aaaf04b096d595f9a5525fa741c4ea
+supported_since_rel: '14.07'
+target: sunxi
+usb_ports: 2x 2.0
+where_available: olimex.com

@@ -1,0 +1,29 @@
+availability: Discontinued
+brand: Netgear
+button_count: '3'
+cpu: Broadcom BCM63281
+cpu_cores: '1'
+cpu_mhz: '320'
+device_id: netgear_dgn2200_v4
+device_type: WiFi Router
+ethernet_100m_ports: '4'
+flash_mb: '32'
+forum_search: DGN2200
+git_search: DGN2200
+led_count: '11'
+model: DGN2200
+modem: ADSL2+
+package_architecture: mips_mips32
+power_supply: 12 VDC, 1.5 A
+ram_mb: '64'
+subtarget: generic
+switch: Broadcom BCM63281
+target: brcm63xx
+usb_ports: 1x 2.0
+version: v4
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Netgear_DGN2200v4
+wlan_24ghz: b/g/n
+wlan_comments: 2x2
+wlan_driver: b43
+wlan_hardware: Broadcom BCM43217

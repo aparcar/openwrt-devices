@@ -1,0 +1,23 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Buffalo
+cpu: Marvell Armada 370
+cpu_cores: '1'
+cpu_mhz: '1200'
+device_id: buffalo_ls421de_v1
+device_page: ls421de
+device_type: NAS
+ethernet_gbit_ports: '1'
+flash_mb: 512NAND
+forum_search: LS421DE
+git_search: LS421DE
+jtag: false
+model: LS421DE
+package_architecture: arm_cortex-a9_vfpv3
+ram_mb: '512'
+serial: true
+subtarget: generic
+target: mvebu
+unsupported_functions: WIP
+version: v1
+wlan_driver: unknown

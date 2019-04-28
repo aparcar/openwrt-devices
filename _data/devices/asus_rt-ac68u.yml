@@ -1,0 +1,44 @@
+availability: Available 2019
+bootloader: CFE
+brand: Asus
+button_count: '3'
+cpu: Broadcom BCM4708A0
+cpu_cores: '2'
+cpu_mhz: '800'
+detachable_antennas: '3'
+device_id: asus_rt-ac68u
+device_page: rt-ac68u
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: https://fcc.io/MSQ/-RTAC68U
+firmware_oem_stock_url: https://www.asus.com/Networking/RTAC68U/HelpDesk_BIOS/
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/bcm53xx/generic/openwrt-18.06.2-bcm53xx-asus-rt-ac68u-squashfs.trx
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/bcm53xx/generic/lede-bcm53xx-asus-rt-ac68u-squashfs.trx
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/bcm53xx/generic/lede-bcm53xx-asus-rt-ac68u-squashfs.trx
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/bcm53xx/generic/openwrt-18.06.2-bcm53xx-asus-rt-ac68u-squashfs.trx
+flash_mb: 128NAND
+forum_search: RT-AC68U
+git_search: RT-AC68U
+installation_method_s: unknown
+jtag: true
+led_count: '10'
+lede_forum_topic_url: https://forum.lede-project.org/t/rt-ac68u-asus/1174
+model: RT-AC68U
+oem_device_homepage_url: https://www.asus.com/Networking/RTAC68U/
+package_architecture: arm_cortex-a9
+power_supply: 19 VDC, 1.75 A
+ram_mb: '256'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e0155ad7b05ab22d75d39d68093d16f660f2772d
+supported_since_rel: '15.05'
+switch: Broadcom BCM4708A0
+target: bcm53xx
+wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-AC68U
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4360

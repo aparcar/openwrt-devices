@@ -1,0 +1,32 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Tenda
+cpu: Ralink RT3052
+cpu_cores: '1'
+cpu_mhz: '384'
+detachable_antennas: '2'
+device_id: tenda_w306r_v20
+device_page: w306r
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-w306r-v20-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-w306r-v20-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: W306R
+git_search: W306R
+installation_method_s: see devicepage
+model: W306R
+oem_device_homepage_url: http://www.tendacn.com/uk/product/W306R.html
+package_architecture: mipsel_24kc
+ram_mb: '32'
+recovery_method_s: see devicepage
+serial: true
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=fc88a363c07ac47cefbf3ea3b08c49ab448d2747
+supported_since_rel: '12.09'
+target: ramips
+version: v2.0
+wlan_24ghz: b/g/n
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT3052

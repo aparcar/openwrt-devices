@@ -1,0 +1,37 @@
+availability: Discontinued
+brand: Netgear
+button_count: '2'
+cpu: Broadcom BCM4704
+cpu_cores: '1'
+cpu_mhz: '264'
+device_id: netgear_wndr3300_v1
+device_page: wndr3300
+device_type: WiFi Router
+ethernet_100m_ports: '5'
+fccid: https://fcc.io/PY308100078
+firmware_oem_stock_url: http://support.netgear.com/product/WNDR3300v1
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/legacy/openwrt-18.06.2-brcm47xx-legacy-netgear-wndr3300-v1-squashfs.chk
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/legacy/lede-brcm47xx-legacy-netgear-wndr3300-v1-squashfs.chk
+flash_mb: '4'
+forum_search: WNDR3300
+git_search: WNDR3300
+installation_method_s: see devicepage
+jtag: false
+model: WNDR3300
+oem_device_homepage_url: http://support.netgear.com/product/WNDR3300v1
+package_architecture: mipsel_mips32
+power_supply: 12 VDC, 1.5 A
+ram_mb: '16'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: legacy
+supported_current_rel: 18.06.2
+supported_since_rel: '7.09'
+switch: Broadcom BCM5325
+target: brcm47xx
+version: v1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Netgear_WNDR3300v1
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: b43

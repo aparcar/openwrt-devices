@@ -1,0 +1,32 @@
+availability: unknown 2018
+bootloader: RedBoot
+brand: Wiligear
+button_count: '1'
+cpu: Storm SL3512
+cpu_cores: '1'
+cpu_mhz: '300'
+device_id: wiligear_wbd-222
+device_type: Single Board Computer
+ethernet_100m_ports: '1'
+firmware_oem_stock_url: "http://\xBF"
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/17.01.5/targets/gemini/wiligear/
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/gemini/wiligear/
+flash_mb: '8'
+forum_search: WBD-222
+gpios: '12'
+installation_method_s: unknown
+led_count: '4'
+model: WBD-222
+oem_device_homepage_url: "http://\xBF"
+package_architecture: arm_fa526
+power_supply: 12-48 VDC
+ram_mb: '32'
+recovery_method_s: unknown
+sata_ports: '2'
+subtarget: wiligear
+supported_current_rel: 17.01.5
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=54e9e802c429421d4ab69214b4fb2ad146163dcf
+supported_since_rel: '15.05'
+target: gemini
+usb_ports: 2x 2.0
+wlan_comments: 2x mini-PCI for add in cards

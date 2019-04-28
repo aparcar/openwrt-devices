@@ -1,0 +1,36 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: WeVO
+cpu: MediaTek MT7621AT
+cpu_cores: '2'
+cpu_mhz: '880'
+device_id: wevo_w2914ns_v2
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-w2914nsv2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-w2914nsv2-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: W2914NS
+git_search: W2914NS
+installation_method_s: unknown
+model: W2914NS
+oem_device_homepage_url: http://iwevo.co.kr/product_intro.php?model=031010
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: '128'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt7621
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=68634426fee42803b4be956ef3ac262dee6f8384
+supported_since_rel: 17.01.0
+switch: MediaTek MT7621AT
+target: ramips
+usb_ports: 1x 3.0
+version: v2
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/WeVO_W2914NS_v2
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

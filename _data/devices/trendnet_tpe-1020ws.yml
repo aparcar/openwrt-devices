@@ -1,0 +1,22 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: TRENDnet
+comments_network_ports: (PoE)
+cpu: Marvell 98dx4122
+cpu_cores: '1'
+cpu_mhz: '500'
+device_id: trendnet_tpe-1020ws
+device_page: tpe1020ws
+device_type: Router
+ethernet_gbit_ports: '8'
+flash_mb: '16'
+forum_search: TPE-1020WS
+git_search: TPE-1020WS
+model: TPE-1020WS
+package_architecture: arm_xscale
+ram_mb: '128'
+serial: true
+target: kirkwood
+unsupported_functions: WIP
+version: v1.1R
+wlan_driver: unknown
