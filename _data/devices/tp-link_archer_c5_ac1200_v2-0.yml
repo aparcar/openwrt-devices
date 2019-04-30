@@ -1,0 +1,42 @@
+availability: Available 2019
+bootloader: CFE
+brand: TP-Link
+comments: 'GPL Code: http://www.tp-link.com/en/gpl-code.html. v2 only shows one 802.11g
+  network, other modes are not available due to the Broadcom chips.'
+cpu: Broadcom BCM47081
+cpu_cores: '1'
+cpu_mhz: '800'
+detachable_antennas: '2'
+device_id: tp-link_archer_c5_ac1200_v2-0
+device_page: archer-c5-c7-wdr7500
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+fccid: https://fcc.io/TE7/C5V2
+firmware_oem_stock_url: https://www.tp-link.com/en/download/Archer-C5_V2.html
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/bcm53xx/generic/openwrt-18.06.2-bcm53xx-tplink-archer-c5-v2-squashfs.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/bcm53xx/generic/lede-bcm53xx-tplink-archer-c5-v2-squashfs.bin
+flash_mb: '16'
+forum_search: Archer C5 AC1200
+git_search: Archer C5 AC1200
+lede_forum_topic_url: https://forum.lede-project.org/t/solved-tp-link-archer-c5-v2-cant-flash-broadcom/4388/3
+model: Archer C5 AC1200
+oem_device_homepage_url: https://www.tp-link.com/en/products/details/cat-9_Archer-C5.html
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=58883
+package_architecture: arm_cortex-a9
+power_supply: 12 VDC, 2.5 A
+ram_mb: '128'
+recovery_method_s: unknown
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=0a05fbd1356631a1f903adcd63ffb05550537667
+supported_since_rel: 17.01.2
+switch: Broadcom BCM47081
+target: bcm53xx
+usb_ports: 2x 2.0
+version: v2
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C5_v2.x
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 3x3
+wlan_driver: b43

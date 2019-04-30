@@ -1,0 +1,34 @@
+availability: unknown 2018
+brand: Gainstrong
+button_count: '1'
+cpu: Atheros AR9331
+cpu_cores: '1'
+cpu_mhz: '400'
+device_id: gainstrong_minibox_v1-0
+device_type: Travel Router
+ethernet_100m_ports: '2'
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-minibox-v1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-minibox-v1-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: MiniBox
+git_search: MiniBox
+installation_method_s: unknown
+jtag: false
+led_count: '1'
+model: MiniBox
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=58927
+package_architecture: mips_24kc
+power_supply: "5 VDC (\xB5USB)"
+ram_mb: '64'
+recovery_method_s: unknown
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=8d8a937272fd03902d4e40888efcf3ff707c0d57
+supported_since_rel: 15.05.1
+target: ar71xx
+version: v1.0
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9331

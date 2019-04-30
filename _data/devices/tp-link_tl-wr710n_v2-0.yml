@@ -1,0 +1,44 @@
+availability: Discontinued 2017
+bootloader: U-Boot
+brand: TP-Link
+button_count: '1'
+comments: wallwart size; built in AC PSU
+cpu: Atheros AR9331
+cpu_cores: '1'
+cpu_mhz: '400'
+device_id: tp-link_tl-wr710n_v2-0
+device_page: tl-wr710n
+device_type: WiFi Router
+ethernet_100m_ports: '2'
+firmware_oem_stock_url: http://www.tp-link.com/en/download/TL-WR710N_V2.html
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/17.01.5/targets/ar71xx/generic/lede-17.01.5-ar71xx-generic-tl-wr710n-v2-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wr710n-v2-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wr710n-v2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/17.01.5/targets/ar71xx/generic/lede-17.01.5-ar71xx-generic-tl-wr710n-v2-squashfs-sysupgrade.bin
+flash_mb: '4'
+forum_search: TL-WR710N
+git_search: TL-WR710N
+gluon_support: true
+installation_method_s: U-Boot TFTP + serial recovery
+jtag: false
+led_count: '1'
+model: TL-WR710N
+oem_device_homepage_url: http://www.tp-link.com/en/products/details/cat-9_TL-WR710N.html
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=56433
+package_architecture: mips_24kc
+power_supply: 100-240 VAC, 50/60 Hz, 0.3 A
+ram_mb: '32'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 17.01.5
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=34a82b7ef9b5ab7a6e9cb6225f9038def6e9f82b
+supported_since_rel: '14.07'
+switch: Yes, serving LAN port only (eth1)
+target: ar71xx
+usb_ports: 1x 2.0
+version: v2.0 (EU)
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9331

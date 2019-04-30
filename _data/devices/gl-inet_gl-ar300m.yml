@@ -1,0 +1,45 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: GL.iNet
+button_count: '2'
+comments: 'NOT SUPPORTED YET: Flashing to the 128MB NAND flash! Can only be installed
+  to the 16MB NOR flash, which is not booted by default. (GL-AR300M16 only has 16MB
+  NOR flash)'
+cpu: Qualcomm Atheros QCA9531
+cpu_cores: '1'
+cpu_mhz: '650'
+device_id: gl-inet_gl-ar300m
+device_type: WiFi Router
+ethernet_100m_ports: '2'
+fccid: https://fccid.io/2AFIW-AR300M
+firmware_oem_stock_url: https://www.gl-inet.com/firmware/ar300m/
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-glinet_gl-ar300m-nor-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-gl-ar300m-squashfs-sysupgrade.bin
+forum_search: GL-AR300M
+git_search: GL-AR300M
+gluon_support: true
+gpios: '2'
+installation_method_s: unknown
+jtag: false
+led_count: '3'
+model: GL-AR300M
+oem_device_homepage_url: https://www.gl-inet.com/product/gl-ar300m/
+package_architecture: mips_24kc
+power_supply: 5 VDC, 1.0 A
+ram_mb: '128'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=d963ddf0424a551e5fadd561c934bfdb5d198764
+supported_since_rel: 17.01.0
+switch: Atheros QCA9531
+target: ar71xx-ath79
+usb_ports: 1x 2.0
+version: v1.4.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/GL.iNet_AR300M
+wlan_24ghz: b/g/n
+wlan_driver: ath10k
+wlan_hardware: Atheros QCA9531

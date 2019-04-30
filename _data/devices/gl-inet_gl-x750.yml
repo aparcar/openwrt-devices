@@ -1,0 +1,36 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: GL.iNet
+button_count: '1'
+comments_network_ports: 3G/4G via mini-PCIe module
+cpu: Qualcomm Atheros QCA9531
+cpu_cores: '1'
+cpu_mhz: '650'
+detachable_antennas: '2'
+device_id: gl-inet_gl-x750
+device_type: WiFi Router
+ethernet_100m_ports: '2'
+fccid: "http://\xBF"
+firmware_oem_stock_url: https://dl.gl-inet.com/firmware/x750/
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-glinet_gl-x750-squashfs-sysupgrade.bin
+forum_search: GL-X750
+git_search: GL-X750
+led_count: '5'
+model: GL-X750 (Spitz)
+modem: Mobile Wireless/Cellular network
+oem_device_homepage_url: https://www.gl-inet.com/products/gl-x750/
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: '128'
+recovery_method_s: unknown
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=9989fd5154fd8301bf363ddae0b5083220141865
+target: ath79
+usb_ports: 1x 2.0
+where_available: store.gl-inet.com, amazon.com
+wikidevi_url: https://wikidevi.com/wiki/GL.iNet_GL-X750
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: for wifi internal antennas only; external antennas are for 4G LTE
+wlan_driver: ath10k

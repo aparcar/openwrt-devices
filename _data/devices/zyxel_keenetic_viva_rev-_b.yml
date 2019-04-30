@@ -1,0 +1,40 @@
+availability: Available 2017
+bootloader: U-Boot
+brand: ZyXEL
+button_count: '3'
+cpu: MediaTek MT7620A
+cpu_cores: '1'
+cpu_mhz: '580'
+device_id: zyxel_keenetic_viva_rev-_b
+device_type: WiFi Router
+ethernet_gbit_ports: '5'
+firmware_oem_stock_url: https://help.keenetic.net/hc/article_attachments/115000743029/Keenetic-Viva-V2.07(AANT.5)C3.zip
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-kng_rc-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/lede-ramips-mt7620-kng_rc-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/lede-ramips-mt7620-kng_rc-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-kng_rc-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: Keenetic Viva
+git_search: Keenetic Viva
+led_count: '4'
+model: Keenetic Viva
+oem_device_homepage_url: https://zyxel.ru/keenetic-viva/
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: '128'
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=348344874c8aaaeabd291eef0e45660f0c6aba95
+supported_since_rel: 17.01.0
+switch: Realtek RTL8367RB
+target: ramips
+unsupported_functions: HwNAT
+usb_ports: 1x 2.0
+version: rev. B
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: mt76
+wlan_hardware: MediaTek MT7620A

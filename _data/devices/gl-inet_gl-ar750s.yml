@@ -1,0 +1,39 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: GL.iNet
+button_count: '2'
+cpu: Qualcomm Atheros QCA9563
+cpu_cores: '1'
+cpu_mhz: '775'
+device_id: gl-inet_gl-ar750s
+device_page: gl-ar750s
+device_type: Travel Router
+ethernet_gbit_ports: '3'
+fccid: http://fcc.io/2AFIWGL-AR750S
+firmware_oem_stock_url: http://download.gl-inet.com/firmware/ar750s/
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-glinet_gl-ar750s-squashfs-sysupgrade.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-glinet_gl-ar750s-squashfs-sysupgrade.bin
+forum_search: GL-AR750S
+git_search: GL-AR750S
+gpios: '4'
+led_count: '3'
+model: GL-AR750S
+oem_device_homepage_url: https://www.gl-inet.com/products/gl-ar750s/
+package_architecture: mips_24kc
+power_supply: 5 VDC, 2.0 A
+ram_mb: '128'
+recovery_method_s: U-Boot web recovery
+serial: true
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=312d7a4a5aaac8df714da5ad25d8b83a09c9e68c
+switch: Qualcomm Atheros QCA8337
+target: ar71xx-ath79
+usb_ports: 1x 2.0
+version: v1
+vlan: true
+where_available: store.gl-inet.com, amazon.de, amazon.com
+wikidevi_url: https://wikidevi.com/wiki/GL.iNet_GL-AR750S
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: unknown

@@ -19,6 +19,7 @@ device: {device}
 def parse_raw_devices():
     for device in os.listdir("raw/"):
         with open("raw/" + device, "r") as device_file:
+            device = device.replace(".", "-")
             soup = BeautifulSoup(device_file.read(), "html.parser")
             techdata = soup.find("div", "techdata")
             device_info = {}

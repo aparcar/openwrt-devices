@@ -1,0 +1,42 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: GL.iNet
+button_count: '2'
+comments: OpenWrt BB 14.07 is factory installed; PoE option; OpenWrt CC 15.05 http://www.gl-inet.com/firmware/ar150/clean/openwrt-clean-gl-ar150-1.0.bin
+cpu: Atheros AR9331
+cpu_cores: '1'
+cpu_mhz: '400'
+detachable_antennas: '1'
+device_id: gl-inet_gl-ar150
+device_page: gl-ar150
+device_type: Travel Router
+ethernet_100m_ports: '2'
+fccid: https://fccid.io/2AFIWGL-AR-150
+firmware_oem_stock_url: http://www.gl-inet.com/firmware/ar150/
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-glinet_gl-ar150-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-gl-ar150-squashfs-sysupgrade.bin
+flash_mb: '16'
+forum_search: GL-AR150
+git_search: GL-AR150
+gpios: '4'
+jtag: false
+led_count: '3'
+model: GL-AR150
+oem_device_homepage_url: http://www.gl-inet.com/ar150/
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?pid=294767
+package_architecture: mips_24kc
+power_supply: "5 VDC, 1.0 A (\xB5USB)"
+ram_mb: '64'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=72093bd5284e25cb1b7ffc649c8d6a63fd8dcb83
+supported_since_rel: 17.01.0
+target: ar71xx-ath79
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/GL.iNet_AR150
+wlan_24ghz: b/g/n
+wlan_comments: 1x1
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9331
