@@ -44,6 +44,18 @@ layout: default
                 <td>{{ device.wlan_comments }}</td>
             </p>
             {% endif %}
+            {% if device.comment_recovery %}
+            <h4>Recovery</h4>
+            <p>
+                <td>{{ device.comment_recovery }}</td>
+            </p>
+            {% endif %}
+            {% if device.comment_installation %}
+            <h4>Installation</h4>
+            <p>
+                <td>{{ device.comment_installation }}</td>
+            </p>
+            {% endif %}
             {% endif %}
         </div>
         <div class="col-lg-5">
@@ -56,11 +68,11 @@ layout: default
                         <th scope="row">Latest release</th>
                         <td>
                             {% if device.supported_current_rel == site.current_release %}
-                                {% assign state = "success" %}
-                            {% elsif device.supported_current_rel == "snapshot"  %}
-                                {% assign state = "rose" %}
+                            {% assign state = "success" %}
+                            {% elsif device.supported_current_rel == "snapshot" %}
+                            {% assign state = "rose" %}
                             {% else %}
-                                {% assign state = "warning" %}
+                            {% assign state = "warning" %}
                             {% endif %}
                             <span class="badge badge-{{ state }}">
                                 {{ device.supported_current_rel }}
