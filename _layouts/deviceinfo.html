@@ -92,16 +92,35 @@ layout: default
                         <td>{{ device.model }}</td>
                     </tr>
                     <tr>
+                        <th scope="row">Flash</th>
+                        <td>
+                            {% assign flash_mb = device.flash_mb | plus: 0 %}
+                            {{ flash_mb }} MB
+                            {% if flash_mb <= 4 %}
+                            <i class="material-icons">warning</i>
+                            {% endif %}
+                        </td>
+                    </tr>
+                    <tr>
                         <th scope="row">RAM</th>
-                        <td>{{ device.ram_mb }} MB</td>
+                        <td>
+                            {% assign ram_mb = device.ram_mb | plus: 0 %}
+                            {{ ram_mb }} MB
+                            {% if ram_mb <= 32 %}
+                            <i class="material-icons">warning</i>
+                            {% endif %}
+                        </td>
                     </tr>
                     <tr>
                         <th scope="row">CPU</th>
-                        <td>{{ device.cpu }} ({{ device.cpu_cores }} x {{ device.cpu_mhz }}MHz)</td>
+                        <td>
+                            {{ device.cpu }} ({{ device.target }})</br>
+                            {{ device.cpu_cores }} x {{ device.cpu_mhz }}MHz
+                        </td>
                     </tr>
                     <tr>
                         <th scope="row">Switch</th>
-                        <td>{{ device.switch }}</td>
+                        <td>{{ device.switch | default: "Unknown" }}</td>
                     </tr>
                     <tr>
                         <th scope="row">Bootloader</th>

@@ -1,0 +1,31 @@
+---
+title: Todo
+layout: default
+search: exclude
+permalink: /todo
+---
+<div class="container page">
+{% assign devices = "" | split: " " %}
+{% for device in site.data.devices %}
+{% assign devices = devices | push: device[1] %}
+{% endfor %}
+{% for device in devices %}
+{% if device.malformed.size > 0 %}
+<h2 class="h3">{{ device.device_id }}</h2>
+<table class="table device">
+  <thead>
+  <tr>
+    <th scope="col" class="first"><b>Key</b></th>
+    <th scope="col" class="last"><b>Value</b></th>
+  </tr>
+  </thead>
+{% for malformed in device.malformed %}
+  <tr>
+      <th scope="row">{{ malformed[0] }}</th>
+      <td scope="row"> {{ malformed[1] }}</td>
+  </tr>
+{% endfor %}
+</table>
+{% endif %}
+{% endfor %}
+</div>
