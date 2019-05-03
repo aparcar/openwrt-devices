@@ -4,6 +4,12 @@ layout: default
 search: exclude
 permalink: /todo
 ---
+<h3>ToDo</h3>
+
+<p>
+List of devive yaml files with broken data.
+</p>
+
 {% assign devices = "" | split: " " %}
 {% for device in site.data.devices %}
 {% assign devices = devices | push: device[1] %}
