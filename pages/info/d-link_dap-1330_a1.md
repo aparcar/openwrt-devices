@@ -1,7 +1,0 @@
----
-title: Info about d-link_dap-1330_a1
-folder: info
-layout: deviceinfo
-permalink: /devices/d-link_dap-1330_a1/
-device: d-link_dap-1330_a1
----
