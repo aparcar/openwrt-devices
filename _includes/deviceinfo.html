@@ -1,0 +1,90 @@
+{% assign device = site.data.devices[page.device] %}
+<table class="table">
+    <tbody>
+        <tr>
+            <th colspan="2">{{ device.brand }} {{ device.model }}</th>
+        </tr>
+        {% if device.image %}
+        <tr>
+            <td colspan="2">
+                <img class="img-fluid" src="{{ "images/devices/" | append: device.image | relative_url }}" />
+            </td>
+        </tr>
+        {% endif %}
+        <tr>
+            <th scope="row">Latest release</th>
+            <td>
+                {% if device.supported_current_rel == site.current_release %}
+                {% assign state = "success" %}
+                {% elsif device.supported_current_rel == "snapshot" %}
+                {% assign state = "rose" %}
+                {% else %}
+                {% assign state = "warning" %}
+                {% endif %}
+                <span class="badge badge-{{ state }}">
+                    {{ device.supported_current_rel }}
+                </span>
+                {% if device.availability contains "Discontinued" %}
+                <span class="badge badge-danger">
+                    Discontinued
+                </span>
+                {% endif %}
+            </td>
+        </tr>
+        <tr>
+            <th scope="row">Device Type</th>
+            <td>{{ device.device_type }}</td>
+        </tr>
+        <tr>
+            <th scope="row">Brand</th>
+            <td>{{ device.brand }}</td>
+        </tr>
+        <tr>
+            <th scope="row">Model</th>
+            <td>{{ device.model }}</td>
+        </tr>
+        <tr>
+            <th scope="row">Flash</th>
+            <td>
+                {% assign flash_mb = device.flash_mb | plus: 0 %}
+                {{ flash_mb }} MB
+                {% if flash_mb < site.min_ram %} <i class="material-icons">warning</i>
+                    {% endif %}
+            </td>
+        </tr>
+        <tr>
+            <th scope="row">RAM</th>
+            <td>
+                {% assign ram_mb = device.ram_mb | plus: 0 %}
+                {{ ram_mb }} MB
+                {% if ram_mb < site.min_flash %} <i class="material-icons">warning</i>
+                    {% endif %}
+            </td>
+        </tr>
+        <tr>
+            <th scope="row">CPU</th>
+            <td>
+                {{ device.cpu }} ({{ device.target }})</br>
+                {{ device.cpu_cores }} x {{ device.cpu_mhz }}MHz
+            </td>
+        </tr>
+        {% if device.switch %}
+        <tr>
+            <th scope="row">Switch</th>
+            <td>{{ device.switch }}</td>
+        </tr>
+        {% endif %}
+        {% if device.bootloader %}
+        <tr>
+            <th scope="row">Bootloader</th>
+            <td>{{ device.bootloader }}</td>
+        </tr>
+        {% endif %}
+        {% if device.power_supply %}
+        <tr>
+            <th scope="row">Power Supply</th>
+            <td>{{ device.power_supply | default: "Unknown" }}</td>
+        </tr>
+        {% endif %}
+    </tbody>
+</table>

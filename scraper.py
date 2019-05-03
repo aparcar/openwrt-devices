@@ -15,6 +15,7 @@ layout: deviceinfo
 permalink: /devices/{device}/
 device: {device}
 ---
+{{% include templates/device_info.md %}}
 """
 
 int_values = [
@@ -33,6 +34,8 @@ def parse_raw_devices():
             device = device.replace(".", "-")
             soup = BeautifulSoup(device_file.read(), "html.parser")
             techdata = soup.find("div", "techdata")
+            if not techdata:
+                continue
             device_info = {}
             device_info["device_id"] = device
             device_info["malformed"] = {}
@@ -88,5 +91,5 @@ def download_raw_devices():
             print("stored", device_path, "from", device_url)
 
 
-download_raw_devices()
+#download_raw_devices()
 parse_raw_devices()

@@ -4,7 +4,6 @@ layout: default
 search: exclude
 permalink: /todo
 ---
-<div class="container page">
 {% assign devices = "" | split: " " %}
 {% for device in site.data.devices %}
 {% assign devices = devices | push: device[1] %}
@@ -28,4 +27,3 @@ permalink: /todo
 </table>
 {% endif %}
 {% endfor %}
-</div>
