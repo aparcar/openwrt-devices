@@ -30,108 +30,12 @@ layout: default
                 <a href="{{ device.firmware_openwrt_snapshot_install_url }}" class="btn btn-danger"><i class="material-icons">get_app</i>Snapshot Upgrade Image</a>
                 {% endif %}
             </p>
-            {% if device.comments or device.wlan_comments %}
-            <h3>Comments</h3>
-            {% if device.comments %}
-            <h4>General</h4>
-            <p>
-                <td>{{ device.comments }}</td>
-            </p>
-            {% endif %}
-            {% if device.wlan_comments %}
-            <h4>WLAN</h4>
-            <p>
-                <td>{{ device.wlan_comments }}</td>
-            </p>
-            {% endif %}
-            {% if device.comment_recovery %}
-            <h4>Recovery</h4>
-            <p>
-                <td>{{ device.comment_recovery }}</td>
-            </p>
-            {% endif %}
-            {% if device.comment_installation %}
-            <h4>Installation</h4>
-            <p>
-                <td>{{ device.comment_installation }}</td>
-            </p>
-            {% endif %}
-            {% endif %}
+
+            {{ content }}
+
         </div>
         <div class="col-lg-5">
-            <table class="table">
-                <tbody>
-                    <tr>
-                        <th colspan="2">{{ device.brand }} {{ device.model }}</th>
-                    </tr>
-                    <tr>
-                        <th scope="row">Latest release</th>
-                        <td>
-                            {% if device.supported_current_rel == site.current_release %}
-                            {% assign state = "success" %}
-                            {% elsif device.supported_current_rel == "snapshot" %}
-                            {% assign state = "rose" %}
-                            {% else %}
-                            {% assign state = "warning" %}
-                            {% endif %}
-                            <span class="badge badge-{{ state }}">
-                                {{ device.supported_current_rel }}
-                            </span>
-                        </td>
-                    </tr>
-                    <tr>
-                        <th scope="row">Device Type</th>
-                        <td>{{ device.device_type }}</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">Brand</th>
-                        <td>{{ device.brand }}</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">Model</th>
-                        <td>{{ device.model }}</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">Flash</th>
-                        <td>
-                            {% assign flash_mb = device.flash_mb | plus: 0 %}
-                            {{ flash_mb }} MB
-                            {% if flash_mb <= 4 %}
-                            <i class="material-icons">warning</i>
-                            {% endif %}
-                        </td>
-                    </tr>
-                    <tr>
-                        <th scope="row">RAM</th>
-                        <td>
-                            {% assign ram_mb = device.ram_mb | plus: 0 %}
-                            {{ ram_mb }} MB
-                            {% if ram_mb <= 32 %}
-                            <i class="material-icons">warning</i>
-                            {% endif %}
-                        </td>
-                    </tr>
-                    <tr>
-                        <th scope="row">CPU</th>
-                        <td>
-                            {{ device.cpu }} ({{ device.target }})</br>
-                            {{ device.cpu_cores }} x {{ device.cpu_mhz }}MHz
-                        </td>
-                    </tr>
-                    <tr>
-                        <th scope="row">Switch</th>
-                        <td>{{ device.switch | default: "Unknown" }}</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">Bootloader</th>
-                        <td>{{ device.bootloader }}</td>
-                    </tr>
-                    <tr>
-                        <th scope="row">Power Supply</th>
-                        <td>{{ device.power_supply }}</td>
-                    </tr>
-                </tbody>
-            </table>
+            {% include deviceinfo.html %}
         </div>
     </div>
 </div>

@@ -36,11 +36,22 @@ usb_ports: 1x 2.0
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WDR3500
-wlan_24ghz: b/g/n
-wlan_50ghz: a/n
+wlan_24ghz:
+    - b
+    - g
+    - n
+wlan_50ghz:
+    - a
+    - n
 wlan_driver: ath9k
 tftp_image: wdr3500v1_tp_recovery.bin
 tftp_ip_local: 192.168.0.66
 tftp_ip_device: 192.168.0.86
 tftp_image: wdr3500v1_tp_recovery.bin
 image: tp-link_tl-wdr3500_v1.jpg
+switch_ports:
+    0: CPU
+    4: LAN 1
+    3: LAN 2
+    2: LAN 3
+    1: LAN 4
