@@ -3,6 +3,8 @@ baseurl: "/openwrt-devices" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 current_release: 18.06.2
+min_ram: 8
+min_flash: 32
 
 
 # Build settings
@@ -10,7 +12,8 @@ markdown: kramdown
 #theme: jekyll-theme-cayman
 
 header_pages:
-   - devices.md
+   - devices.html
+   - todo.html
 
 exclude:
    - Gemfile
@@ -20,3 +23,4 @@ exclude:
    - vendor/cache/
    - vendor/gems/
    - vendor/ruby/
+   - raw/
