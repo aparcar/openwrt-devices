@@ -43,3 +43,4 @@ vlan: true
 where_available: amazon.com
 wlan_24ghz: b/g/n
 wlan_driver: unknown
+image: gl-mifi.jpg
