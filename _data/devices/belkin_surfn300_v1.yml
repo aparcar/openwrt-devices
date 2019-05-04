@@ -1,0 +1,27 @@
+availability: Discontinued
+brand: Belkin
+cpu: Ralink RT3052F
+cpu_cores: 1
+cpu_mhz: 384
+device_id: belkin_surfn300_v1
+device_type: WiFi Router
+ethernet_100m_ports: 5
+firmware_oem_stock_url: http://www.belkin.com/us/support-product?pid=01t80000002IsL0AAK
+flash_mb: 16
+forum_search: Surf N300 (F7D6301)
+git_search: Surf N300 (F7D6301)
+malformed: {}
+model: Surf N300 (F7D6301)
+oem_device_homepage_url: http://www.belkin.com/us/support-product?pid=01t80000002IsL0AAK
+package_architecture: mipsel_24kc
+power_supply: 9 VDC, 1.0 A
+ram_mb: 64
+subtarget: rt305x
+switch: Ralink RT3052F
+target: ramips
+version: v1
+wikidevi_url: https://wikidevi.com/wiki/Belkin_F7D6301_v1
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT3052F

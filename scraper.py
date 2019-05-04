@@ -34,62 +34,60 @@ def parse_raw_devices():
     i = 0
     for device_raw in os.listdir("raw/"):
         device = device_raw.replace(".", "-")
-        if dev == True and i > 50:
+        if dev == True and i > 100:
             break
         i += 1
 
         yaml_path = "_data/devices/" + device + ".yml"
         if os.path.exists(yaml_path):
-            print("sorting", device)
             with open(yaml_path, "r") as yaml_file:
-                device_info = yaml.load(yaml_file.read())
-            with open(yaml_path, "w") as yaml_file:
-                yaml.dump(device_info, yaml_file, default_flow_style=False)
-            continue
-
-        with open("raw/" + device_raw, "r") as device_file:
-            soup = BeautifulSoup(device_file.read(), "html.parser")
-            techdata = soup.find("div", "techdata")
-            if not techdata:
-                continue
-            device_info = {}
-            device_info["device_id"] = device
-            device_info["malformed"] = {}
-
-            for dd in techdata.find_all("dd"):
-                if not dd.string:
+                device_info = yaml.full_load(yaml_file.read())
+        else:
+            with open("raw/" + device_raw, "r") as device_file:
+                soup = BeautifulSoup(device_file.read(), "html.parser")
+                techdata = soup.find("div", "techdata")
+                if not techdata:
                     continue
-                value = str(dd.string)
-                if (
-                    not value
-                    or value.lower() == "none"
-                    or value == "-"
-                    or value == ""
-                    or value == "¿"
-                ):
-                    continue
-                if value == "Yes":
-                    value = True
-                if value == "No":
-                    value = False
-                for int_value in int_values:
-                    if int_value in device_info:
-                        try:
-                            device_info[int_value] = int(device_info[int_value])
-                        except:
-                            device_info["malformed"][int_value] = device_info[int_value]
-                device_info[dd["class"][0]] = value
+                device_info = {}
+                device_info["device_id"] = device
+                device_info["malformed"] = {}
 
-            with open(yaml_path, "w") as outfile:
-                yaml.dump(device_info, outfile, default_flow_style=False)
+                for dd in techdata.find_all("dd"):
+                    if not dd.string:
+                        continue
+                    value = str(dd.string)
+                    if (
+                        not value
+                        or value.lower() == "none"
+                        or value == "-"
+                        or value == ""
+                        or value == "¿"
+                    ):
+                        continue
+                    if value == "Yes":
+                        value = True
+                    if value == "No":
+                        value = False
+                    for int_value in int_values:
+                        if int_value in device_info:
+                            try:
+                                device_info[int_value] = int(device_info[int_value])
+                            except:
+                                device_info["malformed"][int_value] = device_info[
+                                    int_value
+                                ]
+                    device_info[dd["class"][0]] = value
 
-            with open("pages/info/" + device + ".md", "w") as outfile:
-                outfile.write(deviceinfo.format(**{"device": device}))
+        with open(yaml_path, "w") as yaml_file:
+            yaml.dump(device_info, yaml_file, default_flow_style=False)
 
-            #            with open("json/" + device + ".json", "w") as outfile:
-            #                json.dump(device_info, outfile, indent=4)
+        with open("pages/info/" + device + ".md", "w") as outfile:
+            outfile.write(deviceinfo.format(**{"device": device}))
 
-            print("stored", device)
+        #            with open("json/" + device + ".json", "w") as outfile:
+        #                json.dump(device_info, outfile, indent=4)
+
+        print("stored", device)
 
 
 def download_raw_devices():

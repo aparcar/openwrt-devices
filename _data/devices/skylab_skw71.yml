@@ -1,0 +1,32 @@
+availability: Available 2018
+brand: Skylab
+comments: Seems to come with OpenWrt 15.05 preinstalled, but unknown where this inofficial
+  support comes from.
+cpu: Atheros AR9331
+cpu_cores: 1
+cpu_mhz: 400
+device_id: skylab_skw71
+device_type: Single Board Computer
+ethernet_100m_ports: 2
+firmware_oem_stock_url: "http://\xBF"
+flash_mb: 16
+forum_search: SKW71
+git_search: SKW71
+gpios: '14'
+installation_method_s: unknown
+malformed: {}
+model: SKW71
+oem_device_homepage_url: http://www.skylabmodule.com/ar9331wifi-module-skw71/
+power_supply: 3.3 VDC, 0.35 A
+ram_mb: 32
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+supported_current_rel: external image
+target: ar71xx
+usb_ports: 1x 2.0
+version: E16
+where_available: aliexpress.com
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9331

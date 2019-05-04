@@ -1,0 +1,42 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Wallys
+button_count: '1'
+comments: Imagebuild deactivated with https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=f7a6fd31539be54d14d7c52b491b40b26bf8f740
+cpu: Atheros AR9344
+cpu_cores: 1
+cpu_mhz: 560
+detachable_antennas: '2'
+device_id: wallys_dr344-nas27
+device_page: wallys_dr344-nas27
+device_type: WiFi Router
+ethernet_100m_ports: 1
+ethernet_gbit_ports: 1
+fccid: https://fcc.io/2AG7VDR344-NAS27
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/17.01.5/targets/ar71xx/generic/lede-17.01.5-ar71xx-generic-dr344-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: DR344
+git_search: DR344
+installation_method_s: unknown
+jtag: true
+led_count: '7'
+malformed: {}
+model: DR344-NAS27
+modem: Mobile Wireless/Cellular network
+oem_device_homepage_url: http://www.wallystech.com/product/html/?86.html
+package_architecture: mips_24kc
+power_supply: DC jack
+ram_mb: 128
+recovery_method_s: unknown
+serial: true
+subtarget: generic
+supported_current_rel: 17.01.5
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=eb8ff566848fce7c9d2c16c3eb7c22559a9fae0e
+supported_since_rel: 17.01.0
+switch: Atheros AR8035
+target: ar71xx
+usb_ports: 1x 2.0
+vlan: false
+wlan_50ghz: a/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9344

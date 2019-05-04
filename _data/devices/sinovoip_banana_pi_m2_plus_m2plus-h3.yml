@@ -1,0 +1,42 @@
+audio_ports: HDMI
+availability: Available 2019
+bluetooth: '4.0'
+bootloader: U-Boot
+brand: Sinovoip
+cpu: Allwinner H3
+cpu_cores: 4
+cpu_mhz: 1000
+detachable_antennas: '1'
+device_id: sinovoip_banana_pi_m2_plus_m2plus-h3
+device_page: sinovoip_banana_pi_m2_plus
+device_type: Single Board Computer
+ethernet_gbit_ports: 1
+fccid: "http://\xBF"
+firmware_oem_stock_url: http://wiki.banana-pi.org/Banana_Pi_BPI-M2%2B#Image_Release
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/sunxi/cortexa7/openwrt-sunxi-cortexa7-sun8i-h3-bananapi-m2-plus-squashfs-sdcard.img.gz
+flash_mb: 8192
+forum_search: Banana Pi M2 Plus
+git_search: Banana Pi M2 Plus
+gpios: more than 20
+installation_method_s: see devicepage
+malformed: {}
+model: Banana Pi M2 Plus
+oem_device_homepage_url: http://www.banana-pi.org/m2plus.html
+package_architecture: arm_cortex-a8_vfpv3
+power_supply: 5 VDC, 2.0 A
+ram_mb: 1024
+recovery_method_s: see devicepage
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: cortexa7
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=d5f615bf2a0434c15d13943b566d46f25da579bb
+target: sunxi
+version: M2PLUS-H3
+vlan: true
+where_available: aliexpress, tme.eu
+wikidevi_url: https://wikidevi.com/wiki/Banana_Pi_BPI_M2%2B
+wlan_24ghz: b/g/n
+wlan_comments: Broadcom 43430a0 chip
+wlan_driver: brcmfmac
+wlan_hardware: Ampak AP6212

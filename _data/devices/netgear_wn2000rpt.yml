@@ -1,0 +1,31 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Netgear
+comments: Should be the same as Netgear WNR2000
+cpu: Atheros AR9132
+cpu_cores: 1
+cpu_mhz: 400
+device_id: netgear_wn2000rpt
+device_page: wnr2000
+device_type: WiFi Router
+ethernet_100m_ports: 4
+firmware_oem_stock_url: http://support.netgear.com/product/WN2000RPTv1
+flash_mb: 4
+forum_search: WN2000RPT
+git_search: WN2000RPT
+malformed: {}
+model: WN2000RPT
+oem_device_homepage_url: http://www.netgear.com/home/products/networking/wifi-range-extenders/WN2000RPT.aspx
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?pid=79475
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 32
+serial: true
+subtarget: generic
+switch: "\xBF Atheros"
+target: ar71xx
+version: v1
+wikidevi_url: https://wikidevi.com/wiki/Netgear_WN2000RPTv1
+wlan_24ghz: b/g/n
+wlan_comments: 3x3
+wlan_driver: ath9k

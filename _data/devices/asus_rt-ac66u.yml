@@ -1,0 +1,33 @@
+availability: Available 2019
+brand: Asus
+button_count: '1'
+comments: Unsupported due to ASUS' proprietary wireless AC implementation
+cpu: Broadcom BCM4706
+cpu_cores: 1
+cpu_mhz: 600
+detachable_antennas: '3'
+device_id: asus_rt-ac66u
+device_type: WiFi Router
+ethernet_gbit_ports: 4
+flash_mb: 128NAND
+forum_search: RT-AC66U
+git_search: RT-AC66U
+jtag: true
+malformed:
+  flash_mb: 128NAND
+model: RT-AC66U
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=43074
+package_architecture: mipsel_74kc
+power_supply: 19 VDC, 1.58 A
+ram_mb: 256
+serial: true
+subtarget: mips74k
+switch: Broadcom BCM53125
+target: brcm47xx
+usb_ports: 2x 2.0
+vlan: true
+where_available: amazon.de
+wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-AC66U
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: b43

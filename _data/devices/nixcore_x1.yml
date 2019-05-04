@@ -1,0 +1,40 @@
+availability: Available 2018
+bootloader: U-Boot
+brand: NixCore
+comments: Vendor firmware is based on OpenWrt/LEDE.
+cpu: Ralink RT5350
+cpu_cores: 1
+cpu_mhz: 360
+detachable_antennas: '1'
+device_id: nixcore_x1
+device_type: Single Board Computer
+ethernet_100m_ports: 1
+firmware_oem_stock_url: http://nixcores.com/products/nixcore-x1/
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-nixcore-x1-16M-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-nixcore-x1-16M-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: Nixcore
+git_search: Nixcore
+gpios: more than 20
+installation_method_s: U-Boot TFTP + serial recovery
+jtag: true
+malformed: {}
+model: X1
+oem_device_homepage_url: http://nixcores.com/products/nixcore-x1/
+package_architecture: mipsel_24kc
+power_supply: 3.6 VDC, max. 3W
+ram_mb: 32
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=cf8c77be6becf3c5e40e19e9c4ab0d0abdfb9291
+supported_since_rel: 17.01.0
+target: ramips
+usb_ports: 1x 2.0
+where_available: nixcores.com
+wikidevi_url: https://wikidevi.com/wiki/NixCore
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink RT5350

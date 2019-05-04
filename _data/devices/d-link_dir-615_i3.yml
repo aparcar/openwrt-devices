@@ -1,0 +1,37 @@
+availability: Discontinued 2017
+bootloader: U-Boot
+brand: D-Link
+cpu: Atheros AR9341
+cpu_cores: 1
+cpu_mhz: 533
+device_id: d-link_dir-615_i3
+device_page: dir-615
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/KA2/IR615I3
+firmware_openwrt_install_url: http://downloads.lede-project.org/releases/17.01.2/targets/ar71xx/generic/lede-17.01.2-ar71xx-generic-dir-615-i3-squashfs-factory.bin
+firmware_openwrt_upgrade_url: http://downloads.lede-project.org/releases/17.01.2/targets/ar71xx/generic/lede-17.01.2-ar71xx-generic-dir-615-i3-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: DIR-615
+git_search: DIR-615
+installation_method_s: unknown
+malformed: {}
+model: DIR-615
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=43515
+package_architecture: mips_24kc
+power_supply: 5 VDC, 1.0 A
+ram_mb: 32
+recovery_method_s: unknown
+serial: true
+subtarget: generic
+supported_current_rel: 17.01.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=d5352182303474edba37d84563e3733457ac8b85
+supported_since_rel: 15.05.1
+switch: Atheros AR9341
+target: ar71xx
+version: I3
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-615_rev_I3
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9341

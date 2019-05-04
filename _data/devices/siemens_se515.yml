@@ -1,0 +1,24 @@
+availability: Discontinued
+brand: Siemens
+cpu: Broadcom BCM6345
+cpu_cores: 1
+cpu_mhz: 140
+device_id: siemens_se515
+device_page: se515
+device_type: WiFi Router
+ethernet_100m_ports: 4
+flash_mb: 4
+forum_search: SE515
+git_search: SE515
+jtag: true
+malformed: {}
+model: SE515
+modem: ADSL
+ram_mb: 16
+serial: true
+target: brcm63xx
+unsupported_functions: Impossible
+wikidevi_url: https://wikidevi.com/wiki/Siemens_Gigaset_SE515
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4306

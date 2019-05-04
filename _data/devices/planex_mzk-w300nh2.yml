@@ -1,0 +1,37 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Planex
+button_count: '2'
+cpu: Ralink RT3052F
+cpu_cores: 1
+cpu_mhz: 384
+device_id: planex_mzk-w300nh2
+device_type: WiFi Router
+ethernet_100m_ports: 5
+firmware_oem_stock_url: https://www.planex.co.jp/support/download/router/mzk-w300nh2.shtml
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-mzk-w300nh2-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/lede-ramips-rt305x-mzk-w300nh2-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/lede-ramips-rt305x-mzk-w300nh2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-mzk-w300nh2-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: MZK-W300NH2
+git_search: MZK-W300NH2
+installation_method_s: unknown
+led_count: '8'
+malformed: {}
+model: MZK-W300NH2
+oem_device_homepage_url: https://www.planex.co.jp/product/router/mzk-w300nh2/
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 16
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=6708d68c24309fc45f5a6de001ad92ef2ba96b6f
+supported_since_rel: 17.01.0
+target: ramips
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink RT3052F

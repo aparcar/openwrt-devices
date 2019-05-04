@@ -1,0 +1,27 @@
+availability: Discontinued
+brand: ZyXEL
+cpu: Ralink RT6856
+cpu_cores: 1
+cpu_mhz: 700
+detachable_antennas: '2'
+device_id: zyxel_nbg4615_v2
+device_page: nbg4615
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+forum_search: NBG4615
+git_search: NBG4615
+malformed: {}
+model: NBG4615
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=50483
+power_supply: 12 VDC, 1.5 A
+ram_mb: 128
+switch: Realtek RTL8367RB
+target: ramips
+unsupported_functions: Possible to support
+usb_ports: 2x 2.0
+version: v2
+wikidevi_url: https://wikidevi.com/wiki/ZyXEL_NBG4615_v2
+wlan_24ghz: b/g/n
+wlan_comments: 2x2
+wlan_driver: unknown
+wlan_hardware: Ralink RT5392

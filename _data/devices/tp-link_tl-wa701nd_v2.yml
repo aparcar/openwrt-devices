@@ -1,0 +1,42 @@
+availability: Available 2017
+bootloader: U-Boot
+brand: TP-Link
+button_count: '2'
+cpu: Atheros AR9331
+cpu_cores: 1
+cpu_mhz: 400
+detachable_antennas: '1'
+device_id: tp-link_tl-wa701nd_v2
+device_page: tl-wa701nd
+device_type: WiFi Router
+ethernet_100m_ports: 1
+fccid: http://fcc.io/TE7/WA701NDV2
+firmware_oem_stock_url: https://www.tp-link.com/en/download/TL-WA701ND_V2.html
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wa701nd-v2-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wa701nd-v2-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wa701nd-v2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wa701nd-v2-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: TL-WA701ND
+git_search: TL-WA701ND
+installation_method_s: unknown
+led_count: '5'
+malformed: {}
+model: TL-WA701ND
+oem_device_homepage_url: https://www.tp-link.com/en/products/details/cat-12_TL-WA701ND.html
+package_architecture: mips_24kc
+power_supply: 9 VDC, 0.6 A, PoE
+ram_mb: 32
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: tiny
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=4961c7d0f51674063a58a11032ea62eb9ef111f3
+supported_since_rel: '15.05'
+target: ar71xx
+version: v2.x
+vlan: false
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9285

@@ -1,0 +1,37 @@
+availability: Available 2017
+bootloader: RouterBOOT
+brand: MikroTik
+button_count: '1'
+cpu: Atheros AR9344
+cpu_cores: 1
+cpu_mhz: 600
+device_id: mikrotik_rbsxt5ndr2_sxt_lite_5
+device_type: WiFi AP
+ethernet_100m_ports: 1
+firmware_oem_stock_url: https://mikrotik.com/download
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-vmlinux-initramfs.elf
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/lede-ar71xx-mikrotik-vmlinux-initramfs.elf
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/lede-ar71xx-mikrotik-nand-large-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-nand-large-squashfs-sysupgrade.bin
+flash_mb: 128NAND
+forum_search: RBSXT5nDr2 (SXT Lite 5)
+git_search: RBSXT5nDr2 (SXT Lite 5)
+installation_method_s: Mikrotik TFTP
+lede_forum_topic_url: https://forum.lede-project.org/search?q=RBSXT5nDr2(SXT Lite
+  5)
+malformed:
+  flash_mb: 128NAND
+model: RBSXT5nDr2 (SXT Lite 5)
+oem_device_homepage_url: https://mikrotik.com/product/RBSXT5nDr2
+package_architecture: mips_24kc
+power_supply: 8-32 VDC, passive PoE
+ram_mb: 64
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: mikrotik
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=3519322e6238913eeae717a598c9760ddf40436c
+supported_since_rel: 17.01.0
+target: ar71xx
+wlan_50ghz: a/n
+wlan_driver: unknown

@@ -1,0 +1,32 @@
+availability: Discontinued 2016
+bootloader: U-Boot
+brand: Ocedo
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: 1
+cpu_mhz: 720
+detachable_antennas: '6'
+device_id: ocedo_ursus
+device_type: WiFi AP
+ethernet_gbit_ports: 2
+fccid: http://fcc.io/2AAUY-URSUS
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-ocedo_ursus-initramfs-kernel.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-ocedo_ursus-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: Ursus
+git_search: Ursus
+led_count: '5'
+malformed: {}
+model: Ursus (AP5r)
+package_architecture: mips_24kc
+power_supply: PoE 802.3at
+ram_mb: 128
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=de2f888024ac58c6137959ea91f65cb6ad098df3
+target: ath79
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k-ct

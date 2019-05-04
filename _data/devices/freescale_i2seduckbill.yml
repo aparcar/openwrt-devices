@@ -1,0 +1,27 @@
+availability: unknown 2018
+brand: Freescale i.MX23/i.MX28
+cpu: Freescale i.MX283
+cpu_cores: 1
+cpu_mhz: 454
+device_id: freescale_i2seduckbill
+device_page: duckbill
+device_type: Single Board Computer
+ethernet_100m_ports: 1
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/mxs/generic/
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/mxs/generic/
+flash_mb: SD
+forum_search: I2SE Duckbill
+git_search: I2SE Duckbill
+installation_method_s: see devicepage
+malformed:
+  flash_mb: SD
+model: I2SE Duckbill
+package_architecture: arm_arm926ej-s
+ram_mb: 128
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=9e2b69139b569a0e521685b0459fdda47121a93e
+supported_since_rel: '15.05'
+target: mxs
+usb_ports: 1x 2.0 Device
+vlan: false

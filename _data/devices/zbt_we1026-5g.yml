@@ -1,0 +1,34 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: ZBT
+button_count: '1'
+comments: WiFi 5GHz LED is dead acc. initial git-commit
+cpu: MediaTek MT7620A
+cpu_cores: 1
+cpu_mhz: 580
+detachable_antennas: '6'
+device_id: zbt_we1026-5g
+device_type: WiFi Router
+ethernet_100m_ports: 1
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-we1026-5g-16m-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-we1026-5g-16m-squashfs-sysupgrade.bin
+forum_search: WE1026-5G
+git_search: WE1026-5G
+led_count: '3'
+malformed: {}
+model: WE1026-5G
+oem_device_homepage_url: http://www.zbtlink.com/products/router/WE1026-5G.html
+package_architecture: mipsel_24kc
+ram_mb: 64
+recovery_method_s: see devicepage
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=79440ea7563d626d3823cbd3dadbe2f73214ce32
+supported_since_rel: 18.06.0
+target: ramips
+unsupported_functions: WiFi 5GHz LED
+usb_ports: 1x 2.0
+where_available: zbt.en.alibaba.com
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

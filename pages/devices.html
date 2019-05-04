@@ -39,7 +39,7 @@ permalink: /devices
                 {{ device.model }}
             </a>
         </th>
-        <td onClick="location.href='{{ url }}'"><a href="{{ url }}">{{ device.device_page}}</a></td>
+        <td onClick="location.href='{{ url }}'"><a href="{{ url }}">{{ device.device_id }}</a></td>
         <td>{{ device.device_type | capitalize }}</td>
     </tr>
     {% if sorted[forloop.index].brand != lastBrand %}

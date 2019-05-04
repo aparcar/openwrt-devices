@@ -1,0 +1,35 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Netgear
+button_count: '3'
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: 1
+cpu_mhz: 720
+device_id: netgear_ex7300
+device_type: Range Extender
+ethernet_gbit_ports: 1
+fccid: https://fcc.io/PY3/15200317
+firmware_oem_stock_url: https://www.netgear.com/support/product/EX7300
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-netgear_ex7300-squashfs-factory.img
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-netgear_ex7300-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: EX7300
+git_search: EX7300
+led_count: '9'
+malformed: {}
+model: EX7300
+oem_device_homepage_url: https://www.netgear.com/home/products/networking/wifi-range-extenders/EX7300.aspx
+package_architecture: mips_24kc
+power_supply: 100-240 VAC, 0.5 A
+ram_mb: 128
+recovery_method_s: U-Boot TFTP recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=f61e754522996d1557691f945518b69a14d0446c
+target: ath79
+wikidevi_url: https://wikidevi.com/wiki/Netgear_EX7300
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k-ct

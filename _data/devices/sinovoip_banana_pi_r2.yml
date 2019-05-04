@@ -1,0 +1,41 @@
+audio_ports: HDMI
+availability: Available 2019
+bluetooth: '4.1'
+brand: Sinovoip
+button_count: '3'
+cpu: MediaTek MT7623N
+cpu_cores: 4
+cpu_mhz: 1300
+device_id: sinovoip_banana_pi_r2
+device_type: Single Board Computer
+ethernet_gbit_ports: 5
+fccid: "http://\xBF"
+firmware_oem_stock_url: "http://\xBF"
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/mediatek/mt7623/openwrt-mediatek-mt7623-7623n-bananapi-bpi-r2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/mediatek/mt7623/openwrt-18.06.2-mediatek-mt7623-7623n-bananapi-bpi-r2-squashfs-sysupgrade.bin
+flash_mb: microSD
+forum_search: Banana Pi R2
+git_search: Banana Pi R2
+gpios: more than 20
+installation_method_s: unknown
+led_count: '3'
+malformed:
+  flash_mb: microSD
+model: Banana Pi R2
+oem_device_homepage_url: http://www.banana-pi.com/eacp_view.asp?id=104
+package_architecture: arm_cortex-a7_neon-vfpv4
+power_supply: 12 VDC, 2.0 A
+ram_mb: 2048
+recovery_method_s: unknown
+sata_ports: '1'
+serial: true
+subtarget: mt7623
+supported_current_rel: 18.06.2
+supported_since_commit: "http://\xBF"
+supported_since_rel: 18.06.0
+target: mediatek
+where_available: reichelt.de, pollin.de
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: unknown
+wlan_hardware: MediaTek MT6625L

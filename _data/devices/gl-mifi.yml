@@ -19,6 +19,7 @@ flash_mb: 16
 forum_search: GL-MiFi
 git_search: GL-MiFi
 gpios: '18'
+image: gl-mifi.jpg
 installation_method_s: GUI OEM
 jtag: false
 led_count: '4'
@@ -43,4 +44,3 @@ vlan: true
 where_available: amazon.com
 wlan_24ghz: b/g/n
 wlan_driver: unknown
-image: gl-mifi.jpg
