@@ -7,10 +7,10 @@
 {%- if device.switch_ports %}
 ### Switch Ports (for VLANs)
 
-| Port | Switch port |
-|:--- | ---:|
+| Switch port | Port |
+|:---         | ---: |
 {%- for port in device.switch_ports %}
-| {{ port[1] }} | {{ port[0] }} |
+| {{ port[0] }} | {{ port[1] }} |
 {%- endfor %}
 {%- endif %}
 

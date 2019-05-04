@@ -19,19 +19,29 @@ permalink: /devices
 <h2 class="h3" id="{{ device.brand | slugify }}">{{ device.brand }}</h2>
 
 <table class="table device">
-  <thead>
-  <tr>
-    <th scope="col" class="first"><b>Device</b></th>
-    <th scope="col"><b>Device ID</b></th>
-    <th scope="col" class="last"><b>Type</b></th>
-  </tr>
-  </thead>
-{% endif %}
-{% assign url = "devices/" | append: device.device_id | relative_url %}
-  <tr>
-    <th scope="row" onClick="location.href='{{ url }}'"><a href="{{ url }}">{{ device.model }}</a></th>
-    <td onClick="location.href='{{ url }}'"><a href="{{ url }}">{{ device.device_page}}</a></td>
-    <td>{{ device.device_type | capitalize }}</td>
-  </tr>
-{% if sorted[forloop.index].brand != lastBrand %}</table>{% endif %}
+    <thead>
+        <tr>
+            <th scope="col" class="first"><b>Device</b></th>
+            <th scope="col"><b>Device ID</b></th>
+            <th scope="col" class="last"><b>Type</b></th>
+        </tr>
+    </thead>
+    {% endif %}
+    {% assign url = "devices/" | append: device.device_id | relative_url %}
+    <tr>
+        <th scope="row" onClick="location.href='{{ url }}'">
+            {% if device.availability contains "Discontinued" %}
+            <i class="material-icons">warning</i>
+            {% else %}
+            <i class="material-icons">check</i>
+            {% endif %}
+            <a href="{{ url }}">
+                {{ device.model }}
+            </a>
+        </th>
+        <td onClick="location.href='{{ url }}'"><a href="{{ url }}">{{ device.device_page}}</a></td>
+        <td>{{ device.device_type | capitalize }}</td>
+    </tr>
+    {% if sorted[forloop.index].brand != lastBrand %}
+</table>{% endif %}
 {% endfor %}
