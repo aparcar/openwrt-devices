@@ -15,6 +15,7 @@ firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/ta
 flash_mb: 4
 forum_search: CPVA502+W
 git_search: CPVA502+W
+image: telsey_cpva502w.png
 jtag: true
 led_count: '2'
 malformed: {}

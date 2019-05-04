@@ -20,6 +20,7 @@ firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/ta
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-rb-nor-flash-16M-squashfs-sysupgrade.bin
 flash_mb: 16
 git_search: hAP Lite
+image: mikrotik_rb941-2nd.jpeg
 installation_method_s: see devicepage
 jtag: true
 led_count: '1'

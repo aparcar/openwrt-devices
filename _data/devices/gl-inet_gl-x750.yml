@@ -15,6 +15,7 @@ firmware_oem_stock_url: https://dl.gl-inet.com/firmware/x750/
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-glinet_gl-x750-squashfs-sysupgrade.bin
 forum_search: GL-X750
 git_search: GL-X750
+image: gl-inet_gl-x750.png
 led_count: '5'
 malformed: {}
 model: GL-X750 (Spitz)

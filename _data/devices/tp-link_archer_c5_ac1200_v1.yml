@@ -20,7 +20,7 @@ firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targ
 flash_mb: 16
 forum_search: Archer C5 AC1200
 git_search: Archer C5 AC1200
-image: tp-link_archer_c5_ac1200_v1.png
+image: tp-link_archer_c5_ac1200_v1.jpg
 jtag: true
 malformed: {}
 model: Archer C5 AC1200

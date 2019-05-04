@@ -15,6 +15,7 @@ firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/ta
 flash_mb: 16
 forum_search: airCube ISP
 git_search: airCube ISP
+image: ubiquiti_aircube_isp.png
 led_count: '1'
 malformed: {}
 model: airCube ISP

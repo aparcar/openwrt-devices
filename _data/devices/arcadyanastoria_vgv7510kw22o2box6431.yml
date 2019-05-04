@@ -15,6 +15,7 @@ firmware_openwrt_snapshot_upgrade_url: https://downloads.openwrt.org/snapshots/t
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xrx200/openwrt-18.06.2-lantiq-xrx200-arcadyan_vgv7510kw22-nor-squashfs-sysupgrade.bin
 flash_mb: 16
 git_search: VGV7510KW22
+image: arcadyanastoria_vgv7510kw22o2box6431.jpg
 installation_method_s: see devicepage
 jtag: false
 led_count: '10'

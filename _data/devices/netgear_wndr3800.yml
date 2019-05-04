@@ -20,6 +20,7 @@ flash_mb: 16
 forum_search: WNDR3800
 git_search: WNDR3800
 gluon_support: true
+image: netgear_wndr3800.jpg
 jtag: true
 lede_forum_topic_url: https://forum.lede-project.org/t/build-for-wndr3700v1-v2-wndr3800/64
 malformed: {}

@@ -26,6 +26,7 @@ firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targ
 flash_mb: 128
 forum_search: R6220
 git_search: R6220
+image: netgear_r6220.php
 led_count: '9'
 malformed: {}
 model: R6220

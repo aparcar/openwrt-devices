@@ -15,6 +15,7 @@ firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targ
 flash_mb: 128NAND
 forum_search: P-2812HNU-F1
 git_search: P-2812HNU-F1
+image: zyxel_p-2812hnu-f1.gif
 installation_method_s: see devicepage
 jtag: false
 led_count: '13'

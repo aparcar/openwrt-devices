@@ -19,6 +19,7 @@ flash_mb: 16
 forum_search: GL-AR150
 git_search: GL-AR150
 gpios: '4'
+image: gl-inet_gl-ar150.jpg
 jtag: false
 led_count: '3'
 malformed: {}

@@ -18,6 +18,7 @@ firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targ
 flash_mb: 512NAND
 forum_search: FRITZ!Box WLAN 3370
 git_search: FRITZ!Box WLAN 3370
+image: avm_fritz_box_wlan_3370.png
 installation_method_s: EVA FTP
 jtag: true
 led_count: '5'

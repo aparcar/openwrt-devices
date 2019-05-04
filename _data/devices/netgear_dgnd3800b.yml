@@ -17,6 +17,7 @@ firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/ta
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/smp/openwrt-18.06.2-brcm63xx-smp-DGND3800B-squashfs-sysupgrade.bin
 forum_search: DGND3800B
 git_search: DGND3800B
+image: netgear_dgnd3800b.png
 malformed: {}
 model: DGND3800B
 modem: ADSL2+ Annex B

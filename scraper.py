@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import re
 import urllib3
+import urllib.request
 import os
 import yaml
 import json
@@ -28,6 +29,49 @@ int_values = [
     "flash_mb",
     "ram_mb",
 ]
+
+
+def download_images():
+    for device_raw in os.listdir("raw/"):
+        device = device_raw.replace(".", "-")
+        with open("raw/" + device_raw, "r") as device_file:
+            soup = BeautifulSoup(device_file.read(), "html.parser")
+            techdata = soup.find("div", "techdata")
+            if not techdata:
+                continue
+
+            dd = techdata.find_all("dd", "picture")
+
+            if not dd:
+                print("no picture defined", device)
+                continue
+
+            href = dd[0].a["href"]
+            if href != "/_media/media/example/genericrouter1.png?cache=":
+                url = base_url + href
+                suffix = url.split("?")[0].split(".")[-1]
+                print(url)
+                try:
+                    with urllib.request.urlopen(url) as response, open(
+                        "images/devices/" + device + "." + suffix, "wb"
+                    ) as out_file:
+                        data = response.read()  # a `bytes` object
+                        out_file.write(data)
+
+                    yaml_path = "_data/devices/" + device + ".yml"
+                    if os.path.exists(yaml_path):
+                        with open(yaml_path, "r") as yaml_file:
+                            device_info = yaml.full_load(yaml_file.read())
+                        device_info["image"] = device + "." + suffix
+                        with open(yaml_path, "w") as yaml_file:
+                            yaml.dump(device_info, yaml_file, default_flow_style=False)
+                        print("stored and added", device)
+                    else:
+                        print("just stored", device)
+                except:
+                    print("404ed", device)
+            else:
+                print("generic", device)
 
 
 def parse_raw_devices():
@@ -106,4 +150,5 @@ def download_raw_devices():
 
 
 # download_raw_devices()
-parse_raw_devices()
+# parse_raw_devices()
+download_images()

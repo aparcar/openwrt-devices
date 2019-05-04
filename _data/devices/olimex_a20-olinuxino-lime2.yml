@@ -17,6 +17,7 @@ flash_mb: microSDHC
 forum_search: A20-OLinuXino-LIME2
 git_search: A20-OLinuXino-LIME2
 gpios: more than 20
+image: olimex_a20-olinuxino-lime2.jpg
 installation_method_s: Sunxi installation
 jtag: false
 led_count: '3'
