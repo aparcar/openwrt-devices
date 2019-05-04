@@ -1,0 +1,26 @@
+availability: unknown 2018
+bootloader: CFE
+brand: Netgear
+cpu: Broadcom BCM6368
+cpu_cores: 2
+cpu_mhz: 400
+device_id: netgear_vvg2000-1
+device_page: vvg2000-1
+device_type: WiFi Router
+ethernet_100m_ports: 4
+flash_mb: 8
+forum_search: VVG2000-1
+git_search: VVG2000-1
+malformed: {}
+model: VVG2000-1
+modem: VDSL2
+package_architecture: mips_mips32
+ram_mb: 32
+serial: true
+target: brcm63xx
+unsupported_functions: Possible to support
+usb_ports: 1x 2.0
+wikidevi_url: https://wikidevi.com/wiki/Netgear_VVG2000-1
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM43222

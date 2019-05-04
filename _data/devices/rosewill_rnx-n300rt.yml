@@ -1,0 +1,33 @@
+availability: Discontinued
+brand: Rosewill
+button_count: '1'
+cpu: Atheros AR7241
+cpu_cores: 1
+cpu_mhz: 400
+device_id: rosewill_rnx-n300rt
+device_page: rnx-n300rt
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/W6R/RNX-N300RT
+flash_mb: 4
+forum_search: RNX-N300RT
+git_search: RNX-N300RT
+installation_method_s: see devicepage
+led_count: '9'
+malformed: {}
+model: RNX-N300RT
+package_architecture: mips_24kc
+power_supply: 9 VDC, 0.6 A
+ram_mb: 32
+recovery_method_s: see devicepage
+serial: true
+subtarget: generic
+supported_current_rel: '12.09'
+supported_since_rel: '12.09'
+switch: Atheros AR7241
+target: ar71xx
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Rosewill_RNX-N300RT
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9287

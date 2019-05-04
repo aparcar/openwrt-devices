@@ -1,0 +1,30 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Evaluation boards / unbranded boards
+cpu: Freescale P1020E
+cpu_cores: 2
+cpu_mhz: 800
+detachable_antennas: '6'
+device_id: other_freescalep1020ewlan
+device_page: freescale.p1020ewlan
+device_type: Single Board Computer
+ethernet_gbit_ports: 2
+flash_mb: 64
+forum_search: Freescale P1020EWLAN
+git_search: Freescale P1020EWLAN
+jtag: true
+malformed: {}
+model: Freescale P1020EWLAN
+oem_device_homepage_url: http://www.nxp.com/products/microcontrollers-and-processors/power-architecture-processors/qoriq-power-architecture-processors/qoriq-p1020-wlan-access-point-router:RD_P1020WLANS?
+package_architecture: powerpc_8540
+power_supply: 12 VDC, 2.5 A
+ram_mb: 1024
+serial: true
+target: mpc85xx
+usb_ports: 2x 2.0
+vlan: false
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_comments: 3x3 MIMO
+wlan_driver: ath9k
+wlan_hardware: 2x Atheros AR9380 (mini-PCIe)

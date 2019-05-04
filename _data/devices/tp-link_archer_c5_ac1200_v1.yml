@@ -1,0 +1,46 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TP-Link
+comment_installation: For TFTP, rename -factory image to ArcherC5v1_tp_recovery.bin
+comments: Hardware identical to Archer C7 v2
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: 1
+cpu_mhz: 720
+detachable_antennas: '3'
+device_id: tp-link_archer_c5_ac1200_v1
+device_page: archer-c5-c7-wdr7500
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/TE7/C5
+firmware_oem_stock_url: https://www.tp-link.com/en/download/Archer-C5_V1.20.html
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-archer-c5-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-tplink_archer-c5-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-tplink_archer-c5-v1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-archer-c5-v1-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: Archer C5 AC1200
+git_search: Archer C5 AC1200
+jtag: true
+malformed: {}
+model: Archer C5 AC1200
+oem_device_homepage_url: https://www.tp-link.com/en/products/details/Archer-C5.html
+owrt_forum_topic_url: https://forum.archive.openwrt.org/viewtopic.php?id=44201
+package_architecture: mips_24kc
+power_supply: 12 VDC, 2.5 A
+ram_mb: 128
+recovery_method_s: U-Boot TFTP recovery
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=dc628f2e0870d448313e790398bfaf36850c4702
+supported_since_rel: '14.07'
+switch: Atheros AR8327N
+target: ar71xx-ath79
+usb_ports: 2x 2.0
+version: v1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C5_v1.x
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 3x3
+wlan_driver: ath10k

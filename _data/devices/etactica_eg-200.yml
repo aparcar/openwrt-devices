@@ -1,0 +1,26 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: eTactica
+cpu: Atheros AR9331
+cpu_cores: 1
+detachable_antennas: '1'
+device_id: etactica_eg-200
+device_type: other
+ethernet_100m_ports: 1
+fccid: "http://\xBF"
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-etactica_eg200-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.0/targets/ar71xx/generic/openwrt-18.06.0-ar71xx-generic-rme-eg200-squashfs-sysupgrade.bin
+forum_search: EG-200
+led_count: '5'
+malformed: {}
+model: EG-200
+oem_device_homepage_url: https://www.etactica.com/products/gateway-eg/
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.1 A
+recovery_method_s: unknown
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=b2a5f7683b0d36b2a346c67a0dcf9140498b7f92
+target: ar71xx-ath79
+wlan_24ghz: b/g
+wlan_driver: unknown

@@ -30,6 +30,10 @@ int_values = [
 
 def parse_raw_devices():
     for device in os.listdir("raw/"):
+        if os.path.exists("_data/device/" + device):
+            print("skipping", device)
+            continue
+
         with open("raw/" + device, "r") as device_file:
             device = device.replace(".", "-")
             soup = BeautifulSoup(device_file.read(), "html.parser")
@@ -91,5 +95,5 @@ def download_raw_devices():
             print("stored", device_path, "from", device_url)
 
 
-#download_raw_devices()
+# download_raw_devices()
 parse_raw_devices()

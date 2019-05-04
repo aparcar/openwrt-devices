@@ -22,7 +22,7 @@
                 {% assign state = "warning" %}
                 {% endif %}
                 <span class="badge badge-{{ state }}">
-                    {{ device.supported_current_rel }}
+                    {{ device.supported_current_rel | default: "Unknown" }}
                 </span>
                 {% if device.availability contains "Discontinued" %}
                 <span class="badge badge-danger">
@@ -68,6 +68,20 @@
                 {{ device.cpu_cores }} x {{ device.cpu_mhz }}MHz
             </td>
         </tr>
+        {% if device.wlan_24ghz or device.wlan_50ghz %}
+        {% assign dual_band = device.wlan_24ghz and device.wlan_50ghz %}
+        <tr>
+            <th scope="row">WiFi</th>
+            <td>
+                {% if device.wlan_24ghz %}
+                <p><b>2.4Ghz:</b> {{ device.wlan_24ghz | join: "/" }}</p>
+                {% endif %}
+                {% if device.wlan_50ghz %}
+                <p><b>5Ghz:</b> {{ device.wlan_50ghz | join: "/" }}</p>
+                {% endif %}
+            </td>
+        </tr>
+        {% endif %}
         {% if device.switch %}
         <tr>
             <th scope="row">Switch</th>
