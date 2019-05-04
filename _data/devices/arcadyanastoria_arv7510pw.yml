@@ -1,0 +1,26 @@
+availability: unknown 2018
+bootloader: brnboot
+brand: Arcadyan / Astoria
+button_count: '2'
+cpu: Lantiq XWAY Danube
+cpu_cores: 2
+cpu_mhz: 333
+device_id: arcadyanastoria_arv7510pw
+device_page: arv7510pw
+device_type: WiFi Router
+ethernet_100m_ports: 4
+firmware_openwrt_upgrade_url: http://www.elisanet.fi/malaakso/misc/openwrt-lantiq-xway-ARV4510PW-squashfs.image
+flash_mb: 16
+forum_search: ARV7510PW
+git_search: ARV7510PW
+jtag: true
+malformed: {}
+model: ARV7510PW
+modem: ADSL2+
+package_architecture: mips_24kc
+ram_mb: 32
+serial: true
+target: lantiq
+wlan_24ghz: b/g/n
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT2860T

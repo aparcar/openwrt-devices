@@ -5,6 +5,8 @@ import os
 import yaml
 import json
 
+dev = True
+
 base_url = "https://openwrt.org"
 
 deviceinfo = """\
@@ -29,13 +31,23 @@ int_values = [
 
 
 def parse_raw_devices():
-    for device in os.listdir("raw/"):
-        if os.path.exists("_data/device/" + device):
-            print("skipping", device)
+    i = 0
+    for device_raw in os.listdir("raw/"):
+        device = device_raw.replace(".", "-")
+        if dev == True and i > 50:
+            break
+        i += 1
+
+        yaml_path = "_data/devices/" + device + ".yml"
+        if os.path.exists(yaml_path):
+            print("sorting", device)
+            with open(yaml_path, "r") as yaml_file:
+                device_info = yaml.load(yaml_file.read())
+            with open(yaml_path, "w") as yaml_file:
+                yaml.dump(device_info, yaml_file, default_flow_style=False)
             continue
 
-        with open("raw/" + device, "r") as device_file:
-            device = device.replace(".", "-")
+        with open("raw/" + device_raw, "r") as device_file:
             soup = BeautifulSoup(device_file.read(), "html.parser")
             techdata = soup.find("div", "techdata")
             if not techdata:
@@ -68,7 +80,7 @@ def parse_raw_devices():
                             device_info["malformed"][int_value] = device_info[int_value]
                 device_info[dd["class"][0]] = value
 
-            with open("_data/devices/" + device + ".yml", "w") as outfile:
+            with open(yaml_path, "w") as outfile:
                 yaml.dump(device_info, outfile, default_flow_style=False)
 
             with open("pages/info/" + device + ".md", "w") as outfile:

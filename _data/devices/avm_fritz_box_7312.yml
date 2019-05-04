@@ -1,0 +1,38 @@
+availability: Discontinued
+bootloader: Adam2
+brand: AVM
+button_count: '2'
+comment_installation: Works with images of Fritz!Box 7320
+cpu: Lantiq XWAY ARX188
+cpu_cores: 2
+cpu_mhz: 393
+device_id: avm_fritz_box_7312
+device_page: fritz.box.wlan.7312
+device_type: WiFi Router
+ethernet_100m_ports: 1
+fccid: "http://\xBF"
+firmware_oem_stock_url: https://avm.de/service/downloads/?product=fritzbox-7312
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xway/openwrt-lantiq-xway-avm_fritz7312-initramfs-kernel.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xway/openwrt-lantiq-xway-avm_fritz7312-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: FRITZ!Box 7312
+git_search: FRITZ!Box 7312
+led_count: '5'
+malformed: {}
+model: FRITZ!Box 7312
+modem: ADSL2+
+oem_device_homepage_url: https://avm.de/service/fritzbox/fritzbox-7312/uebersicht/
+package_architecture: mips_24kc
+phone_ports: DECT
+power_supply: 5 VDC, 1.6 A
+ram_mb: 64
+recovery_method_s: EVA FTP
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: xway
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=02d53e6a2113f80ae429664e7990d167fbf44604
+target: lantiq
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9227

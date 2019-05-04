@@ -1,0 +1,38 @@
+availability: Discontinued
+bootloader: CFE
+brand: Asus
+cpu: Broadcom BCM5357
+cpu_cores: 1
+cpu_mhz: 320
+detachable_antennas: '1'
+device_id: asus_rt-n10u
+device_page: rt-n10u
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/MSQ/RTN10U
+firmware_oem_stock_url: https://www.asus.com/Networking/RTN10U/HelpDesk_BIOS/
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-asus-rt-n10u-squashfs.trx
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-asus-rt-n10u-squashfs.trx
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-asus-rt-n10u-squashfs.trx
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-asus-rt-n10u-squashfs.trx
+flash_mb: 8
+forum_search: RT-N10U
+git_search: RT-N10U
+malformed: {}
+model: RT-N10U
+oem_device_homepage_url: http://www.asus.com/Networking/RTN10U/
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 32
+recovery_method_s: CFE TFTP recovery
+serial: true
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_rel: '15.05'
+target: brcm47xx
+unsupported_functions: WiFi 2.4GHz
+usb_ports: 1x 2.0
+wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N10U
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM5357

@@ -20,6 +20,7 @@ firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targ
 flash_mb: 16
 forum_search: Archer C5 AC1200
 git_search: Archer C5 AC1200
+image: tp-link_archer_c5_ac1200_v1.png
 jtag: true
 malformed: {}
 model: Archer C5 AC1200
@@ -35,7 +36,16 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=dc628f2e0870d448313e790398bfaf36850c4702
 supported_since_rel: '14.07'
 switch: Atheros AR8327N
+switch_ports:
+  0: ETH1
+  1: WAN
+  2: LAN1
+  3: LAN2
+  4: LAN3
+  5: LAN4
+  6: ETH0
 target: ar71xx-ath79
+tftp_image: ArcherC5v1_tp_recovery.bin
 usb_ports: 2x 2.0
 version: v1
 vlan: true

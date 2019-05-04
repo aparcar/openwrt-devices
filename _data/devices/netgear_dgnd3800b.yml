@@ -1,0 +1,44 @@
+availability: Available 2019
+bootloader: CFE
+brand: Netgear
+comments_network_ports: VDSL support
+cpu: Broadcom BCM6368
+cpu_cores: 2
+cpu_mhz: 400
+device_id: netgear_dgnd3800b
+device_page: dgnd3700
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/PY3/10100129
+firmware_oem_stock_url: http://downloadcenter.netgear.com/de/product/DGND3800B
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/smp/openwrt-18.06.2-brcm63xx-smp-DGND3800B-squashfs-factory.chk
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/smp/lede-brcm63xx-smp-DGND3800B-squashfs-factory.chk
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/smp/lede-brcm63xx-smp-DGND3800B-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/smp/openwrt-18.06.2-brcm63xx-smp-DGND3800B-squashfs-sysupgrade.bin
+forum_search: DGND3800B
+git_search: DGND3800B
+malformed: {}
+model: DGND3800B
+modem: ADSL2+ Annex B
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=36824
+package_architecture: mips_mips32
+power_supply: 12 VDC, 2.5 A
+ram_mb: 128
+recovery_method_s: CFE TFTP recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ca7f6d28c8f811a1aa851554253304157f44256b
+supported_since_rel: '15.05'
+switch: Broadcom BCM53115
+target: brcm63xx
+unsupported_functions: DSL modem
+usb_ports: 2x 2.0
+vlan: true
+where_available: expert.de
+wikidevi_url: https://wikidevi.com/wiki/Netgear_DGND3800B
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM43222

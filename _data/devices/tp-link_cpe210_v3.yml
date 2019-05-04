@@ -1,0 +1,35 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: TP-Link
+cpu: Qualcomm Atheros QCA9533
+cpu_cores: 1
+cpu_mhz: 650
+device_id: tp-link_cpe210_v3
+device_page: cpe210
+device_type: WiFi AP
+ethernet_100m_ports: 1
+fccid: "http://\xBF"
+firmware_oem_stock_url: https://www.tp-link.com/en/support/download/cpe210/v3/
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-tplink_cpe210-v3-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-tplink_cpe210-v3-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: CPE210
+git_search: CPE210
+led_count: '5'
+malformed: {}
+model: CPE210
+oem_device_homepage_url: https://www.tp-link.com/en/business-networking/outdoor-radio/cpe210/
+package_architecture: mips_24kc
+power_supply: 16-27 VDC, passive PoE
+ram_mb: 64
+recovery_method_s: U-Boot TFTP recovery
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=5ec205d7ac00de89510a6e71055d45aa57b705e1
+target: ar71xx-ath79
+version: v3
+vlan: true
+where_available: amazon.de, reichelt.de
+wlan_24ghz: b/g/n
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA9533
