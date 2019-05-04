@@ -1,0 +1,34 @@
+availability: Discontinued
+brand: Open-Mesh
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: 1
+cpu_mhz: 720
+device_id: open-mesh_mr900_v1
+device_type: WiFi AP
+ethernet_gbit_ports: 1
+fccid: https://fcc.io/WT8/-MR900
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-mr900-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-mr900-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-mr900-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-mr900-squashfs-sysupgrade.bin
+forum_search: MR900
+git_search: MR900
+gluon_support: true
+installation_method_s: unknown
+malformed: {}
+model: MR900
+oem_device_homepage_url: http://www.open-mesh.com/products/mr900-dual-band-cloud-access-point.html
+package_architecture: mips_24kc
+power_supply: 12 VDC, 2.0 A
+ram_mb: 128
+recovery_method_s: unknown
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=305c1431e308b1d498dc5e47e77dcc311910b1d3
+supported_since_rel: '15.05'
+target: ar71xx
+version: v1
+wikidevi_url: https://wikidevi.com/wiki/Open-Mesh_MR900_v1
+wlan_24ghz: b/g/n
+wlan_50ghz: a
+wlan_driver: ath9k

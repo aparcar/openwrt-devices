@@ -1,0 +1,30 @@
+availability: Discontinued 2014
+bootloader: U-Boot
+brand: Linksys
+cpu: Atheros AR9132
+cpu_cores: 1
+cpu_mhz: 400
+detachable_antennas: '3'
+device_id: linksys_wap4410n_v2
+device_page: wap4410n
+device_type: WiFi Router
+ethernet_gbit_ports: 1
+flash_mb: 4
+forum_search: WAP4410N
+git_search: WAP4410N
+jtag: true
+malformed: {}
+model: WAP4410N
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=44837
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 32
+serial: true
+subtarget: generic
+target: ar71xx
+version: v2
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Cisco_WAP4410N
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9132

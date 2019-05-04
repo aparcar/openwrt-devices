@@ -1,0 +1,37 @@
+availability: Available 2017
+bootloader: U-Boot
+brand: Samsung
+cpu: Ralink RT3662
+cpu_cores: 1
+cpu_mhz: 500
+device_id: samsung_cy-swr1100
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/A3L/CYSWR1100
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/rt3883/openwrt-18.06.2-ramips-rt3883-cy-swr1100-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt3883/lede-ramips-rt3883-cy-swr1100-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt3883/lede-ramips-rt3883-cy-swr1100-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/rt3883/openwrt-18.06.2-ramips-rt3883-cy-swr1100-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: CY-SWR1100
+git_search: CY-SWR1100
+installation_method_s: U-Boot TFTP recovery
+malformed: {}
+model: CY-SWR1100
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 2.0 A
+ram_mb: 64
+recovery_method_s: U-Boot TFTP recovery
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt3883
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=813a7c3827afe71f49f2985c607585900a7db4fb
+supported_since_rel: 17.01.0
+switch: Realtek RTL8367R
+target: ramips
+usb_ports: 1x 2.0
+wikidevi_url: https://wikidevi.com/wiki/Samsung_CY-SWR1100
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: unknown

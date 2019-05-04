@@ -1,0 +1,36 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Olimex
+button_count: '5'
+comments_network_ports: Eth via optional UEXT module
+cpu: Allwinner A13
+cpu_cores: 1
+cpu_mhz: 1000
+device_id: olimex_a13-olinuxino-wifi
+device_page: a13-olinuxino
+device_type: Single Board Computer
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/sunxi/cortexa8/openwrt-18.06.2-sunxi-cortexa8-sun5i-a13-olinuxino-squashfs-sdcard.img.gz
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/sunxi/cortexa8/openwrt-sunxi-cortexa8-sun5i-a13-olinuxino-squashfs-sdcard.img.gz
+forum_search: A13-OLinuXino-WIFI
+git_search: A13-OLinuXino-WIFI
+gpios: more than 20
+image: olimex_a13-olinuxino-wifi.jpg
+installation_method_s: Sunxi installation
+jtag: false
+malformed: {}
+model: A13-OLinuXino-WIFI
+oem_device_homepage_url: https://www.olimex.com/Products/OLinuXino/A13/A13-OLinuXino-WIFI/open-source-hardware
+package_architecture: arm_cortex-a8_vfpv3
+power_supply: 6-16 VDC
+ram_mb: 512
+serial: true
+subtarget: cortexa8
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f58bfd1df4e4a9b84a0e94691986c38bab6d8730
+supported_since_rel: '14.07'
+target: sunxi
+usb_ports: 3x 2.0
+video_ports: VGA
+where_available: olimex.com
+wlan_24ghz: b/g/n
+wlan_driver: unknown

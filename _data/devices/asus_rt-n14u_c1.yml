@@ -1,0 +1,41 @@
+availability: Discontinued 2016
+bootloader: U-Boot
+brand: Asus
+button_count: '1'
+cpu: MediaTek MT7620N
+cpu_cores: 1
+cpu_mhz: 600
+device_id: asus_rt-n14u_c1
+device_page: rt-n14u
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/MSQ/-RTN14U
+firmware_oem_stock_url: https://www.asus.com/Networking/RTN14U/HelpDesk_Download/
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-rt-n14u-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-rt-n14u-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: RT-N14U
+git_search: RT-N14U
+jtag: false
+led_count: '5'
+malformed: {}
+model: RT-N14U
+oem_device_homepage_url: https://www.asus.com/Networking/RTN14U/
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 64
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=9739a0b41baa88c233f76b93ac01805b7b635d94
+supported_since_rel: '14.07'
+switch: MediaTek MT7620N
+target: ramips
+usb_ports: 1x 2.0
+version: C1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N14U
+wlan_24ghz: b/g/n
+wlan_driver: mt76
+wlan_hardware: MediaTek MT7620N

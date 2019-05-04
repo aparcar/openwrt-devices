@@ -1,0 +1,27 @@
+availability: Discontinued
+brand: Gateworks
+cpu: Intel IXP435
+cpu_cores: 1
+cpu_mhz: 667
+device_id: gateworks_cambriagw2350
+device_page: gateworks
+device_type: Single Board Computer
+ethernet_100m_ports: 2
+flash_mb: 32
+forum_search: Cambria GW2350
+git_search: Cambria GW2350
+installation_method_s: unknown
+malformed: {}
+model: Cambria GW2350
+oem_device_homepage_url: http://www.gateworks.com/product\
+package_architecture: armeb_xscale
+ram_mb: 128
+recovery_method_s: unknown
+subtarget: generic
+supported_current_rel: '12.09'
+supported_since_rel: '12.09'
+target: ixp4xx
+usb_ports: 2x 2.0
+vlan: false
+wlan_driver: unknown
+wlan_hardware: 1x mini-PCI

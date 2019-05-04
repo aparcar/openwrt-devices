@@ -1,0 +1,42 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: ADI Engineering
+button_count: '1'
+comment_installation: For installation you also need ixp4xx-generic-squashfs.img
+comments: sysupgrade not supported, re-install necessary
+cpu: Intel IXP425
+cpu_cores: 1
+cpu_mhz: 533
+detachable_antennas: '1'
+device_id: adi_engineering_pronghorn_sbc250
+device_page: adi_engineering_pronghorn_sbc250
+device_type: WiFi Router
+ethernet_100m_ports: 2
+firmware_openwrt_install_url: https://downloads.openwrt.org/releases/18.06.2/targets/ixp4xx/generic/openwrt-18.06.2-ixp4xx-generic-pronghorn-zImage
+firmware_openwrt_snapshot_install_url: https://downloads.openwrt.org/snapshots/targets/ixp4xx/generic/openwrt-ixp4xx-generic-pronghorn-zImage
+flash_mb: 16
+forum_search: Pronghorn SBC250
+git_search: Pronghorn SBC250
+gpios: '4'
+jtag: true
+malformed: {}
+model: Pronghorn SBC250
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=12830
+package_architecture: armeb_xscale
+power_supply: 5 VDC, 2.5 A or PoE
+ram_mb: 64
+recovery_method_s: RedBoot TFTP + serial recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=1f68c4745d77d681991a6059fd8ad42418e576de
+supported_since_rel: '8.09'
+target: ixp4xx
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/ADI_Engineering_Pronghorn_SBC250
+wlan_24ghz: b/g
+wlan_50ghz: a
+wlan_comments: 2nd PCI slot available
+wlan_driver: ath5k
+wlan_hardware: EnGenius NMP-8602 PLUS Atheros AR5414 mini-PCI

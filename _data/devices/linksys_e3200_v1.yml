@@ -1,0 +1,40 @@
+availability: Discontinued
+bootloader: CFE
+brand: Linksys
+cpu: Broadcom BCM47186
+cpu_cores: 1
+cpu_mhz: 500
+device_id: linksys_e3200_v1
+device_page: e3200
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/Q87/-E3200
+firmware_oem_stock_url: https://www.linksys.com/us/support-article?articleNum=148386
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-linksys-e3200-v1-squashfs.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-linksys-e3200-v1-squashfs.bin
+flash_mb: 16
+forum_search: E3200
+git_search: E3200
+installation_method_s: unknown
+jtag: true
+malformed: {}
+model: E3200
+oem_device_homepage_url: https://www.linksys.com/us/support-product/?pid=01t80000003K7dcAAC
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 2.0 A
+ram_mb: 64
+recovery_method_s: unknown
+serial: true
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=35661401da6c8d55787f4f0fa4b6c32372a0bcf4
+supported_since_rel: '14.07'
+switch: Broadcom BCM53125
+target: brcm47xx
+usb_ports: 1x 2.0
+version: '1.0'
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Linksys_E3200
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: b43

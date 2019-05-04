@@ -1,0 +1,21 @@
+availability: Discontinued
+brand: Buffalo
+comments_network_ports: '4'
+cpu: Broadcom BCM4704KPBG
+cpu_cores: 1
+cpu_mhz: 333
+device_id: buffalo_wzr-rs-g54
+device_type: Router
+firmware_oem_stock_url: http://buffalo.jp/download/driver/lan/wzr-rs-g54.html
+flash_mb: 8
+forum_search: WZR-RS-G54
+git_search: WZR-RS-G54
+gluon_support: true
+malformed: {}
+model: WZR-RS-G54
+oem_device_homepage_url: http://buffalo.jp/products/catalog/item/w/wzr-rs-g54/
+package_architecture: mipsel_mips32
+ram_mb: 64
+subtarget: legacy
+target: brcm47xx
+wlan_driver: unknown

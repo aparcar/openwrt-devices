@@ -1,0 +1,49 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Linksys
+button_count: '2'
+comment_installation: For TFTP, rename -factory image to um_factory_fw.bin
+comment_recovery: For TFTP, rename -factory image to um_factory_fw.bin
+comments: 'need to downgrade original FW first to version 1.0.00 (get FW_E1700_v1.0.00.081_20131220.bin
+  at https://db.tt/m95cTvHq, md5sum: 68f9f63de22d508bdd699a749bcdc2d0). Ports comming
+  up as 100mbit rather than gigabit. Wifi appears weak or incomplete, have not been
+  able to select antenna.'
+cpu: MediaTek MT7620A
+cpu_cores: 1
+cpu_mhz: 580
+detachable_antennas: '2'
+device_id: linksys_e1700
+device_page: e1700
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/Q87-E1700
+firmware_oem_stock_url: http://www.linksys.com/us/support-article?articleNum=148502
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-e1700-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/lede-ramips-mt7620-e1700-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/lede-ramips-mt7620-e1700-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-e1700-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: E1700
+git_search: E1700
+led_count: '7'
+malformed: {}
+model: E1700
+oem_device_homepage_url: http://www.linksys.com/us/support-product?pid=01t80000003egChAAI
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 0.5 A
+ram_mb: 64
+recovery_method_s: U-Boot TFTP recovery
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=d738d22bf8303bd84e925b2b0c90793a1f3d89e5
+supported_since_rel: 15.05.1
+switch: MediaTek MT7530
+target: ramips
+vlan: true
+where_available: amazon.de
+wikidevi_url: https://wikidevi.com/wiki/Linksys_E1700
+wlan_24ghz: b/g/n
+wlan_driver: mt76
+wlan_hardware: MediaTek MT7620A

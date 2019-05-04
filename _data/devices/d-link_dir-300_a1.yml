@@ -1,0 +1,30 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: D-Link
+cpu: Atheros AR2317
+cpu_cores: 1
+cpu_mhz: 183
+detachable_antennas: '1'
+device_id: d-link_dir-300_a1
+device_page: dir-300
+device_type: WiFi Router
+ethernet_100m_ports: 5
+flash_mb: 4
+forum_search: DIR-300
+git_search: DIR-300
+installation_method_s: see devicepage
+jtag: true
+malformed: {}
+model: DIR-300
+power_supply: 5 VDC, 2.5 A
+ram_mb: 16
+serial: true
+supported_current_rel: 10.03.1
+supported_since_rel: 10.03.1
+target: ath25
+version: A1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-300_rev_A1
+wlan_24ghz: b/g
+wlan_driver: ath5k
+wlan_hardware: Atheros AR2317

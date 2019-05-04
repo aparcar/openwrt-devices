@@ -1,0 +1,38 @@
+availability: Available 2018
+bootloader: U-Boot
+brand: SamKnows
+button_count: '2'
+cpu: MediaTek MT7621A
+cpu_cores: 2
+cpu_mhz: 880
+device_id: samknows_sk-wb8
+device_page: sk-wb8
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/2AGPP-SK-WB8V2
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-sk-wb8-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-sk-wb8-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: SK-WB8
+git_search: SK-WB8
+jtag: false
+led_count: '6'
+malformed: {}
+model: SK-WB8
+oem_device_homepage_url: https://www.samknows.com/
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 2.0 A
+ram_mb: 128
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt7621
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=374cae9e6fcaf4cf4de4f2095f3fec558da51df6
+supported_since_rel: 17.01.0
+target: ramips
+usb_ports: 1x 2.0
+vlan: true
+where_available: samknows.com
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

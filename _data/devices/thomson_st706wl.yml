@@ -1,0 +1,26 @@
+availability: Discontinued
+brand: Thomson
+comments_network_ports: '4'
+cpu: Broadcom BCM6348
+cpu_cores: 1
+cpu_mhz: 256
+device_id: thomson_st706wl
+device_page: st706wl
+device_type: WiFi Router
+flash_mb: 4
+forum_search: ST706WL
+git_search: ST706WL
+jtag: true
+malformed: {}
+model: ST706WL
+modem: ADSL2+ Annex A
+package_architecture: mips_mips32
+ram_mb: 16
+serial: true
+subtarget: generic
+target: brcm63xx
+unsupported_functions: Impossible
+vlan: false
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318

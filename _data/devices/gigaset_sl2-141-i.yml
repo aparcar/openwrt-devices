@@ -1,0 +1,29 @@
+availability: Discontinued
+bootloader: CFE
+brand: Gigaset
+cpu: Broadcom BCM6348
+cpu_cores: 1
+cpu_mhz: 240
+device_id: gigaset_sl2-141-i
+device_page: sl2-141-i
+device_type: WiFi Router
+ethernet_100m_ports: 4
+flash_mb: 4
+forum_search: SL2-141-i
+git_search: SL2-141-i
+jtag: true
+malformed: {}
+model: SL2-141-i
+modem: ADSL2+
+package_architecture: mips_mips32
+power_supply: 12 VDC, 1.0 A
+ram_mb: 16
+serial: true
+subtarget: generic
+target: brcm63xx
+unsupported_functions: Impossible
+usb_ports: 1x 1.1
+vlan: true
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318 (onboard)

@@ -1,0 +1,49 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TP-Link
+button_count: '2'
+comment_recovery: Rename to 'mr3420v2_tp_recovery.bin' on TFTP server.
+comments: Stock install leaves only 176KiB free for loading packages which doesn't
+  seem to be enough to enable USB storage support
+cpu: Atheros AR9341
+cpu_cores: 1
+cpu_mhz: 535
+detachable_antennas: '2'
+device_id: tp-link_tl-mr3420_v2
+device_page: tl-mr3420
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/TE7/MR3420V2
+firmware_oem_stock_url: https://www.tp-link.com/en/download/TL-MR3420_V2.html
+firmware_openwrt_install_url: https://downloads.openwrt.org/releases/17.01.6/targets/ar71xx/generic/lede-17.01.6-ar71xx-generic-tl-mr3420-v2-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-mr3420-v2-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-mr3420-v2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: https://downloads.openwrt.org/releases/17.01.6/targets/ar71xx/generic/lede-17.01.6-ar71xx-generic-tl-mr3420-v2-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: TL-MR3420
+git_search: TL-MR3420
+image: tp-link_tl-mr3420_v2.jpg
+jtag: false
+led_count: '4'
+malformed: {}
+model: TL-MR3420
+oem_device_homepage_url: https://www.tp-link.com/en/products/details/cat-4691_TL-MR3420.html
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=41326
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 32
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 17.01.6
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=44cc1507e98151b070ab363b345190020caeb44b
+supported_since_rel: '14.07'
+switch: Atheros AR9341
+target: ar71xx
+usb_ports: 1x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-MR3420_v2
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9341

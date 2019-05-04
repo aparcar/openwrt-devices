@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TRENDnet
+button_count: '2'
+cpu: Ralink RT3052F
+cpu_cores: 1
+detachable_antennas: '2'
+device_id: trendnet_tew-638apb_v2
+device_type: WiFi AP
+ethernet_100m_ports: 1
+fccid: https://fcc.io/S9Z/TEW638APB
+firmware_oem_stock_url: http://www.trendnet.com/support/supportdetail.asp?prod=140_TEW-638APB
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-tew-638apb-v2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-tew-638apb-v2-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: TEW-638APB
+git_search: TEW-638APB
+led_count: '5'
+malformed: {}
+model: TEW-638APB
+oem_device_homepage_url: http://www.trendnet.com/products/proddetail?prod=140_TEW-638APB
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 0.5 A
+ram_mb: 32
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=82f9486142adff9c0d34393a63d3844d1da7ed03
+supported_since_rel: 18.06.0
+target: ramips
+version: v2
+wikidevi_url: https://wikidevi.com/wiki/TRENDnet_TEW-638APB_V2.0R
+wlan_24ghz: b/g/n
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT3052F

@@ -1,0 +1,29 @@
+availability: Discontinued
+brand: Linksys
+cpu: Broadcom BCM4704
+cpu_cores: 1
+cpu_mhz: 266
+device_id: linksys_wrt150n_v1
+device_page: wrt150n
+device_type: WiFi Router
+ethernet_100m_ports: 5
+firmware_openwrt_install_url: http://downloads.openwrt.org/backfire/10.03.1/brcm-2.4/openwrt-brcm-2.4-squashfs.trx
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/backfire/10.03.1/brcm-2.4/openwrt-brcm-2.4-squashfs.trx
+flash_mb: 4
+forum_search: WRT150N
+git_search: WRT150N
+malformed: {}
+model: WRT150N
+package_architecture: mipsel_mips32
+power_supply: 12 VDC, 1.0 A
+ram_mb: 16
+subtarget: legacy
+supported_current_rel: 10.03.1
+supported_since_rel: '10.03'
+target: brcm47xx
+version: v1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT150N_v1.0
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4704

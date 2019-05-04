@@ -1,0 +1,30 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: EnGenius
+cpu: Ralink RT3052F
+cpu_cores: 1
+cpu_mhz: 384
+detachable_antennas: '2'
+device_id: engenius_esr6670_1100
+device_page: esr6670
+device_type: WiFi Router
+ethernet_100m_ports: 3
+flash_mb: 4
+forum_search: ESR6670
+git_search: ESR6670
+jtag: true
+malformed: {}
+model: ESR6670
+oem_device_homepage_url: http://www.engeniusnetworks.com/product/product.php?c=14&s=35&p=39
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.25 A
+ram_mb: 32
+serial: true
+subtarget: rt305x
+target: ramips
+unsupported_functions: Possible to support
+usb_ports: 1x 2.0
+version: 1.10.0
+wlan_24ghz: b/g/n
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT3052F

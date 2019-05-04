@@ -1,0 +1,42 @@
+availability: Available 2017
+brand: Open-Mesh
+comments: sysupgrade image = factory image;
+cpu: Atheros AR7240
+cpu_cores: 1
+cpu_mhz: 400
+detachable_antennas: '1'
+device_id: open-mesh_om2p
+device_page: om2p
+device_type: WiFi Router
+ethernet_100m_ports: 2
+fccid: https://fcc.io/WT8/-OM2P
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-om2p-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-om2p-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-om2p-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-om2p-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: OM2P
+git_search: OM2P
+gluon_support: true
+installation_method_s: see devicepage
+jtag: false
+led_count: '4'
+malformed: {}
+model: OM2P
+oem_device_homepage_url: https://www.open-mesh.com/products/access-points/om2p.html
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 64
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ac82296c532dfe7706cee8645a0387b90eecca82
+supported_since_rel: '12.09'
+switch: Atheros AR7240
+target: ar71xx
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Open-Mesh_OM2P_v1
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9285

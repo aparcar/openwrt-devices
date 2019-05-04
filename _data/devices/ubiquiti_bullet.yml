@@ -1,0 +1,39 @@
+availability: Available 2017
+brand: Ubiquiti
+button_count: '1'
+comments: OEM Firmware airOS V7.1-RC added encryption preventing flashing non-stock
+  firmware. Do not update to latest version right out the box.
+cpu: Atheros AR7240
+cpu_cores: 1
+cpu_mhz: 400
+detachable_antennas: '1'
+device_id: ubiquiti_bullet
+device_page: bullet
+device_type: WiFi Router
+ethernet_100m_ports: 1
+firmware_oem_stock_url: https://www.ubnt.com/download/?q=bullet
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ubnt-bullet-m-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-ubnt-bullet-m-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-ubnt-bullet-m-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ubnt-bullet-m-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: Bullet M
+git_search: Bullet M
+gluon_support: true
+installation_method_s: see devicepage
+led_count: '6'
+malformed: {}
+model: Bullet M
+oem_device_homepage_url: https://www.ubnt.com/airmax/bulletm/
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=55106
+package_architecture: mips_24kc
+power_supply: PoE 24V, 6W Max
+ram_mb: 32
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=cfd97db63ea4f0c0c1b73679feec7a2d99300783
+supported_since_rel: 10.03.1
+target: ar71xx-ath79
+wlan_50ghz: a/n
+wlan_comments: HT40, HT20, HT10 & HT05
+wlan_driver: unknown

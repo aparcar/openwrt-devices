@@ -1,0 +1,46 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Arcadyan / Astoria
+button_count: '1'
+comment_installation: Serial login and use mtd utils.
+comments: There is already OpenWrt Backfire 10.03 on the box.
+comments_av_ports: There are 3 TAE ports, an ISDN RJ45 port and a 4 pin ISDN terminal
+comments_network_ports: Quanta 1KG2 Mini-PCIe LTE modem with internal antennas and
+  external SMA ports
+cpu: Lantiq XWAY VRX288
+cpu_cores: 2
+cpu_mhz: 500
+device_id: arcadyanastoria_easybox_904_lte
+device_page: easybox_904_lte
+device_type: WiFi Router
+ethernet_gbit_ports: 4
+firmware_oem_stock_url: https://www.vodafone.de/business/hilfe-support/support-firmware-easybox-904-lte-modem.html
+flash_mb: 512
+forum_search: Easybox 904 LTE
+git_search: Easybox 904 LTE
+image: arcadyanastoria_easybox_904_lte.png
+jtag: true
+led_count: '1'
+malformed: {}
+model: Easybox 904 LTE
+modem: LTE
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=44676
+package_architecture: mips_24kc
+phone_ports: '5'
+power_supply: 12 VDC, 2.5 A
+ram_mb: 128
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: xrx200
+supported_since_rel: '10.03'
+switch: Realtek RTL8366RB
+target: lantiq
+unsupported_functions: WIP
+usb_ports: 2x 2.0
+vlan: true
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: only internal antennas
+wlan_driver: other
+wlan_hardware: Ralink RT3883

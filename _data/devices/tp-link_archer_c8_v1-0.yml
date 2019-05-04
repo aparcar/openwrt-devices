@@ -1,0 +1,29 @@
+availability: Discontinued
+bootloader: CFE
+brand: TP-Link
+cpu: Broadcom BCM4708
+cpu_cores: 2
+cpu_mhz: 800
+detachable_antennas: '3'
+device_id: tp-link_archer_c8_v1-0
+device_page: archer-c8
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/TE7/C8
+flash_mb: 16
+forum_search: Archer C8
+git_search: Archer C8
+led_count: '6'
+malformed: {}
+model: Archer C8
+package_architecture: arm_cortex-a9
+ram_mb: 128
+serial: true
+subtarget: generic
+target: bcm53xx
+unsupported_functions: Possible to support
+version: v1.0
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C8_v1.x
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: b43

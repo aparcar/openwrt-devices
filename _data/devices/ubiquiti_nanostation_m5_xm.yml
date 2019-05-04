@@ -1,0 +1,32 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Ubiquiti
+cpu: Atheros AR7240
+cpu_cores: 1
+cpu_mhz: 390
+device_id: ubiquiti_nanostation_m5_xm
+device_page: nanostationm5
+device_type: WiFi Router
+ethernet_100m_ports: 2
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ubnt-nano-m-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-ubnt-nano-m-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-ubnt-nano-m-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ubnt-nano-m-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: NanoStation M5 xm
+git_search: NanoStation M5 xm
+gluon_support: true
+malformed: {}
+model: NanoStation M5 xm
+package_architecture: mips_24kc
+ram_mb: 32
+recovery_method_s: U-Boot TFTP recovery
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_rel: 10.03.1
+target: ar71xx-ath79
+vlan: false
+wlan_50ghz: a/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9280

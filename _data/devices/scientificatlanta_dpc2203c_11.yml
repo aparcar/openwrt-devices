@@ -1,0 +1,26 @@
+availability: Discontinued
+bootloader: CFE
+brand: Scientific Atlanta
+comments_network_ports: 2x VOIP
+cpu: Broadcom BCM3368
+cpu_cores: 1
+cpu_mhz: 300
+device_id: scientificatlanta_dpc2203c_11
+device_page: dpc2203c
+device_type: Router
+ethernet_100m_ports: 1
+flash_mb: 4
+forum_search: DPC2203C
+git_search: DPC2203C
+jtag: true
+malformed: {}
+model: DPC2203C
+modem: DOCSIS
+ram_mb: 32
+serial: true
+target: brcm63xx
+unsupported_functions: Possible to support
+usb_ports: 1x Device
+version: '1.1'
+wikidevi_url: https://wikidevi.com/wiki/Scientific_Atlanta_WebSTAR_DPC2203C
+wlan_driver: unknown

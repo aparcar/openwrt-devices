@@ -1,0 +1,25 @@
+availability: Discontinued
+brand: Edimax
+cpu: Ralink RT2880F
+cpu_cores: 1
+cpu_mhz: 266
+detachable_antennas: '3'
+device_id: edimax_br-6574n
+device_type: WiFi Router
+ethernet_gbit_ports: 4
+flash_mb: 4
+forum_search: BR-6574N
+git_search: BR-6574N
+malformed: {}
+model: BR-6574N
+oem_device_homepage_url: http://www.edimax.com/edimax/merchandise/merchandise_detail/data/edimax/global/wireless_routers_n300/br-6574n
+package_architecture: mipsel_mips32r2
+ram_mb: 16
+subtarget: rt288x
+target: ramips
+unsupported_functions: Impossible
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Edimax_BR-6574n
+wlan_24ghz: b/g/n
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT2880F

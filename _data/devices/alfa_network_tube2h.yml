@@ -1,0 +1,40 @@
+availability: Available 2018
+bootloader: U-Boot
+brand: ALFA Network
+comments: Bootlog see https://forum.freifunk.net/t/alfa-tube2h-debrick/14914
+cpu: Atheros AR9331
+cpu_cores: 1
+cpu_mhz: 400
+device_id: alfa_network_tube2h
+device_page: alfa_network_tube2hp
+device_type: WiFi AP
+ethernet_100m_ports: 1
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-tube2h-8M-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-tube2h-8M-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-tube2h-8M-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-tube2h-8M-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: Tube2H
+git_search: Tube2H
+image: alfa_network_tube2h.jpg
+installation_method_s: see devicepage
+led_count: '6'
+malformed: {}
+model: Tube2H
+oem_device_homepage_url: https://www.alfa.com.tw/products_show.php?pc=28&ps=113
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=72726
+package_architecture: mips_24kc
+power_supply: PoE 12-24 VDC
+ram_mb: 32
+recovery_method_s: see devicepage
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=495aef39f4805b2d3b341dd7f70437901ce9d13b
+supported_since_rel: 17.01.0
+target: ar71xx
+where_available: amazon.de
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9331

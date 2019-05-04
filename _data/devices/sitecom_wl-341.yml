@@ -1,0 +1,35 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Sitecom
+button_count: '1'
+cpu: Ralink RT3052_MP1
+cpu_cores: 1
+cpu_mhz: 384
+device_id: sitecom_wl-341
+device_page: wl-341
+device_type: WiFi Router
+ethernet_100m_ports: 5
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-wl-341v3-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-wl-341v3-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: WL-341
+git_search: WL-341
+installation_method_s: see devicepage
+jtag: false
+malformed: {}
+model: WL-341
+package_architecture: mipsel_24kc
+ram_mb: 16
+recovery_method_s: see devicepage
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b3fdd931d1b0a992f8977cb7c86c1f9eb10872a7
+supported_since_rel: '12.09'
+target: ramips
+usb_ports: 1x Header
+version: v3 001
+wlan_24ghz: b/g/n
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT2800pci

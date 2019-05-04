@@ -1,0 +1,54 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: TP-Link
+button_count: '2'
+comment_installation: use TFTP Method and rename to "ArcherC7v5_tp_recovery.bin"
+comment_recovery: use TFTP Method and rename to "ArcherC7v5_tp_recovery.bin"
+comments: 'Some devices can not be directly flashed with 18.06.1, this was fixed in
+  snapshots. Either use TFTP recovery like https://openwrt.org/toh/tp-link/tp-link_archer_c20_v4#installation
+  (but with filename ArcherC7v5_tp_recovery.bin) or install snapshot, then downgrade
+  to 18.06.1 (beware: no luci webinterface in snapshots). Some devices can not be
+  downgraded to 18.06.1, but work ok with snapshot.'
+cpu: Qualcomm Atheros QCA9563
+cpu_cores: 1
+cpu_mhz: 750
+device_id: tp-link_archer_c7_v5
+device_page: archer-c5-c7-wdr7500
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/TE7/C7V5
+firmware_oem_stock_url: https://www.tp-link.com/en/download/Archer-C7_V5.html
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-archer-c7-v5-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-tplink_archer-c7-v5-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-tplink_archer-c7-v5-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-archer-c7-v5-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: Archer C7 v5
+git_search: Archer C7 v5
+gluon_support: true
+image: tp-link_archer_c7_v5.png
+installation_method_s: see git-commit
+led_count: '10'
+malformed: {}
+model: Archer C7 AC1750
+oem_device_homepage_url: https://www.tp-link.com/en/products/details/Archer-C7.html
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: 128
+recovery_method_s: TP-Link TFTP
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=bf39d5594b3c8f9409e6d9408a1f370c9f18d0dd
+supported_since_rel: 18.06.0
+switch: Qualcomm Atheros QCA8337N
+target: ar71xx-ath79
+usb_ports: 1x 2.0
+version: v5
+vlan: true
+where_available: amazon.de, amazon.com
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C7_v5.x
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k

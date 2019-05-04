@@ -1,0 +1,40 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: 8devices
+button_count: '2'
+cpu: Qualcomm Atheros QCA9557
+cpu_cores: 1
+cpu_mhz: 720
+device_id: 8devices_rambutan
+device_type: Single Board Computer
+ethernet_100m_ports: 1
+ethernet_gbit_ports: 1
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/nand/openwrt-18.06.2-ar71xx-nand-rambutan-squashfs-factory.ubi
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/nand/openwrt-ar71xx-nand-rambutan-squashfs-factory.ubi
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/nand/openwrt-ar71xx-nand-rambutan-squashfs-sysupgrade.tar
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/nand/openwrt-18.06.2-ar71xx-nand-rambutan-squashfs-sysupgrade.tar
+flash_mb: 128NAND
+forum_search: Rambutan
+git_search: Rambutan
+gpios: '12'
+jtag: true
+led_count: '2'
+malformed:
+  flash_mb: 128NAND
+model: Rambutan
+oem_device_homepage_url: http://www.8devices.com/products/rambutan
+package_architecture: mips_24kc
+power_supply: 3.3 VDC, max. 3.7W
+ram_mb: 128
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+subtarget: nand
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=68b5d34f69421264de6e5d77760fcc2bfe9ee687
+supported_since_rel: 18.06.0
+target: ar71xx
+usb_ports: 1x 2.0
+where_available: shop.8devices.com
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: unknown

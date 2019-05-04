@@ -1,0 +1,45 @@
+availability: Discontinued 2015
+bootloader: U-Boot
+brand: D-Link
+button_count: '2'
+cpu: Ralink RT3883
+cpu_cores: 1
+cpu_mhz: 500
+device_id: d-link_dir-645_a1
+device_page: dir-645
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/KA2/IR645A1
+firmware_oem_stock_url: ftp://ftp2.dlink.com/SECURITY_ADVISEMENTS/DIR-645/REVA/DIR-645_REVA_FIRMWARE_PATCH_1.06.B01.ZIP
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/rt3883/openwrt-18.06.2-ramips-rt3883-dir-645-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt3883/lede-ramips-rt3883-dir-645-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt3883/lede-ramips-rt3883-dir-645-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/rt3883/openwrt-18.06.2-ramips-rt3883-dir-645-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: DIR-645
+git_search: DIR-645
+led_count: '3'
+malformed: {}
+model: DIR-645
+oem_device_homepage_url: http://support.dlink.com/ProductInfo.aspx?m=DIR-645
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=33214
+package_architecture: mipsel_74kc
+power_supply: 5 VDC, 2.5 A
+ram_mb: 64
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt3883
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=d1a253a2fdc0afce1998e82dacece9a26dbe569e
+supported_since_rel: '14.07'
+switch: Realtek RTL8367RB
+target: ramips
+unsupported_functions: unstable wifi
+usb_ports: 1x 2.0
+version: A1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-645_rev_A1
+wlan_24ghz: b/g/n
+wlan_comments: 2x2
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT2860v2

@@ -1,0 +1,42 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: EnGenius
+button_count: '1'
+cpu: Qualcomm Atheros IPQ4018
+cpu_cores: 4
+cpu_mhz: 717
+detachable_antennas: '4'
+device_id: engenius_ens620ext
+device_type: WiFi AP
+ethernet_gbit_ports: 2
+fccid: http://fcc.io/A8J-ENS620EXT
+firmware_oem_stock_url: https://www.engeniustech.com/c-1-9x-update-installation.html
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ipq40xx/generic/openwrt-ipq40xx-engenius_ens620ext-squashfs-sysupgrade.bin
+flash_mb: 32
+forum_search: ENS620EXT
+git_search: ENS620EXT
+installation_method_s: see git-commit
+jtag: false
+led_count: '5'
+malformed: {}
+model: ENS620EXT
+oem_device_homepage_url: https://www.engeniustech.com/engenius-products/ens620ext-outdoor-wireless-access-point/
+package_architecture: arm_cortex-a7_neon-vfpv4
+power_supply: PoE 24 VDC, 1.0 A
+ram_mb: 256
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=dc4f6b896f009c24170e75af745fc636ef8166a8
+switch: Qualcomm Atheros QCA8072
+target: ipq40xx
+version: V1.0.0
+vlan: true
+where_available: amazon.com
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 2x2 MIMO, 801.11ac Wave 2
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros IPQ4018

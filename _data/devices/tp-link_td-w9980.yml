@@ -1,0 +1,41 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TP-Link
+comments: Works with TD-W8980 image acc. devicepage
+cpu: Lantiq XWAY VRX268
+cpu_cores: 2
+cpu_mhz: 500
+detachable_antennas: '3'
+device_id: tp-link_td-w9980
+device_page: td-w9980
+device_type: WiFi Router
+ethernet_gbit_ports: 4
+fccid: https://fcc.io/TE7/TDW9980V1
+firmware_oem_stock_url: https://www.tp-link.com/en/download/TD-W9980.html
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xrx200/openwrt-lantiq-xrx200-tplink_tdw8980-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xrx200/openwrt-18.06.2-lantiq-xrx200-tplink_tdw8980-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: TD-W9980
+git_search: TD-W9980
+installation_method_s: see devicepage
+malformed: {}
+model: TD-W9980
+modem: VDSL2
+oem_device_homepage_url: https://www.tp-link.com/en/products/details/cat-15_TD-W9980.html
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=58006
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: 64
+recovery_method_s: see devicepage
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: xrx200
+supported_current_rel: 18.06.2
+supported_since_rel: 17.01.0
+target: lantiq
+unsupported_functions: WiFi 5GHz
+usb_ports: 2x 2.0
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TD-W9980_v1.x
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: ath9k

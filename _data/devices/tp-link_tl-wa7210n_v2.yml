@@ -1,0 +1,41 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TP-Link
+button_count: '1'
+cpu: Atheros AR9331
+cpu_cores: 1
+cpu_mhz: 400
+detachable_antennas: '1'
+device_id: tp-link_tl-wa7210n_v2
+device_type: WiFi AP
+ethernet_100m_ports: 1
+fccid: https://fcc.io/TE7WA7210N
+firmware_oem_stock_url: https://www.tp-link.com/en/download/TL-WA7210N.html
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wa7210n-v2-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wa7210n-v2-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wa7210n-v2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wa7210n-v2-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: TL-WA7210N
+git_search: TL-WA7210N
+installation_method_s: unknown
+led_count: '5'
+malformed: {}
+model: TL-WA7210N
+oem_device_homepage_url: https://www.tp-link.com/en/products/details/TL-WA7210N.html
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=54156
+package_architecture: mips_24kc
+power_supply: PoE 12 VDC, 1.0 A
+ram_mb: 32
+recovery_method_s: unknown
+subtarget: tiny
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=9358a8a798609a89e99fa002641164a918a7e3ac
+supported_since_rel: 17.01.0
+target: ar71xx
+unsupported_functions: External antenna
+version: v2
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9331

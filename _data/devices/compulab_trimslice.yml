@@ -1,0 +1,39 @@
+availability: Discontinued 2014
+bluetooth: other
+bootloader: U-Boot
+brand: CompuLab
+button_count: '1'
+comments_usb_sata_ports: SATA optional; USB to SATA bridge
+cpu: NVIDIA Tegra 2
+cpu_cores: 2
+cpu_mhz: 1000
+detachable_antennas: '1'
+device_id: compulab_trimslice
+device_type: Single Board Computer
+ethernet_gbit_ports: 1
+firmware_oem_stock_url: http://compulab.co.il/utilite-computer/wiki/index.php?title=Trim-Slice_OS_Installer
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/tegra/generic/openwrt-tegra-trimslice-ext4-sdcard.img.gz
+forum_search: TrimSlice
+git_search: TrimSlice
+installation_method_s: see git-commit
+jtag: true
+led_count: '2'
+malformed: {}
+model: TrimSlice
+oem_device_homepage_url: http://www.compulab.co.il/utilite-computer/web/trim-slice
+package_architecture: arm_cortex-a9_vfpv3
+power_supply: 12 VDC, 1.5 A
+ram_mb: 1024
+recovery_method_s: see git-commit
+sata_ports: '1'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=bba0c012b824c8281b16e120126e3d6f8c09b01f
+target: tegra
+unsupported_functions: DVI-D
+wlan_24ghz: b/g/n
+wlan_comments: optional
+wlan_driver: rt2800usb
+wlan_hardware: Ralink RT3070

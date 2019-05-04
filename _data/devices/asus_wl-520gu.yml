@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: CFE
+brand: Asus
+cpu: Broadcom BCM5354
+cpu_cores: 1
+cpu_mhz: 240
+detachable_antennas: '1'
+device_id: asus_wl-520gu
+device_page: wl520gu
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/MSQ/WL520GUGC
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/legacy/openwrt-18.06.2-brcm47xx-legacy-asus-wl-520gu-squashfs.trx
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/legacy/lede-brcm47xx-legacy-asus-wl-520gu-squashfs.trx
+flash_mb: 4
+forum_search: WL-520gU
+git_search: WL-520gU
+installation_method_s: Asus Firmware Restoration tool
+malformed: {}
+model: WL-520gU
+package_architecture: mipsel_mips32
+power_supply: 5 VDC, 2.0 A
+ram_mb: 16
+recovery_method_s: Asus Firmware Restoration tool
+serial: true
+subtarget: legacy
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e229b1b849c01e73aa570cc77c52c63474380d29
+supported_since_rel: '8.09'
+switch: Broadcom BCM5354
+target: brcm47xx
+usb_ports: 1x 1.1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/ASUS_WL-520gU
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318 rev. 13

@@ -1,0 +1,44 @@
+availability: Discontinued
+bootloader: CFE
+brand: Netgear
+button_count: '2'
+cpu: Broadcom BCM4718
+cpu_cores: 1
+cpu_mhz: 480
+device_id: netgear_wnr3500l_v1
+device_page: wnr3500l
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/PY3/08400093
+firmware_oem_stock_url: https://www.netgear.com/support/product/WNR3500Lv1
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-netgear-wnr3500l-v1-na-squashfs.chk
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/openwrt-brcm47xx-mips74k-netgear-wnr3500l-v1-na-squashfs.chk
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/openwrt-brcm47xx-mips74k-netgear-wnr3500l-v1-na-squashfs.chk
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-netgear-wnr3500l-v1-na-squashfs.chk
+flash_mb: 8
+forum_search: WNR3500L
+git_search: WNR3500L
+installation_method_s: see devicepage
+led_count: '4'
+malformed: {}
+model: WNR3500L
+oem_device_homepage_url: https://www.netgear.com/home/products/networking/wifi-routers/WNR3500L.aspx
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: 64
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=73ed2369070d6839611fb8675030e4902c6a87ef
+supported_since_rel: '14.07'
+switch: Broadcom BCM53115
+target: brcm47xx
+usb_ports: 1x 2.0
+version: v1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Netgear_WNR3500Lv1
+wlan_24ghz: b/g/n
+wlan_comments: 2x2
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4718

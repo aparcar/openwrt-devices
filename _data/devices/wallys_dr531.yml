@@ -1,0 +1,36 @@
+availability: unknown 2019
+bootloader: U-Boot
+brand: Wallys
+button_count: '1'
+cpu: Qualcomm Atheros QCA9531 v2
+cpu_cores: 1
+cpu_mhz: 550
+detachable_antennas: '2'
+device_id: wallys_dr531
+device_type: WiFi AP
+ethernet_100m_ports: 2
+fccid: "http://\xBF"
+firmware_oem_stock_url: "http://\xBF"
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-dr531-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-dr531-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: DR531
+git_search: DR531
+jtag: true
+led_count: '7'
+malformed: {}
+model: DR531
+oem_device_homepage_url: http://wallystech.com/product/html/?84.html
+package_architecture: mips_24kc
+power_supply: 12-24 VDC, 24 VDC passive PoE
+ram_mb: 64
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=e767980eb897fbefc320f97b65944ce690ed1726
+supported_since_rel: 17.01.0
+target: ar71xx
+wlan_24ghz: b/g/n
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA9531

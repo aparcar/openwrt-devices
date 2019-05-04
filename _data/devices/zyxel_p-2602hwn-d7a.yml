@@ -1,0 +1,25 @@
+availability: Discontinued
+bootloader: Bootbase
+brand: ZyXEL
+cpu: Texas Instruments TNETD7200ZDW
+cpu_cores: 1
+cpu_mhz: 212
+device_id: zyxel_p-2602hwn-d7a
+device_page: zyxel_p2602hwn
+device_type: WiFi Router
+ethernet_100m_ports: 5
+flash_mb: 8
+forum_search: P-2602HWN-D7A
+git_search: P-2602HWN-D7A
+malformed: {}
+model: P-2602HWN-D7A
+modem: ADSL2+
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=44980
+package_architecture: mipsel_mips32
+power_supply: 18 VDC, 1.0 A
+ram_mb: 32
+serial: true
+target: ar7
+unsupported_functions: Possible to support
+wlan_24ghz: b/g
+wlan_driver: unknown

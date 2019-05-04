@@ -1,0 +1,26 @@
+availability: Discontinued
+bootloader: CFE
+brand: D-Link
+cpu: Broadcom BCM6338
+cpu_cores: 1
+cpu_mhz: 240
+device_id: d-link_dsl-2640ubruc_c1
+device_page: dsl-2640u-bru-c
+device_type: WiFi Router
+ethernet_100m_ports: 4
+flash_mb: 4
+forum_search: DSL-2640U/BRU/C
+git_search: DSL-2640U/BRU/C
+jtag: false
+malformed: {}
+model: DSL-2640U/BRU/C
+modem: ADSL
+ram_mb: 16
+serial: true
+target: brcm63xx
+unsupported_functions: Impossible
+version: C1
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DSL-2640U_rev_C1
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4312

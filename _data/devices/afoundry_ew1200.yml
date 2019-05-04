@@ -1,0 +1,37 @@
+availability: Discontinued 2019
+bootloader: U-Boot
+brand: Afoundry
+button_count: '1'
+cpu: MediaTek MT7621A
+cpu_cores: 2
+cpu_mhz: 880
+detachable_antennas: '6'
+device_id: afoundry_ew1200
+device_page: afoundry_ew1200
+device_type: WiFi Router
+ethernet_100m_ports: 1
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/2AHU6-EW1200
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-ew1200-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-ew1200-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: EW1200
+git_search: EW1200
+image: afoundry_ew1200.jpg
+installation_method_s: see git-commit
+led_count: '10'
+malformed: {}
+model: EW1200
+package_architecture: mipsel_24kc
+ram_mb: 128
+serial: true
+subtarget: mt7621
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=9b35815f0f0e10125d144c82595bbccbc83d6812
+supported_since_rel: 18.06.0
+target: ramips
+unsupported_functions: 2.4 GHz may be unstable
+usb_ports: 1x 3.0
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

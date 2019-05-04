@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Netgear
+button_count: '1'
+cpu: AppliedMicro APM82181
+cpu_cores: 1
+cpu_mhz: 1000
+detachable_antennas: '3'
+device_id: netgear_wndap660
+device_type: WiFi AP
+ethernet_gbit_ports: 2
+firmware_oem_stock_url: https://www.netgear.com/support/product/WNDAP660.aspx
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/apm821xx/nand/openwrt-apm821xx-nand-netgear_wndap660-squashfs-factory.img
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/apm821xx/nand/openwrt-apm821xx-nand-netgear_wndap660-squashfs-sysupgrade.bin
+flash_mb: 32NAND
+forum_search: WNDAP660
+git_search: WNDAP660
+image: netgear_wndap660.jpg
+led_count: '5'
+malformed:
+  flash_mb: 32NAND
+model: WNDAP660
+oem_device_homepage_url: https://www.netgear.com/business/products/wireless/premium-wireless/WNDAP660.aspx
+package_architecture: powerpc_464fp
+power_supply: 12 VDC, 1.5 A, PoE 802.3af/at
+ram_mb: 256
+serial: true
+serial_connection_parameters: 9600 / 8N1
+subtarget: nand
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=d82d84694e60d17a79a57fdb135e382f4def907c
+switch: RealTek RTL8363SB
+target: apm821xx
+wikidevi_url: https://wikidevi.com/wiki/Netgear_WNDAP660
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: ath9k

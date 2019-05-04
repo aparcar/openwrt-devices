@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: RouterBOOT
+brand: MikroTik
+cpu: Atheros AR7242
+cpu_cores: 1
+cpu_mhz: 400
+device_id: mikrotik_rb751g-2hnd
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/TV7/RB751G-2HND
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-vmlinux-initramfs.elf
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-vmlinux-initramfs.elf
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-nand-64m-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-nand-64m-squashfs-sysupgrade.bin
+flash_mb: 64NAND
+forum_search: RB751G-2HnD
+git_search: RB751G-2HnD
+installation_method_s: Mikrotik TFTP
+malformed:
+  flash_mb: 64NAND
+model: RB751G-2HnD
+oem_device_homepage_url: https://mikrotik.com/product/RB751G-2HnD
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.0 A, Passive PoE
+ram_mb: 64
+recovery_method_s: unknown
+subtarget: mikrotik
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=e295a077cea86adad6d897b72b2b8b371a3d7fc4
+supported_since_rel: '12.09'
+switch: Atheros AR8327
+target: ar71xx
+usb_ports: 1x 2.0
+wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_751G-2HnD_(RB751G-2HnD)
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9283

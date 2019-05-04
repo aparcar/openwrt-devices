@@ -1,0 +1,36 @@
+availability: Discontinued 2011
+bootloader: CFE
+brand: D-Link
+cpu: Broadcom BCM5354
+cpu_cores: 1
+cpu_mhz: 240
+detachable_antennas: '1'
+device_id: d-link_dir-320_a1
+device_page: dir-320
+device_type: WiFi Router
+ethernet_100m_ports: 5
+firmware_oem_stock_url: ftp://ftp.dlink.ru/pub/Router/DIR-320A_A1/Firmware/
+flash_mb: 4
+forum_search: DIR-320
+git_search: DIR-320
+jtag: true
+malformed: {}
+model: DIR-320
+oem_device_homepage_url: http://www.d-link.ru/ru/products/5/786.html
+package_architecture: mipsel_mips32
+power_supply: 5 VDC, 2.0 A
+ram_mb: 32
+recovery_method_s: CFE TFTP recovery
+serial: true
+subtarget: legacy
+supported_current_rel: '10.03'
+supported_since_rel: '10.03'
+switch: Broadcom BCM5354
+target: brcm47xx
+usb_ports: 1x 2.0
+version: A1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-320_rev_A1
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318

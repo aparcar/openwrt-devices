@@ -1,0 +1,35 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Arcadyan / Astoria
+button_count: '2'
+cpu: Lantiq XWAY Danube
+cpu_cores: 2
+cpu_mhz: 333
+device_id: arcadyanastoria_arv4519pw
+device_page: arv4519pw
+device_type: WiFi Router
+ethernet_100m_ports: 4
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xway/openwrt-lantiq-xway-arcadyan_arv4519pw-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xway/openwrt-18.06.2-lantiq-xway-arcadyan_arv4519pw-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: ARV4519PW
+git_search: ARV4519PW
+installation_method_s: unknown
+led_count: '11'
+malformed: {}
+model: ARV4519PW
+modem: ADSL2+
+package_architecture: mips_24kc
+phone_ports: '3'
+power_supply: 15 VDC, 1.2 A
+ram_mb: 32
+recovery_method_s: unknown
+subtarget: xway
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=0dd64c552d56d1d85e74a4adb54795eae7df0dcd
+supported_since_rel: 17.01.0
+switch: Realtek RTL8306SD
+target: lantiq
+usb_ports: 1x 2.0
+wlan_driver: unknown
+wlan_hardware: Atheros AR2417

@@ -1,0 +1,45 @@
+availability: Discontinued 2016
+bootloader: U-Boot
+brand: Belkin
+button_count: '2'
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: 1
+cpu_mhz: 720
+device_id: belkin_f9k1115v2_v2
+device_page: f9k1115v2
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/K7S/F9K1115V2
+firmware_oem_stock_url: http://cache-www.belkin.com/support/dl/F9K1115_WW_2.03.97.bin
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-f9k1115v2-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-f9k1115v2-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-f9k1115v2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-f9k1115v2-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: F9K1115 v2
+git_search: F9K1115
+installation_method_s: GUI OEM
+jtag: true
+led_count: '1'
+malformed: {}
+model: F9K1115 v2 (AC 1750 DB)
+oem_device_homepage_url: http://www.belkin.com/us/p/P-F9K1115/
+package_architecture: mips_24kc
+power_supply: 12 VDC, 2.5 A
+ram_mb: 128
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=211cac98d559fdcb11fd0825aaf165da15c87b71
+supported_since_rel: '15.05'
+switch: Qualcomm Atheros QCA8337
+target: ar71xx
+usb_ports: 2x 3.0
+version: v2
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Belkin_F9K1115_v2
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 3x3
+wlan_driver: ath10k

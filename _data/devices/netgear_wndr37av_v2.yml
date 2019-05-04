@@ -1,0 +1,33 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Netgear
+comments: Same hardware as WNDR3700 v2
+cpu: Atheros AR7161
+cpu_cores: 1
+cpu_mhz: 680
+device_id: netgear_wndr37av_v2
+device_page: wndr37av
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+firmware_oem_stock_url: http://support.netgear.it/product/WNDR37AVv2
+flash_mb: 16
+forum_search: WNDR37AV
+git_search: WNDR37AV
+jtag: true
+malformed: {}
+model: WNDR37AV
+oem_device_homepage_url: http://support.netgear.it/product/WNDR37AVv2
+package_architecture: mips_24kc
+power_supply: 12 VDC, 2.5 A
+ram_mb: 64
+serial: true
+subtarget: generic
+switch: Realtek RTL8366SR
+target: ar71xx
+usb_ports: 1x 2.0
+version: v2
+wikidevi_url: https://wikidevi.com/wiki/Netgear_WNDR3700v2
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_comments: 2x2
+wlan_driver: ath9k

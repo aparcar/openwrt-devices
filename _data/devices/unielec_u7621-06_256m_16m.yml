@@ -1,0 +1,44 @@
+availability: Available 2018
+bootloader: Breed
+brand: UniElec
+button_count: '1'
+comments: The manufacturer offers five different wireless cards with MediaTek chipsets,
+  based on MT76x2, MT7603 and MT7615. Images of the board all show that the miniPCIe
+  slots are dedicated to specific Wi-Fi cards. However, the slots are generic.
+comments_usb_sata_ports: 1x msata slot with USB
+cpu: MediaTek MT7621AT
+cpu_cores: 2
+cpu_mhz: 880
+device_id: unielec_u7621-06_256m_16m
+device_page: u7621-06
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-u7621-06-256M-16M-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-u7621-06-256M-16M-squashfs-sysupgrade.bin
+forum_search: U7621-06
+git_search: U7621-06
+gpios: more than 20
+image: unielec_u7621-06_256m_16m.jpg
+installation_method_s: see git-commit
+led_count: '12'
+malformed: {}
+model: U7621-06
+oem_device_homepage_url: http://www.unielecinc.com/q/news/cn/p/product/detail.html?qd_guid=pyrEjfTmYf
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 256
+sata_ports: '2'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: mt7621
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=46ab81e405d238e95071d7d56a0f07bb51fc8cb3
+supported_since_rel: 18.06.0
+switch: MediaTek MT7621AT
+target: ramips
+version: 256M/16M
+vlan: true
+where_available: aliexpress.com
+wikidevi_url: https://wikidevi.com/wiki/UniElec_U7621-06
+wlan_driver: unknown
+wlan_hardware: 2x mini-PCIe

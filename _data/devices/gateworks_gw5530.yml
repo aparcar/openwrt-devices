@@ -1,0 +1,38 @@
+audio_ports: HDMI
+availability: Available 2017
+bootloader: U-Boot
+brand: Gateworks
+button_count: '1'
+cpu: NXP i.MX6
+cpu_cores: 2
+cpu_mhz: 800
+device_id: gateworks_gw5530
+device_page: gateworks
+device_type: Single Board Computer
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/imx6/generic/
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/imx6/generic/
+flash_mb: 256
+forum_search: Ventana GW5530
+git_search: Ventana GW5530
+installation_method_s: unknown
+jtag: true
+led_count: '1'
+malformed: {}
+model: Ventana GW5530
+modem: Mobile Wireless/Cellular network
+oem_device_homepage_url: http://www.gateworks.com/product/item/ventana-gw5530-single-board-computer
+package_architecture: arm_cortex-a9_neon
+power_supply: 8-60 VDC
+ram_mb: 512
+recovery_method_s: unknown
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=3314bcf7152767d45785882f586832adcd2a5723
+supported_since_rel: 17.01.0
+target: imx6
+usb_ports: 1x OTG
+video_ports: HDMI
+vlan: false
+wlan_driver: unknown
+wlan_hardware: 1x mini-PCIe

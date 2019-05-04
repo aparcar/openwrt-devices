@@ -1,0 +1,47 @@
+availability: Discontinued
+bootloader: CFE
+brand: Netgear
+button_count: '3'
+cpu: Broadcom BCM6368
+cpu_cores: 2
+cpu_mhz: 400
+device_id: netgear_dgnd3700_v1
+device_page: dgnd3700
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/PY3/10100129
+firmware_oem_stock_url: http://support.netgear.de/product/DGND3700v1
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/smp/openwrt-18.06.2-brcm63xx-smp-DGND3700v1-squashfs-factory.chk
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/smp/lede-brcm63xx-smp-DGND3700v1-squashfs-factory.chk
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/smp/lede-brcm63xx-smp-DGND3700v1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/smp/openwrt-18.06.2-brcm63xx-smp-DGND3700v1-squashfs-sysupgrade.bin
+forum_search: DGND3700
+git_search: DGND3700
+image: netgear_dgnd3700_v1.png
+led_count: '11'
+malformed: {}
+model: DGND3700
+modem: ADSL2+
+oem_device_homepage_url: http://www.netgear.com/home/products/networking/dsl-modems-routers/dgnd3700.aspx
+package_architecture: mips_mips32
+power_supply: 12 VDC, 2.5 A
+ram_mb: 128
+recovery_method_s: CFE TFTP recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ca7f6d28c8f811a1aa851554253304157f44256b
+supported_since_rel: '15.05'
+switch: Broadcom BCM53115
+target: brcm63xx
+unsupported_functions: DSL modem
+usb_ports: 2x 2.0
+version: v1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Netgear_DGND3700v1
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_comments: both wifi radios on the same miniPCI card
+wlan_driver: b43
+wlan_hardware: Broadcom BCM43222

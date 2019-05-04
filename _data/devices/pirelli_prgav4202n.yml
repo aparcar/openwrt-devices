@@ -1,0 +1,27 @@
+availability: unknown 2018
+bootloader: CFE
+brand: Pirelli
+cpu: Broadcom BCM6368
+cpu_cores: 2
+cpu_mhz: 400
+device_id: pirelli_prgav4202n
+device_page: p.dg_av4202n
+device_type: WiFi Router
+ethernet_100m_ports: 4
+flash_mb: 16
+forum_search: PRG AV4202N
+git_search: PRG AV4202N
+malformed: {}
+model: PRG AV4202N
+modem: xDSL
+package_architecture: mips_mips32
+phone_ports: '2'
+ram_mb: 64
+serial: true
+target: brcm63xx
+unsupported_functions: WIP
+usb_ports: 2x 2.0
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4322 (onboard) unpopulated mini-PCI slot

@@ -1,0 +1,45 @@
+availability: Discontinued 2016
+bootloader: U-Boot
+brand: Buffalo
+button_count: '4'
+cpu: Atheros AR7242
+cpu_cores: 1
+cpu_mhz: 400
+device_id: buffalo_wzr-hp-g300nh2_v2
+device_page: wzr-hp-g300nh2
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/FDI/-09101896-0
+firmware_oem_stock_url: http://www.buffalo-technology.com/download_validate.php?uid=77879
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-wzr-hp-g300nh2-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-wzr-hp-g300nh2-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-wzr-hp-g300nh2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-wzr-hp-g300nh2-squashfs-sysupgrade.bin
+flash_mb: 32
+forum_search: WZR-HP-G300NH2
+git_search: WZR-HP-G300NH2
+gluon_support: true
+installation_method_s: see devicepage
+led_count: '5'
+malformed: {}
+model: WZR-HP-G300NH2
+oem_device_homepage_url: http://www.buffalo-technology.com/en/products/network-devices/300mbps-wireless-n/routers/archive/airstation-trade-nfiniti-trade-wireless-n-high-power-router/
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=24052
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: 64
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=0cc056cb7eb02798531f532e0a2c9cf5f28a6a49
+supported_since_rel: '12.09'
+switch: ag71xx-mdio.0
+target: ar71xx
+usb_ports: 1x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Buffalo_WZR-HP-G300NH2
+wlan_24ghz: b/g/n
+wlan_comments: 2x2
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9280 Rev 2

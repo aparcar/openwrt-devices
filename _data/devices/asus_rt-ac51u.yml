@@ -1,0 +1,39 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Asus
+button_count: '2'
+cpu: MediaTek MT7620A
+cpu_cores: 1
+cpu_mhz: 580
+device_id: asus_rt-ac51u
+device_page: rt-ac51u
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/MSQ/-RTDV00
+firmware_oem_stock_url: https://www.asus.com/Networking/RTAC51U/HelpDesk_BIOS/
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-rt-ac51u-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-rt-ac51u-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: RT-AC51U
+git_search: RT-AC51U
+led_count: '9'
+malformed: {}
+model: RT-AC51U
+oem_device_homepage_url: https://www.asus.com/Networking/RTAC51U/
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 64
+serial: true
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=5f932988c3b65af14bd6e48a05cc2204b7aeb419
+supported_since_rel: 18.06.0
+switch: MediaTek MT7620A
+target: ramips
+unsupported_functions: WiFi 5GHz
+usb_ports: 1x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-AC51U
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

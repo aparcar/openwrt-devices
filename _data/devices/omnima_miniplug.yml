@@ -1,0 +1,25 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Omnima
+cpu: Ralink RT5350
+cpu_cores: 1
+cpu_mhz: 360
+device_id: omnima_miniplug
+device_type: unknown
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-miniembplug-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-miniembplug-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: MiniPlug
+git_search: MiniPlug
+installation_method_s: unknown
+malformed: {}
+model: MiniPlug
+oem_device_homepage_url: http://omnima.co.uk/home/
+package_architecture: mipsel_24kc
+recovery_method_s: unknown
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=d04cab8dfc8340b530363c6afc99c86dccb075d1
+supported_since_rel: 17.01.0
+target: ramips
+wlan_driver: unknown

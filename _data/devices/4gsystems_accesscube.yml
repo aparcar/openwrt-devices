@@ -1,0 +1,32 @@
+availability: Discontinued
+bootloader: Yamon
+brand: 4G Systems
+comments_network_ports: '1'
+cpu: Alchemy 1500
+cpu_cores: 1
+cpu_mhz: 400
+detachable_antennas: '2'
+device_id: 4gsystems_accesscube
+device_page: access.cube
+device_type: WiFi Router
+firmware_openwrt_install_url: http://downloads.openwrt.org/chaos_calmer/15.05.1/au1000/au1500/
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/chaos_calmer/15.05.1/au1000/au1500/
+flash_mb: 32
+forum_search: AccessCube (MeshCube)
+git_search: AccessCube (MeshCube)
+jtag: true
+malformed: {}
+model: AccessCube (MeshCube)
+package_architecture: mipsel_mips32
+ram_mb: 64
+recovery_method_s: TFTP generic
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: au1500
+supported_current_rel: 8.09.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=a86978e2e6e3e53589a047bc026b835cc094b18a
+supported_since_rel: 8.09.2
+target: au1000
+vlan: false
+wlan_driver: unknown
+wlan_hardware: Atheros AR5213A (mini-PCI)

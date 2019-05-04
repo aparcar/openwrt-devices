@@ -1,0 +1,45 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: ZBT
+button_count: '1'
+cpu: MediaTek MT7621AT
+cpu_cores: 2
+cpu_mhz: 880
+detachable_antennas: '4'
+device_id: zbt_wg2626
+device_page: wg2626
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-zbt-wg2626-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-zbt-wg2626-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: WG2626
+git_search: WG2626
+installation_method_s: unknown
+jtag: true
+led_count: '10'
+malformed: {}
+model: WG2626
+oem_device_homepage_url: http://www.zbt-china.com/En/list.aspx?cp_id=502
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=62368
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 512
+recovery_method_s: unknown
+sata_ports: '1'
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt7621
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=165244a222bf466bd952bac38de1cbdd53a80113
+supported_since_rel: 15.05.1
+switch: MediaTek MT7621AT
+target: ramips
+usb_ports: 1x 3.0
+version: v03
+vlan: true
+where_available: alibaba.com
+wikidevi_url: https://wikidevi.com/wiki/ZBT-WG2626
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

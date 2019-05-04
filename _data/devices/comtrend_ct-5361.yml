@@ -1,0 +1,33 @@
+availability: Discontinued
+bootloader: CFE
+brand: Comtrend
+cpu: Broadcom BCM6348
+cpu_cores: 1
+cpu_mhz: 256
+device_id: comtrend_ct-5361
+device_page: ct5361
+device_type: WiFi Router
+ethernet_100m_ports: 4
+flash_mb: 4
+forum_search: CT-5361
+git_search: CT-5361
+jtag: true
+malformed: {}
+model: CT-5361
+modem: ADSL2+
+package_architecture: mips_mips32
+ram_mb: 16
+recovery_method_s: CFE web recovery
+serial: true
+subtarget: generic
+supported_current_rel: 10.03.1
+supported_since_rel: '10.03'
+switch: Broadcom BCM5325
+target: brcm63xx
+unsupported_functions: DSL modem
+usb_ports: Mod
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Comtrend_CT-5361
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318 (mini-PCI)

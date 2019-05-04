@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: jjPlus
+button_count: '1'
+comments: 'Datasheet: http://www.jjplus.com/datasheet/SpecSheet_JWAP230-0_20161006.pdf'
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: 1
+cpu_mhz: 720
+device_id: jjplus_jwap230
+device_type: WiFi Router
+ethernet_gbit_ports: 2
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-jwap230-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-jwap230-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: JWAP230
+git_search: JWAP230
+jtag: true
+led_count: '6'
+malformed: {}
+model: JWAP230
+oem_device_homepage_url: http://www.jjplus.com/?page_id=2871
+package_architecture: mips_24kc
+power_supply: PoE 802.3at
+ram_mb: 128
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=d2c9b169b3a3c43e66648590a9d0f1a12becebcf
+supported_since_rel: 17.01.0
+switch: Qualcomm Atheros QCA8337
+target: ar71xx
+usb_ports: 1x 2.0
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA9558

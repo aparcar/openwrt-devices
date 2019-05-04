@@ -1,0 +1,35 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TP-Link
+button_count: '2'
+cpu: Qualcomm Atheros QCA9533 v2
+cpu_cores: 1
+cpu_mhz: 550
+device_id: tp-link_tl-wa855re_v1
+device_type: Range Extender
+ethernet_100m_ports: 1
+fccid: http://fcc.io/TE7/WA855RE
+firmware_oem_stock_url: https://www.tp-link.com/en/support/download/tl-wa855re/v1/
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wa855re-v1-squashfs-factory.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wa855re-v1-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: TL-WA855RE
+git_search: TL-WA855RE
+led_count: '2'
+malformed: {}
+model: TL-WA855RE
+oem_device_homepage_url: https://www.tp-link.com/en/home-networking/range-extender/tl-wa855re/
+package_architecture: mips_24kc
+power_supply: 100-240 VAC, 50/60 Hz, 0.3 A
+ram_mb: 32
+serial: true
+subtarget: tiny
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=9fec39a03388677ce5c8e56de8f049391b8c4ed7
+supported_since_rel: 18.06.0
+target: ar71xx
+version: v1
+wlan_24ghz: b/g/n
+wlan_comments: 2T2R 2.4 GHz
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA9533 v2

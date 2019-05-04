@@ -1,0 +1,39 @@
+availability: Discontinued
+bootloader: CFE
+brand: Arcadyan / Astoria
+button_count: '2'
+cpu: Broadcom BCM6328
+cpu_cores: 1
+cpu_mhz: 320
+device_id: arcadyanastoria_ar7516
+device_page: ar7516
+device_type: WiFi Router
+ethernet_100m_ports: 4
+fccid: https://fcc.io/RAX/AR7516VW
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-A4001N-squashfs-cfe.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-A4001N-squashfs-cfe.bin
+flash_mb: 8
+forum_search: AR7516 (Orange / EE Bright Box)
+git_search: AR7516 (Orange / EE Bright Box)
+led_count: '7'
+malformed: {}
+model: AR7516 (Orange / EE Bright Box)
+modem: xDSL
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=43883
+package_architecture: mips_mips32
+power_supply: 12 VDC, 1.0 A
+ram_mb: 64
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_rel: 17.01.0
+switch: Broadcom BCM6328
+target: brcm63xx
+usb_ports: 1x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Arcadyan_AR7516
+wlan_24ghz: b/g/n
+wlan_comments: 2x2
+wlan_driver: b43
+wlan_hardware: Broadcom BCM43227

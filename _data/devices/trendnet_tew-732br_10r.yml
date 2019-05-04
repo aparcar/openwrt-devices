@@ -1,0 +1,42 @@
+availability: Discontinued 2016
+bootloader: U-Boot
+brand: TRENDnet
+button_count: '2'
+cpu: Atheros AR9341 rev 1
+cpu_cores: 1
+cpu_mhz: 535
+device_id: trendnet_tew-732br_10r
+device_page: tew-732br
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/XU8/TEW732BR
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-tew-732br-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-tew-732br-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-tew-732br-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-tew-732br-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: TEW-732BR
+git_search: TEW-732BR
+jtag: true
+led_count: '1'
+malformed: {}
+model: TEW-732BR
+oem_device_homepage_url: https://www.trendnet.com/products/wifi/N-routers/N300/TEW-732BR
+package_architecture: mips_24kc
+power_supply: 5 VDC, 1.0 A
+ram_mb: 64
+recovery_method_s: unknown
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=cdda5b041f3a98513a6b9916fffbea70c173ed5f
+supported_since_rel: '14.07'
+switch: Atheros AR9341
+target: ar71xx
+version: 1.0R
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TRENDnet_TEW-732BR
+wlan_24ghz: b/g/n
+wlan_comments: 2x2
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9341

@@ -1,0 +1,29 @@
+availability: Discontinued 2014
+brand: Linksys
+button_count: '2'
+cpu: Broadcom BCM4708A0
+cpu_cores: 2
+cpu_mhz: 800
+device_id: linksys_ea6500_v2
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+flash_mb: 128NAND
+forum_search: EA6500
+git_search: EA6500
+led_count: '1'
+malformed:
+  flash_mb: 128NAND
+model: EA6500
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=44218
+package_architecture: arm_cortex-a9
+power_supply: 12 VDC, 3.5 A
+ram_mb: 256
+subtarget: generic
+target: bcm53xx
+unsupported_functions: WIP
+usb_ports: 2x 3.0
+version: v2
+wikidevi_url: https://wikidevi.com/wiki/Linksys_EA6500_v2
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: b43

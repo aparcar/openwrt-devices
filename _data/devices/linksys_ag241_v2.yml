@@ -1,0 +1,32 @@
+availability: Discontinued
+bootloader: PSPBoot
+brand: Linksys
+comment_installation: For TFTP, rename OpenWrt image to upgrade_code.bin
+comment_recovery: For TFTP, rename OpenWrt image to upgrade_code.bin
+cpu: Texas Instruments TNETD7200ZDW
+cpu_cores: 1
+cpu_mhz: 212
+device_id: linksys_ag241_v2
+device_page: ag241
+device_type: Router
+ethernet_100m_ports: 4
+firmware_openwrt_install_url: http://downloads.openwrt.org/backfire/10.03.1/ar7/openwrt-AG241v2-squashfs-code.bin
+flash_mb: 4
+forum_search: AG241
+git_search: AG241
+malformed: {}
+model: AG241
+modem: ADSL2+
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=48631
+package_architecture: mipsel_mips32
+power_supply: 12 VDC, 1.0 A
+ram_mb: 16
+serial: true
+serial_connection_parameters: 38400 / 8N1
+supported_current_rel: 10.03.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b56c1cfc8fdb10e1aa16c09856b5d02ea154e71c
+supported_since_rel: 8.09.2
+switch: Infineon ADM6996LC
+target: ar7
+version: v2
+vlan: false

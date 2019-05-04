@@ -1,0 +1,36 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: TP-Link
+cpu: Atheros AR9331
+cpu_cores: 1
+cpu_mhz: 400
+device_id: tp-link_tl-wr720n_v4
+device_page: tl-wr720n
+device_type: Travel Router
+ethernet_100m_ports: 2
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/17.01.5/targets/ar71xx/generic/lede-17.01.5-ar71xx-generic-tl-wr720n-v4-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wr720n-v4-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wr720n-v4-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/17.01.5/targets/ar71xx/generic/lede-17.01.5-ar71xx-generic-tl-wr720n-v4-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: TL-WR720N
+git_search: TL-WR720N
+installation_method_s: see forum
+malformed: {}
+model: TL-WR720N
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=37912&p=3
+package_architecture: mips_24kc
+ram_mb: 32
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 17.01.5
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e85f3471bad00a51711e7d7c7ab84e4ba64c1b93
+supported_since_rel: '15.05'
+target: ar71xx
+usb_ports: 1x 2.0
+version: v4 (CN)
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9331

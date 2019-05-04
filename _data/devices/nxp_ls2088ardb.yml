@@ -1,0 +1,29 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: NXP
+comments: Also 64b firmware available
+cpu: NXP LS2088A
+cpu_cores: 8
+cpu_mhz: 2000
+device_id: nxp_ls2088ardb
+device_type: Single Board Computer
+firmware_oem_stock_url: http://www.nxp.com/products/microcontrollers-and-processors/arm-processors/qoriq-layerscape-arm-processors/qoriq-ls2088a-reference-design-board:LS2088A-RDB
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/layerscape/armv8_64b/openwrt-18.06.2-layerscape-armv8_64b-ls2088ardb-squashfs-firmware.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/layerscape/armv8_64b/openwrt-layerscape-armv8_64b-ls2088ardb-squashfs-firmware.bin
+forum_search: LS2088ARDB
+git_search: LS2088ARDB
+installation_method_s: unknown
+jtag: true
+malformed: {}
+model: LS2088ARDB
+oem_device_homepage_url: http://www.nxp.com/products/microcontrollers-and-processors/arm-processors/qoriq-layerscape-arm-processors/qoriq-ls2088a-reference-design-board:LS2088A-RDB
+package_architecture: aarch64_generic
+recovery_method_s: unknown
+sata_ports: '2'
+serial: true
+subtarget: armv8_64b
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=799d0dddf608ff012b49282d5832ddd2ef1b916e
+supported_since_rel: 17.01.0
+target: layerscape
+usb_ports: 2x 3.0

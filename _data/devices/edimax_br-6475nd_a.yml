@@ -1,0 +1,43 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Edimax
+cpu: Ralink RT3662F
+cpu_cores: 1
+cpu_mhz: 500
+detachable_antennas: '2'
+device_id: edimax_br-6475nd_a
+device_page: br-6475nd
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/NDD/9564751027
+firmware_oem_stock_url: http://www.edimax.com/edimax/download/download/data/edimax/global/download/for_home/wireless_routers/wireless_routers_n300_dual_band/br-6475nd
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt3883/openwrt-ramips-rt3883-br-6475nd-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/rt3883/openwrt-18.06.2-ramips-rt3883-br-6475nd-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: BR-6475nD
+git_search: BR-6475nD
+installation_method_s: unknown
+malformed: {}
+model: BR-6475nD
+oem_device_homepage_url: http://www.edimax.com/edimax/merchandise/merchandise_detail/data/edimax/global/wireless_routers_n300_dual_band/br-6475nd
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=48072
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 64
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt3883
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f3a243c3dd4183e9355d9917328a951e5fbe3f43
+supported_since_rel: '14.07'
+switch: Realtek RTL8367R
+target: ramips
+usb_ports: Mod
+version: A
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Edimax_BR-6475nD
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_comments: 2x2
+wlan_driver: unknown

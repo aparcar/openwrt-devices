@@ -1,0 +1,46 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Olimex
+button_count: '1'
+comments_network_ports: Ethernet, 2x10/100 on EVB breakout, 5x 10/100 on-SoC switch
+cpu: Ralink RT5350F
+cpu_cores: 1
+cpu_mhz: 360
+device_id: olimex_rt5350f-olinuxino-evb
+device_page: rt5350f-olinuxino-evb
+device_type: Single Board Computer
+ethernet_100m_ports: 5
+firmware_oem_stock_url: https://github.com/OLIMEX/OLINUXINO/tree/master/SOFTWARE/RT5350F/Prebuilt%20images
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-rt5350f-olinuxino-evb-initramfs-kernel.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/lede-ramips-rt305x-rt5350f-olinuxino-evb-initramfs-kernel.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/lede-ramips-rt305x-rt5350f-olinuxino-evb-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-rt5350f-olinuxino-evb-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: RT5350F-OLinuXino-EVB
+git_search: RT5350F-OLinuXino-EVB
+gpios: more than 20
+image: olimex_rt5350f-olinuxino-evb.jpg
+jtag: true
+led_count: '1'
+malformed: {}
+model: RT5350F-OLinuXino-EVB
+oem_device_homepage_url: https://www.olimex.com/Products/OLinuXino/RT5350F/RT5350F-OLinuXino-EVB/open-source-hardware
+package_architecture: mipsel_24kc
+power_supply: 5 VDC
+ram_mb: 32
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=633c46a1d42a1c4f0c723a606c8d08c1f77ac0bd
+supported_since_rel: '15.05'
+switch: Ralink RT5350F
+target: ramips
+usb_ports: 1x 2.0 Device
+version: Rev. A
+vlan: true
+where_available: olimex.com
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink RT5350F

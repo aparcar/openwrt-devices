@@ -1,0 +1,37 @@
+availability: unknown 2018
+bootloader: other
+brand: Upvel
+button_count: '1'
+comments_network_ports: 1 WAN + 4x LAN
+cpu: Realtek RTL8197DN
+cpu_cores: 1
+cpu_mhz: 660
+detachable_antennas: '2'
+device_id: upvel_ur-825ac_10r
+device_page: ur825ac
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+firmware_oem_stock_url: http://downloads.upvel.ru/UR-825AC/firmware/
+flash_mb: 16
+forum_search: UR-825AC
+git_search: UR-825AC
+jtag: false
+led_count: '9'
+malformed: {}
+model: UR-825AC
+oem_device_homepage_url: http://www.upvel.ru/items/ur-825ac.html
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?pid=293772
+power_supply: 12 VDC, 1.5 A
+ram_mb: 64
+serial: true
+serial_connection_parameters: 38400 / 8N1
+switch: Realtek RTL8367RB
+target: ramips
+unsupported_functions: Possible to support
+usb_ports: 2x 2.0
+version: 1.0R
+wikidevi_url: https://wikidevi.com/wiki/UPVEL_UR-825AC
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 3x3 MIMO
+wlan_driver: rtl819x

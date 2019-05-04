@@ -1,0 +1,46 @@
+availability: Available 2018
+bootloader: U-Boot
+brand: ZyXEL
+button_count: '2'
+comment_recovery: tftp server ip 192.168.1.99/24, rename image to 'ras.bin', hold
+  WPS key while powering up.
+cpu: Qualcomm IPQ8065
+cpu_cores: 2
+cpu_mhz: 1700
+device_id: zyxel_nbg6817
+device_page: nbg6817
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/I88/NBG6817
+firmware_oem_stock_url: http://www.zyxel.com/support/download_landing/product/armor_z2_12.shtml?c=gb&l=en&pid=20160503102311&tab=Firmware&pname=ARMOR%20Z2&mtname=Firmware
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ipq806x/generic/openwrt-ipq806x-zyxel_nbg6817-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ipq806x/generic/openwrt-ipq806x-zyxel_nbg6817-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ipq806x/generic/openwrt-18.06.2-ipq806x-zyxel_nbg6817-squashfs-sysupgrade.bin
+forum_search: NBG6817
+git_search: NBG6817
+image: zyxel_nbg6817.jpg
+jtag: true
+led_count: '6'
+lede_forum_topic_url: https://forum.lede-project.org/t/zyxel-nbg6817-flashing-from-oem/768/89?u=tmomas
+malformed: {}
+model: NBG6817 (Armor Z2)
+oem_device_homepage_url: http://www.zyxel.com/products_services/armor_z2.shtml?t=p\
+owrt_forum_topic_url: https://forum.openwrt.org/t/zyxel-nbg6817-flashing-from-oem/768/95
+package_architecture: arm_cortex-a15_neon-vfpv4
+power_supply: 12 VDC, 3.5 A
+ram_mb: 512
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=a0ed7af6c62bb8972ce7509ac76d0a648b291dd6
+supported_since_rel: 17.01.5
+switch: Qualcomm Atheros QCA8337
+target: ipq806x
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/ZyXEL_NBG6817
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: wave2/ MIMO
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA9984

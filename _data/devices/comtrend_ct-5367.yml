@@ -1,0 +1,24 @@
+availability: Discontinued
+bootloader: CFE
+brand: Comtrend
+cpu: Broadcom BCM6338
+cpu_cores: 1
+cpu_mhz: 240
+device_id: comtrend_ct-5367
+device_page: ct5367
+device_type: WiFi Router
+ethernet_100m_ports: 5
+flash_mb: 4
+forum_search: CT-5367
+git_search: CT-5367
+malformed: {}
+model: CT-5367
+modem: ADSL2+
+ram_mb: 16
+serial: true
+target: brcm63xx
+unsupported_functions: Impossible
+vlan: true
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4312 (onboard)

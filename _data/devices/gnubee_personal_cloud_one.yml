@@ -1,0 +1,33 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: GnuBee
+button_count: '1'
+cpu: MediaTek MT7621A
+cpu_cores: 2
+cpu_mhz: 880
+device_id: gnubee_personal_cloud_one
+device_type: NAS
+ethernet_gbit_ports: 2
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-gnubee_gb-pc1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-gnubee_gb-pc1-squashfs-sysupgrade.bin
+flash_mb: 32
+forum_search: Personal Cloud One
+git_search: Personal Cloud One
+gpios: '4'
+led_count: '1'
+lede_forum_topic_url: https://forum.lede-project.org/t/gnubee-personal-cloud-one/1871
+malformed: {}
+model: Personal Cloud One
+oem_device_homepage_url: https://www.crowdsupply.com/gnubee/personal-cloud-1
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 3.0 A
+ram_mb: 512
+sata_ports: '6'
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt7621
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=77645ffcd9ad767be02ea6d5cfe042928a3565d1
+supported_since_rel: 18.06.0
+target: ramips
+where_available: crowdsupply.com

@@ -1,0 +1,44 @@
+availability: Discontinued 2016
+bootloader: U-Boot
+brand: D-Link
+button_count: '2'
+cpu: Atheros AR9344
+cpu_cores: 1
+cpu_mhz: 560
+detachable_antennas: '3'
+device_id: d-link_dir-835_a1
+device_page: dir-835
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/KA2/IR835A1
+firmware_oem_stock_url: http://support.dlink.ca/ProductInfo.aspx?m=DIR-835
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-dir-835-a1-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-dlink_dir-835-a1-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-dlink_dir-835-a1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-dir-835-a1-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: DIR-835
+git_search: DIR-835
+led_count: '3'
+malformed: {}
+model: DIR-835
+oem_device_homepage_url: http://support.dlink.ca/ProductInfo.aspx?m=DIR-835
+package_architecture: mips_24kc
+power_supply: 12 VDC, 2.0 A
+ram_mb: 128
+recovery_method_s: D-Link Recovery GUI
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=257bfc21afe14da432ead147463f83b5cdf6881b
+supported_since_rel: '14.07'
+switch: Atheros AR8327
+target: ar71xx-ath79
+usb_ports: 1x 2.0
+version: A1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-835_rev_A1
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: ath9k

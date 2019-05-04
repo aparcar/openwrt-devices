@@ -1,0 +1,40 @@
+availability: Discontinued
+bootloader: Adam2
+brand: Actiontec
+cpu: Texas Instruments TNETD7300
+cpu_cores: 1
+cpu_mhz: 150
+detachable_antennas: '1'
+device_id: actiontec_gt704wg_1a
+device_page: gt704wg
+device_type: WiFi Router
+ethernet_100m_ports: 4
+fccid: https://fcc.io/LNQ/GT704
+firmware_oem_stock_url: http://www.actiontec.com/support/soft_files/GT704WG_Upgrade_NCS_3.0.1.0.6.0.img
+firmware_openwrt_install_url: http://downloads.openwrt.org/backfire/10.03.1/ar7/openwrt-ar7-squashfs.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/backfire/10.03.1/ar7/openwrt-ar7-squashfs.bin
+flash_mb: 4
+forum_search: GT704WG
+git_search: GT704WG
+jtag: true
+malformed: {}
+model: GT704WG
+modem: ADSL2+
+oem_device_homepage_url: http://www.actiontec.com/40.html
+package_architecture: mipsel_mips32
+power_supply: 12 VDC, 0.6 A
+ram_mb: 16
+recovery_method_s: ADAM2 FTP
+serial: true
+serial_connection_parameters: 38400 / 8N1
+supported_current_rel: 10.03.1
+supported_since_rel: '8.09'
+switch: Marvell 88E6060
+target: ar7
+unsupported_functions: Will boot but there is insufficient memory to function.
+version: 1A
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/Actiontec_GT704WG
+wlan_24ghz: b/g
+wlan_driver: unknown
+wlan_hardware: TI ACX111 (integrated)

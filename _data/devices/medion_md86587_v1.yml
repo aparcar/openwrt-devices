@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Medion
+button_count: '2'
+cpu: PLX NAS7820
+cpu_cores: 2
+cpu_mhz: 750
+device_id: medion_md86587_v1
+device_page: md86587
+device_type: NAS
+ethernet_gbit_ports: 1
+firmware_oem_stock_url: http://download2.medion.com/downloads/software/gpl_source_md86407.exe
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/oxnas/ox820/openwrt-18.06.2-oxnas-ox820-mitrastar-stg212-squashfs-ubinized.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/oxnas/ox820/openwrt-oxnas-ox820-mitrastar-stg212-squashfs-ubinized.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/oxnas/ox820/openwrt-oxnas-ox820-mitrastar-stg212-squashfs-sysupgrade.tar
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/oxnas/ox820/openwrt-18.06.2-oxnas-ox820-mitrastar-stg212-squashfs-sysupgrade.tar
+flash_mb: 128NAND
+forum_search: MD86587
+git_search: MD86587
+jtag: false
+led_count: '3'
+malformed:
+  flash_mb: 128NAND
+model: MD86587
+package_architecture: arm_mpcore
+power_supply: 12 VDC, 2.0 A
+ram_mb: 128
+recovery_method_s: unknown
+sata_ports: '1'
+serial: true
+subtarget: ox820
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=72b58f2eb12ad4aa0c59481d0911dc5e39180eb5
+supported_since_rel: '15.05'
+target: oxnas
+usb_ports: 2x 2.0
+version: v1

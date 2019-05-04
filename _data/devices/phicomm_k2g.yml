@@ -1,0 +1,33 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: PHICOMM
+cpu: MediaTek MT7620A
+cpu_cores: 1
+cpu_mhz: 580
+device_id: phicomm_k2g
+device_type: WiFi Router
+ethernet_100m_ports: 4
+ethernet_gbit_ports: 1
+fccid: "http://\xBF"
+firmware_oem_stock_url: "http://\xBF"
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-phicomm_k2g-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-phicomm_k2g-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: K2G
+git_search: K2G
+malformed: {}
+model: K2G
+oem_device_homepage_url: "http://\xBF"
+package_architecture: mipsel_24kc
+ram_mb: 64
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=ed40173dfcbc8a870d1747dea3f9a265d0205369
+supported_since_rel: 18.06.0
+target: ramips
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

@@ -1,0 +1,29 @@
+availability: Discontinued
+bootloader: Adam2
+brand: Netgear
+cpu: Texas Instruments TNETD7300
+cpu_cores: 1
+cpu_mhz: 150
+detachable_antennas: '1'
+device_id: netgear_dg834g
+device_page: dg834g
+device_type: WiFi Router
+ethernet_100m_ports: 4
+flash_mb: 4
+forum_search: DG834G
+git_search: DG834G
+installation_method_s: see devicepage
+jtag: true
+malformed: {}
+model: DG834G
+modem: ADSL
+package_architecture: mipsel_mips32
+power_supply: 12 VDC, 1.0 A
+ram_mb: 16
+serial: true
+supported_current_rel: 10.03.1
+supported_since_rel: '10.03'
+target: ar7
+vlan: true
+wlan_24ghz: b/g
+wlan_driver: unknown

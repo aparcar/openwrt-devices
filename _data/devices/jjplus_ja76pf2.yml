@@ -1,0 +1,38 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: jjPlus
+button_count: '2'
+comment_installation: https://git.openwrt.org/b3a0c97
+comment_recovery: https://git.openwrt.org/b3a0c97
+comments: 'ath79: needs to store MAC address in RedBoot configuration: https://git.openwrt.org/b3a0c97'
+cpu: Atheros AR7161
+cpu_cores: 1
+cpu_mhz: 680
+device_id: jjplus_ja76pf2
+device_page: ja76pf2
+device_type: WiFi Router
+ethernet_gbit_ports: 2
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-jjplus_ja76pf2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ja76pf2-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: JA76PF2
+git_search: JA76PF2
+gpios: '11'
+jtag: true
+led_count: '3'
+malformed: {}
+model: JA76PF2
+package_architecture: mips_24kc
+power_supply: 'PoE/DC Input: 37V to 56V'
+ram_mb: 64
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f601339e793c188d6aae56dc842bfda05bc48174
+supported_since_rel: '12.09'
+switch: Atheros AR8316
+target: ar71xx-ath79
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/JJPlus_JA76PF2
+wlan_hardware: 2x Type-III mini-PCI

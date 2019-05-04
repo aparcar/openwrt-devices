@@ -1,0 +1,36 @@
+availability: Available 2019
+bootloader: RouterBOOT
+brand: MikroTik
+cpu: Atheros AR9342
+cpu_cores: 1
+cpu_mhz: 600
+device_id: mikrotik_rb912uag-5hpnd
+device_page: rb91xg_5hpnd
+device_type: Single Board Computer
+ethernet_gbit_ports: 1
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-vmlinux-initramfs.elf
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-vmlinux-initramfs.elf
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-nand-large-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-nand-large-squashfs-sysupgrade.bin
+flash_mb: 128NAND
+forum_search: RB912UAG-5HPnd
+git_search: RB912UAG-5HPnd
+led_count: '8'
+malformed:
+  flash_mb: 128NAND
+model: RB912UAG-5HPnd
+oem_device_homepage_url: https://mikrotik.com/product/RB912UAG-5HPnD
+package_architecture: mips_24kc
+power_supply: 8-30 VDC barrel jack, 8-30 VDC passive PoE
+ram_mb: 64
+serial: true
+subtarget: mikrotik
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=5237a500893980a4764cc2caab92f60c9f2ba9ea
+supported_since_rel: '14.07'
+target: ar71xx
+usb_ports: 1x 2.0
+vlan: true
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: ath9k

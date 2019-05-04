@@ -1,0 +1,38 @@
+availability: Discontinued
+brand: Buffalo
+button_count: '2'
+comments: WHR-G300N v2 = WHR-G301N v1
+cpu: Atheros AR7240
+cpu_cores: 1
+cpu_mhz: 400
+device_id: buffalo_whr-g301n_v1
+device_page: whr-g300nv2
+device_type: WiFi Router
+ethernet_100m_ports: 5
+firmware_openwrt_install_url: http://downloads.lede-project.org/releases/17.01.2/targets/ar71xx/generic/lede-17.01.2-ar71xx-generic-whr-g301n-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/tiny/openwrt-ath79-tiny-buffalo_whr-g301n-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/tiny/openwrt-ath79-tiny-buffalo_whr-g301n-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.lede-project.org/releases/17.01.2/targets/ar71xx/generic/lede-17.01.2-ar71xx-generic-whr-g301n-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: WHR-G301N
+git_search: WHR-G301N
+installation_method_s: unknown
+led_count: '5'
+malformed: {}
+model: WHR-G301N
+oem_device_homepage_url: http://buffalo.jp/products/catalog/network/whr-g301n/
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 32
+recovery_method_s: unknown
+serial: true
+subtarget: tiny
+supported_current_rel: 17.01.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=0d9ae0a0364fcea8c18465ade28c4b719542f018
+supported_since_rel: '12.09'
+target: ar71xx-ath79
+version: v1
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9280

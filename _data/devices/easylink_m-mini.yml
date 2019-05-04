@@ -1,0 +1,34 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: EasyLink
+cpu: Atheros AR9331
+cpu_cores: 1
+cpu_mhz: 400
+device_id: easylink_m-mini
+device_page: el-m-mini
+device_type: WiFi Router
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-el-mini-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-el-mini-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-el-mini-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-el-mini-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: M-mini
+git_search: M-mini
+installation_method_s: unknown
+jtag: false
+malformed: {}
+model: M-mini
+package_architecture: mips_24kc
+ram_mb: 64
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e6e6a85dc962d1ef3f6e8b914dd323cfb2b93c8d
+supported_since_rel: '14.07'
+target: ar71xx
+where_available: aliexpress.com
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9331

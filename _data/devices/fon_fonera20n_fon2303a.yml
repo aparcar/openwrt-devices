@@ -1,0 +1,35 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Fon
+button_count: '2'
+cpu: Ralink RT3052 v2
+cpu_cores: 1
+cpu_mhz: 384
+device_id: fon_fonera20n_fon2303a
+device_page: fonera2.0n
+device_type: WiFi Router
+ethernet_100m_ports: 5
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-fonera20n-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/lede-ramips-rt305x-fonera20n-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/lede-ramips-rt305x-fonera20n-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-fonera20n-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: Fonera 2.0n
+git_search: Fonera 2.0n
+installation_method_s: see devicepage
+led_count: '5'
+malformed: {}
+model: Fonera 2.0n
+package_architecture: mipsel_24kc
+ram_mb: 64
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e4e4aa90d3810707c390ef5c00c0314317ffd585
+supported_since_rel: '12.09'
+target: ramips
+usb_ports: 1x 2.0
+version: FON2303A
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT2860v2

@@ -1,0 +1,25 @@
+availability: Discontinued
+brand: Gateworks
+cpu: Intel IXP425
+cpu_cores: 1
+cpu_mhz: 533
+device_id: gateworks_avilagw2355
+device_type: Single Board Computer
+ethernet_100m_ports: 5
+flash_mb: 16
+forum_search: Avila GW2355
+git_search: Avila GW2355
+installation_method_s: unknown
+malformed: {}
+model: Avila GW2355
+oem_device_homepage_url: http://www.gateworks.com/product\
+package_architecture: armeb_xscale
+ram_mb: 64
+recovery_method_s: unknown
+subtarget: generic
+supported_current_rel: '12.09'
+supported_since_rel: '12.09'
+target: ixp4xx
+vlan: false
+wlan_driver: unknown
+wlan_hardware: 4x mini-PCI

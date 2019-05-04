@@ -1,0 +1,37 @@
+availability: unknown 2018
+brand: Gateworks
+cpu: Freescale i.MX 6
+cpu_cores: 2
+cpu_mhz: 800
+device_id: gateworks_ventanagw5100
+device_page: gateworks
+device_type: Single Board Computer
+ethernet_gbit_ports: 1
+firmware_oem_stock_url: http://dev.gateworks.com/openwrt/latest/imx6/gateworks-imx6-ventana-squashfs-nand_normal.ubi
+firmware_openwrt_install_url: https://downloads.openwrt.org/releases/18.06.2/targets/imx6/generic/openwrt-18.06.2-imx6-ventana-squashfs-nand.ubi
+flash_mb: 256NAND
+forum_search: Ventana
+git_search: GW51
+installation_method_s: unknown
+jtag: false
+malformed:
+  flash_mb: 256NAND
+model: Ventana GW5100
+oem_device_homepage_url: http://www.gateworks.com/product/item/ventana-gw5100-network-processor
+package_architecture: arm_cortex-a9_neon
+power_supply: 8-60 VDC, passive PoE
+ram_mb: 512
+recovery_method_s: unknown
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=77d075aa541665a5a96223686772e96ee1a9442b
+supported_since_rel: '15.05'
+target: imx6
+usb_ports: 1x OTG
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/Gateworks_Ventana_GW5100
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: unknown
+wlan_hardware: 1x mini-PCIe

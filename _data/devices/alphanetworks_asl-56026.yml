@@ -1,0 +1,29 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Alpha Networks
+button_count: '1'
+cpu: Lantiq XRX268
+cpu_cores: 1
+cpu_mhz: 333
+device_id: alphanetworks_asl-56026
+device_type: Modem
+ethernet_100m_ports: 2
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xrx200/openwrt-lantiq-xrx200-alphanetworks_asl56026-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xrx200/openwrt-18.06.2-lantiq-xrx200-alphanetworks_asl56026-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: ASL-56026
+git_search: ASL-56026
+installation_method_s: see git-commit
+led_count: '2'
+malformed: {}
+model: ASL-56026
+modem: VDSL2
+package_architecture: mips_24kc
+ram_mb: 32
+serial: true
+subtarget: xrx200
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=6254a2028c181fe9863dc7758d47eda667b4f397
+supported_since_rel: 18.06.0
+target: lantiq
+wlan_driver: unknown

@@ -1,0 +1,29 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: BDCOM
+comments: aka ZTE ZXECS EBG3130
+cpu: MediaTek MT7620A
+cpu_cores: 1
+cpu_mhz: 580
+device_id: bdcom_wap2100-sk
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: "http://\xBF"
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-bdcom_wap2100-sk-squashfs-sysupgrade.bin
+forum_search: WAP2100-SK
+git_search: WAP2100-SK
+led_count: '10'
+malformed: {}
+model: WAP2100-SK
+oem_device_homepage_url: http://www.bdcom.cn/products_detail/productId=95.html
+package_architecture: mipsel_24kc
+ram_mb: 128
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: mt7620
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=16b950c981c91bcd2dde8bd1c4ed10bf3a6b1763
+target: ramips
+usb_ports: 1x 2.0
+wlan_24ghz: b/g/n
+wlan_driver: unknown

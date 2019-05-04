@@ -1,0 +1,27 @@
+availability: Discontinued
+brand: Linksys
+cpu: Broadcom BCM5354
+cpu_cores: 1
+cpu_mhz: 240
+device_id: linksys_wrh54g_10
+device_page: wrh54g
+device_type: WiFi Router
+ethernet_100m_ports: 5
+flash_mb: 16
+forum_search: WRH54G
+git_search: WRH54G
+malformed: {}
+model: WRH54G
+package_architecture: mipsel_mips32
+power_supply: 12 VDC, 0.5 A
+ram_mb: 64
+serial: true
+subtarget: legacy
+switch: Broadcom BCM5354
+target: brcm47xx
+unsupported_functions: Possible to support
+version: '1.0'
+wikidevi_url: https://wikidevi.com/wiki/Linksys_WRH54G
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM5354

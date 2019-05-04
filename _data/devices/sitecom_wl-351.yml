@@ -1,0 +1,36 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Sitecom
+button_count: '1'
+cpu: Ralink RT3052_MP2
+cpu_cores: 1
+cpu_mhz: 384
+device_id: sitecom_wl-351
+device_page: wl-351
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-wl-351-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-wl-351-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: WL-351
+git_search: WL-351
+malformed: {}
+model: WL-351
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=40150
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 32
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=7b1e525b56743a96c52cb25a6a12cbe7f5d58995
+supported_since_rel: '12.09'
+switch: Realtek RTL8366RB
+target: ramips
+version: v1 002
+wikidevi_url: https://wikidevi.com/wiki/Sitecom_WL-351_v1_002
+wlan_24ghz: b/g/n
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT2800pci

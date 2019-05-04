@@ -1,0 +1,26 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: unbranded
+button_count: '1'
+cpu: MediaTek MT7688
+cpu_cores: 1
+cpu_mhz: 580
+device_id: unbranded_pandorabox_d1
+device_type: WiFi Router
+ethernet_100m_ports: 5
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt76x8/openwrt-ramips-mt76x8-pbr-d1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt76x8/openwrt-18.06.2-ramips-mt76x8-pbr-d1-squashfs-sysupgrade.bin
+forum_search: PandoraBox D1
+git_search: PandoraBox D1
+installation_method_s: unknown
+led_count: '2'
+malformed: {}
+model: PandoraBox D1
+package_architecture: mipsel_24kc
+recovery_method_s: unknown
+subtarget: mt76x8
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=9fe833e1d020748fa92e485aeb08b1ac9a6fdb09
+supported_since_rel: 17.01.0
+target: ramips
+wlan_driver: unknown

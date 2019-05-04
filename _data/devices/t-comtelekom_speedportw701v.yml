@@ -1,0 +1,32 @@
+availability: unknown 2018
+bootloader: Adam2
+brand: T-Com / Telekom
+comments: See also http://www.wehavemorefun.de/fritzbox/Speedport_W_701V
+cpu: Texas Instruments TNETD7200ZDW
+cpu_cores: 1
+cpu_mhz: 211
+device_id: t-comtelekom_speedportw701v
+device_page: spw701v
+device_type: WiFi Router
+ethernet_100m_ports: 4
+firmware_openwrt_install_url: https://downloads.openwrt.org/barrier_breaker/14.07/ar7/generic/openwrt-EVA-3.10-squashfs.bin
+flash_mb: 8
+forum_search: Speedport W 701V
+git_search: Speedport W 701V
+malformed: {}
+model: Speedport W 701V
+modem: ADSL2+
+package_architecture: mipsel_mips32
+ram_mb: 32
+serial: true
+serial_connection_parameters: 38400 / 8N1
+subtarget: generic
+supported_current_rel: '14.07'
+supported_since_rel: '12.09'
+switch: Infineon ADM6996LC
+target: ar7
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/T-Com_Speedport_W701V
+wlan_24ghz: b/g
+wlan_driver: unknown
+wlan_hardware: TI TNETW1350A

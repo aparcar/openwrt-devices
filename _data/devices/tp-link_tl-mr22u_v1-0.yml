@@ -1,0 +1,34 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TP-Link
+button_count: '3'
+cpu: Qualcomm Atheros QCA9531
+cpu_cores: 1
+cpu_mhz: 560
+device_id: tp-link_tl-mr22u_v1-0
+device_page: tp-link_tl-mr22u_v1
+device_type: Travel Router - Battery powered
+ethernet_100m_ports: 1
+fccid: https://fcc.io/TE7/MR22U
+flash_mb: 8
+forum_search: TL-MR22U
+git_search: TL-MR22U
+led_count: '5'
+malformed: {}
+model: TL-MR22U
+oem_device_homepage_url: http://www.tp-link.com.cn/product_357.html
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=58520
+package_architecture: mips_24kc
+power_supply: "5 VDC, 1.0 A (\xB5USB), 5200 mAh battery"
+ram_mb: 32
+serial: true
+subtarget: generic
+target: ar71xx
+usb_ports: 1x 2.0
+version: v1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-MR22U
+wlan_24ghz: b/g/n
+wlan_comments: 2x2
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA9531

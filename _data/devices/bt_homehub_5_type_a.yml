@@ -1,0 +1,42 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: BT
+button_count: '3'
+comments_network_ports: 'ADSL mode: supports Annex A, does not support Annex B/J'
+cpu: Lantiq XWAY VRX268
+cpu_cores: 2
+cpu_mhz: 500
+device_id: bt_homehub_5_type_a
+device_page: homehub_v5a
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xrx200/openwrt-lantiq-xrx200-bt_homehub-v5a-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xrx200/openwrt-18.06.2-lantiq-xrx200-bt_homehub-v5a-squashfs-sysupgrade.bin
+flash_mb: 128NAND
+forum_search: Home Hub 5
+git_search: Home Hub 5
+image: bt_homehub_5_type_a.png
+installation_method_s: see devicepage
+jtag: false
+led_count: '3'
+malformed:
+  flash_mb: 128NAND
+model: Home Hub 5
+modem: VDSL2
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: 128
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: xrx200
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=6bdd209f152d2c98fefabcc486dc063420cda6a9
+supported_since_rel: 17.01.0
+switch: Lantiq XWAY VRX268
+target: lantiq
+usb_ports: 1x 2.0
+version: Type A
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/BT_Home_Hub_5
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac

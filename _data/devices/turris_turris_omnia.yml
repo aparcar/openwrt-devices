@@ -1,0 +1,54 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Turris CZ.NIC
+button_count: '1'
+comment_recovery: 'flash drive formatted with FAT32 / ext2/3/4 / btrfs / XFS, image
+  has to be named: omnia-medkit*.tar.gz for reset mode 4 recovery'
+comments: Turris OS 3.x uses an operating system based on OpenWrt, see https://github.com/CZ-NIC/turris-os;
+  Turris OS 4.x is based on top of OpenWrt, see https://gitlab.labs.nic.cz/turris/turris-build;
+  1024MB RAM version was also available
+comments_network_ports: 5x LAN, 1x SFP
+comments_usb_sata_ports: mSATA
+cpu: Marvell Armada 385 88F6820
+cpu_cores: 2
+cpu_mhz: 1600
+detachable_antennas: '3'
+device_id: turris_turris_omnia
+device_page: turris_cz.nic_omnia
+device_type: WiFi Router
+ethernet_gbit_ports: 6
+firmware_oem_stock_url: https://repo.turris.cz/omnia/
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/mvebu/cortexa9/
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/mvebu/cortexa9/openwrt-mvebu-cortexa9-turris-omnia-initramfs-kernel.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/mvebu/cortexa9/openwrt-mvebu-cortexa9-turris-omnia-sysupgrade.img.gz
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/mvebu/cortexa9/
+flash_mb: 8192NAND
+forum_search: Turris Omnia
+git_search: Turris Omnia
+gpios: '10'
+image: turris_turris_omnia.jpg
+jtag: true
+led_count: '12'
+malformed:
+  flash_mb: 8192NAND
+model: Omnia
+oem_device_homepage_url: https://www.turris.cz/en/turris-omnia/
+package_architecture: arm_cortex-a9_vfpv3
+power_supply: 12 VDC, 3.33 A
+ram_mb: 2048
+sata_ports: '1'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=9f3f61a0d968fbe7b93899f948f3c34612683ba6
+supported_since_rel: 18.06.0
+switch: Marvell 88E6176
+target: mvebu
+usb_ports: 2x 3.0
+vlan: true
+where_available: omnia.turris.cz
+wikidevi_url: https://wikidevi.com/wiki/Turris_Omnia
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 2x2 802.11b/g/n (2.4GHz), 3x3 802.11ac (2.4 / 5GHz)

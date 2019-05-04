@@ -1,0 +1,44 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Linksys
+button_count: '2'
+comments: Barrier Breaker 14.07 not built and Chaos Calmer 15.05 does not currently
+  boot
+cpu: Infineon ADM8668
+cpu_cores: 1
+cpu_mhz: 200
+detachable_antennas: '1'
+device_id: linksys_wrtu54g-tm
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/Q87/-WRTU54G
+firmware_openwrt_install_url: http://downloads.openwrt.org/attitude_adjustment/12.09/adm8668/generic/openwrt-adm8668-squashfs.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/attitude_adjustment/12.09/adm8668/generic/openwrt-adm8668-squashfs.bin
+flash_mb: 8
+forum_search: WRTU54G-TM
+git_search: WRTU54G-TM
+installation_method_s: unknown
+jtag: true
+led_count: '10'
+malformed: {}
+model: WRTU54G-TM
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=16536
+package_architecture: mipsel_mips32
+phone_ports: '2'
+power_supply: 12 VDC, 1.5 A
+ram_mb: 64
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: '12.09'
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=deeeb5f671f95637df40844062df3dc0912ebdb6
+supported_since_rel: '12.09'
+switch: Infineon ADM6996M
+target: adm8668
+usb_ports: Mod
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/Linksys_WRTU54G-TM
+wlan_24ghz: b/g
+wlan_driver: unknown
+wlan_hardware: Ralink RT2561S

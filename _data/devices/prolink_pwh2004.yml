@@ -1,0 +1,37 @@
+availability: Discontinued 2012
+bootloader: U-Boot
+brand: Prolink
+cpu: Ralink RT3052
+cpu_cores: 1
+cpu_mhz: 384
+detachable_antennas: '2'
+device_id: prolink_pwh2004
+device_page: pwh2004
+device_type: WiFi Router
+ethernet_100m_ports: 5
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-pwh2004-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-pwh2004-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: PWH2004
+git_search: PWH2004
+installation_method_s: unknown
+jtag: true
+malformed: {}
+model: PWH2004
+oem_device_homepage_url: http://www.prolink2u.com/newtemp/datacom/adsl-modem-router/144-pwh2004.html
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: 32
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=57663ce25b77b8c0c95ea3bc53deb9d81b1b9354
+supported_since_rel: '15.05'
+target: ramips
+usb_ports: 1x 2.0
+wlan_24ghz: b/g/n
+wlan_comments: 2T2R
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT3052

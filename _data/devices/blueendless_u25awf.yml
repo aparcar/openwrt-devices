@@ -1,0 +1,41 @@
+availability: Available 2018
+bootloader: U-Boot
+brand: Blueendless
+button_count: '1'
+comments: 'Manufacturer = Blueendless; sold also as: KIMAX, MBOX, MIXXAR, and possibly
+  other brands.'
+cpu: MediaTek MT7620N
+cpu_cores: 1
+cpu_mhz: 580
+detachable_antennas: '2'
+device_id: blueendless_u25awf
+device_type: NAS
+ethernet_100m_ports: 1
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-u25awf-h1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-u25awf-h1-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: U25AWF
+git_search: U25AWF
+jtag: false
+led_count: '4'
+malformed: {}
+model: U25AWF
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?pid=305643\
+package_architecture: mipsel_24kc
+power_supply: 5 VDC, 2.0 A, 4000 mAh battery
+ram_mb: 64
+sata_ports: '1'
+serial: false
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=6f008af3f0b30d2af21ad6934c17b0ae69103ecd
+supported_since_rel: 18.06.0
+target: ramips
+version: HSEN-KI-300M-HDD-V3.0
+vlan: true
+where_available: banggood.com
+wikidevi_url: https://wikidevi.com/wiki/Kimax_U25AWF
+wlan_24ghz: b/g/n
+wlan_comments: 2x2 MIMO
+wlan_driver: mt76
+wlan_hardware: MediaTek MT7620N

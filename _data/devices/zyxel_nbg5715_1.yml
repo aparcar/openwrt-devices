@@ -1,0 +1,30 @@
+availability: Discontinued 2014
+brand: ZyXEL
+cpu: Mindspeed Comcerto 1000 (M83241G-13) + Ralink RT3883
+cpu_cores: 1
+cpu_mhz: 450
+detachable_antennas: '3'
+device_id: zyxel_nbg5715_1
+device_page: nbg5715
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+flash_mb: 128NAND
+forum_search: NBG5715
+git_search: NBG5715
+malformed:
+  flash_mb: 128NAND
+model: NBG5715
+oem_device_homepage_url: http://www.zyxel.com/products_services/nbg5715.shtml?t=p
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=33652
+power_supply: 12 VDC, 2.0 A
+ram_mb: 128
+switch: Atheros AR8328
+unsupported_functions: Unknown if possible
+usb_ports: 2x 2.0
+version: v1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/ZyXEL_NBG5715
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_comments: 3x3
+wlan_driver: unknown

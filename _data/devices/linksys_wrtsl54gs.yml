@@ -1,0 +1,35 @@
+availability: Discontinued
+bootloader: CFE
+brand: Linksys
+cpu: Broadcom BCM4704
+cpu_cores: 1
+cpu_mhz: 264
+device_id: linksys_wrtsl54gs
+device_page: wrtsl54gs
+device_type: WiFi Router
+ethernet_100m_ports: 5
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/legacy/openwrt-18.06.2-brcm47xx-legacy-linksys-wrtsl54gs-squashfs.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/legacy/openwrt-brcm47xx-legacy-linksys-wrtsl54gs-squashfs.bin
+flash_mb: 8
+forum_search: WRTSL54GS
+git_search: WRTSL54GS
+installation_method_s: unknown
+jtag: true
+malformed: {}
+model: WRTSL54GS
+package_architecture: mipsel_mips32
+power_supply: 12 VDC, 1.0 A
+ram_mb: 32
+recovery_method_s: unknown
+serial: true
+subtarget: legacy
+supported_current_rel: 18.06.2
+supported_since_rel: '0.9'
+switch: Broadcom BCM5325F
+target: brcm47xx
+usb_ports: 1x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Linksys_WRTSL54GS
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4704

@@ -1,0 +1,31 @@
+availability: Discontinued
+bootloader: CFE
+brand: Netgear
+cpu: Broadcom BCM6358
+cpu_cores: 2
+cpu_mhz: 300
+device_id: netgear_mbrn3000_0
+device_page: mbrn3000
+device_type: WiFi Router
+ethernet_100m_ports: 4
+firmware_oem_stock_url: http://support.netgear.de/product/MBRN3000
+flash_mb: 8
+forum_search: MBRN3000
+git_search: MBRN3000
+jtag: true
+malformed: {}
+model: MBRN3000
+package_architecture: mips_mips32
+power_supply: 12 VDC, 1.5 A
+ram_mb: 32
+serial: true
+subtarget: generic
+switch: Broadcom BCM5325E
+target: brcm63xx
+unsupported_functions: Possible to support
+usb_ports: 1x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Netgear_MBRN3000
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4322

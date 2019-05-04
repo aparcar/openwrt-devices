@@ -1,0 +1,38 @@
+availability: Available 2018
+bootloader: U-Boot
+brand: Ubiquiti
+button_count: '1'
+cpu: Qualcomm Atheros QCA9563
+cpu_cores: 1
+cpu_mhz: 775
+device_id: ubiquiti_unifi_apac_lr
+device_page: unifiac
+device_type: WiFi AP
+ethernet_gbit_ports: 1
+fccid: https://fcc.io/SWX-UAPACLR
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-ubnt_unifiac-lite-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ubnt-unifiac-lite-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: UniFi AP AC LR
+git_search: UniFi AP AC LR
+gluon_support: true
+led_count: '2'
+malformed: {}
+model: UniFi AP AC LR
+oem_device_homepage_url: https://www.ubnt.com/unifi/unifi-ap-ac-lr/
+package_architecture: mips_24kc
+power_supply: PoE 802.3af/A, passive PoE 24V, 0.5A
+ram_mb: 128
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=c855e70491fbd5d432915c4cbeb3b80f3a117e30
+supported_since_rel: 17.01.0
+target: ar71xx-ath79
+vlan: true
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 2.4 GHz
+wlan_driver: ath10k

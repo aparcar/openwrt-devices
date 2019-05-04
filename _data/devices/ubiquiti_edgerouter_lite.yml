@@ -1,0 +1,34 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Ubiquiti
+cpu: Cavium CN5020
+cpu_cores: 2
+cpu_mhz: 500
+device_id: ubiquiti_edgerouter_lite
+device_page: edgerouter.lite
+device_type: Router
+ethernet_gbit_ports: 3
+firmware_oem_stock_url: http://dl.ubnt.com/firmwares/edgemax/v1.7.0/ER-e100.v1.7.0.4783374.tar
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/octeon/generic/openwrt-octeon-erlite-squashfs-sysupgrade.tar
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/octeon/generic/openwrt-18.06.2-octeon-erlite-squashfs-sysupgrade.tar
+flash_mb: 4
+forum_search: EdgeRouter Lite
+git_search: EdgeRouter Lite
+malformed: {}
+model: EdgeRouter Lite
+oem_device_homepage_url: https://www.ubnt.com/edgemax/edgerouter-lite/
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=49908
+package_architecture: mips64_octeon
+power_supply: 12 VDC, 1.0 A
+ram_mb: 512
+recovery_method_s: U-Boot USB recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=3a2040ffee99053070cd3f0424f40f64ba6403c9
+supported_since_rel: '14.07'
+target: octeon
+usb_ports: 1x 2.0
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/Ubiquiti_Networks_EdgeRouter_LITE

@@ -1,0 +1,36 @@
+availability: Discontinued
+bootloader: CFE
+brand: Sagem
+cpu: Broadcom BCM6348
+cpu_cores: 1
+cpu_mhz: 256
+device_id: sagem_fast2404
+device_page: fast2404
+device_type: WiFi Router
+ethernet_100m_ports: 5
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-FAST2404-squashfs-cfe.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-FAST2404-squashfs-cfe.bin
+flash_mb: 4
+forum_search: F@ST2404
+git_search: F@ST2404
+jtag: true
+malformed: {}
+model: F@ST2404
+modem: ADSL2+
+package_architecture: mips_mips32
+power_supply: 12 VDC, 0.7 A
+ram_mb: 16
+recovery_method_s: CFE web recovery
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=4dc65aed6399f5122f9daa854c1981fb8b8a48e5
+supported_since_rel: '10.03'
+switch: Broadcom BCM5325
+target: brcm63xx
+unsupported_functions: DSL modem
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Sagemcom_F@st_2404
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318

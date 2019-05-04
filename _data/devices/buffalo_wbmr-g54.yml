@@ -1,0 +1,32 @@
+availability: Discontinued
+bootloader: Adam2
+brand: Buffalo
+cpu: Texas Instruments TNETD7300
+cpu_cores: 1
+cpu_mhz: 150
+detachable_antennas: '1'
+device_id: buffalo_wbmr-g54
+device_page: wbmr-g54
+device_type: Modem
+ethernet_100m_ports: 4
+firmware_openwrt_install_url: http://downloads.openwrt.org/attitude_adjustment/12.09/ar7/generic/
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/attitude_adjustment/12.09/ar7/generic/
+flash_mb: 4
+forum_search: WBMR-G54
+git_search: WBMR-G54
+malformed: {}
+model: WBMR-G54
+modem: ADSL2+
+package_architecture: mipsel_mips32
+power_supply: 12 VDC, 1.2 A
+ram_mb: 16
+recovery_method_s: ADAM2 FTP
+serial: true
+serial_connection_parameters: 38400 / 8N1
+subtarget: generic
+supported_current_rel: '12.09'
+supported_since_rel: '12.09'
+target: ar7
+wlan_24ghz: b/g
+wlan_driver: unknown
+wlan_hardware: TI ACX111 (mini-PCI)

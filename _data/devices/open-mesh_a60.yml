@@ -1,0 +1,34 @@
+availability: Discontinued 2019
+brand: Open-Mesh
+comments: Openmesh has been acquired by Datto in 2018; from 2019 on, no new production
+  any more, only remaining inventory at suppliers.
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: 1
+cpu_mhz: 720
+device_id: open-mesh_a60
+device_type: WiFi AP
+ethernet_gbit_ports: 2
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-a60-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-a60-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-a60-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-a60-squashfs-sysupgrade.bin
+forum_search: A60
+git_search: A60
+gluon_support: true
+installation_method_s: unknown
+malformed: {}
+model: A60
+oem_device_homepage_url: http://www.open-mesh.com/a60-grouped-cloud-managed-access-point.html
+package_architecture: mips_24kc
+power_supply: PoE 802.3af
+ram_mb: 128
+recovery_method_s: unknown
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=5e50adeed3285a77022cde4daf335b39aa632782
+supported_since_rel: 17.01.0
+target: ar71xx
+usb_ports: 1x 2.0
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: unknown

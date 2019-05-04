@@ -1,0 +1,34 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Skyline
+comments_network_ports: 1 WAN + 4x LAN
+cpu: Ralink RT3052
+cpu_cores: 1
+cpu_mhz: 384
+detachable_antennas: '2'
+device_id: skyline_sl-r7205
+device_page: sl-r7205
+device_type: WiFi Router
+ethernet_100m_ports: 5
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-sl-r7205-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-sl-r7205-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: SL-R7205
+git_search: SL-R7205
+jtag: false
+malformed: {}
+model: SL-R7205
+package_architecture: mipsel_24kc
+ram_mb: 32
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=3489515a7eb66c6489c3aeefda06e132532f5811
+supported_since_rel: '12.09'
+target: ramips
+usb_ports: 1x 2.0
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink RT2872

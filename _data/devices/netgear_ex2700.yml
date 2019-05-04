@@ -1,0 +1,44 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Netgear
+button_count: '2'
+comments: Stock firmware is a fork of OpenWrt (Kamikaze)
+cpu: MediaTek MT7620A
+cpu_cores: 1
+cpu_mhz: 580
+device_id: netgear_ex2700
+device_page: netgear_ex2700
+device_type: Range Extender
+ethernet_100m_ports: 1
+fccid: https://fcc.io/PY3/14200263
+firmware_oem_stock_url: ftp://updates1.netgear.com/ex2700/ww/EX2700-V1.0.1.8.img
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-ex2700-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/lede-ramips-mt7620-ex2700-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/lede-ramips-mt7620-ex2700-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-ex2700-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: EX2700
+git_search: EX2700
+installation_method_s: GUI OEM
+jtag: false
+led_count: '4'
+malformed: {}
+model: EX2700
+oem_device_homepage_url: https://netgear.com/home/products/networking/wifi-range-extenders/EX2700.aspx
+package_architecture: mipsel_24kc
+power_supply: 100-240 VAC, 50/60 Hz, 0.1 A
+ram_mb: 32
+recovery_method_s: see devicepage
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=9f9682a79b2f813ae140cc4866d1449412efb3d9
+supported_since_rel: '15.05'
+switch: MediaTek MT7620A
+target: ramips
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Netgear_EX2700
+wlan_24ghz: b/g/n
+wlan_driver: mt76
+wlan_hardware: MediaTek MT7620A

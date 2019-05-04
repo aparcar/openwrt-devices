@@ -1,0 +1,44 @@
+availability: Discontinued 2017
+bootloader: U-Boot
+brand: TP-Link
+button_count: '2'
+comment_installation: For TFTP, rename -factory image to wr941ndv6_tp_recovery.bin
+comment_recovery: For TFTP, rename -factory image to wr941ndv6_tp_recovery.bin
+cpu: Qualcomm TP9343
+cpu_cores: 1
+cpu_mhz: 750
+detachable_antennas: '3'
+device_id: tp-link_tl-wr941nd_v6
+device_page: tl-wr941nd
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/TE7/WR941NXV6
+firmware_oem_stock_url: https://www.tp-link.com/en/download/TL-WR941ND.html
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wr941nd-v6-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wr941nd-v6-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wr941nd-v6-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wr941nd-v6-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: TL-WR941ND
+git_search: TL-WR941ND
+jtag: false
+led_count: '8'
+malformed: {}
+model: TL-WR941ND
+oem_device_homepage_url: https://www.tp-link.com/en/products/details/cat-9_TL-WR941ND.html
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 32
+serial: true
+subtarget: tiny
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=7f75961e381540aa0434a12732908475de946cdf
+supported_since_rel: 15.05.1
+switch: Qualcomm Atheros TP9343
+target: ar71xx
+version: v6
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR941ND_v6.x
+wlan_24ghz: b/g/n
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA9561

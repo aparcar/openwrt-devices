@@ -1,0 +1,40 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Planex
+button_count: '3'
+cpu: Atheros AR9130
+cpu_cores: 1
+cpu_mhz: 400
+device_id: planex_mzk-w300nh
+device_page: mzk-w300nh
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/SJ9/-MZKW300NH
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-mzk-w300nh-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-mzk-w300nh-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-mzk-w300nh-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-mzk-w300nh-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: MZK-W300NH
+git_search: MZK-W300NH
+installation_method_s: unknown
+led_count: '10'
+malformed: {}
+model: MZK-W300NH
+package_architecture: mips_24kc
+power_supply: 5 VDC, 2.5 A
+ram_mb: 32
+recovery_method_s: unknown
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=c8bf295481f14a5d9ff072cd7629c2b23c16447f
+supported_since_rel: '10.03'
+switch: Atheros AR8216
+target: ar71xx
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/Planex_MZK-W300NH
+wlan_24ghz: b/g/n
+wlan_comments: 2x2 MIMO
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9102

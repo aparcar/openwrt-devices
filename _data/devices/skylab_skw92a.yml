@@ -1,0 +1,33 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Skylab
+button_count: '2'
+cpu: MediaTek MT7628NN
+cpu_cores: 1
+cpu_mhz: 580
+detachable_antennas: '2'
+device_id: skylab_skw92a
+device_type: Single Board Computer
+ethernet_100m_ports: 5
+fccid: "http://\xBF"
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt76x8/openwrt-ramips-mt76x8-skylab_skw92a-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: SKW92A
+git_search: SKW92A
+led_count: '7'
+malformed: {}
+model: SKW92A EVB
+oem_device_homepage_url: http://www.skylabmodule.com/iot-ap-wifi-module-skw92a/
+package_architecture: mipsel_24kc
+power_supply: 3.3 VDC, 0.85 A
+ram_mb: 64
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt76x8
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=e42327aa890e64f8bf5e620c2b2a1fd609ce20fb
+target: ramips
+version: E16
+wlan_24ghz: b/g/n
+wlan_driver: mt76
+wlan_hardware: MediaTek MT7628NN

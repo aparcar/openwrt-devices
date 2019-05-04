@@ -1,0 +1,24 @@
+availability: Discontinued
+brand: Belkin
+cpu: Realtek RTL8651B
+cpu_cores: 1
+cpu_mhz: 200
+device_id: belkin_f5d8230-4v2_v1000
+device_page: f5d8230-4v2
+device_type: WiFi Router
+ethernet_100m_ports: 5
+flash_mb: 4
+forum_search: F5D8230-4v2
+git_search: F5D8230-4v2
+malformed: {}
+model: F5D8230-4v2
+ram_mb: 16
+serial: true
+target: brcm47xx
+unsupported_functions: Impossible
+version: v1000
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/Belkin_F5D8230-4_v2
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Airgo AGN103BB-01 (mini-PCI)

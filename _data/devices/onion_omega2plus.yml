@@ -1,0 +1,37 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Onion
+cpu: MediaTek MT7688AN
+cpu_cores: 1
+cpu_mhz: 580
+device_id: onion_omega2plus
+device_type: Single Board Computer
+ethernet_100m_ports: 1
+fccid: https://fcc.io/2AJVP/-OMEGA2
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt76x8/openwrt-ramips-mt76x8-omega2p-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt76x8/openwrt-18.06.2-ramips-mt76x8-omega2p-squashfs-sysupgrade.bin
+forum_search: Omega2
+git_search: Omega2
+gpios: '15'
+image: onion_omega2plus.png
+installation_method_s: unknown
+led_count: '1'
+malformed: {}
+model: Omega2+
+oem_device_homepage_url: https://onion.io
+package_architecture: mipsel_24kc
+power_supply: 3.3 VDC
+ram_mb: 128
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: mt76x8
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ab90f15c89da6aeadf8b95554fcd8ab8e3f433d0
+supported_since_rel: 17.01.0
+target: ramips
+usb_ports: 1x 2.0
+wikidevi_url: https://wikidevi.com/wiki/Onion_Omega2_Plus
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: MediaTek MT7688AN

@@ -1,0 +1,33 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: AXIMCom
+cpu: Ralink RT3050
+cpu_cores: 1
+cpu_mhz: 320
+device_id: aximcom_mr-102n
+device_page: mr-102n
+device_type: Travel Router - Battery powered
+ethernet_100m_ports: 1
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-mr-102n-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-mr-102n-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: MR-102N
+git_search: MR-102N
+installation_method_s: see devicepage
+malformed: {}
+model: MR-102N
+package_architecture: mipsel_24kc
+power_supply: 5 VDC, 2.0 A, 1700mAh battery
+ram_mb: 32
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=9c86abae0e22107ed10fad76b568190ac3f2a6ca
+supported_since_rel: '15.05'
+target: ramips
+usb_ports: 1x 2.0
+vlan: false
+wlan_24ghz: b/g/n
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT2860

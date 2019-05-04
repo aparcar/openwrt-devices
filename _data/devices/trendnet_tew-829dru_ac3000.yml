@@ -1,0 +1,44 @@
+availability: Available 2018
+bootloader: U-Boot
+brand: TRENDnet
+comments_network_ports: 2 WAN + 8 Port Switch
+cpu: Qualcomm IPQ4019
+cpu_cores: 4
+cpu_mhz: 717
+detachable_antennas: '6'
+device_id: trendnet_tew-829dru_ac3000
+device_page: trendnet_tew-829dru
+device_type: WiFi Router
+ethernet_gbit_ports: 10
+fccid: https://fccid.io/XU8TEW829DRU
+firmware_oem_stock_url: http://www.trendnet.com/support/supportdetail.asp?prod=100_TEW-829DRU
+firmware_openwrt_install_url: "http://\xBF"
+firmware_openwrt_snapshot_install_url: "http://\xBF"
+firmware_openwrt_snapshot_upgrade_url: "http://\xBF"
+firmware_openwrt_upgrade_url: "http://\xBF"
+forum_search: TEW-829DRU
+git_search: TEW-829DRU
+image: trendnet_tew-829dru_ac3000.png
+installation_method_s: unknown
+led_count: '5'
+malformed: {}
+model: TEW-829DRU
+oem_device_homepage_url: http://www.trendnet.com/products/business-router/ac3000-tri-band-wireless-gigabit-dual-wan-vpn-smb-router-TEW-829DRU
+package_architecture: arm_cortex-a7
+power_supply: 12 VDC, 3.0 A
+ram_mb: 256
+recovery_method_s: Serial
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+switch: Qualcomm Atheros QCA8337, QCA8075
+target: ipq40xx
+usb_ports: 1x 3.0
+version: v1.0R
+vlan: true
+where_available: amazon.com, newegg.com
+wikidevi_url: https://wikidevi.com/wiki/TRENDnet_TEW-829DRU_v1.0R
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: '2.4GHz: 2T2R, 5GHz: 4T4R. Proprietary firmware blobs in OEM firmware'
+wlan_driver: ath10k

@@ -1,0 +1,25 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Atmel
+cpu: Atmel AT32AP7000
+cpu_cores: 1
+cpu_mhz: 210
+device_id: atmel_atngw100
+device_page: atngw100
+device_type: Router
+ethernet_100m_ports: 2
+flash_mb: 16
+forum_search: ATNGW100
+git_search: ATNGW100
+installation_method_s: see devicepage
+jtag: true
+malformed: {}
+model: ATNGW100
+ram_mb: 32
+serial: true
+supported_current_rel: '8.09'
+supported_since_rel: '8.09'
+target: avr32
+usb_ports: 1x 2.0 Device
+vlan: false
+wlan_driver: unknown

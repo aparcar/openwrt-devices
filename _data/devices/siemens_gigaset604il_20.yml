@@ -1,0 +1,26 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Siemens
+comments_network_ports: 4x Eth
+cpu: Lantiq XWAY Danube
+cpu_cores: 2
+cpu_mhz: 333
+device_id: siemens_gigaset604il_20
+device_page: gigaset604il
+device_type: WiFi Router
+forum_search: Gigaset 604 IL
+git_search: Gigaset 604 IL
+jtag: true
+malformed: {}
+model: Gigaset 604 IL
+modem: ADSL2+
+package_architecture: mips_24kc
+ram_mb: 64
+serial: true
+target: lantiq
+unsupported_functions: Possible to support
+usb_ports: 1x 2.0
+version: '2.0'
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9160

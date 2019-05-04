@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Linksys
+comments: 'To be confirmed: Works with WRT160NL images according forum thread.'
+cpu: Atheros AR9130
+cpu_cores: 1
+cpu_mhz: 400
+detachable_antennas: '2'
+device_id: linksys_e2100l_10
+device_page: e2100l
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/Q87/-E2100L
+flash_mb: 8
+forum_search: E2100L
+git_search: E2100L
+jtag: true
+lede_forum_topic_url: https://forum.lede-project.org/t/e2100l-software/5104
+malformed: {}
+model: E2100L
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?pid=120791#p120791
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: 64
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=21cb84435a9fcc1b94b30a672d6d3a8751fe9afb
+switch: Realtek RTL8306SD
+target: ar71xx
+usb_ports: 1x 2.0
+version: '1.0'
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Linksys_E2100L
+wlan_24ghz: b/g/n
+wlan_driver: ath9k

@@ -1,0 +1,29 @@
+availability: unknown 2018
+brand: Netgear
+comments: Same hardware as WNR2000v3 except no WAN.
+cpu: Atheros AR7241
+cpu_cores: 1
+cpu_mhz: 360
+device_id: netgear_wn2000rpt_v2
+device_page: wnr2000
+device_type: WiFi Router
+ethernet_100m_ports: 4
+firmware_oem_stock_url: http://support.netgear.com/product/WN2000RPTv2
+flash_mb: 4
+forum_search: WN2000RPT
+git_search: WN2000RPT
+jtag: true
+malformed: {}
+model: WN2000RPT
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 32
+serial: true
+subtarget: generic
+target: ar71xx
+version: v2
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Netgear_WN2000RPTv2
+wlan_24ghz: b/g/n
+wlan_comments: 2x2 MIMO
+wlan_driver: unknown

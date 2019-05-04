@@ -1,0 +1,42 @@
+availability: Available 2019
+bootloader: RouterBOOT
+brand: MikroTik
+button_count: '1'
+cpu: MediaTek MT7621A
+cpu_cores: 2
+cpu_mhz: 880
+device_id: mikrotik_rbm33g
+device_page: mikrotik_rbm33g
+device_type: Router
+ethernet_gbit_ports: 3
+firmware_oem_stock_url: "http://\xBF"
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-mikrotik_rbm33g-initramfs-kernel.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-mikrotik_rbm33g-initramfs-kernel.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-mikrotik_rbm33g-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-mikrotik_rbm33g-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: RBM33G
+git_search: RBM33G
+gpios: '12'
+image: mikrotik_rbm33g.jpg
+jtag: true
+led_count: '2'
+malformed: {}
+model: RBM33G
+oem_device_homepage_url: https://mikrotik.com/product/rbm33g
+package_architecture: mipsel_24kc
+power_supply: 11-32 VDC passive PoE, 11-32 VDC DC-jack
+ram_mb: 256
+recovery_method_s: see devicepage
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: mt7621
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=5684d087418d176cfdef4e045e1950ca7ba3b09f
+supported_since_rel: 18.06.0
+switch: MediaTek MT7621A
+target: ramips
+usb_ports: 1x 3.0
+vlan: true
+where_available: mikrotik-store.eu, amazon.com, amazon.de
+wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_M33_(RBM33G)

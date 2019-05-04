@@ -1,0 +1,32 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: ZBT
+button_count: '1'
+cpu: MediaTek MT7620N
+cpu_cores: 1
+cpu_mhz: 600
+device_id: zbt_cpe102
+device_type: WiFi AP
+ethernet_100m_ports: 1
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-zbt-cpe102-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-zbt-cpe102-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: CPE102
+git_search: CPE102
+installation_method_s: unknown
+led_count: '3'
+malformed: {}
+model: CPE102
+oem_device_homepage_url: http://www.zbtlink.com/products/ap/huwaiAP/2016/0921/204.html
+package_architecture: mipsel_24kc
+power_supply: PoE
+ram_mb: 64
+recovery_method_s: unknown
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=66aae9a27154f837607337fc099bd72fe4a9edf9
+supported_since_rel: 17.01.0
+target: ramips
+where_available: zbt.en.alibaba.com
+wlan_24ghz: b/g/n
+wlan_driver: unknown

@@ -1,0 +1,45 @@
+availability: Available 2019
+bootloader: CFE
+brand: Netgear
+button_count: '3'
+cpu: Broadcom BCM4709A0
+cpu_cores: 2
+cpu_mhz: 1000
+device_id: netgear_r8000
+device_page: r8000
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/PY3/14200264
+firmware_oem_stock_url: https://www.netgear.com/support/product/R8000
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/bcm53xx/generic/openwrt-18.06.2-bcm53xx-netgear-r8000-squashfs.chk
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/bcm53xx/generic/lede-bcm53xx-netgear-r8000-squashfs.chk
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/bcm53xx/generic/lede-bcm53xx-netgear-r8000-squashfs.chk
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/bcm53xx/generic/openwrt-18.06.2-bcm53xx-netgear-r8000-squashfs.chk
+flash_mb: 128NAND
+forum_search: R8000
+git_search: R8000
+installation_method_s: CFE TFTP + serial recovery
+jtag: true
+led_count: '11'
+malformed:
+  flash_mb: 128NAND
+model: R8000
+oem_device_homepage_url: https://netgear.com/home/products/networking/wifi-routers/R8000.aspx
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=55367
+package_architecture: arm_cortex-a9
+power_supply: 12 VDC, 5.0 A
+ram_mb: 256
+recovery_method_s: CFE TFTP + serial recovery
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=251b42d4918a4508e71355669009399dfd5b47c4
+supported_since_rel: '15.05'
+switch: Broadcom BCM4709A0
+target: bcm53xx
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Netgear_R8000
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: brcmfmac
+wlan_hardware: Broadcom BCM43602

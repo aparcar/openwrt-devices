@@ -1,0 +1,32 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: Allnet
+cpu: Atheros AR7161
+cpu_cores: 1
+cpu_mhz: 680
+device_id: allnet_all0305
+device_page: all0305
+device_type: WiFi Router
+ethernet_gbit_ports: 1
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-all0305-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-all0305-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: ALL0305
+git_search: ALL0305
+installation_method_s: see devicepage
+malformed: {}
+model: ALL0305
+package_architecture: mips_24kc
+power_supply: PoE 802.3af
+ram_mb: 64
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=5a694e09c8559cc257e5252cf2ca4af153215e30
+supported_since_rel: '10.03'
+target: ar71xx
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Allnet_ALL0305
+wlan_24ghz: b/g
+wlan_50ghz: a
+wlan_driver: ath5k
+wlan_hardware: 2x Atheros AR5413 (mini-PCI)

@@ -1,0 +1,22 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Samsung
+cpu: Infineon PSB50505
+cpu_cores: 1
+cpu_mhz: 235
+device_id: samsung_smt-g3020
+device_page: smt-g3xx0
+device_type: Modem
+ethernet_100m_ports: 4
+flash_mb: 16
+forum_search: SMT-G3020
+git_search: SMT-G3020
+jtag: true
+malformed: {}
+model: SMT-G3020
+modem: ADSL2+
+ram_mb: 64
+serial: true
+target: lantiq
+usb_ports: 1x 2.0
+wlan_driver: unknown

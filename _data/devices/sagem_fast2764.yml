@@ -1,0 +1,19 @@
+availability: Discontinued
+brand: Sagem
+cpu: Ikanos Fusiv Vx180
+cpu_cores: 1
+cpu_mhz: 500
+device_id: sagem_fast2764
+device_page: fast2764
+device_type: WiFi Router
+flash_mb: 32
+forum_search: F@ST2764
+git_search: F@ST2764
+malformed: {}
+model: F@ST2764
+ram_mb: 128
+unsupported_functions: Possible to support
+usb_ports: 2x 2.0
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9227

@@ -1,0 +1,37 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Rakwireless
+cpu: MediaTek MT7628AN
+cpu_cores: 1
+cpu_mhz: 580
+detachable_antennas: '2'
+device_id: rakwireless_rak633
+device_type: Single Board Computer
+ethernet_100m_ports: 4
+fccid: "http://\xBF"
+firmware_oem_stock_url: "http://\xBF"
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt76x8/openwrt-ramips-mt76x8-rakwireless_rak633-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: RAK633
+git_search: RAK633
+gpios: '1'
+jtag: false
+led_count: '1'
+malformed: {}
+model: RAK633
+oem_device_homepage_url: https://www.rakwireless.com/en/download/WIFI/RAK633
+package_architecture: mipsel_24kc
+power_supply: 3.3 VDC, 0.80 A
+ram_mb: 64
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+subtarget: mt76x8
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=9e0fb5a27ff53214734a0d8776161342cf7359e8
+target: ramips
+usb_ports: 1x 2.0
+vlan: true
+where_available: aliexpress.com
+wlan_24ghz: b/g/n
+wlan_driver: mt76
+wlan_hardware: MediaTek MT7628AN

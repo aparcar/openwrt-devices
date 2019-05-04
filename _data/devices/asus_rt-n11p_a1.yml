@@ -1,0 +1,40 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Asus
+button_count: '1'
+comments: RT-N11P uses RT-N12P image according git-commit
+cpu: MediaTek MT7620N
+cpu_cores: 1
+cpu_mhz: 580
+device_id: asus_rt-n11p_a1
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/MSQ/-RT1901
+firmware_oem_stock_url: https://www.asus.com/Networking/RTN11P/HelpDesk_Download/
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-rt-n12p-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-rt-n12p-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: RT-N11P
+git_search: RT-N11P
+image: asus_rt-n11p_a1.jpg
+led_count: '4'
+malformed: {}
+model: RT-N11P
+oem_device_homepage_url: https://www.asus.com/Networking/RTN11P/
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 32
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=openwrt/openwrt.git;a=commit;h=58e0673900ea585b03d3cc2f8917667faa3f977f
+supported_since_rel: 18.06.0
+switch: MediaTek MT7620N
+target: ramips
+version: A1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N11P
+wlan_24ghz: b/g/n
+wlan_driver: mt76
+wlan_hardware: MediaTek MT7620N

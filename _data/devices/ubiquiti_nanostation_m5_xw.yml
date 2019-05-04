@@ -1,0 +1,34 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Ubiquiti
+cpu: Atheros AR9342
+cpu_cores: 1
+cpu_mhz: 400
+device_id: ubiquiti_nanostation_m5_xw
+device_page: nanostationm5
+device_type: WiFi Router
+ethernet_100m_ports: 2
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ubnt-nano-m-xw-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-ubnt_nanostation-m-xw-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-ubnt_nanostation-m-xw-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ubnt-nano-m-xw-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: NanoStation M5 xw
+git_search: NanoStation M5 xw
+gluon_support: true
+malformed: {}
+model: NanoStation M5 xw
+package_architecture: mips_24kc
+ram_mb: 64
+recovery_method_s: U-Boot TFTP recovery
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e503eeb46555363aa0548148d45ac01fd6706435
+supported_since_rel: '14.07'
+switch: Atheros AR8236
+target: ar71xx-ath79
+vlan: true
+wlan_50ghz: a/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9342

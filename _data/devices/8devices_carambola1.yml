@@ -1,0 +1,39 @@
+availability: Discontinued 2016
+bootloader: U-Boot
+brand: 8devices
+cpu: Ralink RT3050
+cpu_cores: 1
+cpu_mhz: 320
+device_id: 8devices_carambola1
+device_page: carambola
+device_type: Single Board Computer
+ethernet_100m_ports: 2
+fccid: https://fcc.io/Z9W/-CM1
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-carambola-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-carambola-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: Carambola
+git_search: Carambola
+gpios: '20'
+installation_method_s: unknown
+jtag: true
+malformed: {}
+model: Carambola 1
+oem_device_homepage_url: http://shop.8devices.com/carambola
+package_architecture: mipsel_24kc
+power_supply: 3.3 VDC, 0.5 A
+ram_mb: 32
+recovery_method_s: unknown
+serial: true
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=1617f226a906f82ce6516e3e5a1e0909d8aa8806
+supported_since_rel: '12.09'
+switch: Ralink RT3050
+target: ramips
+usb_ports: true
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/8devices_Carambola
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink RT3050

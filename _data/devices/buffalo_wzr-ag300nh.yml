@@ -1,0 +1,28 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Buffalo
+cpu: Marvell 88F5181
+cpu_cores: 1
+cpu_mhz: 500
+device_id: buffalo_wzr-ag300nh
+device_page: wzr-ag300nh
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+flash_mb: 8
+forum_search: WZR-AG300NH
+git_search: WZR-AG300NH
+gluon_support: true
+malformed: {}
+model: WZR-AG300NH
+oem_device_homepage_url: http://www.buffalotech.com/products/wireless/single-band-routers/wireless-n-nfiniti-dual-band-gigabit-router-access-point
+power_supply: 12 VDC, 1.3 A
+ram_mb: 32
+serial: true
+switch: Marvell 88E6131
+target: orion
+unsupported_functions: WIP
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/Buffalo_WZR-AG300NH
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: mwlwifi

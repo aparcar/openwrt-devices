@@ -1,0 +1,35 @@
+availability: Discontinued
+brand: Asus
+cpu: Broadcom BCM5356
+cpu_cores: 1
+cpu_mhz: 300
+device_id: asus_rt-n10p_v2
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/MSQ/-RTN10P
+firmware_oem_stock_url: https://www.asus.com/Networking/RTN10P_V2/HelpDesk_BIOS/
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-asus-rt-n10p-v2-squashfs.trx
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-asus-rt-n10p-v2-squashfs.trx
+flash_mb: 4
+forum_search: RT-N10P
+git_search: RT-N10P
+installation_method_s: unknown
+malformed: {}
+model: RT-N10P
+oem_device_homepage_url: https://www.asus.com/Networking/RTN10P_V2/
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 0.5 A
+ram_mb: 32
+recovery_method_s: unknown
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=69aefc771fd8a7d7450e856a5432fcc15cfc8fc9
+supported_since_rel: 17.01.0
+switch: Broadcom BCM5356
+target: brcm47xx
+unsupported_functions: WiFi 2.4GHz
+version: v2
+wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N10P_V2
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM5356

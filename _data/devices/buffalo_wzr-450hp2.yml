@@ -1,0 +1,39 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Buffalo
+button_count: '2'
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: 1
+cpu_mhz: 720
+device_id: buffalo_wzr-450hp2
+device_page: wzr-450hp2
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-wzr-450hp2-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-wzr-450hp2-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-wzr-450hp2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-wzr-450hp2-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: WZR-450HP2
+git_search: WZR-450HP2
+gluon_support: true
+installation_method_s: see devicepage
+jtag: true
+led_count: '5'
+malformed: {}
+model: WZR-450HP2
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 128
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=a1837135e04b511a6204937c8ed00ba637cc6f0f
+supported_since_rel: '15.05'
+switch: Atheros AR8327
+target: ar71xx
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Buffalo_WZR-450HP2D
+wlan_24ghz: b/g/n
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA9558

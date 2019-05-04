@@ -1,0 +1,40 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TP-Link
+button_count: '3'
+comment_recovery: 'TFTP recovery filename: tp_recovery.bin (use factory image)'
+cpu: Qualcomm Atheros QCA9561
+cpu_cores: 1
+cpu_mhz: 775
+device_id: tp-link_archer_c59_v2
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: "http://\xBF"
+firmware_oem_stock_url: https://www.tp-link.com/en/download/Archer-C59_V2.html
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-archer-c59-v2-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-archer-c59-v2-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: Archer C59
+git_search: Archer C59
+jtag: false
+led_count: '7'
+malformed: {}
+model: Archer C59
+oem_device_homepage_url: https://www.tp-link.com/en/products/details/cat-9_Archer-C59.html
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 128
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=4caab808300ad75575d778bae6e184caa26aeabc
+switch: Qualcomm Atheros QCA9561
+target: ar71xx
+usb_ports: 1x 2.0
+version: v2
+vlan: true
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 3T3R 2.4 GHz; 2T2R 5 GHz
+wlan_driver: ath10k

@@ -1,0 +1,32 @@
+availability: Discontinued
+bootloader: CFE
+brand: Compex
+cpu: Atheros AR7130
+cpu_cores: 1
+cpu_mhz: 300
+device_id: compex_mmc543hv_6e03
+device_page: mmc543hv
+device_type: WiFi Router
+ethernet_100m_ports: 1
+firmware_openwrt_install_url: http://downloads.lede-project.org/releases/17.01.4/targets/ar71xx/generic/lede-17.01.4-ar71xx-generic-wp543-squashfs-4M-factory.img
+firmware_openwrt_upgrade_url: http://downloads.lede-project.org/releases/17.01.4/targets/ar71xx/generic/lede-17.01.4-ar71xx-generic-wp543-squashfs-4M-sysupgrade.bin
+flash_mb: 4
+forum_search: MMC543HV
+git_search: MMC543HV
+jtag: true
+malformed: {}
+model: MMC543HV
+package_architecture: mips_24kc
+ram_mb: 32
+recovery_method_s: CFE TFTP recovery
+serial: true
+subtarget: generic
+supported_current_rel: 17.01.4
+supported_since_rel: '12.09'
+target: ar71xx
+version: 6E03
+vlan: false
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: unknown
+wlan_hardware: ALL Compex Atheros WLM200 series mini-PCI

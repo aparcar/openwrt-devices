@@ -1,0 +1,42 @@
+availability: Discontinued
+bootloader: CFE
+brand: Linksys
+button_count: '1'
+cpu: Broadcom BCM4785
+cpu_cores: 1
+cpu_mhz: 300
+device_id: linksys_wrt350n_v1
+device_page: wrt350nv1
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/Q87/-WRT350N
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/generic/openwrt-18.06.2-brcm47xx-generic-linksys-wrt350n-v1-squashfs.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/generic/lede-brcm47xx-generic-linksys-wrt350n-v1-squashfs.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/generic/lede-brcm47xx-generic-linksys-wrt350n-v1-squashfs.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/generic/openwrt-18.06.2-brcm47xx-generic-linksys-wrt350n-v1-squashfs.bin
+flash_mb: 8
+forum_search: WRT350N
+git_search: WRT350N
+jtag: true
+led_count: '9'
+malformed: {}
+model: WRT350N
+package_architecture: mipsel_mips32
+power_supply: 12 VDC, 1.25 A
+ram_mb: 32
+recovery_method_s: CFE TFTP recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=85a1127f2dc5b842ec8838c44105f1d2a8100e9b
+supported_since_rel: '15.05'
+switch: Broadcom BCM5397
+target: brcm47xx
+usb_ports: 1x 2.0
+version: v1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT350N_v1
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom (cardbus)

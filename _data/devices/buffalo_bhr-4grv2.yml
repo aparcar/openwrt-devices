@@ -1,0 +1,34 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Buffalo
+comment_installation: For ath79 see new installation instructions in https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=879f2ef7c0720c49f0911a6a3a7f8fe4111c2acb
+cpu: Qualcomm Atheros QCA9557
+cpu_cores: 1
+device_id: buffalo_bhr-4grv2
+device_type: Router
+ethernet_gbit_ports: 5
+firmware_oem_stock_url: http://buffalo.jp/download/driver/lan/bhr-4grv2.html
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-bhr-4grv2-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-bhr-4grv2-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-bhr-4grv2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-bhr-4grv2-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: BHR-4GRV2
+git_search: BHR-4GRV2
+installation_method_s: GUI OEM
+malformed: {}
+model: BHR-4GRV2
+oem_device_homepage_url: http://buffalo.jp/product/wired-lan/router/bhr-4grv2/
+package_architecture: mips_24kc
+ram_mb: 64
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=016520330440cb0aca4367150911721b748f75e8
+supported_since_rel: 17.01.0
+switch: Qualcomm Atheros QCA8337N
+target: ar71xx-ath79
+vlan: true
+where_available: amazon.co.jp

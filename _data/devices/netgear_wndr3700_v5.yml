@@ -1,0 +1,42 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Netgear
+comments_network_ports: 1x WAN + 4x LAN
+cpu: MediaTek MT7621ST
+cpu_cores: 1
+cpu_mhz: 880
+device_id: netgear_wndr3700_v5
+device_page: wndr3700
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+firmware_oem_stock_url: http://support.netgear.de/product/WNDR3700v5
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-wndr3700v5-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-wndr3700v5-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: WNDR3700
+git_search: WNDR3700
+gluon_support: Broken
+jtag: false
+led_count: '9'
+malformed: {}
+model: WNDR3700
+oem_device_homepage_url: http://www.netgear.com/home/products/networking/wifi-routers/wndr3700.aspx
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=56737
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: 128
+serial: true
+subtarget: mt7621
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=cb049e71cdc08e17f664403a0ef970c480ae5c4a
+supported_since_rel: 17.01.0
+switch: MediaTek MT7621ST
+target: ramips
+unsupported_functions: Radios do not work reliably yet
+usb_ports: 1x 2.0
+version: v5
+where_available: amazon.com
+wikidevi_url: https://wikidevi.com/wiki/Netgear_WNDR3700v5
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: mt76

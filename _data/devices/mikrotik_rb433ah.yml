@@ -1,0 +1,31 @@
+availability: Available 2019
+bootloader: RouterBOOT
+brand: MikroTik
+cpu: Atheros AR7161
+cpu_cores: 1
+cpu_mhz: 680
+device_id: mikrotik_rb433ah
+device_page: rb433
+device_type: Single Board Computer
+ethernet_100m_ports: 3
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-vmlinux-initramfs.elf
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-vmlinux-initramfs.elf
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-nand-64m-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-nand-64m-squashfs-sysupgrade.bin
+forum_search: RB433AH
+git_search: RB433AH
+malformed: {}
+model: RB433AH
+oem_device_homepage_url: https://routerboard.com/RB433AH
+package_architecture: mips_24kc
+ram_mb: 128
+subtarget: mikrotik
+supported_current_rel: 18.06.2
+supported_since_rel: '12.09'
+target: ar71xx
+usb_ports: Mod
+vlan: true
+where_available: mikrotik-store.eu
+wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_433AH_%28RB433AH%29
+wlan_driver: unknown
+wlan_hardware: 3x mini-PCI

@@ -1,0 +1,40 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Asus
+comments: RT-G32 C1 works with images of RT-N10plus
+cpu: Ralink RT3052
+cpu_cores: 1
+cpu_mhz: 320
+device_id: asus_rt-g32_c1
+device_page: rt-g32
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/MSQ/RTN10B
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-rt-n10-plus-initramfs-kernel.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/lede-ramips-rt305x-rt-n10-plus-initramfs-kernel.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/lede-ramips-rt305x-rt-n10-plus-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-rt-n10-plus-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: RT-G32
+git_search: RT-G32
+installation_method_s: U-Boot TFTP recovery
+jtag: false
+malformed: {}
+model: RT-G32
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 0.5 A
+ram_mb: 32
+recovery_method_s: U-Boot TFTP recovery
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_rel: '12.09'
+switch: Ralink RT3050F
+target: ramips
+version: C1
+wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-G32_rev_C1
+wlan_24ghz: b/g
+wlan_comments: 1x1
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT2860

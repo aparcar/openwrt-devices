@@ -1,0 +1,29 @@
+availability: unknown 2018
+bootloader: CFE
+brand: Belkin
+cpu: Broadcom BCM4718
+cpu_cores: 1
+cpu_mhz: 480
+device_id: belkin_playmaxf7d4301_1
+device_page: f7d4301
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+flash_mb: 8
+forum_search: Play Max (F7D4301)
+git_search: Play Max (F7D4301)
+malformed: {}
+model: Play Max (F7D4301)
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=57885
+package_architecture: mipsel_74kc
+ram_mb: 64
+serial: true
+switch: Broadcom BCM53115
+target: brcm47xx
+unsupported_functions: Possible to support
+usb_ports: 2x 2.0
+version: '1'
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Belkin_F7D4301
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: b43

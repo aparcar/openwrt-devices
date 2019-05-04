@@ -1,0 +1,27 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Dovado
+cpu: Ralink RT3050F
+cpu_cores: 1
+cpu_mhz: 320
+device_id: dovado_3gn
+device_page: 3g-6200n
+device_type: WiFi Router
+ethernet_100m_ports: 5
+flash_mb: 4
+forum_search: 3GN
+git_search: 3GN
+jtag: false
+malformed: {}
+model: 3GN
+package_architecture: mipsel_24kc
+ram_mb: 32
+serial: true
+subtarget: rt305x
+target: ramips
+unsupported_functions: Possible to support
+usb_ports: 1x 2.0
+wikidevi_url: https://wikidevi.com/wiki/Dovado_3GN
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink (integrated)

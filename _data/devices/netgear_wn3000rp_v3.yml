@@ -1,0 +1,41 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Netgear
+button_count: '3'
+cpu: MediaTek MT7620A
+cpu_cores: 1
+cpu_mhz: 580
+device_id: netgear_wn3000rp_v3
+device_type: Range Extender
+ethernet_100m_ports: 1
+fccid: https://fcc.io/PY3/14200268
+firmware_oem_stock_url: https://www.netgear.com/support/product/wn3000rpv3.aspx
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-wn3000rpv3-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/lede-ramips-mt7620-wn3000rpv3-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/lede-ramips-mt7620-wn3000rpv3-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-wn3000rpv3-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: WN3000RP
+git_search: WN3000RP
+installation_method_s: unknown
+jtag: false
+led_count: '10'
+malformed: {}
+model: WN3000RP
+oem_device_homepage_url: https://www.netgear.com/home/products/networking/wifi-range-extenders/WN3000RP.aspx
+package_architecture: mipsel_24kc
+power_supply: 100-240 VAC, 50-60 Hz, 0.1 A
+ram_mb: 32
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=7fb11c8ed2ca47716a2f27e5efed8bcd567cfc98
+supported_since_rel: 17.01.2
+target: ramips
+version: v3
+wikidevi_url: https://wikidevi.com/wiki/Netgear_WN3000RPv3
+wlan_24ghz: b/g/n
+wlan_driver: mt76
+wlan_hardware: MediaTek MT7620A

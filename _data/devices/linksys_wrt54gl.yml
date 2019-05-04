@@ -1,0 +1,33 @@
+availability: Available 2017
+brand: Linksys
+button_count: '1'
+cpu: Broadcom BCM5352
+cpu_cores: 1
+cpu_mhz: 200
+detachable_antennas: '2'
+device_id: linksys_wrt54gl
+device_page: wrt54g
+device_type: WiFi Router
+ethernet_100m_ports: 5
+firmware_oem_stock_url: http://www.linksys.com/us/support-article?articleNum=148652
+firmware_openwrt_install_url: http://downloads.openwrt.org/backfire/10.03.1/brcm-2.4/openwrt-brcm-2.4-squashfs.trx
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/backfire/10.03.1/brcm-2.4/openwrt-brcm-2.4-squashfs.trx
+flash_mb: 4
+forum_search: WRT54GL
+git_search: WRT54GL
+image: linksys_wrt54gl.jpg
+jtag: true
+malformed: {}
+model: WRT54GL
+oem_device_homepage_url: http://www.linksys.com/us/p/P-WRT54GL/
+ram_mb: 16
+serial: true
+subtarget: legacy
+supported_current_rel: 10.03.1
+supported_since_rel: '0.9'
+target: brcm47xx
+usb_ports: Mod
+vlan: true
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM5352

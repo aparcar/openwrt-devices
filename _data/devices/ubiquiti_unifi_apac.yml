@@ -1,0 +1,34 @@
+availability: Available 2018
+bootloader: CFE
+brand: Ubiquiti
+comments: Pictures see http://www.smallnetbuilder.com/wireless/wireless-reviews/32153-ubiquiti-uap-ac-access-point-reviewed
+cpu: Broadcom BCM4706
+cpu_cores: 1
+cpu_mhz: 600
+device_id: ubiquiti_unifi_apac
+device_page: unifiac
+device_type: WiFi Router
+ethernet_gbit_ports: 2
+fccid: https://fcc.io/SWX/-UAPAC
+firmware_oem_stock_url: https://www.ubnt.com/download/unifi/unifi-ap-ac/uapac
+flash_mb: 16
+forum_search: UniFi AP AC
+git_search: UniFi AP AC
+gluon_support: true
+malformed: {}
+model: UniFi AP AC
+oem_device_homepage_url: https://www.ubnt.com/enterprise/
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=62984
+package_architecture: mipsel_74kc
+power_supply: 48 VDC, 0.5 A, PoE 802.3af
+ram_mb: 256
+serial: true
+subtarget: mips74k
+switch: Broadcom BCM53125
+target: brcm47xx
+vlan: true
+where_available: amazon.de
+wikidevi_url: https://wikidevi.com/wiki/Ubiquiti_Networks_UniFi_AP_AC_(UAP-AC)
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: b43

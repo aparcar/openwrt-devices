@@ -1,0 +1,47 @@
+audio_ports: other
+availability: Discontinued
+bootloader: JBoot
+brand: D-Link
+button_count: '2'
+cpu: MediaTek MT7620N
+cpu_cores: 1
+cpu_mhz: 580
+detachable_antennas: '2'
+device_id: d-link_dwr-921_c1
+device_page: d-link_dwr-921
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: "http://\xBF"
+firmware_oem_stock_url: https://eu.dlink.com/uk/en/products/dwr-921-4g-lte-router
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-dlink_dwr-921-c1-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-dlink_dwr-921-c1-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-dlink_dwr-921-c1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-dlink_dwr-921-c1-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: DWR-921
+git_search: DWR-921
+image: d-link_dwr-921_c1.jpg
+jtag: false
+led_count: '7'
+malformed: {}
+model: DWR-921
+modem: LTE
+oem_device_homepage_url: https://eu.dlink.com/uk/en/products/dwr-921-4g-lte-router
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=51451
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 64
+recovery_method_s: JBoot web recovery
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=6525bffc0a7ee6fabfe331a4d9e3eeabdd3516ae
+supported_since_rel: 18.06.0
+switch: MediaTek MT7620N
+target: ramips
+version: C1
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: mt76
+wlan_hardware: MediaTek MT7620N

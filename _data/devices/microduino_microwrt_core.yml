@@ -1,0 +1,40 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Microduino
+button_count: '2'
+cpu: MediaTek MT7620A
+cpu_cores: 1
+cpu_mhz: 580
+detachable_antennas: '2'
+device_id: microduino_microwrt_core
+device_page: microwrt
+device_type: Single Board Computer
+ethernet_100m_ports: 1
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-microwrt-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-microwrt-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: MicroWRT Core
+git_search: MicroWRT Core
+gpios: more than 20
+installation_method_s: unknown
+jtag: true
+led_count: '1'
+malformed: {}
+model: MicroWRT Core
+oem_device_homepage_url: http://wiki.microduinoinc.com/MicroWRT_Core
+package_architecture: mipsel_24kc
+power_supply: 5 VDC
+ram_mb: 64
+recovery_method_s: unknown
+serial: true
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b7f19a5b261966a6fc2a587ea43c1dd6aa189a55
+supported_since_rel: 17.01.0
+switch: MediaTek MT7530
+target: ramips
+usb_ports: 1x 2.0
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: mt76
+wlan_hardware: MediaTek MT7620A

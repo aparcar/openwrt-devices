@@ -1,0 +1,25 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: ZyXEL
+button_count: '3'
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: 1
+cpu_mhz: 720
+device_id: zyxel_emg2926-q10a_1-00
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+forum_search: EMG2926-Q10A
+git_search: EMG2926-Q10A
+malformed: {}
+model: EMG2926-Q10A
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=60141
+package_architecture: mips_24kc
+power_supply: 12 V
+ram_mb: 256
+serial: true
+target: ar71xx
+usb_ports: 2x 2.0
+where_available: newegg.ca
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: unknown

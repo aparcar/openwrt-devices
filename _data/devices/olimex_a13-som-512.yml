@@ -1,0 +1,32 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Olimex
+button_count: '2'
+cpu: Allwinner A13
+cpu_cores: 1
+cpu_mhz: 1000
+device_id: olimex_a13-som-512
+device_page: a13-olinuxino-som
+device_type: Single Board Computer
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/sunxi/cortexa8/openwrt-18.06.2-sunxi-cortexa8-sun5i-a13-olimex-som-squashfs-sdcard.img.gz
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/sunxi/cortexa8/openwrt-sunxi-cortexa8-sun5i-a13-olimex-som-squashfs-sdcard.img.gz
+forum_search: A13-SOM-512
+git_search: A13-SOM-512
+gpios: '4'
+image: olimex_a13-som-512.jpg
+installation_method_s: Sunxi installation
+jtag: false
+led_count: '1'
+malformed: {}
+model: A13-SOM-512
+oem_device_homepage_url: https://www.olimex.com/Products/SOM/A13/A13-SOM-512/
+package_architecture: arm_cortex-a8_vfpv3
+power_supply: 3.3 VDC
+ram_mb: 512
+serial: true
+subtarget: cortexa8
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=175aad61d4f823e11734c51c4b8ea6b26330110d
+supported_since_rel: '15.05'
+target: sunxi
+where_available: olimex.com

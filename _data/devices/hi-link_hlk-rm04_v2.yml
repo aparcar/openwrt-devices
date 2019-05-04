@@ -1,0 +1,39 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Hi-Link
+cpu: Ralink RT5350
+cpu_cores: 1
+cpu_mhz: 360
+detachable_antennas: '1'
+device_id: hi-link_hlk-rm04_v2
+device_page: hlk-rm04
+device_type: WiFi Router
+ethernet_100m_ports: 2
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-hlk-rm04-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-hlk-rm04-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: HLK-RM04
+git_search: HLK-RM04
+gpios: '12'
+installation_method_s: see devicepage
+jtag: false
+malformed: {}
+model: HLK-RM04
+oem_device_homepage_url: http://www.hlktech.net/product_detail.php?ProId=49
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=42142
+package_architecture: mipsel_24kc
+power_supply: 3.9-5.5 VDC
+ram_mb: 32
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=3a64ddd0a18efe3c8fbf65579dca58672bf04fb1
+supported_since_rel: '14.07'
+target: ramips
+usb_ports: 1x 2.0
+version: v2
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink RT5350

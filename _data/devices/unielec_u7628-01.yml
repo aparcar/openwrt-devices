@@ -1,0 +1,37 @@
+availability: Available 2019
+bootloader: Breed
+brand: UniElec
+button_count: '1'
+cpu: MediaTek MT7628AN
+cpu_cores: 1
+cpu_mhz: 580
+device_id: unielec_u7628-01
+device_page: unielec_u7628-01
+device_type: WiFi Router
+ethernet_100m_ports: 5
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt76x8/openwrt-ramips-mt76x8-u7628-01-128M-16M-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt76x8/openwrt-18.06.2-ramips-mt76x8-u7628-01-128M-16M-squashfs-sysupgrade.bin
+forum_search: U7628-01
+git_search: U7628-01
+gpios: '10'
+installation_method_s: see git-commit
+led_count: '9'
+malformed: {}
+model: U7628-01
+oem_device_homepage_url: http://www.unielecinc.com/q/news/cn/p/product/detail.html?qd_guid=jZFULeWkzs
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 128
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt76x8
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=fa36bea470b3f1f26da4af80ac1e0f0b667a3466
+supported_since_rel: 18.06.0
+switch: MediaTek MT7628AN
+target: ramips
+unsupported_functions: microSD card reader
+usb_ports: 1x 2.0
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: mt76

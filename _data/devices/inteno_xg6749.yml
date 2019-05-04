@@ -1,0 +1,25 @@
+availability: Discontinued
+brand: Inteno
+button_count: '1'
+cpu: Broadcom BCM6338
+cpu_cores: 1
+cpu_mhz: 240
+device_id: inteno_xg6749
+device_type: other
+ethernet_gbit_ports: 9
+flash_mb: 8
+forum_search: XG6749
+git_search: XG6749
+led_count: '20'
+malformed: {}
+model: XG6749
+oem_device_homepage_url: http://inteno.se/store/tabid/141/categoryid/130/productid/442/default.aspx
+power_supply: 12 VDC, 1.5 A
+ram_mb: 32
+serial: true
+switch: Marvel 88E6185-LKJ1
+target: brcm63xx
+unsupported_functions: Possible to support
+version: v1.0
+vlan: true
+wlan_driver: unknown

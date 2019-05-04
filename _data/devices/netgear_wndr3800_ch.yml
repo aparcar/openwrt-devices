@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Netgear
+comments_network_ports: 5 Gigabit Ethernet - WLAN (1) and LAN (4)
+cpu: Atheros AR7161
+cpu_cores: 1
+cpu_mhz: 680
+device_id: netgear_wndr3800_ch
+device_page: wndr3800
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-wndr3800ch-squashfs-factory.img
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-wndr3800ch-squashfs-factory.img
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-wndr3800ch-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-wndr3800ch-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: WNDR3800
+git_search: WNDR3800
+gluon_support: true
+jtag: true
+malformed: {}
+model: WNDR3800
+package_architecture: mips_24kc
+power_supply: 12 VDC, 2.5 A
+ram_mb: 128
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e7be51a0fd57b9dd12b764ff0414ad5eccb5c8dc
+supported_since_rel: 15.05.1
+target: ar71xx
+usb_ports: 1x 2.0
+version: 1CHNAS
+vlan: true
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: ath9k

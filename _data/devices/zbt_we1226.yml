@@ -1,0 +1,36 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: ZBT
+button_count: '1'
+cpu: MediaTek MT7628NN
+cpu_cores: 1
+cpu_mhz: 580
+detachable_antennas: '2'
+device_id: zbt_we1226
+device_type: WiFi AP
+ethernet_100m_ports: 3
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt76x8/openwrt-ramips-mt76x8-zbtlink_zbt-we1226-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt76x8/openwrt-18.06.2-ramips-mt76x8-zbtlink_zbt-we1226-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: WE1226
+git_search: WE1226
+image: zbt_we1226.png
+installation_method_s: unknown
+led_count: '4'
+malformed: {}
+model: WE1226
+oem_device_homepage_url: http://www.zbtlink.com/products/router/ZBT-WE1226.html
+package_architecture: mipsel_24kc
+power_supply: 5 VDC, 1.0 A
+ram_mb: 64
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: mt76x8
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=9c4fe103cba323684521f8e5d596e3c616c5d276
+supported_since_rel: 18.06.0
+target: ramips
+unsupported_functions: Switch LEDs
+wlan_24ghz: b/g/n
+wlan_driver: unknown

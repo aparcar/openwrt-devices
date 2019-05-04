@@ -1,0 +1,28 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: Meraki
+cpu: Atheros AR2315
+cpu_cores: 1
+cpu_mhz: 180
+detachable_antennas: '1'
+device_id: meraki_mini
+device_page: mini
+device_type: WiFi Router
+ethernet_100m_ports: 1
+flash_mb: 8
+forum_search: Mini
+git_search: Mini
+malformed: {}
+model: Mini
+power_supply: 7.5 VDC, 1.0 A
+ram_mb: 32
+recovery_method_s: RedBoot TFTP + serial recovery
+serial: true
+supported_current_rel: '10.03'
+supported_since_rel: '10.03'
+target: ath25
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Meraki_Mini
+wlan_24ghz: b/g
+wlan_driver: unknown
+wlan_hardware: Atheros (integrated)

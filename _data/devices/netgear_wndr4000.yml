@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: CFE
+brand: Netgear
+cpu: Broadcom BCM4718
+cpu_cores: 1
+cpu_mhz: 480
+device_id: netgear_wndr4000
+device_page: wndr4000
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/PY3/10400144
+firmware_oem_stock_url: http://support.netgear.de/product/WNDR4000
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-netgear-wndr4000-squashfs.chk
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-netgear-wndr4000-squashfs.chk
+flash_mb: 8
+forum_search: WNDR4000
+git_search: WNDR4000
+installation_method_s: unknown
+malformed: {}
+model: WNDR4000
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 2.5 A
+ram_mb: 64
+recovery_method_s: unknown
+serial: true
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=05623aebefb8c55d40e3c6795b40ca046a8e6181
+supported_since_rel: '14.07'
+switch: Broadcom BCM53115
+target: brcm47xx
+usb_ports: 1x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Netgear_WNDR4000
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: b43

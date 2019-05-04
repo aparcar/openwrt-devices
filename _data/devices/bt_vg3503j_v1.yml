@@ -1,0 +1,35 @@
+availability: Discontinued 2014
+bootloader: U-Boot
+brand: BT Openreach
+button_count: '1'
+cpu: Lantiq XRX200
+cpu_cores: 1
+cpu_mhz: 333
+device_id: bt_vg3503j_v1
+device_page: vg3503j
+device_type: Modem
+ethernet_100m_ports: 2
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xrx200/openwrt-lantiq-xrx200-arcadyan_vg3503j-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xrx200/openwrt-18.06.2-lantiq-xrx200-arcadyan_vg3503j-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: VG3503J
+git_search: VG3503J
+image: bt_vg3503j_v1.png
+installation_method_s: see devicepage
+jtag: false
+led_count: '2'
+malformed: {}
+model: VG3503J
+modem: VDSL2
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 32
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: xrx200
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=d5f87e193cb45d2067bd5667d7c6fb567bc34a56
+supported_since_rel: '15.05'
+target: lantiq
+version: v1
+vlan: true

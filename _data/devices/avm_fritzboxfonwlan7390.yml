@@ -1,0 +1,26 @@
+availability: Discontinued 2016
+brand: AVM
+comments: See also http://www.wehavemorefun.de/fritzbox/7390
+cpu: Ikanos Fusiv Vx180
+cpu_cores: 1
+cpu_mhz: 500
+device_id: avm_fritzboxfonwlan7390
+device_page: fritz.box.wlan.7390
+device_type: WiFi Router
+ethernet_gbit_ports: 4
+forum_search: FRITZ!Box Fon WLAN 7390
+git_search: FRITZ!Box Fon WLAN 7390
+jtag: true
+malformed: {}
+model: FRITZ!Box Fon WLAN 7390
+modem: ADSL2+
+ram_mb: 128
+serial: true
+serial_connection_parameters: 38400 / 8N1
+switch: Atheros AR8316
+unsupported_functions: Unknown if possible
+usb_ports: 2x 2.0
+wikidevi_url: https://wikidevi.com/wiki/AVM_FRITZ!Box_Fon_WLAN_7390
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: ath9k

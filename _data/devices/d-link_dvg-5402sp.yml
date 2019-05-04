@@ -1,0 +1,29 @@
+availability: unknown 2018
+bootloader: other
+brand: D-Link
+button_count: '1'
+comments: VoIP. Looks like Octtel SP5220
+comments_network_ports: 4*LAN, 1*WAN
+cpu: Realtek RTL8651BV
+cpu_cores: 1
+cpu_mhz: 200
+device_id: d-link_dvg-5402sp
+device_page: dvg-5402sp
+device_type: Router
+ethernet_100m_ports: 5
+firmware_oem_stock_url: ftp://ftp.dlink.ru/pub/VoIP/DVG-5402SP/Firmware/
+flash_mb: 4
+forum_search: DVG-5402SP
+git_search: DVG-5402SP
+led_count: '11'
+malformed: {}
+model: DVG-5402SP
+oem_device_homepage_url: http://www.dlink.ru/ru/products/8/782_d.html
+phone_ports: '2'
+power_supply: 12 VDC, 1.25 A
+ram_mb: 32
+serial: true
+switch: Realtek RTL8651
+version: B2
+vlan: true
+wlan_driver: unknown

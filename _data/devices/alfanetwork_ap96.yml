@@ -1,0 +1,30 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: ALFA Network
+button_count: '1'
+cpu: Atheros AR7161
+cpu_cores: 1
+cpu_mhz: 680
+device_id: alfanetwork_ap96
+device_page: ap96
+device_type: Router
+ethernet_gbit_ports: 2
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-alfa-ap96-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-alfa-ap96-squashfs-sysupgrade.bin
+forum_search: AP96
+git_search: AP96
+installation_method_s: unknown
+jtag: true
+malformed: {}
+model: AP96
+package_architecture: mips_24kc
+power_supply: 12 VDC, PoE 48 VDC
+ram_mb: 128
+recovery_method_s: unknown
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=d65c6fe720c33dd05bd609d0c8570e3b4103d561
+supported_since_rel: '12.09'
+target: ar71xx
+wlan_driver: unknown

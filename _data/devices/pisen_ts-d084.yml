@@ -1,0 +1,34 @@
+availability: unknown 2018
+brand: PISEN
+button_count: '1'
+cpu: Atheros AR9331
+cpu_cores: 1
+cpu_mhz: 400
+device_id: pisen_ts-d084
+device_type: Travel Router - Battery powered
+ethernet_100m_ports: 1
+fccid: "http://\xBF"
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ts-d084-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-ts-d084-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-ts-d084-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ts-d084-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: TS-D084
+git_search: TS-D084
+led_count: '2'
+malformed: {}
+model: TS-D084
+oem_device_homepage_url: https://www.pisen.com.cn/product/show/2649.shtml
+package_architecture: mips_24kc
+power_supply: 100-240 VAC, 0.3 A, 50/60Hz, 5000 mAh battery
+ram_mb: 64
+recovery_method_s: unknown
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=a789c0f49159c618d990541c23e00630f7296ebc
+supported_since_rel: 18.06.0
+target: ar71xx
+usb_ports: 1x 2.0
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9331

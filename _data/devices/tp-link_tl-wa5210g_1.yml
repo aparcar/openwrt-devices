@@ -1,0 +1,28 @@
+availability: Discontinued
+bootloader: VxWorks
+brand: TP-Link
+cpu: Atheros AR2315
+cpu_cores: 1
+cpu_mhz: 180
+device_id: tp-link_tl-wa5210g_1
+device_page: tl-wa5210g
+device_type: WiFi Router
+ethernet_100m_ports: 1
+flash_mb: 4
+forum_search: TL-WA5210G
+git_search: TL-WA5210G
+installation_method_s: see devicepage
+malformed: {}
+model: TL-WA5210G
+power_supply: 12 VDC, 1.0 A
+ram_mb: 16
+serial: true
+supported_current_rel: 10.03.1
+supported_since_rel: '8.09'
+target: ath25
+version: v1
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WA5210G
+wlan_24ghz: b/g
+wlan_driver: unknown
+wlan_hardware: Atheros (integrated)

@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: BIOS
+brand: PC Engines
+comments: CPU has 128-CBC HW Encrytion
+cpu: AMD Geode LX700
+cpu_cores: 1
+cpu_mhz: 433
+device_id: pcengines_alix3d1
+device_page: alix
+device_type: Single Board Computer
+ethernet_100m_ports: 1
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/x86/geode/openwrt-18.06.2-x86-geode-combined-ext4.img.gz
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/x86/geode/lede-x86-geode-combined-ext4.img.gz
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/x86/geode/lede-x86-geode-combined-ext4.img.gz
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/x86/geode/openwrt-18.06.2-x86-geode-combined-ext4.img.gz
+flash_mb: CF card
+forum_search: ALIX 3d1
+git_search: ALIX 3d1
+led_count: '3'
+malformed:
+  flash_mb: CF card
+model: ALIX 3d1
+oem_device_homepage_url: https://pcengines.ch/alix.htm
+package_architecture: i386_geode
+power_supply: DC jack or passive POE, min. 7V to max. 20V
+ram_mb: 128
+recovery_method_s: CF card
+serial: true
+subtarget: geode
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=937362f270db8861cd046030869bdaac34582b94
+supported_since_rel: '10.03'
+target: x86
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/PC-Engines_Alix_alix3d1
+wlan_driver: unknown
+wlan_hardware: 2x mini-PCI

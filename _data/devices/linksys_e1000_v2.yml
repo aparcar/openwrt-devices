@@ -1,0 +1,40 @@
+availability: Discontinued
+bootloader: CFE
+brand: Linksys
+cpu: Broadcom BCM5357
+cpu_cores: 1
+cpu_mhz: 300
+device_id: linksys_e1000_v2
+device_page: e1000
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/Q87/-E1000V2
+firmware_oem_stock_url: https://www.linksys.com/us/support-article?articleNum=148397
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-linksys-e1000-squashfs.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/openwrt-brcm47xx-mips74k-linksys-e1000-squashfs.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/openwrt-brcm47xx-mips74k-linksys-e1000-squashfs.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-linksys-e1000-squashfs.bin
+flash_mb: 4
+forum_search: E1000
+git_search: E1000
+installation_method_s: CFE TFTP + serial recovery
+jtag: true
+malformed: {}
+model: E1000
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 0.5 A
+ram_mb: 32
+recovery_method_s: CFE TFTP + serial recovery
+serial: true
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b73b915c549cadd8717c986447676240b553563c
+supported_since_rel: '14.07'
+switch: Broadcom BCM5357B0
+target: brcm47xx
+unsupported_functions: WiFi 2.4GHz
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Linksys_E1000_v2.0
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM5357B0

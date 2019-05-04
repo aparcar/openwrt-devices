@@ -1,0 +1,40 @@
+availability: Discontinued 2017
+bootloader: U-Boot
+brand: Teltonika
+button_count: '1'
+comments_network_ports: 3x LAN 1xWAN PoE
+cpu: Ralink RT305x
+cpu_cores: 1
+cpu_mhz: 320
+detachable_antennas: '3'
+device_id: teltonika_rut500
+device_page: rut5xx
+device_type: WiFi Router
+ethernet_100m_ports: 4
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-rut5xx-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-rut5xx-squashfs-sysupgrade.bin
+forum_search: RUT500
+git_search: RUT500
+installation_method_s: unknown
+jtag: false
+led_count: '1'
+malformed: {}
+model: RUT500
+modem: Mobile Wireless/Cellular network
+oem_device_homepage_url: http://www.teltonika.lt/uploads/docs/rut500_user_manual_v2_25.pdf
+package_architecture: mipsel_24kc
+power_supply: 7-30 VDC, <7W
+ram_mb: 32
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=efd09832febde11e9d4bc6fca6e471f94933867f
+supported_since_rel: '14.07'
+switch: rt305x-esw
+target: ramips
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink RT3050

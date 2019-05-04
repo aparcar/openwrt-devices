@@ -1,0 +1,32 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: Ubiquiti
+comments_network_ports: PoE
+cpu: Atheros AR2316A
+cpu_cores: 1
+cpu_mhz: 180
+detachable_antennas: '1'
+device_id: ubiquiti_bullet_2hp
+device_page: bullet
+device_type: WiFi Router
+ethernet_100m_ports: 1
+firmware_oem_stock_url: http://dl.ubnt.com/firmwares/XS-fw/v4.0.4/XS2.ar2316.v4.0.4.5074.150724.1340.bin
+flash_mb: 4
+forum_search: Bullet
+git_search: Bullet
+led_count: '5'
+malformed: {}
+model: Bullet
+oem_device_homepage_url: https://www.ubnt.com/download/airmax-legacy/bullet-legacy-models
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=55106
+power_supply: Passive PoE, max 24 VDC, max 8W
+ram_mb: 16
+serial: true
+target: ath25
+unsupported_functions: Impossible
+version: 2HP
+wikidevi_url: https://wikidevi.com/wiki/Ubiquiti_Networks_Bullet2HP
+wlan_24ghz: b/g
+wlan_comments: N-Male antenna connector
+wlan_driver: ath5k
+wlan_hardware: Atheros AR2316A

@@ -1,0 +1,46 @@
+availability: Available 2019
+bootloader: CFE
+brand: Linksys
+comments: Mine has a Cisco logo on it
+cpu: Broadcom BCM5357
+cpu_cores: 1
+cpu_mhz: 300
+device_id: linksys_e1200_v2
+device_page: linksys_e1200_2
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/Q87/-E1200V2
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-linksys-e1200-v2-squashfs.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-linksys-e1200-v2-squashfs.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-linksys-e1200-v2-squashfs.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-linksys-e1200-v2-squashfs.bin
+flash_mb: 8
+forum_search: E1200
+git_search: E1200
+image: linksys_e1200_v2.jpg
+installation_method_s: GUI OEM
+jtag: true
+malformed: {}
+model: E1200
+oem_device_homepage_url: http://www.linksys.com/us/support-product?pid=01t80000003KRTzAAO
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=48470
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 0.5 A
+ram_mb: 32
+recovery_method_s: CFE TFTP + serial recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=bc5b56f42b7185e1dc41aab77b2c1f98410918bf
+supported_since_rel: '14.07'
+switch: Broadcom BCM5357
+target: brcm47xx
+unsupported_functions: WiFi 2.4GHz
+version: v2
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Linksys_E1200_v2
+wlan_24ghz: b/g/n
+wlan_comments: MIMO 2x2:2
+wlan_driver: b43
+wlan_hardware: Broadcom BCM5357

@@ -1,0 +1,21 @@
+availability: Available 2019
+brand: QEMU (i386)
+comments_network_ports: '2'
+cpu: x86 kvm_guest
+cpu_cores: 1
+cpu_mhz: Emulator
+device_id: qemu_i386
+device_page: qemu
+device_type: Emulator
+installation_method_s: see devicepage
+malformed:
+  cpu_mhz: Emulator
+model: qemu-system-i386
+oem_device_homepage_url: https://www.qemu.org/
+package_architecture: i386_pentium4
+supported_current_rel: 15.05.1
+supported_since_rel: '10.03'
+target: x86
+version: 0.12.5
+vlan: false
+where_available: qemu.org

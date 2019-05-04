@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: brnboot
+brand: Arcadyan / Astoria
+button_count: '2'
+cpu: Lantiq XWAY Danube
+cpu_cores: 2
+cpu_mhz: 333
+device_id: arcadyanastoria_arv4518pw_r01
+device_page: arv4518pw
+device_type: WiFi Router
+ethernet_100m_ports: 4
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xway_legacy/openwrt-lantiq-xway_legacy-ARV4518PWR01-initramfs-kernel.bin
+flash_mb: 4
+forum_search: ARV4518PW
+git_search: ARV4518PW
+installation_method_s: unknown
+malformed: {}
+model: ARV4518PW
+modem: ADSL2+ Annex A
+package_architecture: mips_24kc
+power_supply: 15 VDC, 1.0 A
+ram_mb: 64
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: xway
+supported_current_rel: snapshot
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=a15b4bf6fc2805d91653e609291a100e232c7f0c
+supported_since_rel: 10.03.1
+switch: Realtek RTL8306SD
+target: lantiq
+usb_ports: 1x 2.0
+version: R01
+wikidevi_url: https://wikidevi.com/wiki/Arcadyan_ARV4518PW
+wlan_24ghz: b/g
+wlan_driver: unknown
+wlan_hardware: Atheros AR2417

@@ -1,0 +1,33 @@
+availability: unknown 2018
+bootloader: brnboot
+brand: Arcadyan / Astoria
+cpu: Lantiq XWAY Danube
+cpu_cores: 2
+cpu_mhz: 333
+detachable_antennas: '1'
+device_id: arcadyanastoria_arv452cpw
+device_page: arv452cpw
+device_type: WiFi Router
+ethernet_100m_ports: 4
+firmware_openwrt_install_url: http://downloads.openwrt.org/attitude_adjustment/12.09/lantiq/danube/openwrt-lantiq-danube-ARV452CPW-squashfs.image
+flash_mb: 4
+forum_search: ARV452CPW
+git_search: ARV452CPW
+installation_method_s: see devicepage
+malformed: {}
+model: ARV452CPW
+modem: ADSL2+
+package_architecture: mips_24kc
+power_supply: 15 VDC, 1.2 A
+ram_mb: 32
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: danube
+supported_current_rel: 10.03.1
+supported_since_rel: 10.03.1
+target: lantiq
+usb_ports: true
+vlan: true
+wlan_24ghz: b/g
+wlan_driver: unknown
+wlan_hardware: Ralink RT2561

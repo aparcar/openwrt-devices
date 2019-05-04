@@ -1,0 +1,39 @@
+availability: Available 2018
+bootloader: U-Boot
+brand: Xiaomi
+button_count: '1'
+cpu: MediaTek MT7621AT
+cpu_cores: 2
+cpu_mhz: 880
+device_id: xiaomi_miwifi_3g
+device_page: mir3g
+device_type: WiFi Router
+ethernet_gbit_ports: 3
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-mir3g-squashfs-sysupgrade.tar
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-mir3g-squashfs-sysupgrade.tar
+flash_mb: 128NAND
+image: xiaomi_miwifi_3g.jpg
+installation_method_s: see git-commit
+led_count: '3'
+malformed:
+  flash_mb: 128NAND
+model: MiWiFi 3G
+oem_device_homepage_url: http://www.mi.com/miwifi3g/
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: 256
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: mt7621
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=6e283cdc0da25928f8148805ebef7f8f2b769ee8
+supported_since_rel: 18.06.0
+switch: MediaTek MT7621AT
+target: ramips
+usb_ports: 1x 3.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Xiaomi_MiWiFi_3G
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 2.4G is unstable
+wlan_driver: mt76

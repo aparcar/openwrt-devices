@@ -1,0 +1,37 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: ALFA Network
+cpu: Atheros AR7240
+cpu_cores: 1
+cpu_mhz: 400
+device_id: alfanetwork_n2
+device_page: n2
+device_type: WiFi AP
+ethernet_100m_ports: 2
+firmware_oem_stock_url: http://www.alfa.com.tw/download.php
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-alfa-nx-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-alfa-nx-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-alfa-nx-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-alfa-nx-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: N2
+git_search: N2
+installation_method_s: unknown
+malformed: {}
+model: N2
+oem_device_homepage_url: http://www.alfa.com.tw/products_show.php?pc=28&ps=102
+package_architecture: mips_24kc
+power_supply: PoE 12-24 VDC
+ram_mb: 32
+recovery_method_s: unknown
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=1d3de89f3c93ac82006c933679dd3d4aba775c32
+supported_since_rel: '12.09'
+switch: Atheros AR7240
+target: ar71xx
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/ALFA_Network_N2
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9283

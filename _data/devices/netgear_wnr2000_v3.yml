@@ -1,0 +1,44 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Netgear
+button_count: '3'
+cpu: Atheros AR7240
+cpu_cores: 1
+cpu_mhz: 400
+device_id: netgear_wnr2000_v3
+device_page: wnr2000
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/PY3/10200135
+firmware_oem_stock_url: http://support.netgear.com/product/WNR2000v3
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-wnr2000v3-squashfs-factory.img
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-wnr2000v3-squashfs-factory.img
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-wnr2000v3-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-wnr2000v3-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: WNR2000
+git_search: WNR2000
+image: netgear_wnr2000_v3.jpg
+installation_method_s: see devicepage
+jtag: true
+led_count: '6'
+malformed: {}
+model: WNR2000
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=18279
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 32
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: tiny
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b29b7b65eaa2f39b3ea7596fc475e95748701430
+supported_since_rel: '14.07'
+switch: Atheros AR9287
+target: ar71xx
+version: v3
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/Netgear_WNR2000v3
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR7240

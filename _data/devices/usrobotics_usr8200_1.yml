@@ -1,0 +1,27 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: US Robotics
+cpu: Intel IXP422
+cpu_cores: 1
+cpu_mhz: 266
+device_id: usrobotics_usr8200_1
+device_page: usr8200
+device_type: Router
+ethernet_100m_ports: 5
+flash_mb: 16
+forum_search: USR8200
+git_search: USR8200
+jtag: true
+malformed: {}
+model: USR8200
+package_architecture: armeb_xscale
+power_supply: 12 VDC, 3.33 A
+ram_mb: 64
+serial: true
+subtarget: generic
+switch: Marvell 88E6060
+target: ixp4xx
+unsupported_functions: WIP
+usb_ports: 2x 2.0
+wikidevi_url: https://wikidevi.com/wiki/USRobotics_USR8200
+wlan_driver: unknown

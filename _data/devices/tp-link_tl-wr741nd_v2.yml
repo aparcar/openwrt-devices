@@ -1,0 +1,35 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TP-Link
+cpu: Atheros AR7240 rev 2
+cpu_cores: 1
+cpu_mhz: 350
+detachable_antennas: '1'
+device_id: tp-link_tl-wr741nd_v2
+device_page: tl-wr741nd
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/TE7/WR741NDV2
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wr741nd-v2-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wr741nd-v2-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wr741nd-v2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wr741nd-v2-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: TL-WR741ND
+git_search: TL-WR741ND
+image: tp-link_tl-wr741nd_v2.jpg
+malformed: {}
+model: TL-WR741ND
+oem_device_homepage_url: http://www.tp-link.com/us/products/details/TL-WR741ND.html
+package_architecture: mips_24kc
+power_supply: 5 VDC, 0.6 A
+ram_mb: 32
+recovery_method_s: U-Boot TFTP + serial recovery
+subtarget: tiny
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=6ceb1b03581eda64eb9285bdc7d23f109cfb1e4e
+supported_since_rel: 17.01.0
+target: ar71xx
+version: v2
+wlan_24ghz: b/g/n
+wlan_driver: unknown

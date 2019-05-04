@@ -1,0 +1,32 @@
+availability: Discontinued
+bootloader: BIOS
+brand: PC Engines
+cpu: PC Engines Wrap
+cpu_cores: 1
+cpu_mhz: 233
+device_id: pcengines_wrap
+device_page: wrap
+device_type: Single Board Computer
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/x86/legacy/
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/x86/legacy/
+flash_mb: CF card
+forum_search: WRAP
+git_search: WRAP
+led_count: '1'
+malformed:
+  flash_mb: CF card
+model: WRAP
+oem_device_homepage_url: https://www.pcengines.ch/wrap.htm
+package_architecture: i386_pentium4
+ram_mb: 128
+recovery_method_s: CF card
+serial: true
+serial_connection_parameters: 38400 / 8N1
+supported_current_rel: 18.06.2
+supported_since_rel: 10.03.1
+target: x86
+usb_ports: 1x Header
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/PC-Engines_Wrap_wrap1e202
+wlan_driver: unknown
+wlan_hardware: Optional (1x/2x mini-PCI)

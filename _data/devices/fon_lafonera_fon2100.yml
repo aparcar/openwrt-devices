@@ -1,0 +1,31 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: Fon
+comments_network_ports: '1'
+cpu: Atheros AR2315
+cpu_cores: 1
+cpu_mhz: 180
+detachable_antennas: '1'
+device_id: fon_lafonera_fon2100
+device_page: fonera
+device_type: WiFi Router
+ethernet_100m_ports: 1
+flash_mb: 8
+forum_search: La Fonera
+git_search: La Fonera
+jtag: false
+lede_forum_topic_url: https://forum.lede-project.org/t/fon-2100-low-ram-device/8667
+malformed: {}
+model: La Fonera
+power_supply: 5 VDC, 2.0 A
+ram_mb: 16
+recovery_method_s: RedBoot TFTP + serial recovery
+serial: true
+supported_current_rel: 10.03.1
+supported_since_rel: '8.09'
+target: ath25
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/Fonera_FON2100
+wlan_24ghz: b/g
+wlan_driver: unknown
+wlan_hardware: Atheros AR2315

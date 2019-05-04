@@ -1,0 +1,27 @@
+availability: Discontinued
+bootloader: CFE
+brand: D-Link
+cpu: Broadcom BCM6333
+cpu_cores: 1
+cpu_mhz: 240
+device_id: d-link_dsl-2640b_t1
+device_page: dsl-2640b
+device_type: WiFi Router
+ethernet_100m_ports: 4
+flash_mb: 4
+forum_search: DSL-2640B
+git_search: DSL-2640B
+malformed: {}
+model: DSL-2640B
+modem: ADSL
+ram_mb: 16
+serial: true
+switch: Broadcom BCM5325E
+target: brcm63xx
+unsupported_functions: Impossible
+version: T1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DSL-2640B_rev_T1
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4312

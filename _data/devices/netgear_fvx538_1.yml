@@ -1,0 +1,26 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: Netgear
+cpu: Intel IXP425
+cpu_cores: 1
+cpu_mhz: 533
+device_id: netgear_fvx538_1
+device_page: fvx538
+device_type: Router
+ethernet_100m_ports: 10
+ethernet_gbit_ports: 1
+firmware_oem_stock_url: http://www.netgear.com/support/product/FVX538v1.aspx
+flash_mb: 16
+forum_search: FVX538
+git_search: FVX538
+malformed: {}
+model: FVX538
+oem_device_homepage_url: http://www.netgear.com/support/product/FVX538v1.aspx
+package_architecture: armeb_xscale
+power_supply: 100-240 VAC, 50-60 Hz
+ram_mb: 32
+serial: true
+subtarget: generic
+target: ixp4xx
+version: v1
+wlan_driver: unknown

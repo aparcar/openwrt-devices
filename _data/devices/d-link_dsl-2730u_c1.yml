@@ -1,0 +1,33 @@
+availability: unknown 2018
+bootloader: CFE
+brand: D-Link
+button_count: '3'
+cpu: Broadcom BCM6328
+cpu_cores: 1
+cpu_mhz: 320
+device_id: d-link_dsl-2730u_c1
+device_page: dsl-2730u
+device_type: Modem
+ethernet_100m_ports: 4
+flash_mb: 8
+forum_search: DSL-2730U
+git_search: DSL-2730U
+installation_method_s: D-Link Recovery GUI
+led_count: '4'
+malformed: {}
+model: DSL-2730U
+modem: ADSL2+
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=36785
+package_architecture: mips_mips32
+power_supply: 12 VDC, 0.5 A
+ram_mb: 32
+recovery_method_s: D-Link Recovery GUI
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+switch: Broadcom BCM6328B0
+target: brcm63xx
+version: C1
+vlan: true
+wlan_24ghz: b/g/n
+wlan_hardware: Broadcom BCM4313

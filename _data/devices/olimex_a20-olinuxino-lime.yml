@@ -1,0 +1,39 @@
+audio_ports: other
+availability: Available 2019
+bootloader: U-Boot
+brand: Olimex
+button_count: '2'
+cpu: Allwinner A20
+cpu_cores: 2
+cpu_mhz: 1000
+device_id: olimex_a20-olinuxino-lime
+device_page: a20-olinuxino-lime
+device_type: Single Board Computer
+ethernet_100m_ports: 1
+firmware_oem_stock_url: ftp://staging.olimex.com/Allwinner_Images/A20-OLinuXino/
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/sunxi/cortexa7/openwrt-18.06.2-sunxi-cortexa7-sun7i-a20-olinuxino-lime-squashfs-sdcard.img.gz
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/sunxi/cortexa7/openwrt-sunxi-cortexa7-sun7i-a20-olinuxino-lime-squashfs-sdcard.img.gz
+flash_mb: microSD
+forum_search: A20-OLinuXino-LIME
+git_search: A20-OLinuXino-LIME
+gpios: more than 20
+image: olimex_a20-olinuxino-lime.jpg
+installation_method_s: Sunxi installation
+jtag: false
+led_count: '3'
+malformed:
+  flash_mb: microSD
+model: A20-OLinuXino-LIME
+oem_device_homepage_url: https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-LIME/
+package_architecture: arm_cortex-a8_vfpv3
+power_supply: 5 VDC, 3.7 VDC LiPo battery
+ram_mb: 512
+sata_ports: '1'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: cortexa7
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ddb98cb70f8ed4b1e44fa8680e185fa22c0b753c
+supported_since_rel: '15.05'
+target: sunxi
+where_available: olimex.com

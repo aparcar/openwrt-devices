@@ -1,0 +1,38 @@
+availability: unknown 2019
+bootloader: U-Boot
+brand: Librerouter
+button_count: '1'
+comment_installation: 'Prefered method: sysupgrade -n'
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: 1
+cpu_mhz: 720
+detachable_antennas: '4'
+device_id: librerouter_librerouter_v1
+device_type: WiFi Router
+ethernet_gbit_ports: 2
+fccid: "http://\xBF"
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-librerouter_librerouter-v1-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: LibreRouter
+git_search: LibreRouter
+gpios: '9'
+jtag: true
+led_count: '1'
+malformed: {}
+model: LibreRouter
+oem_device_homepage_url: https://librerouter.org/
+package_architecture: mips_24kc
+power_supply: PoE 10-32 VDC
+ram_mb: 128
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=24463d0d9479bf701e3aaa122f539a43cc97402b
+switch: Qualcomm Atheros QCA8337N
+target: ath79
+version: v1
+vlan: true
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: ath9k

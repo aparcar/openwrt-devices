@@ -1,0 +1,34 @@
+availability: Discontinued
+brand: Allnet
+button_count: '1'
+cpu: Ralink RT3052F
+cpu_cores: 1
+cpu_mhz: 384
+detachable_antennas: '2'
+device_id: allnet_all0239-3g
+device_page: all0239-3g
+device_type: WiFi Router
+ethernet_100m_ports: 5
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/attitude_adjustment/12.09/ramips/rt305x/openwrt-ramips-rt305x-all0239-3g-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: ALL0239-3G
+git_search: ALL0239-3G
+installation_method_s: GUI OEM
+jtag: true
+led_count: '11'
+malformed: {}
+model: ALL0239-3G
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 32
+serial: true
+subtarget: rt305x
+supported_current_rel: '12.09'
+supported_since_rel: '12.09'
+target: ramips
+usb_ports: 1x 2.0
+vlan: true
+wlan_24ghz: b/g/n
+wlan_comments: 2x2 MIMO
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT3052F

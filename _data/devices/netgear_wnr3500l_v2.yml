@@ -1,0 +1,39 @@
+availability: Discontinued
+bootloader: CFE
+brand: Netgear
+cpu: Broadcom BCM47186
+cpu_cores: 1
+cpu_mhz: 480
+device_id: netgear_wnr3500l_v2
+device_page: wnr3500l
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/PY3/10400153
+firmware_oem_stock_url: https://www.netgear.com/support/product/wnr3500lv2
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-netgear-wnr3500l-v2-squashfs.chk
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-netgear-wnr3500l-v2-squashfs.chk
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-netgear-wnr3500l-v2-squashfs.chk
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-netgear-wnr3500l-v2-squashfs.chk
+flash_mb: 128NAND
+forum_search: WNR3500L
+git_search: WNR3500L
+malformed:
+  flash_mb: 128NAND
+model: WNR3500L
+oem_device_homepage_url: https://www.netgear.com/support/product/wnr3500lv2
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: 128
+recovery_method_s: CFE TFTP + serial recovery
+serial: true
+subtarget: mips74k
+supported_since_rel: '15.05'
+switch: Broadcom BCM53115
+target: brcm47xx
+usb_ports: 1x 2.0
+version: v2
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Netgear_WNR3500Lv2
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM47186B0

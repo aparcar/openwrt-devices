@@ -1,0 +1,39 @@
+availability: Discontinued
+bootloader: CFE
+brand: Linksys
+cpu: Broadcom BCM4718
+cpu_cores: 1
+cpu_mhz: 480
+device_id: linksys_e4200_v1
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/Q87/-E4200
+firmware_oem_stock_url: https://www.linksys.com/us/support-article?articleNum=148376
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-linksys-e4200-v1-squashfs.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-linksys-e4200-v1-squashfs.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-linksys-e4200-v1-squashfs.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-linksys-e4200-v1-squashfs.bin
+flash_mb: 16
+forum_search: E4200
+git_search: E4200
+installation_method_s: unknown
+malformed: {}
+model: E4200
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?pid=290209
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 2.0 A
+ram_mb: 64
+recovery_method_s: unknown
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=98ef9e5411bfba94abc7db66d6e000122813dca8
+supported_since_rel: '14.07'
+switch: Broadcom BCM53115
+target: brcm47xx
+unsupported_functions: WiFi 5GHz
+usb_ports: 1x 2.0
+version: v1.0
+wikidevi_url: https://wikidevi.com/wiki/Linksys_E4200_v1
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: b43

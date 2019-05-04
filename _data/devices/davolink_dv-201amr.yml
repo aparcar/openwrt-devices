@@ -1,0 +1,35 @@
+availability: Discontinued
+bootloader: CFE
+brand: Davolink
+cpu: Broadcom BCM6348
+cpu_cores: 1
+cpu_mhz: 256
+detachable_antennas: '1'
+device_id: davolink_dv-201amr
+device_page: dv-201amr
+device_type: Modem
+ethernet_100m_ports: 4
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-DV-201AMR-squashfs-cfe-old.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-DV-201AMR-squashfs-cfe-old.bin
+flash_mb: 8
+forum_search: DV-201AMR
+git_search: DV-201AMR
+jtag: true
+malformed: {}
+model: DV-201AMR
+modem: ADSL2+
+package_architecture: mips_mips32
+phone_ports: '2'
+ram_mb: 16
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=5540ca300e5eff94f2df37ce48da8b801f947bb7
+supported_since_rel: 10.03.1
+target: brcm63xx
+unsupported_functions: DSL modem
+vlan: true
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4320 (mini-PCI)

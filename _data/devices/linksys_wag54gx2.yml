@@ -1,0 +1,27 @@
+availability: Discontinued
+bootloader: CFE
+brand: Linksys
+cpu: Broadcom BCM6348
+cpu_cores: 1
+cpu_mhz: 240
+device_id: linksys_wag54gx2
+device_page: wag54gx2
+device_type: WiFi Router
+ethernet_100m_ports: 4
+flash_mb: 8
+forum_search: WAG54GX2
+git_search: WAG54GX2
+jtag: true
+malformed: {}
+model: WAG54GX2
+modem: ADSL2+
+package_architecture: mips_mips32
+ram_mb: 32
+serial: true
+subtarget: generic
+target: brcm63xx
+unsupported_functions: Possible to support
+wikidevi_url: https://wikidevi.com/wiki/Linksys_WAG54GX2
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Airgo (mini-PCI)

@@ -1,0 +1,24 @@
+availability: Discontinued
+brand: Netgear
+cpu: Broadcom BCM4718
+cpu_cores: 1
+cpu_mhz: 480
+device_id: netgear_wnr3500u_v1
+device_page: wnr3500l
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+flash_mb: 8
+forum_search: WNR3500U
+git_search: WNR3500U
+malformed: {}
+model: WNR3500U
+package_architecture: mipsel_74kc
+ram_mb: 64
+serial: true
+target: brcm47xx
+unsupported_functions: Possible to support
+usb_ports: 1x 2.0
+version: v1
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom

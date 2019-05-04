@@ -1,0 +1,26 @@
+availability: Discontinued
+brand: TP-Link
+cpu: Atheros AR9341
+cpu_cores: 1
+cpu_mhz: 535
+device_id: tp-link_tl-wr800n_10
+device_page: tl-wr800n
+device_type: WiFi Router
+ethernet_100m_ports: 1
+flash_mb: 4
+forum_search: TL-WR800N
+git_search: TL-WR800N
+jtag: false
+malformed: {}
+model: TL-WR800N
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=36983
+package_architecture: mips_24kc
+ram_mb: 16
+serial: true
+subtarget: generic
+target: ar71xx
+unsupported_functions: Impossible
+version: '1.0'
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9341 (integrated)

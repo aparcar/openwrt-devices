@@ -1,0 +1,36 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Buffalo
+button_count: '4'
+cpu: MediaTek MT7621S
+cpu_cores: 1
+cpu_mhz: 880
+device_id: buffalo_wsr-600dhp
+device_page: wsr-600dhp
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/FDI/000000029
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-wsr-600-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-wsr-600-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: WSR-600DHP
+git_search: WSR-600DHP
+installation_method_s: unknown
+led_count: '4'
+malformed: {}
+model: WSR-600DHP
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=62414
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: 64
+recovery_method_s: unknown
+subtarget: mt7621
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=0371dabc1347fd902b1a62b050dbe56064d23567
+supported_since_rel: '15.05'
+switch: MediaTek MT7621S
+target: ramips
+wikidevi_url: https://wikidevi.com/wiki/Buffalo_AirStation_WSR-600DHP
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: mt76

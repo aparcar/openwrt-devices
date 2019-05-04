@@ -1,0 +1,32 @@
+availability: Discontinued
+brand: Devolo
+button_count: '1'
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: 1
+cpu_mhz: 720
+device_id: devolo_wifi_pro_1200i
+device_type: WiFi AP
+ethernet_gbit_ports: 1
+fccid: "http://\xBF"
+firmware_oem_stock_url: https://www2.devolo.com/en/Business-Solutions/Downloads/devolo-WiFi-pro-1200i
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-devolo_dvl1200i-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: WiFi pro 1200i
+git_search: WiFi pro 1200i
+led_count: '2'
+malformed: {}
+model: WiFi pro 1200i
+package_architecture: mips_24kc
+power_supply: PoE 802.3af/at
+ram_mb: 128
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=c8115167f946be85f812f3c94d6294b67ac8944c
+switch: Atheros AR8035
+target: ath79
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k-ct

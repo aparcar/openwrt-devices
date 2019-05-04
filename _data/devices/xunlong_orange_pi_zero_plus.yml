@@ -1,0 +1,40 @@
+audio_ports: other
+availability: Available 2019
+bootloader: U-Boot
+brand: Xunlong
+comments: 2x USB 2.0, Audio Stereo Out, Mic In, Video Out are available via 13 pin
+  header.
+comments_usb_sata_ports: uUSB supports FEL mode
+cpu: Allwinner H5
+cpu_cores: 4
+cpu_mhz: 1200
+detachable_antennas: '1'
+device_id: xunlong_orange_pi_zero_plus
+device_type: Single Board Computer
+ethernet_gbit_ports: 1
+firmware_oem_stock_url: http://www.orangepi.org/downloadresources/
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/sunxi/cortexa53/openwrt-18.06.2-sunxi-cortexa53-sun50i-h5-orangepi-zero-plus-ext4-sdcard.img.gz
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/sunxi/cortexa53/openwrt-sunxi-cortexa53-sun50i-h5-orangepi-zero-plus-ext4-sdcard.img.gz
+forum_search: Orange Pi Zero Plus
+git_search: Orange Pi Zero Plus
+gpios: more than 20
+installation_method_s: Sunxi installation
+led_count: '2'
+malformed: {}
+model: Orange Pi Zero Plus
+oem_device_homepage_url: http://www.orangepi.org/OrangePiZeroPlus/
+package_architecture: aarch64_cortex-a53
+power_supply: 5 VDC, 2.0 A
+ram_mb: 512
+serial: true
+subtarget: cortexa53
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=6be73c07dbd69d49493d69bbd7978ec3d89bef56
+supported_since_rel: 18.06.0
+target: sunxi
+unsupported_functions: WiFi 2.4GHz
+video_ports: other
+wlan_24ghz: b/g/n
+wlan_comments: Staging driver, but not supported now
+wlan_driver: other
+wlan_hardware: Realtek RTL8189FTV

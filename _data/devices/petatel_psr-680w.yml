@@ -1,0 +1,34 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Petatel
+button_count: '1'
+cpu: Ralink RT3052
+cpu_cores: 1
+cpu_mhz: 450
+detachable_antennas: '4'
+device_id: petatel_psr-680w
+device_page: psr-680w
+device_type: WiFi Router
+ethernet_100m_ports: 5
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-psr-680w-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-psr-680w-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: PSR-680W
+git_search: PSR-680W
+jtag: false
+malformed: {}
+model: PSR-680W
+modem: EVDO Rev.A
+package_architecture: mipsel_24kc
+ram_mb: 32
+recovery_method_s: U-Boot TFTP recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=833b4af81602e0afc302060972038dfbbc993708
+supported_since_rel: '12.09'
+target: ramips
+wlan_24ghz: b/g/n
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT3052

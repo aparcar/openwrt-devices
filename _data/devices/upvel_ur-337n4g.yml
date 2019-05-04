@@ -1,0 +1,24 @@
+availability: unknown 2018
+brand: Upvel
+cpu: Ralink RT3352
+cpu_cores: 1
+cpu_mhz: 400
+device_id: upvel_ur-337n4g
+device_type: WiFi Router
+ethernet_100m_ports: 5
+flash_mb: 16
+forum_search: UR-337N4G
+git_search: UR-337N4G
+malformed: {}
+model: UR-337N4G
+package_architecture: mipsel_24kc
+ram_mb: 64
+subtarget: rt305x
+target: ramips
+unsupported_functions: WIP
+usb_ports: 1x 2.0
+vlan: true
+wlan_24ghz: b/g/n
+wlan_comments: 2x2 MIMO
+wlan_driver: unknown
+wlan_hardware: Ralink RT3352

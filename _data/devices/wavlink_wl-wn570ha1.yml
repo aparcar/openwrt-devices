@@ -1,0 +1,35 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: WAVLINK
+button_count: '1'
+cpu: MediaTek MT7688AN
+cpu_cores: 1
+cpu_mhz: 580
+detachable_antennas: '2'
+device_id: wavlink_wl-wn570ha1
+device_type: WiFi AP
+ethernet_100m_ports: 1
+fccid: https://fcc.io/NZ3/-WN570
+firmware_oem_stock_url: "http://\xBF"
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt76x8/openwrt-ramips-mt76x8-wavlink_wl-wn570ha1-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: WL-WN570HA1
+git_search: WL-WN570HA1
+led_count: '5'
+malformed: {}
+model: WL-WN570HA1
+oem_device_homepage_url: https://www.wavlink.com/en_us/product/WL-WN570HA1.html
+package_architecture: mipsel_24kc
+power_supply: PoE 24 VDC, 0.5 A
+ram_mb: 64
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt76x8
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=a160f50d4f240019fafe95e80701ebb871c788fe
+target: ramips
+where_available: ebay, Amazon, aliexpress
+wikidevi_url: https://wikidevi.com/wiki/Wavlink_WL-WN570HA1
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

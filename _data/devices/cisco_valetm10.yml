@@ -1,0 +1,25 @@
+availability: Discontinued
+brand: Cisco
+cpu: Broadcom BCM4716
+cpu_cores: 1
+cpu_mhz: 300
+device_id: cisco_valetm10
+device_page: m10
+device_type: WiFi Router
+ethernet_100m_ports: 5
+flash_mb: 4
+forum_search: Valet M10
+git_search: Valet M10
+malformed: {}
+model: Valet M10
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 0.5 A
+ram_mb: 32
+subtarget: mips74k
+switch: Broadcom BCM5325E
+target: brcm47xx
+unsupported_functions: Possible to support
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4716

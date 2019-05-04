@@ -1,0 +1,32 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: Planex
+button_count: '2'
+cpu: MediaTek MT7620A
+cpu_cores: 1
+cpu_mhz: 580
+device_id: planex_mzk-ex750np
+device_type: Range Extender
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-mzk-ex750np-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-mzk-ex750np-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: MZK-EX750NP
+git_search: MZK-EX750NP
+installation_method_s: unknown
+led_count: '7'
+malformed: {}
+model: MZK-EX750NP
+oem_device_homepage_url: https://www.planex.co.jp/products/mzk-ex750np/
+package_architecture: mipsel_24kc
+power_supply: 110 VAC, 3W
+ram_mb: 64
+recovery_method_s: unknown
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=6b0425a18773552f109cadf918ee6b4bcc60eec0
+supported_since_rel: 17.01.0
+target: ramips
+unsupported_functions: WiFi 5GHz
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

@@ -1,0 +1,36 @@
+availability: Discontinued
+brand: Netgear
+cpu: Broadcom BCM4704KFBG
+cpu_cores: 1
+cpu_mhz: 264
+device_id: netgear_wnr834b_v2
+device_page: wnr834b
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/PY3/07100061
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/legacy/openwrt-18.06.2-brcm47xx-legacy-netgear-wnr834b-v2-squashfs.chk
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/legacy/lede-brcm47xx-legacy-netgear-wnr834b-v2-squashfs.chk
+flash_mb: 4
+forum_search: WNR834B
+git_search: WNR834B
+installation_method_s: unknown
+jtag: true
+malformed: {}
+model: WNR834B
+package_architecture: mipsel_mips32
+power_supply: 12 VDC, 1.0 A
+ram_mb: 16
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: legacy
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=7640f8904590b4810ef7a104fd69fc5b35caee4e
+supported_since_rel: '12.09'
+switch: Broadcom BCM5325F
+target: brcm47xx
+version: v2
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Netgear_WNR834Bv2
+wlan_24ghz: b/g/n
+wlan_driver: b43

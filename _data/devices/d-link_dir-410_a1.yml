@@ -1,0 +1,20 @@
+availability: Discontinued
+brand: D-Link
+cpu: Realtek RTL8196
+cpu_cores: 1
+cpu_mhz: 330
+device_id: d-link_dir-410_a1
+device_page: dir-410
+device_type: WiFi Router
+ethernet_100m_ports: 5
+flash_mb: 8
+forum_search: DIR-410
+git_search: DIR-410
+malformed: {}
+model: DIR-410
+ram_mb: 32
+usb_ports: 1x 2.0
+version: A1
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-410
+wlan_driver: rtl819x
+wlan_hardware: Realtek RTL8192

@@ -1,0 +1,43 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: ZyXEL
+button_count: '3'
+cpu: Qualcomm Atheros IPQ4018
+cpu_cores: 4
+cpu_mhz: 638
+device_id: zyxel_nbg6617
+device_page: zyxel_nbg6617
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/I88/NBG6617
+firmware_oem_stock_url: https://www.zyxel.com/products_services/AC1300-MU-MIMO-Dual-Band-Wireless-Gigabit-Router-NBG6617/downloads
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ipq40xx/generic/openwrt-ipq40xx-zyxel_nbg6617-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ipq40xx/generic/openwrt-ipq40xx-zyxel_nbg6617-squashfs-sysupgrade.bin
+flash_mb: 32
+forum_search: NBG6617
+git_search: NBG6617
+gluon_support: true
+image: zyxel_nbg6617.jpg
+led_count: '10'
+malformed: {}
+model: NBG6617
+oem_device_homepage_url: https://www.zyxel.com/products_services/nbg6617.shtml
+package_architecture: arm_cortex-a7_neon-vfpv4
+power_supply: 12 VDC, 2.0 A
+ram_mb: 256
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=82618062cf7ed6b40d2c52c6f6b96364888ffda6
+switch: Qualcomm Atheros QCA8075
+target: ipq40xx
+usb_ports: 1x 3.0
+where_available: amazon.com
+wikidevi_url: https://wikidevi.com/wiki/ZyXEL_NBG6617
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: wave2/MIMO
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros IPQ4018

@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: EasyAcc
+comments: built in SD/SDHC card reader;
+cpu: Ralink RT5350
+cpu_cores: 1
+cpu_mhz: 360
+device_id: easyacc_wi-stor_wizard_8800
+device_page: wizard8800
+device_type: Travel Router - Battery powered
+ethernet_100m_ports: 1
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-wizard8800-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-wizard8800-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: Wi-Stor Wizard 8800
+git_search: Wi-Stor Wizard 8800
+installation_method_s: unknown
+led_count: '4'
+malformed: {}
+model: Wi-Stor Wizard 8800
+oem_device_homepage_url: http://www.nikktech.com/main/articles/gadgets/wireless-readers/2706-easyacc-wi-stor-wizard-4-in-1-portable-device
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=54920
+package_architecture: mipsel_24kc
+power_supply: "5 VDC, 1.0 A (\xB5USB), 8800 mAh Li-ion battery"
+ram_mb: 32
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=9efd7ebd346862f32acb7ee782e90aa9eaab2268
+supported_since_rel: '15.05'
+target: ramips
+wikidevi_url: https://wikidevi.com/wiki/EasyAcc_Wi-Stor_Wizard
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink RT5350

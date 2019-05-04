@@ -1,0 +1,33 @@
+availability: Discontinued
+bootloader: CFE
+brand: Comtrend
+cpu: Broadcom BCM6348
+cpu_cores: 1
+cpu_mhz: 256
+device_id: comtrend_hg-536
+device_page: ct536plus
+device_type: WiFi Router
+ethernet_100m_ports: 4
+firmware_openwrt_install_url: http://archive.openwrt.org/backfire/10.03.1/brcm63xx/openwrt-96348GW-generic-squashfs-cfe.bin
+flash_mb: 4
+forum_search: HG-536+
+git_search: HG-536+
+jtag: true
+malformed: {}
+model: HG-536+
+modem: ADSL
+package_architecture: mips_mips32
+ram_mb: 16
+recovery_method_s: CFE web recovery
+serial: true
+subtarget: generic
+supported_current_rel: 10.03.1
+supported_since_rel: '10.03'
+switch: Broadcom BCM5325
+target: brcm63xx
+unsupported_functions: DSL modem
+usb_ports: Mod
+vlan: true
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318 (mini-PCI)

@@ -1,0 +1,50 @@
+availability: Discontinued 2018
+bootloader: U-Boot
+brand: TP-Link
+button_count: '4'
+comment_installation: Special image needed to flash out of the box, can be found at
+  http://www.netadair.de/openwrt/
+comments: 'PowerLine interface based on QCA7500 chip; can be controlled by package
+  open-plc-utils-plctool. sysupgrade images can be used after initial flash with special
+  image (not: factory)'
+comments_network_ports: Powerline interface connected to switch port 5 (Label LAN4)
+cpu: Qualcomm Atheros QCA9563
+cpu_cores: 1
+cpu_mhz: 750
+device_id: tp-link_tl-wpa8630
+device_type: Range Extender
+ethernet_gbit_ports: 3
+fccid: https://fcc.io/TE7/WPA8630
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-tl-wpa8630-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-tl-wpa8630-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-tl-wpa8630-v1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-tl-wpa8630-v1-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: TL-WPA8630
+git_search: TL-WPA8630
+image: tp-link_tl-wpa8630.jpg
+installation_method_s: GUI generic
+jtag: false
+led_count: '4'
+malformed: {}
+model: TL-WPA8630
+modem: Powerline
+oem_device_homepage_url: https://www.tp-link.de/products/details/cat-18_TL-WPA8630-KIT.html
+package_architecture: mips_24kc
+power_supply: 230 VAC
+ram_mb: 128
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=8cc0c34ef550ac2f842fe6811d32ac01af69d19f
+supported_since_rel: 17.01.0
+switch: Qualcomm Atheros QCA8337
+target: ar71xx
+version: v1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WPA8630
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k

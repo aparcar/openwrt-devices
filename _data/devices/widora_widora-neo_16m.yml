@@ -1,0 +1,39 @@
+audio_ports: other
+availability: Available 2017
+bootloader: U-Boot
+brand: Widora
+button_count: '2'
+comments: 'Audio: Combined Mic/Headphone jack; old batch = 16MB flash, new batch =
+  32MB flash.'
+cpu: MediaTek MT7688AN
+cpu_cores: 1
+cpu_mhz: 580
+detachable_antennas: '1'
+device_id: widora_widora-neo_16m
+device_type: Single Board Computer
+ethernet_100m_ports: 1
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt76x8/openwrt-ramips-mt76x8-widora_neo-16m-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt76x8/openwrt-18.06.2-ramips-mt76x8-widora_neo-16m-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: Widora-NEO 16M
+git_search: Widora-NEO 16M
+gpios: '9'
+installation_method_s: unknown
+led_count: '3'
+malformed: {}
+model: Widora-NEO 16M
+oem_device_homepage_url: http://wiki.widora.io/index.php?title=%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97%E4%B9%8BNEO
+package_architecture: mipsel_24kc
+power_supply: 5 VDC, 0.110 A
+ram_mb: 128
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: mt76x8
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b38296f2f6c362b81545b7e42eb25abe6ccebfb2
+supported_since_rel: 17.01.0
+target: ramips
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: MediaTek MT7688AN

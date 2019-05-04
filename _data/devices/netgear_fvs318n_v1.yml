@@ -1,0 +1,28 @@
+availability: Discontinued
+brand: Netgear
+cpu: Cavium CNS3411
+cpu_cores: 1
+cpu_mhz: 300
+device_id: netgear_fvs318n_v1
+device_page: fvs318n
+device_type: WiFi Router
+ethernet_gbit_ports: 9
+firmware_oem_stock_url: http://support.netgear.de/product/FVS318N
+flash_mb: 32
+forum_search: FVS318N
+git_search: FVS318N
+malformed: {}
+model: FVS318N
+package_architecture: arm_mpcore_vfp
+ram_mb: 128
+serial: true
+subtarget: generic
+switch: Broadcom BCM53128
+target: cns3xxx
+unsupported_functions: Possible to support
+version: v1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Netgear_FVS318N
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9287

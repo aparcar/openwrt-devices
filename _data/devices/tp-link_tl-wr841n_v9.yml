@@ -1,0 +1,42 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TP-Link
+comment_installation: For TFTP, rename -factory image to wr841nv9_tp_recovery.bin
+comment_recovery: For TFTP, rename -factory image to wr841nv9_tp_recovery.bin
+cpu: Qualcomm Atheros QCA9533-AL3A
+cpu_cores: 1
+cpu_mhz: 550
+device_id: tp-link_tl-wr841n_v9
+device_page: tl-wr841nd
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/TE7/WR841NXV9
+firmware_oem_stock_url: http://www.tp-link.com/en/download/TL-WR841N_V9.html
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wr841-v9-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/tiny/openwrt-ath79-tiny-tplink_tl-wr841-v9-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/tiny/openwrt-ath79-tiny-tplink_tl-wr841-v9-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wr841-v9-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: TL-WR841N(D)
+git_search: TL-WR841N(D)
+gluon_support: Broken
+malformed: {}
+model: TL-WR841N(D)
+oem_device_homepage_url: http://www.tp-link.com/en/products/details/TL-WR841N.html
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=48355
+package_architecture: mips_24kc
+power_supply: 9 VDC, 0.6 A
+ram_mb: 32
+subtarget: tiny
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=7131a104f5ec2fd47a2324bd027a8853dd7c3062
+supported_since_rel: '14.07'
+switch: Qualcomm Atheros QCA9533-AL3A
+target: ar71xx-ath79
+version: v9
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR841ND_v9.x
+wlan_24ghz: b/g/n
+wlan_comments: MIMO 2x2
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA9533-AL3A

@@ -1,0 +1,43 @@
+availability: Discontinued
+bootloader: CFE
+brand: Netgear
+button_count: '2'
+cpu: Broadcom BCM6358U
+cpu_cores: 1
+cpu_mhz: 300
+device_id: netgear_dgn2200_v1
+device_page: dgn2200
+device_type: WiFi Router
+ethernet_100m_ports: 4
+fccid: https://fcc.io/PY3/09200112
+firmware_oem_stock_url: http://www.downloads.netgear.com/files/GDC/DGN2200/DGN2200-V1.0.0.50_7.0.50NA.zip
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/smp/openwrt-18.06.2-brcm63xx-smp-96358VW-generic-squashfs-cfe.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/smp/lede-brcm63xx-smp-96358VW-generic-squashfs-cfe.bin
+flash_mb: 8
+forum_search: DGN2200
+git_search: DGN2200
+led_count: '5'
+malformed: {}
+model: DGN2200
+modem: ADSL2+ Annex A
+oem_device_homepage_url: http://www.netgear.com/home/products/networking/dsl-modems-routers/dgn2200.aspx
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=33373
+package_architecture: mips_mips32
+power_supply: 12 VDC, 1.5 A
+ram_mb: 32
+recovery_method_s: CFE TFTP + serial recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: smp
+supported_current_rel: 18.06.2
+supported_since_rel: '14.07'
+switch: Broadcom BCM5325
+target: brcm63xx
+usb_ports: 1x 2.0
+version: v1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Netgear_DGN2200v1
+wlan_24ghz: b/g/n
+wlan_comments: 2x2
+wlan_driver: b43
+wlan_hardware: Broadcom BCM43222

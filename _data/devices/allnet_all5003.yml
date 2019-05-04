@@ -1,0 +1,35 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Allnet
+cpu: Ralink RT5350
+cpu_cores: 1
+cpu_mhz: 360
+detachable_antennas: '1'
+device_id: allnet_all5003
+device_type: Single Board Computer
+ethernet_100m_ports: 1
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-all5003-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-all5003-squashfs-sysupgrade.bin
+flash_mb: 32
+forum_search: ALL5003
+git_search: ALL5003
+installation_method_s: unknown
+jtag: true
+malformed: {}
+model: ALL5003
+oem_device_homepage_url: http://www.allnet.de/fileadmin/transfer/products/92763.pdf
+package_architecture: mipsel_24kc
+ram_mb: 32
+recovery_method_s: unknown
+serial: true
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=cf3885eb0f276f3d0a12aeeff3445799b59fbb23
+supported_since_rel: '14.07'
+target: ramips
+usb_ports: 1x 2.0
+vlan: false
+wlan_24ghz: b/g/n
+wlan_comments: 1x1 MIMO
+wlan_driver: unknown
+wlan_hardware: Ralink RT5350

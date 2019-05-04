@@ -1,0 +1,43 @@
+audio_ports: Headphone jack
+availability: Available 2019
+bootloader: U-Boot
+brand: Linksys
+button_count: '1'
+cpu: MediaTek MT7621AT
+cpu_cores: 2
+cpu_mhz: 880
+detachable_antennas: '2'
+device_id: linksys_re6500
+device_page: re6500
+device_type: Range Extender
+ethernet_gbit_ports: 4
+fccid: https://fcc.io/Q87/-RE6500
+firmware_oem_stock_url: https://www.linksys.com/us/support-article?articleNum=148460
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-re6500-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-re6500-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: RE6500
+git_search: RE6500
+installation_method_s: see forum
+jtag: false
+led_count: '1'
+malformed: {}
+model: RE6500
+oem_device_homepage_url: https://www.linksys.com/us/p/P-RE6500/
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=58426
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 64
+recovery_method_s: see forum
+serial: true
+subtarget: mt7621
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=cf1fb25e670b8b303a4507a5f42f544a12559136
+supported_since_rel: '15.05'
+switch: MediaTek MT7621AT
+target: ramips
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Linksys_RE6500
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

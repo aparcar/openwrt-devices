@@ -1,0 +1,31 @@
+availability: Discontinued
+bootloader: CFE
+brand: Buffalo
+cpu: Broadcom BCM4706
+cpu_cores: 1
+cpu_mhz: 600
+device_id: buffalo_wzr-d1800h
+device_page: wzr-d1800h
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+flash_mb: 128NAND
+forum_search: WZR-D1800H
+git_search: WZR-D1800H
+gluon_support: true
+malformed:
+  flash_mb: 128NAND
+model: WZR-D1800H
+oem_device_homepage_url: http://www.buffalo-technology.com/en/products/networking/dual-band-11ac/routers/archive/wzr-d1800h-buffalo-airstation-1750-31/
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 3.0 A
+ram_mb: 128
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: mips74k
+target: brcm47xx
+unsupported_functions: Possible to support
+usb_ports: 1x 2.0
+wikidevi_url: https://wikidevi.com/wiki/Buffalo_WZR-D1800H
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: b43

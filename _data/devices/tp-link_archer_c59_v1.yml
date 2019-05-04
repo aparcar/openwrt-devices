@@ -1,0 +1,45 @@
+availability: Discontinued 2017
+bootloader: U-Boot
+brand: TP-Link
+button_count: '3'
+comment_installation: Rename installation image to tp_recovery.bin, see git-commit
+comment_recovery: 'TFTP recovery filename: tp_recovery.bin (use factory image)'
+cpu: Qualcomm Atheros QCA9561
+cpu_cores: 1
+cpu_mhz: 775
+device_id: tp-link_archer_c59_v1
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/TE7/C59
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-archer-c59-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-tplink_archer-c59-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-tplink_archer-c59-v1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-archer-c59-v1-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: Archer C59
+git_search: Archer C59
+gluon_support: Broken
+jtag: false
+led_count: '8'
+malformed: {}
+model: Archer C59
+oem_device_homepage_url: http://www.tp-link.com/en/products/details/cat-9_Archer-C59.html
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 128
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e39dc8d823c86559eedbbdcee5f5c14b827fed0f
+supported_since_rel: 18.06.0
+switch: Qualcomm Atheros QCA9561
+target: ar71xx-ath79
+usb_ports: 1x 2.0
+version: v1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C59_v1.x
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA9561

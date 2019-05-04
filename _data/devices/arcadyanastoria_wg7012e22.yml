@@ -1,0 +1,24 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Arcadyan / Astoria
+button_count: '2'
+cpu: Ralink RT3052
+cpu_cores: 1
+cpu_mhz: 384
+device_id: arcadyanastoria_wg7012e22
+device_type: WiFi Router
+ethernet_100m_ports: 1
+flash_mb: 4
+forum_search: WG7012E22
+git_search: WG7012E22
+led_count: '6'
+malformed: {}
+model: WG7012E22
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=48840
+package_architecture: mipsel_24kc
+ram_mb: 32
+subtarget: rt305x
+target: ramips
+usb_ports: 1x 2.0
+wlan_24ghz: b/g/n
+wlan_driver: unknown

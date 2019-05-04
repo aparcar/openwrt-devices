@@ -1,0 +1,27 @@
+availability: Discontinued
+brand: Thomson
+cpu: Broadcom BCM6348
+cpu_cores: 1
+cpu_mhz: 256
+device_id: thomson_st585_6
+device_type: WiFi Router
+ethernet_100m_ports: 4
+flash_mb: 4
+forum_search: ST585
+git_search: ST585
+malformed: {}
+model: ST585
+modem: ADSL2+
+package_architecture: mips_mips32
+power_supply: 18 VDC, 1.0 A
+ram_mb: 16
+subtarget: generic
+switch: Broadcom BCM5325E
+target: brcm63xx
+unsupported_functions: Impossible
+version: '6'
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Thomson_SpeedTouch_585_%28ST585%29_v6
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318

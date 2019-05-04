@@ -1,0 +1,39 @@
+availability: Discontinued 2014
+bootloader: U-Boot
+brand: ZyXEL
+button_count: '2'
+comments_network_ports: WoL supported
+cpu: Marvell 88F6702
+cpu_cores: 1
+cpu_mhz: 1200
+device_id: zyxel_nsa310b
+device_page: nsa310b
+device_type: NAS
+ethernet_gbit_ports: 1
+firmware_oem_stock_url: http://www.zyxeltech.de/nsa-310.htm
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/kirkwood/generic/openwrt-kirkwood-zyxel_nsa310b-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/kirkwood/generic/openwrt-kirkwood-zyxel_nsa310b-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/kirkwood/generic/openwrt-18.06.2-kirkwood-zyxel_nsa310b-squashfs-sysupgrade.bin
+flash_mb: 128
+forum_search: NSA310b
+git_search: NSA310b
+installation_method_s: see git-commit
+jtag: false
+led_count: '6'
+malformed: {}
+model: NSA310b
+oem_device_homepage_url: ftp://ftp.zyxel-tech.de/2.new_mirror/NSA310/datasheet/NSA310_5.pdf
+package_architecture: arm_xscale
+power_supply: 12 VDC
+ram_mb: 256
+sata_ports: '2'
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=94676dd99d96871e9f540a8ace26bdb317c010cf
+supported_since_rel: 18.06.0
+target: kirkwood
+usb_ports: 2x 2.0
+vlan: true
+wlan_driver: unknown

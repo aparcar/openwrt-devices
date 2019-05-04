@@ -1,0 +1,34 @@
+availability: Discontinued
+brand: Netgear
+cpu: Broadcom BCM5365
+cpu_cores: 1
+cpu_mhz: 200
+device_id: netgear_wgt634u
+device_page: wgt634u
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/PY3/WGT634U
+firmware_oem_stock_url: https://www.netgear.com/support/product/WGT634U
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/legacy/openwrt-18.06.2-brcm47xx-legacy-netgear-wgt634u-squashfs.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/legacy/lede-brcm47xx-legacy-netgear-wgt634u-squashfs.bin
+flash_mb: 8
+forum_search: WGT634U
+git_search: WGT634U
+jtag: false
+malformed: {}
+model: WGT634U
+package_architecture: mipsel_mips32
+power_supply: 12 VDC, 1.0 A
+ram_mb: 32
+serial: true
+subtarget: legacy
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=311fc9cf30d9d2719e1ef168d00bc92dce681723
+supported_since_rel: '10.03'
+switch: Broadcom BCM5364P
+target: brcm47xx
+usb_ports: 1x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Netgear_WGT634U
+wlan_24ghz: b/g
+wlan_driver: unknown

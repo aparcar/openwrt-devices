@@ -1,0 +1,43 @@
+availability: Available 2019
+bootloader: CFE
+brand: Netgear
+button_count: '2'
+comments: While it is possible to load OpenWrt there is no support for wireless, USB
+  not currently supported; USB fixed in master 5dd745588ed
+cpu: Broadcom BCM5358
+cpu_cores: 1
+cpu_mhz: 530
+device_id: netgear_wndr3400_v3
+device_page: wndr3400
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/PY3/12300210
+firmware_oem_stock_url: https://www.netgear.com/support/product/WNDR3400v3
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-netgear-wndr3400-v3-squashfs.chk
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-netgear-wndr3400-v3-squashfs.chk
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-netgear-wndr3400-v3-squashfs.chk
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-netgear-wndr3400-v3-squashfs.chk
+flash_mb: 8
+forum_search: WNDR3400
+git_search: WNDR3400
+malformed: {}
+model: WNDR3400
+oem_device_homepage_url: https://www.netgear.com/home/products/networking/wifi-routers/WNDR3400.aspx
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: 64
+recovery_method_s: TFTP generic
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=1020b842664d9577ccb5e08f8c0cf10467547a8f
+supported_since_rel: '15.05'
+switch: Broadcom BCM5325
+target: brcm47xx
+usb_ports: 1x 2.0
+version: v3
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Netgear_WNDR3400v3
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_comments: 2x2
+wlan_driver: b43

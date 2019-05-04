@@ -1,0 +1,36 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Ubiquiti
+cpu: Atheros AR9342
+cpu_cores: 1
+cpu_mhz: 533
+device_id: ubiquiti_litebeam_m5
+device_type: other
+ethernet_100m_ports: 1
+fccid: https://fcc.io/SWX-M5G
+firmware_oem_stock_url: "http://\xBF"
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ubnt-lbe-m5-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-ubnt-lbe-m5-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-ubnt-lbe-m5-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ubnt-lbe-m5-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: Litebeam M5
+git_search: Litebeam M5
+malformed: {}
+model: Litebeam M5
+oem_device_homepage_url: https://www.ubnt.com/airmax/litebeam-m5/
+package_architecture: mips_24kc
+power_supply: passive PoE 24 VDC, 0.2 A
+ram_mb: 64
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=d0988235dd277b9a832bbc4b2a100ac6e821f577
+supported_since_rel: 18.06.0
+target: ar71xx
+where_available: amazon.com, amazon.de
+wlan_50ghz: a/n
+wlan_comments: 1x1 SISO
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9342

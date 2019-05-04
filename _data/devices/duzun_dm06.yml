@@ -1,0 +1,28 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: DuZun
+cpu: MediaTek MT7628
+cpu_cores: 1
+cpu_mhz: 580
+device_id: duzun_dm06
+device_type: Single Board Computer
+fccid: "http://\xBF"
+firmware_oem_stock_url: "http://\xBF"
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt76x8/openwrt-ramips-mt76x8-duzun-dm06-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt76x8/openwrt-18.06.2-ramips-mt76x8-duzun-dm06-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: DM06
+git_search: DM06
+installation_method_s: unknown
+malformed: {}
+model: DM06
+oem_device_homepage_url: "http://\xBF"
+package_architecture: mipsel_24kc
+ram_mb: 64
+recovery_method_s: unknown
+subtarget: mt7628
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=9a4935687d6d79e0eeae37204794fc68e17c8b68
+supported_since_rel: 17.01.0
+target: ramips
+wlan_driver: unknown

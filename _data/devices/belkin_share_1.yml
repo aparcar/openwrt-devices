@@ -1,0 +1,27 @@
+availability: unknown 2018
+bootloader: CFE
+brand: Belkin
+cpu: Broadcom BCM4718
+cpu_cores: 1
+cpu_mhz: 480
+device_id: belkin_share_1
+device_page: f7d3302
+device_type: WiFi Router
+ethernet_100m_ports: 5
+flash_mb: 8
+forum_search: Share (F7D3302)
+git_search: Share (F7D3302)
+jtag: true
+malformed: {}
+model: Share (F7D3302)
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 64
+serial: true
+target: brcm47xx
+usb_ports: 1x 2.0
+version: '1'
+wikidevi_url: https://wikidevi.com/wiki/Belkin_F7D3302
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom (integrated)

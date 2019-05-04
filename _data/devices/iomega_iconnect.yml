@@ -1,0 +1,41 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Iomega
+cpu: Marvell 88F6281
+cpu_cores: 1
+cpu_mhz: 1000
+device_id: iomega_iconnect
+device_page: iconnect
+device_type: WiFi Router
+ethernet_gbit_ports: 1
+fccid: https://fcc.io/VQF/-RT3090-1T1R
+firmware_oem_stock_url: https://lenovo-na-en.custhelp.com/app/answers/detail/a_id/22768
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/kirkwood/generic/openwrt-18.06.2-kirkwood-iom_iconnect-1.1-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/kirkwood/generic/openwrt-kirkwood-iom_iconnect-1.1-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/kirkwood/generic/openwrt-kirkwood-iom_iconnect-1.1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/kirkwood/generic/openwrt-18.06.2-kirkwood-iom_iconnect-1.1-squashfs-sysupgrade.bin
+flash_mb: 512NAND
+forum_search: iConnect
+git_search: iConnect
+installation_method_s: see devicepage
+jtag: true
+malformed:
+  flash_mb: 512NAND
+model: iConnect
+oem_device_homepage_url: https://lenovo-na-en.custhelp.com/app/cust_alp/p/1031,1074/search/1
+package_architecture: arm_xscale
+power_supply: 12 VDC, 2.0 A
+ram_mb: 256
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=746ace4baf1ee3a2bebb32851784208eb4168b91
+supported_since_rel: '15.05'
+target: kirkwood
+usb_ports: 4x 2.0
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/Iomega_iConnect
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink RT3090 (mini-PCIe)

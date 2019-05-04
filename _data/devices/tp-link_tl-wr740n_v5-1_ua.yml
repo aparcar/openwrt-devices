@@ -1,0 +1,23 @@
+availability: unknown 2018
+brand: TP-Link
+cpu: Atheros AR9331-AL3A
+cpu_cores: 1
+cpu_mhz: 400
+device_id: tp-link_tl-wr740n_v5-1_ua
+device_page: tl-wr740n
+device_type: WiFi Router
+ethernet_100m_ports: 5
+flash_mb: 4
+forum_search: TL-WR740N
+git_search: TL-WR740N
+malformed: {}
+model: TL-WR740N
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=56944
+package_architecture: mips_24kc
+ram_mb: 32
+serial: true
+subtarget: generic
+target: ar71xx
+version: v5.1 (UA)
+wlan_24ghz: b/g/n
+wlan_driver: unknown

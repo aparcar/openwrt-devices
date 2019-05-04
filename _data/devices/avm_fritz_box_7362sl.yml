@@ -1,0 +1,34 @@
+availability: Discontinued
+brand: AVM
+button_count: '2'
+comment_installation: Boot ramdisk image, flash OpenWrt from there.
+cpu: Lantiq XWAY VRX288
+cpu_cores: 2
+cpu_mhz: 500
+device_id: avm_fritz_box_7362sl
+device_page: avm_7362_sl
+device_type: WiFi Router
+ethernet_100m_ports: 2
+ethernet_gbit_ports: 2
+fccid: "http://\xBF"
+firmware_oem_stock_url: https://avm.de/service/downloads/?product=fritzbox-7362-sl
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xrx200/openwrt-lantiq-xrx200-avm_fritz7362sl-squashfs-sysupgrade.bin
+flash_mb: 128NAND
+led_count: '5'
+malformed:
+  flash_mb: 128NAND
+model: FRITZ!Box 7362SL
+modem: xDSL
+oem_device_homepage_url: https://avm.de/service/fritzbox/fritzbox-7362-sl/uebersicht/
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.4 A
+ram_mb: 128
+recovery_method_s: see git-commit
+subtarget: xrx200
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=eae6cac6a30b95bef04d033ed8a303b7e35a078b
+target: lantiq
+usb_ports: 2x 2.0
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9381

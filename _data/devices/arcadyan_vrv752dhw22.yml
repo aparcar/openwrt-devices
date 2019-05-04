@@ -1,0 +1,26 @@
+availability: unknown 2018
+bootloader: brnboot
+brand: Arcadyan
+button_count: '2'
+cpu: Lantiq VINAX
+cpu_cores: 2
+cpu_mhz: 333
+device_id: arcadyan_vrv752dhw22
+device_page: vrv752dhw22
+device_type: Modem
+ethernet_100m_ports: 4
+flash_mb: 16
+forum_search: VRV752DHW22 Vodafone EasyBox 903
+git_search: VRV752DHW22 Vodafone EasyBox 903
+jtag: false
+malformed: {}
+model: VRV752DHW22 Vodafone EasyBox 903
+modem: VDSL2
+power_supply: 15 VDC, 1.2 A
+ram_mb: 64
+serial: true
+target: lantiq
+usb_ports: 1x 2.0
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink RT3062

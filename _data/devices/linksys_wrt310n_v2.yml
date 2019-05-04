@@ -1,0 +1,37 @@
+availability: Discontinued
+brand: Linksys
+cpu: Broadcom BCM4716
+cpu_cores: 1
+cpu_mhz: 300
+device_id: linksys_wrt310n_v2
+device_page: wrt310n_v2
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/Q87/-WRT310NV2
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-linksys-wrt310n-v2-squashfs.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-linksys-wrt310n-v2-squashfs.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-linksys-wrt310n-v2-squashfs.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-linksys-wrt310n-v2-squashfs.bin
+flash_mb: 4
+forum_search: WRT310N
+git_search: WRT310N
+installation_method_s: unknown
+malformed: {}
+model: WRT310N
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=56273
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 32
+recovery_method_s: unknown
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_rel: '15.05'
+switch: Broadcom BCM53115
+target: brcm47xx
+unsupported_functions: WiFi 2.4GHz partly
+version: v2
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT310N_v2
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4716

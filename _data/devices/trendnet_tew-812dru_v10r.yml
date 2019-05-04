@@ -1,0 +1,30 @@
+availability: Available 2017
+brand: TRENDnet
+cpu: Broadcom BCM4706
+cpu_cores: 1
+cpu_mhz: 800
+device_id: trendnet_tew-812dru_v10r
+device_page: tew-812dru
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/XU8/TEW1750AC
+flash_mb: 128NAND
+forum_search: TEW-812DRU
+git_search: TEW-812DRU
+malformed:
+  flash_mb: 128NAND
+model: TEW-812DRU
+oem_device_homepage_url: http://www.trendnet.com/products/proddetail?prod=100_TEW-812DRU&cat=197
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 2.0 A
+ram_mb: 128
+subtarget: mips74k
+switch: Broadcom BCM53125
+target: brcm47xx
+usb_ports: 1x 2.0
+version: V1.0R
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TRENDnet_TEW-812DRU_v1
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: b43

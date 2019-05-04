@@ -1,0 +1,46 @@
+availability: Discontinued 2017
+bootloader: U-Boot
+brand: Buffalo
+comments: 'For Annex A, use a-image. (for 17.01.2: at NETWORK -> INTERFACES -> DSL
+  you have to change Annex A to Annex B! Don''t change the firmware file, because
+  this one is already correct!'
+cpu: Lantiq XWAY ARX168
+cpu_cores: 2
+cpu_mhz: 333
+detachable_antennas: '2'
+device_id: buffalo_wbmr-hp-g300h
+device_page: wbmr-hp-g300h
+device_type: Modem
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/RAX/AR7516VW
+firmware_oem_stock_url: http://www.buffalo-technology.com/en/products/networking/300mbps-wireless/routers/archive/airstation-nfiniti-high-power-gigabit-broadband-adsl2-modem-router/
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xway/openwrt-18.06.2-lantiq-xway-buffalo_wbmr-hp-g300h-b-initramfs-kernel.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xway/openwrt-lantiq-xway-buffalo_wbmr-hp-g300h-b-initramfs-kernel.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xway/openwrt-lantiq-xway-buffalo_wbmr-hp-g300h-b-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xway/openwrt-18.06.2-lantiq-xway-buffalo_wbmr-hp-g300h-b-squashfs-sysupgrade.bin
+flash_mb: 32
+forum_search: WBMR-HP-G300H
+git_search: WBMR
+jtag: true
+malformed: {}
+model: WBMR-HP-G300H
+modem: ADSL2+
+oem_device_homepage_url: http://www.buffalo-technology.com/en/products/networking/300mbps-wireless/routers/archive/airstation-nfiniti-high-power-gigabit-broadband-adsl2-modem-router/
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=34072
+package_architecture: mips_24kc
+power_supply: 12 VDC, 2.0 A
+ram_mb: 64
+recovery_method_s: U-Boot TFTP recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: xway
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=eb529d26255a9a1fbeadfdaa3b5cdf47e43e4715
+supported_since_rel: '12.09'
+switch: Atheros AR8316
+target: lantiq
+usb_ports: 1x 2.0
+wikidevi_url: https://wikidevi.com/wiki/Buffalo_WBMR-HP-G300H
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Atheros

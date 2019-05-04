@@ -1,0 +1,26 @@
+availability: unknown 2018
+bootloader: brnboot
+brand: Arcadyan / Astoria
+cpu: Lantiq XWAY VRX288
+cpu_cores: 2
+cpu_mhz: 500
+device_id: arcadyanastoria_vgv8539jw22
+device_page: spw723vtypb
+device_type: WiFi Router
+ethernet_100m_ports: 4
+flash_mb: 8
+forum_search: VGV8539JW22
+git_search: VGV8539JW22
+malformed: {}
+model: VGV8539JW22
+modem: VDSL2
+package_architecture: mips_24kc
+ram_mb: 64
+serial: true
+subtarget: xrx200
+target: lantiq
+usb_ports: true
+vlan: false
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM43222

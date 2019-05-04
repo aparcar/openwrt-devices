@@ -1,0 +1,42 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: TP-Link
+button_count: '2'
+comment_installation: For TFTP, rename -factory.bin image to ArcherC7v5_tp_recovery.bin
+comments: Archer A7 is identical to Archer C7, see https://forum.openwrt.org/t/support-for-archer-a7/20790/3?u=tmomas
+cpu: Qualcomm Atheros QCA9563
+cpu_cores: 1
+cpu_mhz: 750
+device_id: tp-link_archer_a7_v5
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/TE7/C7V5
+firmware_oem_stock_url: https://www.tp-link.com/us/download/Archer-A7.html
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-tplink_archer-a7-v5-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-tplink_archer-a7-v5-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: Archer A7
+git_search: Archer A7
+led_count: '10'
+malformed: {}
+model: Archer A7
+oem_device_homepage_url: https://www.tp-link.com/us/products/details/cat-9_Archer-A7.html
+package_architecture: mips_24kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: 128
+recovery_method_s: U-Boot TFTP recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=1e4ee63cc8d1889a78b539a5ed7be8d56e9b976f
+switch: Qualcomm Atheros QCA8337N
+target: ath79
+usb_ports: 1x 2.0
+version: v5
+vlan: true
+where_available: amazon.com
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_A7_v5.x
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k-ct

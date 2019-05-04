@@ -1,0 +1,35 @@
+availability: Discontinued 2018
+bootloader: U-Boot
+brand: D-Link
+cpu: Ralink RT3050F
+cpu_cores: 1
+cpu_mhz: 320
+device_id: d-link_dcs-930l_dcs-932l_a1
+device_page: dcs-930l
+device_type: Camera
+ethernet_100m_ports: 1
+fccid: https://fcc.io/KA2/CS930LA1
+firmware_oem_stock_url: https://eu.dlink.com/de/de/products/dcs-930l-wireless-n-network-camera?revision=de_reva
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-dcs-930-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-dcs-930-squashfs-factory.bin
+flash_mb: 4
+installation_method_s: unknown
+malformed: {}
+model: DCS-930L/DCS-932L
+oem_device_homepage_url: https://eu.dlink.com/de/de/products/dcs-930l-wireless-n-network-camera
+package_architecture: mipsel_24kc
+power_supply: 5 VDC, 1.0 A
+ram_mb: 32
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=c0f6bf05f4b73d4541865db9785fe691666774cb
+supported_since_rel: 17.01.0
+target: ramips
+version: A1
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DCS-930L_rev_A1
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink RT3050F

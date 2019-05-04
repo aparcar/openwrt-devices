@@ -1,0 +1,33 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Cubitech
+cpu: Allwinner A10
+cpu_cores: 1
+cpu_mhz: 1000
+device_id: cubitech_cubieboard
+device_page: cubieboard
+device_type: Single Board Computer
+ethernet_100m_ports: 1
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/sunxi/cortexa8/openwrt-18.06.2-sunxi-cortexa8-sun4i-a10-cubieboard-squashfs-sdcard.img.gz
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/sunxi/cortexa8/openwrt-sunxi-cortexa8-sun4i-a10-cubieboard-squashfs-sdcard.img.gz
+forum_search: Cubieboard
+git_search: Cubieboard
+gpios: more than 20
+installation_method_s: Sunxi installation
+jtag: false
+malformed: {}
+model: Cubieboard (CubieBoard1)
+oem_device_homepage_url: http://cubieboard.org/model/cb1/
+package_architecture: arm_cortex-a8_vfpv3
+power_supply: 5 VDC, 2.0 A
+ram_mb: 1024
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: cortexa8
+supported_current_rel: 18.06.2
+supported_since_rel: 17.01.0
+target: sunxi
+usb_ports: 2x 2.0
+video_ports: HDMI
+where_available: eleduino.com
+wikidevi_url: https://wikidevi.com/wiki/Cubietech_Cubieboard

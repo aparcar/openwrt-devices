@@ -1,0 +1,35 @@
+availability: Available 2019
+bootloader: RouterBOOT
+brand: MikroTik
+cpu: Qualcomm Atheros QCA9557
+cpu_cores: 1
+cpu_mhz: 720
+device_id: mikrotik_rb911g-5hpacd
+device_type: WiFi AP
+ethernet_gbit_ports: 1
+fccid: "http://\xBF"
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-vmlinux-initramfs.elf
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-vmlinux-initramfs.elf
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-nand-large-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-nand-large-squashfs-sysupgrade.bin
+flash_mb: 128NAND
+forum_search: RB911G-5HPacD
+git_search: RB911G-5HPacD
+installation_method_s: Mikrotik TFTP
+malformed:
+  flash_mb: 128NAND
+model: RB911G-5HPacD
+oem_device_homepage_url: https://mikrotik.com/product/RB911G-5HPacD
+package_architecture: mips_24kc
+power_supply: 8-30 VDC, passive PoE
+ram_mb: 128
+recovery_method_s: unknown
+subtarget: mikrotik
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=d0a6b278db4ffc286cd335c149fb96b386ffab40
+supported_since_rel: '15.05'
+target: ar71xx
+where_available: mikrotik-store.eu
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA9882

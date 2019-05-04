@@ -1,0 +1,34 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Olimex
+button_count: '10'
+cpu: Allwinner A20
+cpu_cores: 2
+cpu_mhz: 1000
+device_id: olimex_a20-olinuxino-micro
+device_page: a20-olinuxino
+device_type: Single Board Computer
+ethernet_100m_ports: 1
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/sunxi/cortexa7/openwrt-18.06.2-sunxi-cortexa7-sun7i-a20-olinuxino-micro-squashfs-sdcard.img.gz
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/sunxi/cortexa7/openwrt-sunxi-cortexa7-sun7i-a20-olinuxino-micro-squashfs-sdcard.img.gz
+forum_search: A20-OLinuXino-MICRO
+git_search: A20-OLinuXino-MICRO
+gpios: more than 20
+image: olimex_a20-olinuxino-micro.jpg
+installation_method_s: Sunxi installation
+jtag: false
+malformed: {}
+model: A20-OLinuXino-MICRO
+oem_device_homepage_url: https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-MICRO/open-source-hardware
+package_architecture: arm_cortex-a8_vfpv3
+power_supply: 8-24 VDC
+ram_mb: 1024
+sata_ports: '1'
+serial: true
+subtarget: cortexa7
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=2bc70cfbace7d696ae37215e7895d4572d2b3f4d
+supported_since_rel: '14.07'
+target: sunxi
+usb_ports: 2x 2.0
+where_available: olimex.com

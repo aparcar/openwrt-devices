@@ -1,0 +1,27 @@
+availability: Discontinued
+brand: Pacific Networks
+cpu: Atheros AR7240
+cpu_cores: 1
+cpu_mhz: 350
+detachable_antennas: '1'
+device_id: pacificnetworks_rt150m_v1
+device_page: pn-rt150m
+device_type: WiFi Router
+ethernet_100m_ports: 5
+flash_mb: 4
+forum_search: RT150M
+git_search: RT150M
+installation_method_s: see devicepage
+malformed: {}
+model: RT150M
+package_architecture: mips_24kc
+ram_mb: 32
+subtarget: generic
+supported_current_rel: '12.09'
+supported_since_rel: '12.09'
+target: ar71xx
+version: v1
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR92xx (onboard)

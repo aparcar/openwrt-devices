@@ -1,0 +1,38 @@
+availability: Discontinued
+brand: Asus
+comments: ASUS RT-N10P != ASUS RT-N10+ / ASUS RT-N10plus
+cpu: Broadcom BCM5357
+cpu_cores: 1
+cpu_mhz: 320
+device_id: asus_rt-n10p_a1
+device_page: rt-n10p
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/MSQ/-RTN10P
+firmware_oem_stock_url: https://www.asus.com/Networking/RTN10P/HelpDesk_Download/
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-asus-rt-n10p-squashfs.trx
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-asus-rt-n10p-squashfs.trx
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-asus-rt-n10p-squashfs.trx
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-asus-rt-n10p-squashfs.trx
+flash_mb: 8
+forum_search: RT-N10P
+git_search: RT-N10P
+installation_method_s: unknown
+malformed: {}
+model: RT-N10P
+oem_device_homepage_url: https://www.asus.com/Networking/RTN10P/HelpDesk_Download/
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 0.5 A
+ram_mb: 32
+recovery_method_s: unknown
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=44c8b396f990bb1e762e1f9cef9bca34b78dc9f7
+supported_since_rel: '15.05'
+target: brcm47xx
+unsupported_functions: WiFi 2.4GHz
+version: A1
+wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N10P
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM5357

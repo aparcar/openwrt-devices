@@ -1,0 +1,40 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Edimax
+button_count: '1'
+cpu: MediaTek MT7620A
+cpu_cores: 1
+cpu_mhz: 580
+device_id: edimax_br-6478ac_v2
+device_page: edimax_br-6478ac_v2
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/NDD/9564781503
+firmware_oem_stock_url: http://www.edimax.com/edimax/mw/cufiles/files/download/Firmware/BR-6478AC_V2_v1.09.zip
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-edimax_br-6478ac-v2-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: BR-6478AC
+git_search: BR-6478AC
+led_count: '4'
+malformed: {}
+model: BR-6478AC
+oem_device_homepage_url: http://www.edimax.com/edimax/merchandise/merchandise_detail/data/edimax/global/wireless_routers_ac1200/br-6478ac_v2/
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.25 A
+ram_mb: 64
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt7620
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=f72fa883b324311c1972c39ed521e536b25d674c
+switch: Mediatek MT7530W
+target: ramips
+usb_ports: 1x 2.0
+version: V2
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Edimax_BR-6478AC_v2
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: not yet tested
+wlan_driver: mt76

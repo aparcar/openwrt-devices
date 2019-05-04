@@ -1,0 +1,32 @@
+availability: Available 2017
+bootloader: CFE
+brand: Actiontec
+cpu: Broadcom BCM63168
+cpu_cores: 2
+cpu_mhz: 400
+device_id: actiontec_c1000a_1
+device_page: c1000a
+device_type: Modem
+ethernet_gbit_ports: 4
+fccid: https://fcc.io/LNQ/C1000A
+flash_mb: 64
+forum_search: C1000A
+git_search: C1000A
+malformed: {}
+model: C1000A
+modem: VDSL2
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=51792
+power_supply: 12 VDC, 1.5 A
+ram_mb: 64
+serial: true
+serial_connection_parameters: 115200 / 8N1
+switch: Broadcom BCM53125
+target: brcm63xx
+unsupported_functions: WIP
+usb_ports: 1x 2.0
+version: '1'
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Actiontec_C1000A_%28CenturyLink%29
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM63168

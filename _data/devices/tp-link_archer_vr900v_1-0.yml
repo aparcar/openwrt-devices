@@ -1,0 +1,35 @@
+availability: Discontinued
+bootloader: CFE
+brand: TP-Link
+button_count: '4'
+comments: 'Note: This device basically features *two* entirely different SoCs: a 400MHz
+  dualcore MIPS SoC and a 1GHz dualcore ARM Cortex A9'
+comments_network_ports: 3x LAN, 1x LAN/WAN, 1x ADSL2+/VDSL2 (Annex B/J, Vectoring
+  supported, max 100MBit/s)
+cpu: Broadcom BCM63168, Broadcom BCM4709
+cpu_cores: 2
+cpu_mhz: 1000
+detachable_antennas: '3'
+device_id: tp-link_archer_vr900v_1-0
+device_page: tp-link_archer_vr900v_1.0
+device_type: WiFi Router
+ethernet_gbit_ports: 4
+firmware_oem_stock_url: https://www.tp-link.com/de/download/Archer-VR900v_V1.html
+forum_search: Archer VR900v
+git_search: Archer VR900v
+led_count: '8'
+malformed: {}
+model: Archer VR900v
+modem: VDSL2
+oem_device_homepage_url: https://www.tp-link.com/de/products/details/cat-15_Archer-VR900v.html
+power_supply: 12 VDC, 3.3 A
+ram_mb: 128
+serial: true
+target: brcm63xx
+version: v1.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_VR900v_(v1.0)
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: b43
+wlan_hardware: 2x Broadcom BCM4360

@@ -1,0 +1,32 @@
+availability: unknown 2019
+bootloader: U-Boot
+brand: TP-Link
+button_count: '2'
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: 1
+cpu_mhz: 720
+device_id: tp-link_tl-wr941n_v7_cn
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: "http://\xBF"
+firmware_oem_stock_url: "http://\xBF"
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/tiny/openwrt-ath79-tiny-tplink_tl-wr941n-v7-cn-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/tiny/openwrt-ath79-tiny-tplink_tl-wr941n-v7-cn-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: TL-WR941N
+git_search: TL-WR941N
+installation_method_s: GUI OEM
+led_count: '3'
+malformed: {}
+model: TL-WR941N
+oem_device_homepage_url: "http://\xBF"
+package_architecture: mips_24kc
+ram_mb: 64
+recovery_method_s: unknown
+subtarget: tiny
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=8de907c441db8a4aae746f44ee2c4651225d389f
+switch: Atheros AR8236
+target: ath79
+version: v7 (CN)
+wlan_driver: unknown

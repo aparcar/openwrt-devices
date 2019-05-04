@@ -1,0 +1,35 @@
+availability: Available 2018
+bootloader: U-Boot
+brand: Teltonika
+button_count: '1'
+cpu: Atheros AR9344
+cpu_cores: 1
+cpu_mhz: 550
+detachable_antennas: '4'
+device_id: teltonika_rut900
+device_type: WiFi Router
+ethernet_100m_ports: 4
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-rut900-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-rut900-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-rut900-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-rut900-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: RUT900
+git_search: RUT900
+led_count: '12'
+malformed: {}
+model: RUT900
+modem: Mobile Wireless/Cellular network
+oem_device_homepage_url: https://teltonika.lt/de/product/rut900/
+package_architecture: mips_24kc
+power_supply: 9-30 VDC barrel jack, passive PoE
+ram_mb: 128
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=1f06144cdec1487122201faa9350825ed565d99c
+supported_since_rel: 18.06.0
+target: ar71xx
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9344

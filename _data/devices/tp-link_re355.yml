@@ -1,0 +1,43 @@
+availability: Available 2018
+bootloader: U-Boot
+brand: TP-Link
+button_count: '3'
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: 1
+cpu_mhz: 720
+device_id: tp-link_re355
+device_type: Range Extender
+ethernet_gbit_ports: 1
+fccid: https://fcc.io/TE7/RE355
+firmware_oem_stock_url: https://www.tp-link.com/en/download/RE355.html
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-re355-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-re355-v1-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-re355-v1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-re355-v1-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: RE355
+git_search: RE355
+gluon_support: Broken
+jtag: false
+led_count: '7'
+malformed: {}
+model: RE355
+oem_device_homepage_url: https://www.tp-link.com/en/products/details/cat-10_RE355.html
+package_architecture: mips_24kc
+power_supply: 100-240 VAC, 0.3 A
+ram_mb: 128
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=a338491a306798868738fd8210b27bd2a4ab0daa
+supported_since_rel: 18.06.0
+switch: Qualcomm Atheros AR8035-A
+target: ar71xx
+version: v1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_RE355
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: MIMO 3x3
+wlan_driver: ath10k

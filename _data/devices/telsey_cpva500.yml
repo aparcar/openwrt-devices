@@ -1,0 +1,23 @@
+availability: Discontinued
+brand: Telsey
+cpu: Broadcom BCM6345
+cpu_cores: 1
+cpu_mhz: 140
+device_id: telsey_cpva500
+device_page: cpva500
+device_type: Router
+ethernet_100m_ports: 1
+flash_mb: 4
+forum_search: CPVA500
+git_search: CPVA500
+malformed: {}
+model: CPVA500
+modem: ADSL
+ram_mb: 16
+serial: true
+serial_connection_parameters: 115200 / 8N1
+target: brcm63xx
+unsupported_functions: Impossible
+usb_ports: 1x 1.1 Device
+vlan: false
+wlan_driver: unknown

@@ -1,0 +1,36 @@
+availability: Discontinued
+brand: Asus
+cpu: Broadcom BCM5357
+cpu_cores: 1
+cpu_mhz: 300
+detachable_antennas: '1'
+device_id: asus_rt-n12_c1
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/MSQ/-RTN12C
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-asus-rt-n12-c1-squashfs.trx
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-asus-rt-n12-c1-squashfs.trx
+flash_mb: 8
+forum_search: RT-N12
+git_search: RT-N12
+image: asus_rt-n12_c1.jpg
+installation_method_s: unknown
+malformed: {}
+model: RT-N12
+package_architecture: mipsel_74kc
+power_supply: 9 VDC, 1.0 A
+ram_mb: 32
+recovery_method_s: unknown
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=69aefc771fd8a7d7450e856a5432fcc15cfc8fc9
+supported_since_rel: 17.01.0
+switch: Broadcom BCM5357
+target: brcm47xx
+unsupported_functions: WiFi 2.4GHz
+version: C1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N12_rev_C1
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM5357

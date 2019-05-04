@@ -1,0 +1,31 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: DomyWifi
+button_count: '1'
+cpu: Qualcomm Atheros QCA9558-AT4A
+cpu_cores: 1
+cpu_mhz: 720
+device_id: domywifi_dw33d
+device_type: unknown
+ethernet_gbit_ports: 5
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/nand/openwrt-18.06.2-ar71xx-nand-domywifi-dw33d-squashfs-sysupgrade.bin
+forum_search: DW33D
+git_search: DW33D
+installation_method_s: unknown
+led_count: '4'
+malformed: {}
+model: DW33D
+package_architecture: mips_24kc
+ram_mb: 256
+recovery_method_s: unknown
+subtarget: nand
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=7ba9a3a504909ccf8f6d1aca9b1160443da7215b
+supported_since_rel: 17.01.0
+switch: Qualcomm Atheros QCA8337N-AL3C
+target: ar71xx
+usb_ports: 2x 2.0
+vlan: true
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k

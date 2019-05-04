@@ -1,0 +1,40 @@
+availability: Available 2018
+bootloader: U-Boot
+brand: Ubiquiti
+button_count: '1'
+cpu: Qualcomm Atheros QCA9563
+cpu_cores: 1
+cpu_mhz: 775
+device_id: ubiquiti_unifi_apac_pro
+device_page: unifiac
+device_type: WiFi Router
+ethernet_gbit_ports: 2
+fccid: https://fcc.io/SWX-UAPACPRO
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-ubnt_unifiac-pro-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ubnt-unifiac-pro-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: UniFi AP AC PRO
+git_search: UniFi AP AC PRO
+gluon_support: true
+led_count: '2'
+malformed: {}
+model: UniFi AP AC PRO
+oem_device_homepage_url: https://www.ubnt.com/unifi/unifi-ap-ac-pro/
+package_architecture: mips_24kc
+power_supply: 24V, 0.5A PoE
+ram_mb: 128
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=8307c2fe686ded345c80318359d5b6679e581fa2
+supported_since_rel: 17.01.0
+switch: Atheros AR8337
+target: ar71xx-ath79
+usb_ports: 1x 2.0
+vlan: true
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 3x3 MIMO
+wlan_driver: ath10k

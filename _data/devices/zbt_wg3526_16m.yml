@@ -1,0 +1,45 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: ZBT
+button_count: '1'
+comments: it appears that the unit has a PCI-e card slot for 3/4g and that the unit
+  may be available with or with out a 3/4G card and a difference of 2 antenna https://zbt.en.alibaba.com/product/60389403126-800783994/ZBT_WG3526_mt7621_dual_band_gigabit_wireless_router.html
+cpu: MediaTek MT7621A
+cpu_cores: 2
+cpu_mhz: 880
+detachable_antennas: '4'
+device_id: zbt_wg3526_16m
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-zbt-wg3526-16M-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-zbt-wg3526-16M-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: WG3526
+git_search: WG3526
+gluon_support: Broken
+installation_method_s: unknown
+jtag: true
+led_count: '6'
+malformed: {}
+model: WG3526
+oem_device_homepage_url: http://www.zbt-china.com/products/router/ZBT-WG3526.html
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=63996
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 2.5 A
+ram_mb: 512
+recovery_method_s: unknown
+sata_ports: '1'
+serial: true
+subtarget: mt7621
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=30fbc1a4d146ae0060d02946709fd6d8cc2a2b56
+supported_since_rel: 17.01.0
+switch: MediaTek MT7621A
+target: ramips
+usb_ports: 1x 3.0
+version: 16M
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/ZBT_WG3526
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

@@ -1,0 +1,35 @@
+availability: Discontinued
+bootloader: CFE
+brand: Asus
+comments: ASUS RT-N10P != ASUS RT-N10+ / ASUS RT-N10plus
+cpu: Broadcom BCM5356
+cpu_cores: 1
+cpu_mhz: 300
+device_id: asus_rt-n10plus_d1
+device_page: rt-n10plus.d1
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/MSQ/-RTN10PLUS
+firmware_openwrt_install_url: http://downloads.openwrt.org/backfire/10.03.1/brcm-2.4/openwrt-brcm-2.4-squashfs.trx
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/backfire/10.03.1/brcm-2.4/openwrt-brcm-2.4-squashfs.trx
+flash_mb: 4
+forum_search: RT-N10+
+git_search: RT-N10+
+installation_method_s: unknown
+malformed: {}
+model: RT-N10+
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 0.5 A
+ram_mb: 16
+recovery_method_s: unknown
+serial: true
+supported_current_rel: 10.03.1
+supported_since_rel: 10.03.1
+switch: Broadcom BCM5356
+target: brcm47xx
+unsupported_functions: WiFi 2.4GHz
+version: D1
+wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N10%2B_rev_D1
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM5356

@@ -1,0 +1,30 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: AirTight
+button_count: '1'
+cpu: Atheros
+device_id: airtight_c-55
+device_type: WiFi AP
+ethernet_gbit_ports: 1
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-c-55-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-c-55-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: C-55
+git_search: C-55
+installation_method_s: unknown
+led_count: '3'
+malformed: {}
+model: C-55
+oem_device_homepage_url: http://www.airtightnetworks.com/fileadmin/pdf/datasheet/AirTight-C-55-Access-Point-Datasheet.pdf
+package_architecture: mips_24kc
+power_supply: 12 VDC, PoE 802.3af/at
+recovery_method_s: unknown
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=772f9d4e32f326d94050da157d108f7f97961c5f
+supported_since_rel: 17.01.0
+target: ar71xx
+vlan: true
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: unknown

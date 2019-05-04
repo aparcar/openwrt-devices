@@ -1,0 +1,34 @@
+availability: Discontinued
+brand: Linksys
+cpu: Broadcom BCM5352E
+cpu_cores: 1
+cpu_mhz: 200
+detachable_antennas: '2'
+device_id: linksys_wrt54gs_v3
+device_page: wrt54g
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/Q87/-WT54GV40
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/legacy/openwrt-18.06.2-brcm47xx-legacy-linksys-wrt54gs-squashfs.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/legacy/openwrt-brcm47xx-legacy-linksys-wrt54gs-squashfs.bin
+flash_mb: 8
+forum_search: WRT54GS
+git_search: WRT54GS
+malformed: {}
+model: WRT54GS
+package_architecture: mipsel_mips32
+power_supply: 12 VDC, 1.0 A
+ram_mb: 32
+serial: true
+subtarget: legacy
+supported_current_rel: 18.06.2
+supported_since_rel: '0.9'
+switch: Broadcom BCM5352E
+target: brcm47xx
+usb_ports: Mod
+version: v3.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT54GS_v3
+wlan_24ghz: b/g
+wlan_driver: b43
+wlan_hardware: Broadcom BCM5352E

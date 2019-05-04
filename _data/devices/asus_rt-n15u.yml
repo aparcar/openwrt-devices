@@ -1,0 +1,45 @@
+availability: Discontinued 2016
+brand: Asus
+button_count: '1'
+cpu: Broadcom BCM47186B0
+cpu_cores: 1
+cpu_mhz: 500
+device_id: asus_rt-n15u
+device_page: rt-n15u
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/MSQ/-RTN15U
+firmware_oem_stock_url: https://www.asus.com/Networking/RTN15U/HelpDesk_Download/
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-asus-rt-n15u-squashfs.trx
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-asus-rt-n15u-squashfs.trx
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/lede-brcm47xx-mips74k-asus-rt-n15u-squashfs.trx
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-asus-rt-n15u-squashfs.trx
+flash_mb: 8
+forum_search: RT-N15U
+git_search: RT-N15U
+installation_method_s: unknown
+jtag: true
+led_count: '5'
+malformed: {}
+model: RT-N15U
+oem_device_homepage_url: https://www.asus.com/Networking/RTN15U/
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=50257
+package_architecture: mipsel_74kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 64
+recovery_method_s: unknown
+serial: true
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=3f64bb8f8f49ef2c718173b4b76c18bbc455933c
+supported_since_rel: '15.05'
+switch: Broadcom BCM53125
+target: brcm47xx
+unsupported_functions: WiFi 2.4GHz
+usb_ports: 1x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N15U
+wlan_24ghz: b/g/n
+wlan_comments: MIMO 2x2
+wlan_driver: b43
+wlan_hardware: Broadcom BCM47186B0

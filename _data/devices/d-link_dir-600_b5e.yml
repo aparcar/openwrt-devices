@@ -1,0 +1,41 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: D-Link
+button_count: '2'
+comments: Works with 17.01.0 DIR-610A1 image (see LEDE forum); u-boot version in original
+  firmware prevents direct flashing openwrt
+cpu: Ralink RT5350
+cpu_cores: 1
+cpu_mhz: 360
+detachable_antennas: '1'
+device_id: d-link_dir-600_b5e
+device_page: dir-300revb
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/KA2/IR600B5
+firmware_oem_stock_url: http://www.dlink.com/de/de/support/product/dir-600-wireless-n-150-home-router
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/17.01.0/targets/ramips/rt305x/lede-17.01.0-r3205-59508e3-ramips-rt305x-dir-610-a1-squashfs-factory.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/17.01.0/targets/ramips/rt305x/lede-17.01.0-r3205-59508e3-ramips-rt305x-dir-610-a1-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: DIR-600
+git_search: DIR-600
+led_count: '7'
+lede_forum_topic_url: https://forum.lede-project.org/t/dir-600-b5e-installing-openwrt-lede/
+malformed: {}
+model: DIR-600
+oem_device_homepage_url: http://www.dlink.com/de/de/support/product/dir-600-wireless-n-150-home-router
+package_architecture: mipsel_24kc
+power_supply: 5 VDC, 1.0 A
+ram_mb: 32
+serial: true
+subtarget: rt305x
+supported_current_rel: 17.01.0
+supported_since_rel: 17.01.0
+switch: Ralink RT5350
+target: ramips
+version: B5E
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-600_rev_B5
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: Ralink RT5350

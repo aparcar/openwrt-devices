@@ -1,0 +1,31 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Tenda
+cpu: Ralink RT3052F
+cpu_cores: 1
+cpu_mhz: 384
+device_id: tenda_3g300m
+device_type: Travel Router
+ethernet_100m_ports: 1
+firmware_oem_stock_url: http://www.tendacn.com/en/search/3G300M.html
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-3g300m-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-3g300m-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: 3G300M
+git_search: 3G300M
+installation_method_s: unknown
+malformed: {}
+model: 3G300M
+oem_device_homepage_url: http://www.tendacn.com/en/search/3G300M.html
+package_architecture: mipsel_24kc
+power_supply: 5 VDC, 1.0 A
+ram_mb: 32
+recovery_method_s: unknown
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ed6d399f8d5a0952b7d101e1e9bd4d9632b741e8
+supported_since_rel: 17.01.0
+target: ramips
+wlan_24ghz: b/g/n
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT3052F

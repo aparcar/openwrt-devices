@@ -1,0 +1,27 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: EnGenius
+cpu: Ralink RT3052
+cpu_cores: 1
+cpu_mhz: 384
+device_id: engenius_eap-9550_100
+device_page: eap-9550
+device_type: WiFi Router
+ethernet_100m_ports: 1
+flash_mb: 4
+forum_search: EAP9550
+git_search: EAP9550
+malformed: {}
+model: EAP9550
+oem_device_homepage_url: http://www.engeniusnetworks.com/product/product.php?c=14&s=36&p=33
+package_architecture: mipsel_24kc
+ram_mb: 32
+serial: true
+subtarget: rt305x
+target: ramips
+unsupported_functions: Possible to support
+version: 1.0.0
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: rt2800pci
+wlan_hardware: Ralink RT2860

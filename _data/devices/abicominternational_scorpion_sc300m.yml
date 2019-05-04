@@ -1,0 +1,31 @@
+availability: Available 2017
+bootloader: U-Boot
+brand: Abicom International
+cpu: Qualcomm Atheros QCA9550
+cpu_cores: 1
+cpu_mhz: 700
+device_id: abicominternational_scorpion_sc300m
+device_type: Single Board Computer
+ethernet_gbit_ports: 1
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-sc300m-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-sc300m-squashfs-sysupgrade.bin
+forum_search: Scorpion SC300M
+git_search: Scorpion SC300M
+gpios: more than 20
+installation_method_s: unknown
+malformed: {}
+model: Scorpion SC300M
+oem_device_homepage_url: http://www.abicom.co.uk/products/oem-wireless-bridges/
+package_architecture: mips_24kc
+power_supply: 8-20 VDC
+ram_mb: 256
+recovery_method_s: unknown
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=eb97f41fc23ffbd6635b402d6e0bbd8e8ef029bb
+supported_since_rel: 18.06.0
+target: ar71xx
+vlan: true
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: unknown

@@ -1,0 +1,35 @@
+availability: Discontinued
+bootloader: CFE
+brand: Comtrend
+button_count: '1'
+cpu: Broadcom BCM6368
+cpu_cores: 2
+cpu_mhz: 400
+device_id: comtrend_vr-3025un
+device_page: vr3025un
+device_type: WiFi Router
+ethernet_100m_ports: 4
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-VR-3025un-squashfs-cfe.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-VR-3025un-squashfs-cfe.bin
+flash_mb: 8
+forum_search: VR-3025un
+git_search: VR-3025un
+jtag: true
+malformed: {}
+model: VR-3025un
+package_architecture: mips_mips32
+power_supply: 12 VDC, 1.0 A
+ram_mb: 64
+recovery_method_s: CFE TFTP + serial recovery
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b26139eb3fd4abdb7339b0bd1dfa8f3a08810574
+supported_since_rel: '14.07'
+target: brcm63xx
+unsupported_functions: DSL modem
+usb_ports: 1x 2.0
+vlan: true
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM43222 (mini-PCI)

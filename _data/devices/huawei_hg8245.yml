@@ -1,0 +1,29 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Huawei
+button_count: '3'
+cpu: Hisilicon SD5113
+cpu_cores: 1
+cpu_mhz: 400
+device_id: huawei_hg8245
+device_type: WiFi Router
+ethernet_gbit_ports: 4
+flash_mb: 16
+forum_search: HG8245
+git_search: HG8245
+led_count: '12'
+malformed: {}
+model: HG8245
+modem: GPON
+oem_device_homepage_url: http://huawei.com/en/products/fixed-access/fttx/ont/hg8245/
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=35757
+phone_ports: '2'
+ram_mb: 64
+serial_connection_parameters: 115200 / 8N1
+switch: Atheros AR8316
+usb_ports: true
+vlan: true
+where_available: aliexpress.com
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9227

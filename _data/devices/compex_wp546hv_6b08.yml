@@ -1,0 +1,31 @@
+availability: Discontinued 2018
+bootloader: CFE
+brand: Compex
+cpu: Atheros AR7161
+cpu_cores: 1
+cpu_mhz: 680
+device_id: compex_wp546hv_6b08
+device_page: wp546hv
+device_type: Single Board Computer
+ethernet_100m_ports: 2
+flash_mb: 8
+forum_search: WP546HV
+git_search: WP546HV
+jtag: true
+malformed: {}
+model: WP546HV
+package_architecture: mips_24kc
+ram_mb: 64
+recovery_method_s: CFE TFTP recovery
+serial: true
+subtarget: generic
+supported_current_rel: '10.03'
+supported_since_rel: '10.03'
+target: ar71xx
+version: 6B08
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/Compex_WP546HV
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: unknown
+wlan_hardware: ALL Compex Atheros WLM200 series mini-PCI

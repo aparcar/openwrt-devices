@@ -1,0 +1,34 @@
+availability: Discontinued
+bootloader: RouterBOOT
+brand: MikroTik
+cpu: Atheros AR7241
+cpu_cores: 1
+cpu_mhz: 400
+device_id: mikrotik_rb751u-2hnd
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: "http://\xBF"
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-vmlinux-initramfs.elf
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-vmlinux-initramfs.elf
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-nand-64m-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-nand-64m-squashfs-sysupgrade.bin
+flash_mb: 64NAND
+forum_search: RB751U-2HnD
+git_search: RB751U-2HnD
+installation_method_s: Mikrotik TFTP
+malformed:
+  flash_mb: 64NAND
+model: RB751U-2HnD
+oem_device_homepage_url: https://mikrotik.com/product/RB751U-2HnD
+package_architecture: mips_24kc
+ram_mb: 32
+recovery_method_s: unknown
+subtarget: mikrotik
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=e295a077cea86adad6d897b72b2b8b371a3d7fc4
+supported_since_rel: '12.09'
+target: ar71xx
+usb_ports: 1x 2.0
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9283

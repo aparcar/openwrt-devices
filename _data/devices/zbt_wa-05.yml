@@ -1,0 +1,34 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: ZBT
+button_count: '1'
+cpu: MediaTek MT7620N
+cpu_cores: 1
+cpu_mhz: 580
+detachable_antennas: '2'
+device_id: zbt_wa-05
+device_page: wa-05
+device_type: WiFi Router
+ethernet_100m_ports: 5
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-zbt-wa05-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-zbt-wa05-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: WA-05
+git_search: WA-05
+installation_method_s: unknown
+led_count: '8'
+malformed: {}
+model: WA-05
+package_architecture: mipsel_24kc
+ram_mb: 64
+recovery_method_s: unknown
+serial: true
+subtarget: mt7620
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=03faf4618e65079268a7372a13669d5e10869c88
+supported_since_rel: '14.07'
+target: ramips
+usb_ports: 1x 2.0
+wlan_24ghz: b/g/n
+wlan_driver: mt76
+wlan_hardware: MediaTek MT7620N

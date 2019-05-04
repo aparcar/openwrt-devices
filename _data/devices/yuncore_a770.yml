@@ -1,0 +1,33 @@
+availability: unknown 2019
+bootloader: U-Boot
+brand: YunCore
+button_count: '1'
+cpu: Qualcomm Atheros QCA9531
+cpu_cores: 1
+cpu_mhz: 650
+device_id: yuncore_a770
+device_type: WiFi AP
+ethernet_100m_ports: 2
+firmware_oem_stock_url: "http://\xBF"
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-yuncore_a770-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: A770
+git_search: A770
+installation_method_s: see git-commit
+led_count: '3'
+malformed: {}
+model: A770
+oem_device_homepage_url: http://yuncore.com.cn/en/ProductDetail/2226281.html
+package_architecture: mips_24kc
+power_supply: 12 VDC
+ram_mb: 128
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=6fa94d5e8f8d008dc55eae02ca1b21199d9a8915
+target: ath79
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k

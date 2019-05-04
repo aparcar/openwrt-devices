@@ -1,0 +1,33 @@
+availability: Available 2019
+bootloader: RouterBOOT
+brand: MikroTik
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: 1
+cpu_mhz: 720
+device_id: mikrotik_rb921gs-5hpacd-15s
+device_type: WiFi Router
+ethernet_gbit_ports: 1
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-vmlinux-initramfs.elf
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-vmlinux-initramfs.elf
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/mikrotik/openwrt-ar71xx-mikrotik-nand-large-ac-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/mikrotik/openwrt-18.06.2-ar71xx-mikrotik-nand-large-ac-squashfs-sysupgrade.bin
+flash_mb: 128NAND
+forum_search: RB921GS-5HPacD-15S
+git_search: RB921GS-5HPacD-15S
+installation_method_s: see git-commit
+lede_forum_topic_url: https://forum.lede-project.org/search?q=RB921GS-5HPacD-15S
+malformed:
+  flash_mb: 128NAND
+model: RB921GS-5HPacD-15S
+oem_device_homepage_url: https://mikrotik.com/product/RB921GS-5HPacD-15S
+package_architecture: mips_24kc
+power_supply: 12-28 VDC barrel jack, passive PoE 9-30 VDC
+ram_mb: 128
+subtarget: mikrotik
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=82626cc145610b8b6485d650693629ef0b943505
+supported_since_rel: 18.06.0
+target: ar71xx
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA9882

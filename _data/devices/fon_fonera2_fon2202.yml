@@ -1,0 +1,32 @@
+availability: Discontinued
+bootloader: RedBoot
+brand: Fon
+cpu: Atheros AR2315
+cpu_cores: 1
+cpu_mhz: 180
+detachable_antennas: '1'
+device_id: fon_fonera2_fon2202
+device_page: fonera2
+device_type: WiFi Router
+ethernet_100m_ports: 1
+flash_mb: 8
+forum_search: Fonera 2.0g
+git_search: Fonera 2.0g
+jtag: false
+malformed: {}
+model: Fonera 2.0g
+power_supply: 7.5 VDC, 1.0 A
+ram_mb: 32
+recovery_method_s: RedBoot TFTP + serial recovery
+serial: true
+supported_current_rel: '15.05'
+supported_since_rel: '10.03'
+switch: Marvell 88E6060
+target: ath25
+usb_ports: 1x 2.0
+version: FON2202
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/La_Fonera_2.0g_FON2202
+wlan_24ghz: b/g
+wlan_driver: ath5k
+wlan_hardware: Atheros AR2315

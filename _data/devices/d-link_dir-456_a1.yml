@@ -1,0 +1,24 @@
+availability: Discontinued
+brand: D-Link
+cpu: Ralink RT3050F
+cpu_cores: 1
+cpu_mhz: 320
+device_id: d-link_dir-456_a1
+device_type: WiFi Router
+ethernet_100m_ports: 3
+flash_mb: 4
+forum_search: DIR-456
+git_search: DIR-456
+malformed: {}
+model: DIR-456
+oem_device_homepage_url: http://www.dlink.ir/en/3GModemRouter/3GRouter/DIR_456
+package_architecture: mipsel_24kc
+ram_mb: 32
+subtarget: rt305x
+switch: Ralink RT3050F
+target: ramips
+unsupported_functions: Possible to support
+version: A1
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-456_rev_A1
+wlan_24ghz: b/g/n
+wlan_driver: unknown

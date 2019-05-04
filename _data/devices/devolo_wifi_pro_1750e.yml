@@ -1,0 +1,48 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Devolo
+button_count: '3'
+comments: External RJ45 serial port is not working, RAM is DDR2, 1x GPIO attached
+  piezo beeper
+comments_network_ports: LAN1 (PoE out), LAN 2 (PoE in)
+cpu: Qualcomm Atheros QCA9558
+cpu_cores: 1
+cpu_mhz: 720
+detachable_antennas: '3'
+device_id: devolo_wifi_pro_1750e
+device_page: devolo_wifi_pro_1750e
+device_type: WiFi AP
+ethernet_gbit_ports: 2
+fccid: https://fcc.io/NDD/9576791401
+firmware_oem_stock_url: https://www.touslesdrivers.com/index.php?v_page=23&v_code=56341
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-devolo_dvl1750e-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: Devolo WiFi pro 1750e
+git_search: Devolo WiFi pro 1750e
+image: devolo_wifi_pro_1750e.jpg
+installation_method_s: Sysupgrade
+jtag: false
+led_count: '2'
+malformed: {}
+model: WiFi pro 1750e
+oem_device_homepage_url: http://web.archive.org/web/20170630105124/http://www.devolo.com:80/en/Business-Solutions/Wi-Fi-Pro/devolo-WiFi-pro-1750e
+owrt_forum_topic_url: https://forum.openwrt.org/t/devolo-wifi-pro-1750e-edimax-pro-wap1750-acelink-ew-7679wac/
+package_architecture: mips_24kc
+power_supply: 12 VDC, 4.0 A, PoE 802.3at
+ram_mb: 128
+recovery_method_s: see forum
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=1c2f7b511514d43d8a826b26e09817b2750a2bf4
+switch: Atheros AR8035, Atheros AR8033
+target: ath79
+usb_ports: 1x 2.0
+vlan: true
+where_available: amazon.de, office-partner.de, grooves.land
+wikidevi_url: https://wikidevi.com/wiki/Edimax_EW-7679WAC
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_comments: 3T3R MIMO (2.4Ghz 450Mbps, 5Ghz 1299Mbps, 3x RP-SMA 2dBi dual-band
+  antennas)

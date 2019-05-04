@@ -1,0 +1,35 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Lemaker
+comments: See also http://linux-sunxi.org/LeMaker_Banana_Pi
+cpu: Allwinner A20
+cpu_cores: 2
+cpu_mhz: 1000
+device_id: lemaker_bananapi
+device_page: bananapi
+device_type: Single Board Computer
+ethernet_gbit_ports: 1
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/sunxi/cortexa7/openwrt-18.06.2-sunxi-cortexa7-sun7i-a20-bananapi-squashfs-sdcard.img.gz
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/sunxi/cortexa7/openwrt-sunxi-cortexa7-sun7i-a20-bananapi-squashfs-sdcard.img.gz
+flash_mb: microSD
+forum_search: BananaPi
+git_search: BananaPi
+gpios: more than 20
+installation_method_s: see devicepage
+jtag: false
+led_count: '3'
+malformed:
+  flash_mb: microSD
+model: BananaPi
+oem_device_homepage_url: http://www.lemaker.org/product-bananapi-index.html
+package_architecture: arm_cortex-a8_vfpv3
+power_supply: "5 VDC (\xB5USB)"
+ram_mb: 1024
+sata_ports: '1'
+serial: true
+subtarget: cortexa7
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=1bd75f114f10fb04a691a9b71a939d690946463f
+supported_since_rel: 17.01.0
+target: sunxi
+where_available: aliexpress.com

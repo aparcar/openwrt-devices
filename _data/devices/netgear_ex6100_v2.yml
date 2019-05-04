@@ -1,0 +1,43 @@
+availability: Available 2019
+brand: Netgear
+button_count: '2'
+cpu: Qualcomm Atheros IPQ4018
+cpu_cores: 4
+cpu_mhz: 717
+device_id: netgear_ex6100_v2
+device_type: Range Extender
+ethernet_gbit_ports: 1
+fccid: https://fcc.io/PY3/16100333
+firmware_oem_stock_url: https://www.netgear.com/support/product/EX6100v2
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ipq40xx/generic/openwrt-18.06.2-ipq40xx-netgear_ex6100v2-squashfs-factory.img
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ipq40xx/generic/openwrt-ipq40xx-netgear_ex6100v2-squashfs-factory.img
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ipq40xx/generic/openwrt-ipq40xx-netgear_ex6100v2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ipq40xx/generic/openwrt-18.06.2-ipq40xx-netgear_ex6100v2-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: EX6100
+git_search: EX6100
+gluon_support: true
+led_count: '6'
+malformed: {}
+model: EX6100
+oem_device_homepage_url: https://www.netgear.com/home/products/networking/wifi-range-extenders/EX6100.aspx
+package_architecture: arm_cortex-a7_neon-vfpv4
+power_supply: 100-240 VAC, 0.16 A, 50/60Hz
+ram_mb: 256
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=970f1914be3f299fb302ca74a214589397000858
+supported_since_rel: 18.06.0
+switch: Qualcomm Atheros QCA8072
+target: ipq40xx
+unsupported_functions: AP-Extender toggle-switch
+version: v2
+where_available: amazon.com
+wikidevi_url: https://wikidevi.com/wiki/Netgear_EX6100v2
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros IPQ4018

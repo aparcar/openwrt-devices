@@ -1,0 +1,32 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: ALFA Network
+button_count: '1'
+cpu: Atheros AR7240
+cpu_cores: 1
+cpu_mhz: 400
+device_id: alfa_network_ap91-5g
+device_type: WiFi AP
+ethernet_100m_ports: 1
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ap91-5g-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-ap91-5g-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/openwrt-ar71xx-generic-ap91-5g-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-ap91-5g-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: AP91-5G
+git_search: AP91-5G
+led_count: '6'
+malformed: {}
+model: AP91-5G
+package_architecture: mips_24kc
+power_supply: 24 VDC passive PoE
+ram_mb: 32
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=7f9f42d42eff837d2eca5b4862cbb3b1ccebbefd
+supported_since_rel: 18.06.0
+target: ar71xx
+wlan_50ghz: a/n/ac
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9280

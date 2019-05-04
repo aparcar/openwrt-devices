@@ -1,0 +1,38 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: TP-Link
+comments: In trunk (r48767) the filename was changed to "tl-wr841-v1.5".
+cpu: Atheros AR7130
+cpu_cores: 1
+cpu_mhz: 300
+device_id: tp-link_tl-wr841n_v1-5
+device_page: tl-wr841nd
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: http://fcc.io/TE7/WR841ND
+firmware_oem_stock_url: https://www.tp-link.com/en/support/download/tl-wr841n/v1/
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wr841-v1.5-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wr841-v1.5-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/tiny/openwrt-ar71xx-tiny-tl-wr841-v1.5-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-18.06.2-ar71xx-tiny-tl-wr841-v1.5-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: TL-WR841N(D)
+git_search: TL-WR841N(D)
+malformed: {}
+model: TL-WR841N(D)
+oem_device_homepage_url: https://www.tp-link.com/en/home-networking/wifi-router/tl-wr841n/
+package_architecture: mips_24kc
+power_supply: 9 VDC, 0.6 A
+ram_mb: 32
+recovery_method_s: U-Boot TFTP + serial recovery
+subtarget: tiny
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=cace9f45660a8bf2ec8a67e33ea5f563ff19abb1
+supported_since_rel: '10.03'
+switch: Marvell 88E6063
+target: ar71xx
+vlan: false
+wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR841N_v1.5
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR5416 (mini-PCI)

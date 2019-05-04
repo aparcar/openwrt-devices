@@ -1,0 +1,43 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: ZyXEL
+button_count: '3'
+cpu: Ralink RT3352
+cpu_cores: 1
+cpu_mhz: 384
+detachable_antennas: '2'
+device_id: zyxel_nbg-419n_v2
+device_page: zyxel_nbg-419n_v2
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/I88/NBG-419NV2
+firmware_oem_stock_url: https://www.zyxel.com/support/SupportLandingSR.shtml?c=gb&l=en&kbid=M-01301&md=NBG-419N%20v2
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-nbg-419n2-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-nbg-419n2-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: NBG-419N
+git_search: NBG-419N
+installation_method_s: U-Boot TFTP + serial recovery
+led_count: '3'
+malformed: {}
+model: NBG-419N
+oem_device_homepage_url: https://www.zyxel.com/support/SupportLandingSR.shtml?c=gb&l=en&kbid=M-01301&md=NBG-419N%20v2
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=52666
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.0 A
+ram_mb: 64
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+subtarget: rt305x
+supported_current_rel: 18.06.1
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=df5416296cda4f7338a3d6eea361f8e8c8d667c6
+supported_since_rel: 17.01.0
+switch: Ralink RT3352
+target: ramips
+usb_ports: 1x 2.0
+version: v2
+wikidevi_url: https://wikidevi.com/wiki/ZyXEL_NBG-419N_v2
+wlan_24ghz: b/g/n
+wlan_comments: 2x2
+wlan_driver: unknown
+wlan_hardware: Ralink RT3352

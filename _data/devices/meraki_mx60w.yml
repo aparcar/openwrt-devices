@@ -1,0 +1,44 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Meraki
+button_count: '1'
+comments: Device shares hardware with the MX60.
+cpu: AppliedMicro APM82181
+cpu_cores: 1
+cpu_mhz: 800
+detachable_antennas: '3'
+device_id: meraki_mx60w
+device_page: mx60w
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/UDX/-60016015
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/apm821xx/nand/openwrt-apm821xx-nand-meraki_mx60-initramfs-kernel.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/apm821xx/nand/openwrt-apm821xx-nand-meraki_mx60-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/apm821xx/nand/openwrt-18.06.2-apm821xx-nand-meraki_mx60-squashfs-sysupgrade.tar
+flash_mb: 1024
+forum_search: MX60W
+git_search: MX60W
+jtag: true
+led_count: '6'
+malformed: {}
+model: MX60W
+oem_device_homepage_url: https://www.cisco.com/c/en/us/support/security/meraki-mx60w/model.html
+package_architecture: powerpc_464fp
+power_supply: 12 VDC, 1.5 A
+ram_mb: 512
+recovery_method_s: U-Boot TFTP + serial recovery
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: nand
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f478ec2007b93b87fba606eae49688753281c85f
+supported_since_rel: 17.01.0
+switch: Atheros AR8327
+target: apm821xx
+usb_ports: 1x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Meraki_MX60W
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9380

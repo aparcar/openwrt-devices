@@ -1,0 +1,23 @@
+availability: Available 2017
+brand: Cisco
+cpu: Broadcom BCM4716
+cpu_cores: 1
+cpu_mhz: 300
+device_id: cisco_valetplusm20_10
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+flash_mb: 4
+forum_search: Valet Plus M20
+git_search: Valet Plus M20
+malformed: {}
+model: Valet Plus M20
+package_architecture: mipsel_74kc
+ram_mb: 32
+subtarget: mips74k
+target: brcm47xx
+unsupported_functions: Possible to support
+version: '1.0'
+wikidevi_url: https://wikidevi.com/wiki/Cisco_Valet_Plus_M20
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom (integrated)

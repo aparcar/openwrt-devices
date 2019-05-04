@@ -1,0 +1,22 @@
+availability: Available 2018
+bootloader: U-Boot
+brand: Olimex
+cpu: Allwinner A13
+cpu_cores: 1
+cpu_mhz: 1000
+device_id: olimex_a13-som-256
+device_page: a13-olinuxino-som
+device_type: Single Board Computer
+forum_search: A13-SOM-256
+git_search: A13-SOM-256
+image: olimex_a13-som-256.jpg
+jtag: false
+malformed: {}
+model: A13-SOM-256
+package_architecture: arm_cortex-a8_vfpv3
+ram_mb: 256
+serial: true
+subtarget: cortexa8
+target: sunxi
+where_available: olimex.com
+wlan_driver: unknown

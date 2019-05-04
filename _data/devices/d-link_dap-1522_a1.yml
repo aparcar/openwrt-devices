@@ -1,0 +1,37 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: D-Link
+cpu: Ralink RT2880
+cpu_cores: 1
+cpu_mhz: 266
+device_id: d-link_dap-1522_a1
+device_type: WiFi AP
+ethernet_gbit_ports: 4
+fccid: https://fcc.io/KA2/AP1522A1
+firmware_oem_stock_url: https://support.dlink.com/ProductInfo.aspx?m=DAP-1522
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/rt288x/openwrt-18.06.2-ramips-rt288x-dlink_dap-1522-a1-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt288x/openwrt-ramips-rt288x-dlink_dap-1522-a1-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt288x/openwrt-ramips-rt288x-dlink_dap-1522-a1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/rt288x/openwrt-18.06.2-ramips-rt288x-dlink_dap-1522-a1-squashfs-sysupgrade.bin
+flash_mb: 4
+forum_search: DAP-1522
+git_search: DAP-1522
+malformed: {}
+model: DAP-1522
+oem_device_homepage_url: https://support.dlink.com/ProductInfo.aspx?m=DAP-1522
+package_architecture: mipsel_mips32r2
+power_supply: 5 VDC, 2.0 A
+ram_mb: 32
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: rt288x
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=13f9e40602707479aaffac0d68a952070f305b7d
+supported_since_rel: 18.06.0
+switch: Realtek RTL8366SR
+target: ramips
+version: A1
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DAP-1522_rev_A1
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: rt2800pci

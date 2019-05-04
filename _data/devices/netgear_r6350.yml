@@ -1,0 +1,39 @@
+availability: Available 2019
+bootloader: U-Boot
+brand: Netgear
+button_count: '2'
+cpu: MediaTek MT7621AT
+cpu_cores: 2
+cpu_mhz: 880
+device_id: netgear_r6350
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/PY3/17300390
+firmware_oem_stock_url: https://www.netgear.com/support/product/R6350.aspx
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-netgear_r6350-squashfs-sysupgrade.bin
+flash_mb: 128NAND
+forum_search: R6350
+git_search: R6350
+installation_method_s: see git-commit
+led_count: '4'
+malformed:
+  flash_mb: 128NAND
+model: R6350
+oem_device_homepage_url: https://jp.netgear.com/home/products/networking/wifi-routers/R6350.aspx
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 1.5 A
+ram_mb: 128
+recovery_method_s: see git-commit
+subtarget: mt7621
+supported_current_rel: snapshot
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=83a97c53face95b8c7239da25a1c7f776bcfc521
+switch: MediaTek MT7621AT
+target: ramips
+unsupported_functions: WiFi 5GHz
+usb_ports: 1x 2.0
+vlan: true
+where_available: amazon.in, amazon.co.jp
+wikidevi_url: https://wikidevi.com/wiki/Netgear_R6350
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

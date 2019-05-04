@@ -1,0 +1,40 @@
+availability: unknown 2018
+bootloader: U-Boot
+brand: OpenEmbed
+cpu: Qualcomm Atheros AR9331
+cpu_cores: 1
+cpu_mhz: 400
+device_id: openembed_som9331_v1
+device_page: openembed_som9331_v1
+device_type: Single Board Computer
+ethernet_100m_ports: 3
+firmware_oem_stock_url: http://openwrt.jaru.eu.org/barrier_breaker/ar71xx/
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-som9331-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-som9331-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-som9331-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-som9331-squashfs-sysupgrade.bin
+flash_mb: 8
+forum_search: SOM9331
+git_search: SOM9331
+installation_method_s: unknown
+jtag: true
+malformed: {}
+model: SOM9331
+oem_device_homepage_url: http://www.openembed.com/index.php/goods/7/detail.html
+owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?id=61271
+package_architecture: mips_24kc
+power_supply: 3.3 VDC, 0.35 A
+ram_mb: 64
+recovery_method_s: unknown
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e61fe4e4d762eb3e00c43b6714a229835efc7ea5
+supported_since_rel: 17.01.0
+target: ar71xx
+usb_ports: 1x 2.0
+version: v1
+vlan: false
+wlan_24ghz: b/g/n
+wlan_driver: ath9k
+wlan_hardware: Atheros AR9331

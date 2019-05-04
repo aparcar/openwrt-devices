@@ -1,0 +1,26 @@
+availability: Discontinued
+bootloader: CFE
+brand: Hitachi
+cpu: Broadcom BCM6348
+cpu_cores: 1
+cpu_mhz: 256
+device_id: hitachi_ah4051
+device_page: ah4051
+device_type: WiFi Router
+ethernet_100m_ports: 2
+flash_mb: 4
+forum_search: AH4051
+git_search: AH4051
+jtag: false
+malformed: {}
+model: AH4051
+modem: ADSL2+
+package_architecture: mips_mips32
+ram_mb: 16
+serial: true
+subtarget: generic
+target: brcm63xx
+unsupported_functions: Impossible
+usb_ports: 1x 1.1 Device
+wlan_driver: b43
+wlan_hardware: Broadcom BCM4318

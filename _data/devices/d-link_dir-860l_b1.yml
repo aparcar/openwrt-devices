@@ -1,0 +1,49 @@
+availability: Discontinued 2017
+bootloader: U-Boot
+brand: D-Link
+button_count: '2'
+comments: Has WiFi problems with LEDE <=17.01.2 (slow on 5 GHz, some people also report
+  buggy on 2.4 GHz). The 5GHz-WiFi problems seem fixed on snapshots > ~2017-07-20
+cpu: MediaTek MT7621AT
+cpu_cores: 2
+cpu_mhz: 880
+device_id: d-link_dir-860l_b1
+device_page: dir-860l
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/KA2/IR860LB1
+firmware_oem_stock_url: http://support.dlink.com/ProductInfo.aspx?m=DIR-860L
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-dir-860l-b1-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/lede-ramips-mt7621-dir-860l-b1-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/lede-ramips-mt7621-dir-860l-b1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-dir-860l-b1-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: DIR-860L
+git_search: DIR-860L
+gluon_support: Broken
+image: d-link_dir-860l_b1.png
+installation_method_s: D-Link Recovery GUI
+jtag: false
+led_count: '2'
+malformed: {}
+model: DIR-860L
+oem_device_homepage_url: http://support.dlink.com/ProductInfo.aspx?m=DIR-860L
+package_architecture: mipsel_24kc
+power_supply: 12 VDC, 2.0 A
+ram_mb: 128
+recovery_method_s: D-Link Recovery GUI
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt7621
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=40b740b23234574115225bf8bde7bc679f8034e1
+supported_since_rel: '15.05'
+switch: MediaTek MT7621AT
+target: ramips
+usb_ports: 1x 3.0
+version: B1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-860L_rev_B1
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: mt76

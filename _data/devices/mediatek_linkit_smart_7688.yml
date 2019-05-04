@@ -1,0 +1,41 @@
+availability: Available 2017
+bootloader: U-Boot
+brand: MediaTek
+button_count: '2'
+cpu: MediaTek MT7688AN
+cpu_cores: 1
+cpu_mhz: 580
+detachable_antennas: '1'
+device_id: mediatek_linkit_smart_7688
+device_page: linkit7688
+device_type: Single Board Computer
+ethernet_100m_ports: 1
+fccid: https://fcc.io/Z4T/-LINKITS7688
+firmware_oem_stock_url: https://labs.mediatek.com/site/global/developer_tools/mediatek_linkit_smart_7688/sdt_intro/index.gsp
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt76x8/openwrt-ramips-mt76x8-LinkIt7688-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt76x8/openwrt-18.06.2-ramips-mt76x8-LinkIt7688-squashfs-sysupgrade.bin
+flash_mb: 32
+forum_search: LinkIt Smart 7688
+git_search: LinkIt Smart 7688
+gpios: more than 20
+installation_method_s: U-Boot USB recovery
+jtag: true
+led_count: '2'
+malformed: {}
+model: LinkIt Smart 7688
+oem_device_homepage_url: https://labs.mediatek.com/site/global/developer_tools/mediatek_linkit_smart_7688/hdk_intro/index.gsp
+package_architecture: mipsel_24kc
+power_supply: 5 VDC, 2.0 A
+ram_mb: 128
+recovery_method_s: U-Boot USB recovery
+serial: true
+serial_connection_parameters: 57600 / 8N1
+subtarget: mt7688
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=51dd991d3957a33f102c9887da379263599c395f
+supported_since_rel: 15.05.1
+target: ramips
+wikidevi_url: https://wikidevi.com/wiki/LinkIt_Smart_7688
+wlan_24ghz: b/g/n
+wlan_driver: unknown
+wlan_hardware: MediaTek MT7688AN

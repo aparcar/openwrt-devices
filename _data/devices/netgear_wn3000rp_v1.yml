@@ -1,0 +1,35 @@
+availability: Discontinued
+brand: Netgear
+cpu: Broadcom BCM5357C0
+cpu_cores: 1
+cpu_mhz: 300
+device_id: netgear_wn3000rp_v1
+device_type: Range Extender
+ethernet_100m_ports: 1
+fccid: https://fcc.io/PY3/10300142
+firmware_oem_stock_url: https://www.netgear.com/support/product/wn3000rp
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm47xx/mips74k/openwrt-brcm47xx-mips74k-netgear-wn3000rp-squashfs.chk
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm47xx/mips74k/openwrt-18.06.2-brcm47xx-mips74k-netgear-wn3000rp-squashfs.chk
+flash_mb: 4
+forum_search: WN3000RP
+git_search: WN3000RP
+installation_method_s: unknown
+lede_forum_topic_url: https://forum.lede-project.org/t/netgear-wn3000rp-v1-low-cost-repeater-failsafe/1310
+malformed: {}
+model: WN3000RP
+oem_device_homepage_url: https://www.netgear.com/support/product/wn3000rp
+package_architecture: mipsel_74kc
+power_supply: 100-240 VAC, 50-60 Hz, 0.3 A
+ram_mb: 32
+recovery_method_s: see forum
+subtarget: mips74k
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ba0b904d0bb3699e9729d4ce55cd85fc2f689ae8
+supported_since_rel: 17.01.0
+target: brcm47xx
+unsupported_functions: WiFi 2.4GHz
+version: v1
+wikidevi_url: https://wikidevi.com/wiki/Netgear_WN3000RPv1
+wlan_24ghz: b/g/n
+wlan_driver: b43
+wlan_hardware: Broadcom BCM5357C0

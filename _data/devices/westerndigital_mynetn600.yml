@@ -1,0 +1,38 @@
+availability: Discontinued
+bootloader: U-Boot
+brand: Western Digital
+cpu: Atheros AR9344
+cpu_cores: 1
+cpu_mhz: 560
+device_id: westerndigital_mynetn600
+device_page: n600
+device_type: WiFi Router
+ethernet_100m_ports: 5
+fccid: https://fcc.io/RRK-D2F
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-mynet-n600-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-mynet-n600-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-mynet-n600-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-mynet-n600-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: My Net N600
+git_search: My Net N600
+gluon_support: true
+installation_method_s: see devicepage
+malformed: {}
+model: My Net N600
+package_architecture: mips_24kc
+power_supply: 12 VDC, 2.0 A
+ram_mb: 128
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=cd9ff05845d866590eae3d4b4d47102d44ca4a78
+supported_since_rel: '14.07'
+switch: Atheros AR9344
+target: ar71xx
+usb_ports: 1x 2.0
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Western_Digital_My_Net_N600
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: ath9k

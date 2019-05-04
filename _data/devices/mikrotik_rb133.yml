@@ -1,0 +1,31 @@
+availability: Discontinued
+bootloader: RouterBOOT
+brand: MikroTik
+comments: Reported working with self-built 15.05 + 17.01 images, see forum.
+cpu: Infineon ADM5120
+cpu_cores: 1
+cpu_mhz: 175
+device_id: mikrotik_rb133
+device_page: rb133
+device_type: Single Board Computer
+ethernet_100m_ports: 3
+flash_mb: 64
+forum_search: RB133
+git_search: RB133
+installation_method_s: see devicepage
+malformed: {}
+model: RB133
+owrt_forum_topic_url: https://forum.openwrt.org/t/solved-rb133-boot-issue/14419/17
+power_supply: 9-28 VDC, PoE
+ram_mb: 32
+serial: true
+serial_connection_parameters: 115200 / 8N1
+supported_current_rel: external image
+supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=a9ffbd94e7c10e55fc4777a84bfd5a5ab4d17729
+supported_since_rel: '7.09'
+switch: Infineon ADM5120
+target: adm5120
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_133_%28RB133%29
+wlan_driver: unknown
+wlan_hardware: 3x mini-PCI

@@ -1,0 +1,40 @@
+availability: Discontinued 2013
+bootloader: U-Boot
+brand: D-Link
+cpu: Atheros AR9344
+cpu_cores: 1
+cpu_mhz: 560
+detachable_antennas: '2'
+device_id: d-link_dir-825_c1
+device_page: dir-825
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+fccid: https://fcc.io/KA2/IR825C1
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-dir-825-c1-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-dlink_dir-825-c1-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-dlink_dir-825-c1-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-dir-825-c1-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: DIR-825
+git_search: DIR-825
+jtag: true
+malformed: {}
+model: DIR-825
+package_architecture: mips_24kc
+power_supply: 12 VDC, 2.0 A
+ram_mb: 128
+recovery_method_s: D-Link Recovery GUI
+serial: true
+serial_connection_parameters: 115200 / 8N1
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f7ff677169b9dd4de676472be88d9d44716e3759
+supported_since_rel: '14.07'
+target: ar71xx-ath79
+usb_ports: 1x 2.0
+version: C1
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-825_rev_C1
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n
+wlan_driver: ath9k

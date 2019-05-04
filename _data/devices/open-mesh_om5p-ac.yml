@@ -1,0 +1,38 @@
+availability: Available 2017
+brand: Open-Mesh
+button_count: '1'
+cpu: Qualcomm Atheros QCA9557
+cpu_cores: 1
+cpu_mhz: 720
+device_id: open-mesh_om5p-ac
+device_type: WiFi AP
+ethernet_gbit_ports: 2
+fccid: https://fcc.io/WT8OM5PAC
+firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-om5pac-squashfs-factory.bin
+firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-om5pac-squashfs-factory.bin
+firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ar71xx/generic/lede-ar71xx-generic-om5pac-squashfs-sysupgrade.bin
+firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-om5pac-squashfs-sysupgrade.bin
+flash_mb: 16
+forum_search: OM5P-AC
+git_search: OM5P-AC
+gluon_support: true
+installation_method_s: unknown
+led_count: '4'
+malformed: {}
+model: OM5P-AC
+oem_device_homepage_url: http://www.open-mesh.com/products/grp-om5p-ac-cloud-access-point.html
+package_architecture: mips_24kc
+power_supply: PoE 802.3af
+ram_mb: 128
+recovery_method_s: unknown
+serial: true
+subtarget: generic
+supported_current_rel: 18.06.2
+supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=0211fa12531f60f31e8eba1798a5e9f657da98e9
+supported_since_rel: 17.01.0
+target: ar71xx
+vlan: true
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: ath10k
+wlan_hardware: Qualcomm Atheros QCA9982

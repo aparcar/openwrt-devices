@@ -1,0 +1,37 @@
+availability: Discontinued 2015
+bootloader: CFE
+brand: Linksys
+button_count: '2'
+comments: Hardware wise pretty much the same as EA6300; image build for EA6300 disabled
+  as of 2017-01-25, see https://git.lede-project.org/?p=source.git;a=commit;h=55ff15cfd50927c393300c372efe55ccbc41ad6d
+cpu: Broadcom BCM47081
+cpu_cores: 1
+cpu_mhz: 800
+device_id: linksys_ea6200_1-0
+device_page: linksys_ea6200_1.0
+device_type: WiFi Router
+ethernet_gbit_ports: 5
+firmware_oem_stock_url: http://downloads.linksys.com/downloads/firmware/1224698796855/FW_EA6200_1.1.41.164830_prod.img
+flash_mb: 128NAND
+forum_search: EA6200
+git_search: EA6200
+jtag: true
+led_count: '1'
+malformed:
+  flash_mb: 128NAND
+model: EA6200
+package_architecture: arm_cortex-a9
+power_supply: 12 VDC, 2.0 A
+ram_mb: 128
+serial: true
+subtarget: generic
+switch: Broadcom BCM47081
+target: bcm53xx
+unsupported_functions: image build disabled as of 2017-01-25
+usb_ports: 1x 3.0
+version: '1.0'
+vlan: true
+wikidevi_url: https://wikidevi.com/wiki/Linksys_EA6200
+wlan_24ghz: b/g/n
+wlan_50ghz: a/n/ac
+wlan_driver: b43

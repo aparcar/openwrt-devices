@@ -1,0 +1,39 @@
+availability: Available 2019
+bootloader: RouterBOOT
+brand: MikroTik
+button_count: '1'
+cpu: Qualcomm IPQ4019
+cpu_cores: 4
+cpu_mhz: 716
+device_id: mikrotik_rb450gx4
+device_page: mikrotik_rb450gx4
+device_type: Router
+ethernet_gbit_ports: 5
+fccid: "http://\xBF"
+firmware_oem_stock_url: https://mikrotik.com/product/rb450gx4
+firmware_openwrt_install_url: "http://\xBF"
+firmware_openwrt_snapshot_install_url: "http://\xBF"
+firmware_openwrt_snapshot_upgrade_url: "http://\xBF"
+firmware_openwrt_upgrade_url: "http://\xBF"
+flash_mb: 512
+forum_search: RB450Gx4
+git_search: RB450Gx4
+image: mikrotik_rb450gx4.jpg
+jtag: true
+led_count: '2'
+malformed: {}
+model: RB450Gx4
+oem_device_homepage_url: https://mikrotik.com/product/rb450gx4
+owrt_forum_topic_url: https://forum.openwrt.org/t/mikrotik-rb450gx4-support/20427
+power_supply: 10-57 VDC, 0.8 A, POE in and out
+ram_mb: 1024
+recovery_method_s: unknown
+serial: true
+serial_connection_parameters: 115200 / 8N1
+supported_current_rel: external image
+supported_since_commit: "http://\xBF"
+switch: Atheros AR8327
+target: ipq40xx
+vlan: true
+where_available: https://mikrotik.com/buy
+wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_450Gx4_(RB450Gx4)
