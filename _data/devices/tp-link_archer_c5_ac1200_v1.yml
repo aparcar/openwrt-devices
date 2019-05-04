@@ -46,6 +46,7 @@ switch_ports:
   6: ETH0
 target: ar71xx-ath79
 tftp_image: ArcherC5v1_tp_recovery.bin
+tftp_ip: 192.168.0.66
 usb_ports: 2x 2.0
 version: v1
 vlan: true
