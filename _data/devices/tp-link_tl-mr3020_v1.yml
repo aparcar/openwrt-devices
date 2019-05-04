@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '1'
 comments: 3G/4G via USB
 cpu: Atheros AR9331
@@ -36,6 +35,7 @@ supported_current_rel: 17.01.5
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=1045c83527d8c1b178321de104305c3a491ef923
 supported_since_rel: '12.09'
 target: ar71xx-ath79
+vendor: TP-Link
 version: v1
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-MR3020

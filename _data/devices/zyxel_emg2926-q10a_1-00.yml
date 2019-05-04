@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: ZyXEL
 button_count: '3'
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
@@ -19,6 +18,7 @@ ram_mb: 256
 serial: true
 target: ar71xx
 usb_ports: 2x 2.0
+vendor: ZyXEL
 where_available: newegg.ca
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

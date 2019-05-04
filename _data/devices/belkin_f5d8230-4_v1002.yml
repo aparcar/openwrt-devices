@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Belkin
 cpu: Broadcom BCM4704
 cpu_cores: 1
 cpu_mhz: 266
@@ -26,6 +25,7 @@ supported_current_rel: 10.03.1
 supported_since_rel: 10.03.1
 switch: Broadcom BCM5325A2
 target: brcm47xx
+vendor: Belkin
 version: v1002
 wikidevi_url: https://wikidevi.com/wiki/Belkin_F5D8230-4_v1
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: RouterBOOT
-brand: MikroTik
 cpu: Qualcomm Atheros QCA9557
 cpu_cores: 1
 cpu_mhz: 720
@@ -29,6 +28,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=d0a6b278db4ffc286cd335c149fb96b386ffab40
 supported_since_rel: '15.05'
 target: ar71xx
+vendor: MikroTik
 where_available: mikrotik-store.eu
 wlan_50ghz: a/n/ac
 wlan_driver: ath10k

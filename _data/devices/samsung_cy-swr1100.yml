@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: Samsung
 cpu: Ralink RT3662
 cpu_cores: 1
 cpu_mhz: 500
@@ -31,6 +30,7 @@ supported_since_rel: 17.01.0
 switch: Realtek RTL8367R
 target: ramips
 usb_ports: 1x 2.0
+vendor: Samsung
 wikidevi_url: https://wikidevi.com/wiki/Samsung_CY-SWR1100
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

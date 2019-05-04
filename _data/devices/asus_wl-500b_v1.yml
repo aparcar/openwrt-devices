@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Asus
 cpu: Broadcom BCM4710
 cpu_cores: 1
 cpu_mhz: 125
@@ -22,6 +21,7 @@ supported_current_rel: 10.03.1
 supported_since_rel: '0.9'
 target: brcm47xx
 usb_ports: 1x 1.1
+vendor: Asus
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ASUS_WL-500b

@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: JBoot
-brand: D-Link
 button_count: '2'
 cpu: MediaTek MT7620N
 cpu_cores: 1
@@ -39,6 +38,7 @@ switch: MediaTek MT7620N
 target: ramips
 unsupported_functions: WAN LED
 usb_ports: 1x 2.0
+vendor: D-Link
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DWR-116_rev_A1
 wlan_24ghz: b/g/n

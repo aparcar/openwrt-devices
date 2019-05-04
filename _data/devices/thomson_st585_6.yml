@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Thomson
 cpu: Broadcom BCM6348
 cpu_cores: 1
 cpu_mhz: 256
@@ -19,6 +18,7 @@ subtarget: generic
 switch: Broadcom BCM5325E
 target: brcm63xx
 unsupported_functions: Impossible
+vendor: Thomson
 version: '6'
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Thomson_SpeedTouch_585_%28ST585%29_v6

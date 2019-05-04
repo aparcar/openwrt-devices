@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: AVM
 button_count: '3'
 cpu: Qualcomm IPQ4019
 cpu_cores: 4
@@ -34,6 +33,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 switch: Qualcomm Atheros QCA8075
 target: ipq40xx
 usb_ports: 1x 3.0
+vendor: AVM
 vlan: true
 where_available: alternate.de, amazon.de
 wikidevi_url: https://wikidevi.com/wiki/AVM_FRITZ!Box_7530

@@ -1,5 +1,4 @@
 availability: Available 2019
-brand: Linksprite
 cpu: Allwinner A10
 cpu_cores: 1
 cpu_mhz: 1000
@@ -19,5 +18,6 @@ serial: true
 subtarget: cortexa8
 target: sunxi
 usb_ports: 2x 2.0
+vendor: Linksprite
 where_available: amazon.de
 wlan_driver: unknown

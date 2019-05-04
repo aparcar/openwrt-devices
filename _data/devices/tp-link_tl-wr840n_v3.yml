@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '1'
 comment_installation: use tftp 192.168.0.66 rename firmare as wr840nv3_en_tp_recovery.bin
 cpu: Qualcomm Atheros QCA9533
@@ -33,6 +32,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=0d
 supported_since_rel: 18.06.0
 switch: Qualcomm Atheros QCA9533
 target: ar71xx
+vendor: TP-Link
 version: v3
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR840N_v3

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: ALFA Network
 button_count: '1'
 cpu: MediaTek MT7628AN
 cpu_cores: 1
@@ -27,6 +26,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=f1c193c27e714a051b49788fff3aecbd728190e1
 supported_since_rel: 18.06.0
 target: ramips
+vendor: ALFA Network
 vlan: false
 wlan_24ghz: b/g/n
 wlan_comments: 2T2R

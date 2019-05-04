@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: TP-Link
 comment_installation: Rename the tftp-recovery as tp_recovery.bin
 comment_recovery: Rename the tftp-recovery as tp_recovery.bin
 cpu: MediaTek MT7628N
@@ -31,6 +30,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=e6f047fa368ca9c90691b93aa5e03068fe1f4178
 switch: MediaTek MT7628N
 target: ramips
+vendor: TP-Link
 version: v4
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR802N_v4.x
 wlan_24ghz: b/g/n

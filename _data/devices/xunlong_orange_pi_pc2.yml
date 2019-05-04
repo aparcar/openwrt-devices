@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Xunlong
 button_count: '1'
 comments: The 2MB NOR flash does not contain any operating system nor kernel
 comments_av_ports: The composite video port lies on the audio port
@@ -29,4 +28,5 @@ subtarget: cortexa53
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=e2e39328d53c0af473df0c7aad908cff4abf3dfa
 target: sunxi
+vendor: Xunlong
 where_available: aliexpress.com, banggood.com

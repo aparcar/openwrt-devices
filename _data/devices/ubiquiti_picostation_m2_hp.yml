@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Ubiquiti
 comments: Picostation M2 device uses Bullet M2 firmware image
 cpu: Atheros AR7240
 cpu_cores: 1
@@ -26,6 +25,7 @@ subtarget: generic
 supported_current_rel: 18.06.2
 supported_since_rel: 10.03.1
 target: ar71xx
+vendor: Ubiquiti
 vlan: false
 wlan_24ghz: b/g/n
 wlan_driver: unknown

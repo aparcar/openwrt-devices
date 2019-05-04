@@ -1,6 +1,5 @@
 audio_ports: HDMI
 availability: Discontinued
-brand: Raspberry Pi Foundation
 cpu: Broadcom BCM2835
 cpu_cores: 1
 cpu_mhz: 700
@@ -28,6 +27,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=0e9e7dcd10c4f0653252076ccc4289cfcf55c4b4
 supported_since_rel: '14.07'
 target: brcm2708
+vendor: Raspberry Pi Foundation
 version: A
 video_ports: HDMI
 vlan: true

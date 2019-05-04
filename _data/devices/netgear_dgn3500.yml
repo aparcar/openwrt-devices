@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 comments: Also NA factory + sysupgrade image available
 cpu: Lantiq XWAY ARX168
 cpu_cores: 2
@@ -34,6 +33,7 @@ supported_since_rel: '14.07'
 switch: Realtek RTL8366RB
 target: lantiq
 usb_ports: 1x 2.0
+vendor: Netgear
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_DGN3500
 wlan_24ghz: b/g/n

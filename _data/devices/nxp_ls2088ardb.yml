@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: NXP
 comments: Also 64b firmware available
 cpu: NXP LS2088A
 cpu_cores: 8
@@ -27,3 +26,4 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=79
 supported_since_rel: 17.01.0
 target: layerscape
 usb_ports: 2x 3.0
+vendor: NXP

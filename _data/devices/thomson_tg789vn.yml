@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: other
-brand: Thomson
 comments_network_ports: 1 PSTN, 2 phone
 cpu: Broadcom BCM6368
 cpu_cores: 2
@@ -23,6 +22,7 @@ serial: true
 target: brcm63xx
 unsupported_functions: Possible to support
 usb_ports: 2x 2.0
+vendor: Thomson
 vlan: false
 wlan_24ghz: b/g/n
 wlan_driver: b43

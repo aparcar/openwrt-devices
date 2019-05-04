@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: D-Link
 cpu: Broadcom BCM6358
 cpu_cores: 2
 cpu_mhz: 300
@@ -23,6 +22,7 @@ supported_since_rel: '10.03'
 target: brcm63xx
 unsupported_functions: DSL modem
 usb_ports: 1x 2.0
+vendor: D-Link
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DSL-2650U_rev_D2
 wlan_24ghz: b/g

@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Linksys
 cpu: Broadcom BCM5354
 cpu_cores: 1
 cpu_mhz: 240
@@ -20,6 +19,7 @@ subtarget: legacy
 switch: Broadcom BCM5354
 target: brcm47xx
 unsupported_functions: Possible to support
+vendor: Linksys
 version: '1.0'
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WRH54G
 wlan_24ghz: b/g

@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: RouterBOOT
-brand: MikroTik
 cpu: Atheros AR7161
 cpu_cores: 1
 cpu_mhz: 680
@@ -24,6 +23,7 @@ supported_current_rel: 18.06.2
 supported_since_rel: '12.09'
 target: ar71xx
 usb_ports: Mod
+vendor: MikroTik
 vlan: true
 where_available: mikrotik-store.eu
 wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_433AH_%28RB433AH%29

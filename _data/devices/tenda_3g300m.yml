@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Tenda
 cpu: Ralink RT3052F
 cpu_cores: 1
 cpu_mhz: 384
@@ -26,6 +25,7 @@ supported_current_rel: 18.06.1
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ed6d399f8d5a0952b7d101e1e9bd4d9632b741e8
 supported_since_rel: 17.01.0
 target: ramips
+vendor: Tenda
 wlan_24ghz: b/g/n
 wlan_driver: rt2800pci
 wlan_hardware: Ralink RT3052F

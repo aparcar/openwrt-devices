@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Linksys
 button_count: '2'
 cpu: Atheros AR7161
 cpu_cores: 1
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=36
 supported_since_rel: 17.01.0
 switch: Atheros AR8216
 target: ar71xx
+vendor: Linksys
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT400N
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Linksys
 cpu: Broadcom BCM4705
 cpu_cores: 1
 cpu_mhz: 300
@@ -31,6 +30,7 @@ supported_since_rel: 10.03.1
 switch: Broadcom BCM53115
 target: brcm47xx
 usb_ports: 1x 2.0
+vendor: Linksys
 version: v1.0
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT610N_v1

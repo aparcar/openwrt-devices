@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: Adam2
-brand: Buffalo
 cpu: Texas Instruments TNETD7300
 cpu_cores: 1
 cpu_mhz: 150
@@ -27,6 +26,7 @@ subtarget: generic
 supported_current_rel: '12.09'
 supported_since_rel: '12.09'
 target: ar7
+vendor: Buffalo
 wlan_24ghz: b/g
 wlan_driver: unknown
 wlan_hardware: TI ACX111 (mini-PCI)

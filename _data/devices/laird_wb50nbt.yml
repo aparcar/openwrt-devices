@@ -1,7 +1,6 @@
 availability: Available 2019
 bluetooth: '4.0'
 bootloader: U-Boot
-brand: Laird
 cpu: Atmel SAMA5D31
 cpu_cores: 1
 cpu_mhz: 536
@@ -23,6 +22,7 @@ subtarget: sama5
 supported_current_rel: snapshot
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f81b353c9f33f5afa32eebe0ee1dc290e927e5ee
 target: at91
+vendor: Laird
 vlan: false
 where_available: mouser.de
 wlan_24ghz: b/g/n

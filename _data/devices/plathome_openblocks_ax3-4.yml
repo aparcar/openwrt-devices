@@ -1,5 +1,4 @@
 availability: Available 2018
-brand: PlatHome
 cpu: Marvell Armada XP MV78260
 cpu_cores: 2
 cpu_mhz: 1333
@@ -29,4 +28,5 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 17.01.0
 target: mvebu
 usb_ports: 1x 2.0
+vendor: PlatHome
 wlan_comments: WLAN optionally available

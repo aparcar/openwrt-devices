@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: HiWiFi/Gee
 button_count: '1'
 cpu: MediaTek MT7628AN
 cpu_cores: 1
@@ -27,5 +26,6 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=d4
 supported_since_rel: 18.06.0
 target: ramips
 usb_ports: "1x \xB5USB (power)"
+vendor: HiWiFi/Gee
 wlan_24ghz: b/g/n
 wlan_driver: unknown

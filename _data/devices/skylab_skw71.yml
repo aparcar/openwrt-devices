@@ -1,5 +1,4 @@
 availability: Available 2018
-brand: Skylab
 comments: Seems to come with OpenWrt 15.05 preinstalled, but unknown where this inofficial
   support comes from.
 cpu: Atheros AR9331
@@ -25,6 +24,7 @@ serial_connection_parameters: 115200 / 8N1
 supported_current_rel: external image
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: Skylab
 version: E16
 where_available: aliexpress.com
 wlan_24ghz: b/g/n

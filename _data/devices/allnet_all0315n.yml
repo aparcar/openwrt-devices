@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Allnet
 cpu: Atheros AR7242
 cpu_cores: 1
 cpu_mhz: 400
@@ -25,6 +24,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=eebdd633e462903ebd48e84b5bfe27942f106a20
 supported_since_rel: '12.09'
 target: ar71xx
+vendor: Allnet
 vlan: false
 wlan_24ghz: b/g/n
 wlan_comments: 2x2 MIMO

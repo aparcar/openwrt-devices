@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: RouterBOOT
-brand: MikroTik
 button_count: '1'
 comment_installation: Requires initramfs network boot to install
 cpu: Qualcomm Atheros QCA9533
@@ -37,6 +36,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=c5
 supported_since_rel: 18.06.0
 target: ar71xx
 usb_ports: "1x \xB5USB (power)"
+vendor: MikroTik
 wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_mAP_lite_(RBmAPL-2nD)
 wlan_24ghz: b/g/n
 wlan_driver: ath10k

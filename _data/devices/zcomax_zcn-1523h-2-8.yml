@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Zcomax
 cpu: Atheros AR7240 rev 2
 cpu_cores: 1
 cpu_mhz: 350
@@ -25,6 +24,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b4336a8e2db89f6f1b9d9eee885e63c34e636df1
 supported_since_rel: '12.09'
 target: ar71xx
+vendor: Zcomax
 vlan: false
 wlan_24ghz: b/g/n
 wlan_comments: 1x1 MIMO

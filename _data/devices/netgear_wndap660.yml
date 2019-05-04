@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 button_count: '1'
 cpu: AppliedMicro APM82181
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=d82d84694e60d17a79a57fdb135e382f4def907c
 switch: RealTek RTL8363SB
 target: apm821xx
+vendor: Netgear
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WNDAP660
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

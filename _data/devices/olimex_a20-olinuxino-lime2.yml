@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Olimex
 button_count: '4'
 comments: eMMC images also available; Audio in/out + VGA + Composite via GPIOs;
 cpu: Allwinner A20
@@ -36,4 +35,5 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=f295db6e469642d88effb4d324be77aa73bf1a5e
 supported_since_rel: 18.06.0
 target: sunxi
+vendor: Olimex
 where_available: olimex.com

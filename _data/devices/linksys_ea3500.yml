@@ -1,6 +1,5 @@
 availability: Discontinued 2014
 bootloader: U-Boot
-brand: Linksys
 button_count: '2'
 comments: See http://www.wolfteck.com/projects/candyhouse/openwrt/ for an image that
   can be installed from stock firmware
@@ -37,6 +36,7 @@ supported_since_rel: '15.05'
 switch: Marvell 88E6171R
 target: kirkwood
 usb_ports: 1x 2.0
+vendor: Linksys
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_EA3500
 wlan_24ghz: b/g/n

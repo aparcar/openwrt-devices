@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Senao
 cpu: Atheros AR9344
 cpu_cores: 1
 cpu_mhz: 560
@@ -25,6 +24,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e99d557c08acb1c659baebe93ce0c56afad34569
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: Senao
 wikidevi_url: https://wikidevi.com/wiki/Senao_CAP4200AG
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

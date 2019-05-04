@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: D-Link
 cpu: Atheros AR7242
 cpu_cores: 1
 cpu_mhz: 400
@@ -26,6 +25,7 @@ switch: Realtek RTL8309G
 target: ar71xx
 unsupported_functions: WIP
 usb_ports: 1x 2.0
+vendor: D-Link
 version: A1
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-632
 wlan_24ghz: b/g/n

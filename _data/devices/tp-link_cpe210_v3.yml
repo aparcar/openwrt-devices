@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: TP-Link
 cpu: Qualcomm Atheros QCA9533
 cpu_cores: 1
 cpu_mhz: 650
@@ -27,6 +26,7 @@ subtarget: generic
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=5ec205d7ac00de89510a6e71055d45aa57b705e1
 target: ar71xx-ath79
+vendor: TP-Link
 version: v3
 vlan: true
 where_available: amazon.de, reichelt.de

@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: Teltonika
 button_count: '1'
 comments_network_ports: 3x LAN 1xWAN PoE
 cpu: Ralink RT305x
@@ -34,6 +33,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ef
 supported_since_rel: '14.07'
 switch: rt305x-esw
 target: ramips
+vendor: Teltonika
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: unknown

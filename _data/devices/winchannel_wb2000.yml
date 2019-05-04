@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Winchannel
 cpu: Atheros AR9344
 cpu_cores: 1
 device_id: winchannel_wb2000
@@ -24,6 +23,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 target: ath79
 unsupported_functions: WiFi 5GHz LED
 usb_ports: 1x 2.0
+vendor: Winchannel
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n
 wlan_driver: ath9k

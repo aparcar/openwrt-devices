@@ -1,7 +1,6 @@
 audio_ports: Headphone jack
 availability: Discontinued
 bootloader: U-Boot
-brand: Asus
 button_count: '2'
 comments: Touch sensor at front of case, which activates a night light; 3.5mm port
   for audio out;
@@ -33,6 +32,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=36e3424fa5200e645e5193d3b7fbeab596968ad7
 supported_since_rel: '14.07'
 target: ramips
+vendor: Asus
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RP-N53
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

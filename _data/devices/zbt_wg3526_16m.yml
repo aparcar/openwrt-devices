@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: ZBT
 button_count: '1'
 comments: it appears that the unit has a PCI-e card slot for 3/4g and that the unit
   may be available with or with out a 3/4G card and a difference of 2 antenna https://zbt.en.alibaba.com/product/60389403126-800783994/ZBT_WG3526_mt7621_dual_band_gigabit_wireless_router.html
@@ -37,6 +36,7 @@ supported_since_rel: 17.01.0
 switch: MediaTek MT7621A
 target: ramips
 usb_ports: 1x 3.0
+vendor: ZBT
 version: 16M
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ZBT_WG3526

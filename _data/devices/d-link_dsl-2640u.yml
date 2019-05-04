@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: D-Link
 cpu: Broadcom BCM6348
 cpu_cores: 1
 cpu_mhz: 256
@@ -23,6 +22,7 @@ supported_current_rel: 10.03.1
 supported_since_rel: '10.03'
 target: brcm63xx
 unsupported_functions: DSL modem
+vendor: D-Link
 version: B2 (RU)
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DSL-2640U_rev_B2

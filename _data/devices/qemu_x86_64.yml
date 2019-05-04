@@ -1,5 +1,4 @@
 availability: Available 2019
-brand: QEMU (x86_64)
 comments_network_ports: '1'
 cpu: kvm x86_64
 cpu_cores: 1
@@ -17,6 +16,7 @@ subtarget: '64'
 supported_current_rel: 15.05.1
 supported_since_rel: '15.05'
 target: x86
+vendor: QEMU (x86_64)
 version: '>2.0'
 where_available: qemu.org
 wlan_driver: unknown

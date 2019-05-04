@@ -1,5 +1,4 @@
 availability: Discontinued 2016
-brand: Asus
 button_count: '1'
 cpu: Broadcom BCM47186B0
 cpu_cores: 1
@@ -37,6 +36,7 @@ switch: Broadcom BCM53125
 target: brcm47xx
 unsupported_functions: WiFi 2.4GHz
 usb_ports: 1x 2.0
+vendor: Asus
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N15U
 wlan_24ghz: b/g/n

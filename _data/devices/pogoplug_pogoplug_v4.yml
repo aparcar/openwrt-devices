@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: Pogoplug
 button_count: '1'
 comment_installation: serial access + bootloader replacement required
 comments: The "eject" button on the back is used as "reset" button;
@@ -33,6 +32,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=openwrt/openwrt.git;a=commit;h=c19f811c4d732f634ac18f33ae95e954ac9e8c81
 supported_since_rel: '15.05'
 target: kirkwood
+vendor: Pogoplug
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Cloud_Engines_Pogoplug_v4_A3_(Series_4)
 wlan_driver: unknown

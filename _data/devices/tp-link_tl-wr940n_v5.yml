@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 comment_installation: For TFTP, rename -factory image to wr940nv5_tp_recovery.bin
 comment_recovery: For TFTP, rename -factory image to wr940nv5_tp_recovery.bin
 comments: v5 has same FCCID as v4 version, v4 images can be flashed via stock firmware;
@@ -36,6 +35,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=aa
 supported_since_rel: 17.01.0
 switch: Qualcomm Atheros TP9343
 target: ar71xx
+vendor: TP-Link
 version: v5
 vlan: true
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 button_count: '1'
 cpu: Marvell 88F5180NB1
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_since_rel: '10.03'
 switch: Marvell 88E6131
 target: orion
 unsupported_functions: PCI Wireless not supported as firmware image not available
+vendor: Netgear
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WNR854T
 wlan_24ghz: b/g/n
 wlan_driver: mwlwifi

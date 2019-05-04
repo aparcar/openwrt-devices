@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: EVA
-brand: AVM
 button_count: '2'
 comment_recovery: AVM provides a recovery tool for Windows
 cpu: Qualcomm Atheros QCA9561
@@ -36,6 +35,7 @@ switch: Qualcomm Atheros QCA9561
 target: ar71xx-ath79
 unsupported_functions: USB
 usb_ports: 1x 2.0
+vendor: AVM
 vlan: true
 where_available: amazon.de
 wlan_24ghz: b/g/n

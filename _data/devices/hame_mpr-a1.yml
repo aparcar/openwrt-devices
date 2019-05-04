@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: HAME
 cpu: Ralink RT5350
 cpu_cores: 1
 cpu_mhz: 360
@@ -31,6 +30,7 @@ supported_current_rel: 18.06.1
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=8dd30fa7758a7c47e4d56e052c41baf141fdbc56
 supported_since_rel: '14.07'
 target: ramips
+vendor: HAME
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Hame_3G_Wi-Fi_Router_(MPR-A1)
 wlan_24ghz: b/g/n

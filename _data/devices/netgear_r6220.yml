@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Netgear
 button_count: '3'
 comment_installation: LuCI Web Interface/uhttpd (also ssh) may NOT be enabled across
   power cycling after installation, or hard reset. If not -  can test by power cycling
@@ -44,6 +43,7 @@ supported_since_rel: 18.06.0
 switch: MediaTek MT7621ST
 target: ramips
 usb_ports: 1x 2.0
+vendor: Netgear
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_R6220
 wlan_24ghz: b/g/n

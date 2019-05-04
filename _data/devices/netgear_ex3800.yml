@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Netgear
 button_count: '2'
 comments: The Netgear EX3800 is essentially an EX3700 with a mains output socket.
 cpu: MediaTek MT7620A
@@ -34,6 +33,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=69
 supported_since_rel: 18.06.0
 switch: MediaTek MT7620A
 target: ramips
+vendor: Netgear
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_EX3800
 wlan_24ghz: b/g/n

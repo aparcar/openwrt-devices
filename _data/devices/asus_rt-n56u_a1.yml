@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Asus
 button_count: '2'
 cpu: Ralink RT3662
 cpu_cores: 1
@@ -35,6 +34,7 @@ supported_since_rel: '14.07'
 switch: Realtek RTL8367M
 target: ramips
 usb_ports: 2x 2.0
+vendor: Asus
 version: A1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N56U

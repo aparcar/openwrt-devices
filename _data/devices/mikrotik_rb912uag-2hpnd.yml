@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: RouterBOOT
-brand: MikroTik
 button_count: '1'
 comments: USB interface is shared between USB-A socket and Mini-PCIe port and can
   be toggled through GPIO52. Buzzer connected to GPIO51. No exposed GPIO pins for
@@ -40,6 +39,7 @@ supported_since_commit: "http://\xBF"
 supported_since_rel: 17.01.0
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: MikroTik
 vlan: false
 wlan_24ghz: b/g/n
 wlan_comments: MIMO 2x2

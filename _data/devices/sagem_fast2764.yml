@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Sagem
 cpu: Ikanos Fusiv Vx180
 cpu_cores: 1
 cpu_mhz: 500
@@ -14,6 +13,7 @@ model: F@ST2764
 ram_mb: 128
 unsupported_functions: Possible to support
 usb_ports: 2x 2.0
+vendor: Sagem
 wlan_24ghz: b/g/n
 wlan_driver: ath9k
 wlan_hardware: Atheros AR9227

@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: GL.iNet
 button_count: '2'
 comments: OpenWrt BB 14.07 is factory installed; PoE option; OpenWrt CC 15.05 http://www.gl-inet.com/firmware/ar150/clean/openwrt-clean-gl-ar150-1.0.bin
 cpu: Atheros AR9331
@@ -36,6 +35,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=72093bd5284e25cb1b7ffc649c8d6a63fd8dcb83
 supported_since_rel: 17.01.0
 target: ar71xx-ath79
+vendor: GL.iNet
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/GL.iNet_AR150
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: Omnima
 cpu: Ralink RT3050F
 cpu_cores: 1
 cpu_mhz: 320
@@ -28,6 +27,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=0c
 supported_since_rel: 17.01.0
 target: ramips
 usb_ports: 1x 2.0
+vendor: Omnima
 wikidevi_url: https://wikidevi.com/wiki/Omnima_MiniEMBWiFi
 wlan_24ghz: b/g/n
 wlan_driver: unknown

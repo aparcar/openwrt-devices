@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: ALFA Network
 comments: Same as Hornet-UB / AP121 / AP121U?
 cpu: Atheros AR9331
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_since_rel: '12.09'
 switch: Atheros AR9331
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: ALFA Network
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ALFA_Network_AP121
 wlan_24ghz: b/g/n

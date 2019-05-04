@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Belkin
 cpu: Broadcom BCM4718
 cpu_cores: 1
 cpu_mhz: 480
@@ -19,6 +18,7 @@ serial: true
 target: brcm47xx
 unsupported_functions: Possible to support
 usb_ports: 1x 2.0
+vendor: Belkin
 version: '1'
 wikidevi_url: https://wikidevi.com/wiki/Belkin_F7D4302
 wlan_24ghz: b/g/n

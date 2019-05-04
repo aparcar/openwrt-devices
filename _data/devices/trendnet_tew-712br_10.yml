@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: TRENDnet
 cpu: Atheros AR9330 rev 1
 cpu_cores: 1
 cpu_mhz: 400
@@ -28,6 +27,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=a2
 supported_since_rel: '14.07'
 switch: Atheros AR1311
 target: ar71xx
+vendor: TRENDnet
 version: '1.0'
 wikidevi_url: https://wikidevi.com/wiki/TRENDnet_TEW-712BR
 wlan_24ghz: b/g/n

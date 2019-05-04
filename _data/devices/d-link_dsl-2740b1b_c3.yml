@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: D-Link
 cpu: Broadcom BCM6358
 cpu_cores: 2
 cpu_mhz: 300
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=7d
 supported_since_rel: '12.09'
 target: brcm63xx
 unsupported_functions: DSL modem
+vendor: D-Link
 version: C3
 vlan: true
 wlan_24ghz: b/g/n

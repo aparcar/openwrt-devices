@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: GL.iNet
 button_count: '1'
 comments: 'Flash chip: Winbond W25Q128FV, RAM chip: EM6AB160TSD-5G'
 cpu: Atheros AR9331
@@ -38,6 +37,7 @@ supported_since_rel: '14.07'
 switch: Atheros AR9331
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: GL.iNet
 version: v1.0
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/GL.iNet_6416A

@@ -1,6 +1,5 @@
 availability: Discontinued 2014
 bootloader: U-Boot
-brand: TRENDnet
 cpu: Ralink RT3883
 cpu_cores: 1
 cpu_mhz: 500
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=46
 supported_since_rel: '14.07'
 switch: Atheros AR8327
 target: ramips
+vendor: TRENDnet
 version: 1.0R
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TRENDnet_TEW-692GR_V1.0R

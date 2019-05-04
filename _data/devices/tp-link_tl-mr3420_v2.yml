@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 comment_recovery: Rename to 'mr3420v2_tp_recovery.bin' on TFTP server.
 comments: Stock install leaves only 176KiB free for loading packages which doesn't
@@ -42,6 +41,7 @@ supported_since_rel: '14.07'
 switch: Atheros AR9341
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: TP-Link
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-MR3420_v2
 wlan_24ghz: b/g/n

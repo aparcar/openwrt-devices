@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Rosewill
 button_count: '1'
 comments: Rebadged TL-WR741ND v1 with minor firmware change; need to convert firmware
   to standard TP-Link via DD-WRT before flashing OpenWrt; see RNX-N150RT
@@ -32,6 +31,7 @@ supported_current_rel: 18.06.2
 supported_since_rel: '12.09'
 switch: Atheros AR7240
 target: ar71xx
+vendor: Rosewill
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Rosewill_RNX-N150RT
 wlan_24ghz: b/g/n

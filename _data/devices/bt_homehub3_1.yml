@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: BT
 cpu: Lantiq XWAY ARX168
 cpu_cores: 2
 cpu_mhz: 333
@@ -32,6 +31,7 @@ supported_since_rel: '15.05'
 switch: Lantiq PSB 6972
 target: lantiq
 usb_ports: 1x 2.0
+vendor: BT
 version: Type A
 wikidevi_url: https://wikidevi.com/wiki/BT_Home_Hub_3.0A
 wlan_24ghz: b/g/n

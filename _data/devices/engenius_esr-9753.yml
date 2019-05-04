@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: EnGenius
 cpu: Ralink RT3052
 cpu_cores: 1
 cpu_mhz: 384
@@ -31,6 +30,7 @@ supported_current_rel: 18.06.1
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=557cf076b4a8a5305f3dce3c8ad56c6f5584e04f
 supported_since_rel: '12.09'
 target: ramips
+vendor: EnGenius
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/EnGenius_ESR-9753
 wlan_24ghz: b/g/n

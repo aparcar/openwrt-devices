@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 cpu: Qualcomm Atheros QCA9533
 cpu_cores: 1
 cpu_mhz: 560
@@ -29,6 +28,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=840bfa8549e69d6f14066f12112305d60577502a
 supported_since_rel: 15.05.1
 target: ar71xx
+vendor: TP-Link
 version: v6
 wlan_24ghz: b/g/n
 wlan_driver: ath10k

@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: TP-Link
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
 cpu_mhz: 720
@@ -35,6 +34,7 @@ supported_since_rel: '14.07'
 switch: Atheros AR8327N
 target: ar71xx-ath79
 usb_ports: 2x 2.0
+vendor: TP-Link
 version: 2.0 (CN)
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WDR4900_v2

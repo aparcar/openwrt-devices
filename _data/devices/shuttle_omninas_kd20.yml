@@ -1,6 +1,5 @@
 availability: Discontinued 2015
 bootloader: U-Boot
-brand: Shuttle
 button_count: '3'
 comments: 'GPL sources: http://data.shuttle.eu/~upload/omninas/KD20_20121127.zip'
 cpu: PLX NAS7821
@@ -37,4 +36,5 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=72b58f2eb12ad4aa0c59481d0911dc5e39180eb5
 supported_since_rel: 17.01.0
 target: oxnas
+vendor: Shuttle
 vlan: true

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Netgear
 cpu: Broadcom BCM5356
 cpu_cores: 1
 cpu_mhz: 333
@@ -34,6 +33,7 @@ supported_since_rel: 17.01.0
 switch: Broadcom BCM5356
 target: brcm47xx
 unsupported_functions: WiFi 2.4GHz
+vendor: Netgear
 version: v3
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WNR1000v3
 wlan_24ghz: b/g

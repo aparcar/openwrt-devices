@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Scientific Atlanta
 cpu: Broadcom BCM3349
 cpu_cores: 1
 cpu_mhz: 200
@@ -19,4 +18,5 @@ serial: true
 target: brcm63xx
 unsupported_functions: Impossible
 usb_ports: 1x Device
+vendor: Scientific Atlanta
 wlan_driver: unknown

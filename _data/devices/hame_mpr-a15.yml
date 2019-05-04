@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: HAME
 comments: Same as MPR-A1 but no battery
 cpu: Ralink RT5350
 cpu_cores: 1
@@ -23,6 +22,7 @@ serial: true
 subtarget: rt305x
 target: ramips
 unsupported_functions: Impossible
+vendor: HAME
 wlan_24ghz: b/g/n
 wlan_driver: unknown
 wlan_hardware: Ralink RT5350

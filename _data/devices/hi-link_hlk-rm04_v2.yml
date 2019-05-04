@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Hi-Link
 cpu: Ralink RT5350
 cpu_cores: 1
 cpu_mhz: 360
@@ -32,6 +31,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=3a
 supported_since_rel: '14.07'
 target: ramips
 usb_ports: 1x 2.0
+vendor: Hi-Link
 version: v2
 vlan: true
 wlan_24ghz: b/g/n

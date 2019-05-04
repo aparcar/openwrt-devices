@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: RouterBOOT
-brand: MikroTik
 button_count: '1'
 comment_installation: Requires initramfs network boot to install
 cpu: Qualcomm Atheros QCA9533
@@ -36,5 +35,6 @@ supported_since_rel: 18.06.0
 switch: Qualcomm Atheros QCA9533
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: MikroTik
 vlan: true
 wlan_driver: unknown

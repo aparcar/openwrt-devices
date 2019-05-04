@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RouterBOOT
-brand: MikroTik
 cpu: IDT 79RC32H435
 cpu_cores: 1
 cpu_mhz: 400
@@ -24,6 +23,7 @@ subtarget: generic
 supported_current_rel: 10.03.1
 supported_since_rel: '7.09'
 target: rb532
+vendor: MikroTik
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_532A
 wlan_comments: depends on wireless card

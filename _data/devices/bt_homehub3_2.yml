@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: CFE
-brand: BT
 cpu: Broadcom BCM6361
 cpu_cores: 2
 cpu_mhz: 400
@@ -22,6 +21,7 @@ subtarget: generic
 target: brcm63xx
 unsupported_functions: WIP
 usb_ports: 1x 2.0
+vendor: BT
 version: Type B
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/BT_Home_Hub_3.0B

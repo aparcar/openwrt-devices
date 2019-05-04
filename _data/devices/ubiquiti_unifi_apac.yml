@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: CFE
-brand: Ubiquiti
 comments: Pictures see http://www.smallnetbuilder.com/wireless/wireless-reviews/32153-ubiquiti-uap-ac-access-point-reviewed
 cpu: Broadcom BCM4706
 cpu_cores: 1
@@ -26,6 +25,7 @@ serial: true
 subtarget: mips74k
 switch: Broadcom BCM53125
 target: brcm47xx
+vendor: Ubiquiti
 vlan: true
 where_available: amazon.de
 wikidevi_url: https://wikidevi.com/wiki/Ubiquiti_Networks_UniFi_AP_AC_(UAP-AC)

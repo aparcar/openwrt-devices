@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: D-Link
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
 cpu_mhz: 720
@@ -32,6 +31,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e3
 supported_since_rel: 17.01.0
 switch: Qualcomm Atheros QCA8334
 target: ar71xx
+vendor: D-Link
 version: A1
 vlan: true
 where_available: amazon.de

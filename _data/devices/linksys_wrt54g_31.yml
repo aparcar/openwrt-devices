@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Linksys
 cpu: Broadcom BCM4712
 cpu_cores: 1
 cpu_mhz: 216
@@ -26,6 +25,7 @@ supported_since_rel: '0.9'
 switch: Broadcom BCM5325
 target: brcm47xx
 usb_ports: Mod
+vendor: Linksys
 version: '3.1'
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT54G_v3.1

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 cpu: Atheros AR7241
 cpu_cores: 1
@@ -38,6 +37,7 @@ supported_since_rel: '12.09'
 switch: Atheros AR7241
 target: ar71xx-ath79
 usb_ports: 1x 2.0
+vendor: TP-Link
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR842ND_v1.x

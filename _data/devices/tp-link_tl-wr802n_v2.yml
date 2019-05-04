@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: TP-Link
 cpu: Qualcomm Atheros QCA9533
 cpu_cores: 1
 cpu_mhz: 560
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f9
 supported_since_rel: 18.06.0
 target: ar71xx
 usb_ports: "1x \xB5USB (power)"
+vendor: TP-Link
 version: v2
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR802N_v2.x
 wlan_24ghz: b/g/n

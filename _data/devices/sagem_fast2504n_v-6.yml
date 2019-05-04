@@ -1,6 +1,5 @@
 availability: Discontinued 2012
 bootloader: CFE
-brand: Sagem
 button_count: '2'
 cpu: Broadcom BCM6362
 cpu_cores: 2
@@ -31,6 +30,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ed
 supported_since_rel: '14.07'
 switch: Broadcom BCM6362
 target: brcm63xx
+vendor: Sagem
 version: v.6
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Sagemcom_F@ST_2504n

@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: ZBT
 button_count: '1'
 cpu: MediaTek MT7621AT
 cpu_cores: 2
@@ -36,6 +35,7 @@ supported_since_rel: 15.05.1
 switch: MediaTek MT7621AT
 target: ramips
 usb_ports: 1x 3.0
+vendor: ZBT
 version: v03
 vlan: true
 where_available: alibaba.com

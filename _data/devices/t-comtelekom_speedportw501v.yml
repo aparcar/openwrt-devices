@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: Adam2
-brand: T-Com / Telekom
 comments: See also http://www.wehavemorefun.de/fritzbox/Speedport_W_501V
 cpu: Texas Instruments TNETD7200ZDW
 cpu_cores: 1
@@ -20,6 +19,7 @@ ram_mb: 16
 serial: true
 target: ar7
 unsupported_functions: Impossible
+vendor: T-Com / Telekom
 vlan: false
 wlan_24ghz: b/g
 wlan_driver: unknown

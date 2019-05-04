@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 button_count: '3'
 cpu: Lantiq AMAZON-SE
 cpu_cores: 1
@@ -22,6 +21,7 @@ ram_mb: 16
 serial: true
 target: lantiq
 unsupported_functions: Impossible
+vendor: Netgear
 wlan_24ghz: b/g/n
 wlan_driver: ath9k
 wlan_hardware: Atheros AR9271

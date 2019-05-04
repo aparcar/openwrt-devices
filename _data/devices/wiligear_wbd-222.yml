@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: RedBoot
-brand: Wiligear
 button_count: '1'
 cpu: Storm SL3512
 cpu_cores: 1
@@ -30,4 +29,5 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: '15.05'
 target: gemini
 usb_ports: 2x 2.0
+vendor: Wiligear
 wlan_comments: 2x mini-PCI for add in cards

@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Devolo
 button_count: '3'
 comments: External RJ45 serial port is not working, RAM is DDR2, 1x GPIO attached
   piezo beeper
@@ -39,6 +38,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 switch: Atheros AR8035, Atheros AR8033
 target: ath79
 usb_ports: 1x 2.0
+vendor: Devolo
 vlan: true
 where_available: amazon.de, office-partner.de, grooves.land
 wikidevi_url: https://wikidevi.com/wiki/Edimax_EW-7679WAC

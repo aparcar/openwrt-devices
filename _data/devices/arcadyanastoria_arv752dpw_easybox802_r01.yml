@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: brnboot
-brand: Arcadyan / Astoria
 button_count: '2'
 cpu: Lantiq XWAY Danube
 cpu_cores: 2
@@ -31,6 +30,7 @@ supported_since_rel: 10.03.1
 switch: Realtek RTL8306G
 target: lantiq
 usb_ports: 3x 2.0
+vendor: Arcadyan / Astoria
 version: R01
 vlan: true
 where_available: pollin.de

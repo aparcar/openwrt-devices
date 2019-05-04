@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Asus
 cpu: Broadcom BCM5356
 cpu_cores: 1
 cpu_mhz: 300
@@ -33,6 +32,7 @@ switch: Broadcom BCM5356
 target: brcm47xx
 unsupported_functions: WiFi 2.4GHz
 usb_ports: 1x 2.0
+vendor: Asus
 version: B
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N10U_B
 wlan_24ghz: b/g/n

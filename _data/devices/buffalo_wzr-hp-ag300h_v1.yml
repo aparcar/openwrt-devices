@@ -1,6 +1,5 @@
 availability: Discontinued 2016
 bootloader: U-Boot
-brand: Buffalo
 cpu: Atheros AR7161
 cpu_cores: 1
 cpu_mhz: 680
@@ -33,6 +32,7 @@ supported_since_rel: '12.09'
 switch: Atheros AR8316
 target: ar71xx-ath79
 usb_ports: 1x 2.0
+vendor: Buffalo
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Buffalo_WZR-HP-AG300H

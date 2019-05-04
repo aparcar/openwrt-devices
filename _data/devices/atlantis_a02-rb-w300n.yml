@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: Atlantis
 comments: 'Please mind: Different versions of this device with different SoC exist
   (v1.0 = AR9130 / v1.2 = RT3052 / v2.0 = MT7620N). This dataentry covers the AR9130
   variant only.'
@@ -23,6 +22,7 @@ supported_current_rel: 17.01.4
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=48d81f60743995bdc67ade4b4520fffdbae0c689
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: Atlantis
 version: v1.0
 wlan_24ghz: b/g/n
 wlan_driver: unknown

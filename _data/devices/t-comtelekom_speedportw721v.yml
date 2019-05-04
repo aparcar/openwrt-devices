@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: T-Com / Telekom
 cpu: Infineon PSB7200ZDW
 cpu_cores: 1
 cpu_mhz: 225
@@ -19,6 +18,7 @@ ram_mb: 32
 serial: true
 target: ar7
 unsupported_functions: Possible to support
+vendor: T-Com / Telekom
 wlan_24ghz: b/g
 wlan_driver: unknown
 wlan_hardware: Infineon PSB1350AZGU

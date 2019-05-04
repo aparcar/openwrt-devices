@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: RouterBOOT
-brand: MikroTik
 comments_network_ports: 1x SFP, 10M-1Gbit
 cpu: Atheros AR9344
 cpu_cores: 1
@@ -28,6 +27,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=e40050d1049ddf8ca0eb49666eafcb69b4a1d374
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: MikroTik
 version: r2
 vlan: true
 where_available: mikrotik-store.eu

@@ -1,7 +1,6 @@
 audio_ports: HDMI
 availability: Available 2017
 bootloader: U-Boot
-brand: Gateworks
 button_count: '1'
 cpu: NXP i.MX6
 cpu_cores: 2
@@ -32,6 +31,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=33
 supported_since_rel: 17.01.0
 target: imx6
 usb_ports: 1x OTG
+vendor: Gateworks
 video_ports: HDMI
 vlan: false
 wlan_driver: unknown

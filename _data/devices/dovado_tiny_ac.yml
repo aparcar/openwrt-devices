@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Dovado
 button_count: '1'
 cpu: MediaTek MT7620A
 cpu_cores: 1
@@ -36,6 +35,7 @@ switch: MediaTek MT7620A
 target: ramips
 unsupported_functions: WiFi 5GHz
 usb_ports: 1x 2.0
+vendor: Dovado
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Dovado_TINY_AC
 wlan_24ghz: b/g/n

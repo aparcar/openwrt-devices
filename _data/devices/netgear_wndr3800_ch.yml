@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 comments_network_ports: 5 Gigabit Ethernet - WLAN (1) and LAN (4)
 cpu: Atheros AR7161
 cpu_cores: 1
@@ -30,6 +29,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e7
 supported_since_rel: 15.05.1
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: Netgear
 version: 1CHNAS
 vlan: true
 wlan_24ghz: b/g/n

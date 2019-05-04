@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: I-O Data
 button_count: '3'
 cpu: MediaTek MT7620A
 cpu_cores: 1
@@ -30,6 +29,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=f305ce5c3577005aba5b870b373e65aaf9ede3ec
 switch: MediaTek MT7530
 target: ramips
+vendor: I-O Data
 vlan: true
 where_available: amazon.co.jp
 wlan_24ghz: b/g/n

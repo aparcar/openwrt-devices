@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Asus
 comments: 'Attention: wikidevi reports 8/128MB, which is wrong acc. bootlog-link found
   on devicepage'
 cpu: Ralink RT3883
@@ -18,6 +17,7 @@ owrt_forum_topic_url: https://forum.openwrt.org/viewtopic.php?pid=192322
 ram_mb: 32
 target: ramips
 unsupported_functions: WIP
+vendor: Asus
 version: '1.30'
 wikidevi_url: https://wikidevi.com/wiki/ASUS_EA-N66
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Discontinued 2016
 bootloader: U-Boot
-brand: Open-Mesh
 button_count: '1'
 cpu: Atheros AR9344
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=34
 supported_since_rel: '14.07'
 switch: Atheros AR9344
 target: ar71xx
+vendor: Open-Mesh
 vlan: true
 wlan_50ghz: a/n
 wlan_driver: unknown

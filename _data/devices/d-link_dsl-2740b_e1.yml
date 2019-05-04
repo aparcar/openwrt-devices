@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: CFE
-brand: D-Link
 comments_network_ports: '4'
 cpu: Broadcom BCM6358
 cpu_cores: 2
@@ -21,6 +20,7 @@ serial: true
 subtarget: generic
 target: brcm63xx
 unsupported_functions: Possible to support
+vendor: D-Link
 version: E1
 wlan_24ghz: b/g/n
 wlan_driver: b43

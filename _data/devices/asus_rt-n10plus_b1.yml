@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Asus
 comments: ASUS RT-N10P != ASUS RT-N10+ / ASUS RT-N10plus
 cpu: Ralink RT3050F
 cpu_cores: 1
@@ -33,6 +32,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=44
 supported_since_rel: '12.09'
 switch: Ralink RT3050
 target: ramips
+vendor: Asus
 version: B1
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N10%2B_rev_B1

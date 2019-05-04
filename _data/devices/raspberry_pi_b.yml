@@ -1,6 +1,5 @@
 audio_ports: HDMI
 availability: Available 2017
-brand: Raspberry Pi Foundation
 cpu: Broadcom BCM2835
 cpu_cores: 1
 cpu_mhz: 700
@@ -30,6 +29,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=0e
 supported_since_rel: '14.07'
 target: brcm2708
 usb_ports: 2x 2.0
+vendor: Raspberry Pi Foundation
 version: B
 video_ports: HDMI
 vlan: true

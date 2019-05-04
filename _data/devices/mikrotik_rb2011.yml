@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: RouterBOOT
-brand: MikroTik
 cpu: Atheros AR9344
 cpu_cores: 1
 cpu_mhz: 600
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=6a
 supported_since_rel: '15.05'
 target: ar71xx
 usb_ports: true
+vendor: MikroTik
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: unknown

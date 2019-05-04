@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Seagate
 cpu: Marvell 88F6281
 cpu_cores: 1
 cpu_mhz: 1200
@@ -31,5 +30,6 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=74
 supported_since_rel: '15.05'
 target: kirkwood
 usb_ports: 1x 2.0
+vendor: Seagate
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Seagate_GoFlex_Home

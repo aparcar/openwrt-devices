@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Linksys
 comments: USB/TTL is solderable on the pcb card for debricking.
 cpu: Broadcom BCM4717
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e2
 supported_since_rel: '14.07'
 switch: Broadcom BCM53115
 target: brcm47xx
+vendor: Linksys
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT320N_v1

@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: CFE
-brand: Tenda
 button_count: '3'
 cpu: Broadcom BCM47189
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_since_rel: 17.01.0
 switch: Broadcom BCM53125
 target: bcm53xx
 usb_ports: 1x 2.0
+vendor: Tenda
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Tenda_AC9
 wlan_24ghz: b/g/n

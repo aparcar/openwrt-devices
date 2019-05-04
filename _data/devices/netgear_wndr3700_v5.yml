@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Netgear
 comments_network_ports: 1x WAN + 4x LAN
 cpu: MediaTek MT7621ST
 cpu_cores: 1
@@ -34,6 +33,7 @@ switch: MediaTek MT7621ST
 target: ramips
 unsupported_functions: Radios do not work reliably yet
 usb_ports: 1x 2.0
+vendor: Netgear
 version: v5
 where_available: amazon.com
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WNDR3700v5

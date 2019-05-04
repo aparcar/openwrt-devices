@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: PSPBoot
-brand: Linksys
 cpu: Texas Instruments TNETD7300AGDW
 cpu_cores: 1
 cpu_mhz: 150
@@ -29,6 +28,7 @@ supported_current_rel: '12.09'
 supported_since_rel: 10.03.1
 switch: Infineon ADM6996L
 target: ar7
+vendor: Linksys
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WAG354G_v1
 wlan_24ghz: b/g

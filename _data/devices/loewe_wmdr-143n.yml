@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Loewe
 cpu: Ralink RT3662F
 cpu_cores: 1
 cpu_mhz: 500
@@ -25,6 +24,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=a92c64e8ae38f6a221823610c4a2f454c813c484
 supported_since_rel: 18.06.0
 target: ramips
+vendor: Loewe
 wlan_24ghz: b/g/n
 wlan_driver: unknown
 wlan_hardware: Ralink RT3662F

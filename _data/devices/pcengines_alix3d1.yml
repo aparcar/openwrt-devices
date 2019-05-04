@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: BIOS
-brand: PC Engines
 comments: CPU has 128-CBC HW Encrytion
 cpu: AMD Geode LX700
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=937362f270db8861cd046030869bdaac34582b94
 supported_since_rel: '10.03'
 target: x86
+vendor: PC Engines
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/PC-Engines_Alix_alix3d1
 wlan_driver: unknown

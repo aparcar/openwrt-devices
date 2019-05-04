@@ -1,5 +1,4 @@
 availability: Available 2018
-brand: D-Link
 button_count: '3'
 cpu: Broadcom BCM4709C0
 cpu_cores: 2
@@ -32,6 +31,7 @@ supported_since_rel: 17.01.0
 switch: Broadcom BCM4709C0
 target: bcm53xx
 usb_ports: 1x 3.0
+vendor: D-Link
 version: A1
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-885L_rev_A1
 wlan_24ghz: b/g/n

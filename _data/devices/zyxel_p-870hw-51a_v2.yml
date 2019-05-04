@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: ZyXEL
 button_count: '2'
 cpu: Broadcom BCM6368
 cpu_cores: 2
@@ -34,6 +33,7 @@ supported_since_rel: '14.07'
 switch: Broadcom BCM6368
 target: brcm63xx
 unsupported_functions: DSL modem
+vendor: ZyXEL
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ZyXEL_P-870HW-51a

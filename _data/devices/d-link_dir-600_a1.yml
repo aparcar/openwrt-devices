@@ -1,6 +1,5 @@
 availability: Discontinued 2010
 bootloader: U-Boot
-brand: D-Link
 cpu: Atheros AR7240
 cpu_cores: 1
 cpu_mhz: 400
@@ -30,6 +29,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=58
 supported_since_rel: '10.03'
 switch: Atheros AR7240
 target: ar71xx
+vendor: D-Link
 version: A1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-600_rev_A1

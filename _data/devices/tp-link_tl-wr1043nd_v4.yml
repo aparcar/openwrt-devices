@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 cpu: Qualcomm Atheros QCA9563
 cpu_cores: 1
@@ -37,6 +36,7 @@ supported_since_rel: 17.01.0
 switch: Atheros AR8337N
 target: ar71xx-ath79
 usb_ports: 1x 2.0
+vendor: TP-Link
 version: v4.x
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR1043ND_v4.x

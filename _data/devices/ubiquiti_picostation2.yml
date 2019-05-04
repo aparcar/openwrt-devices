@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Ubiquiti
 cpu: Atheros AR2315
 cpu_cores: 1
 cpu_mhz: 180
@@ -17,6 +16,7 @@ ram_mb: 32
 supported_current_rel: 10.03.1
 supported_since_rel: 10.03.1
 target: ath25
+vendor: Ubiquiti
 wlan_24ghz: b/g
 wlan_driver: ath5k
 wlan_hardware: Atheros AR2315

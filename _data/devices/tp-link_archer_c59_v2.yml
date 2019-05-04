@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '3'
 comment_recovery: 'TFTP recovery filename: tp_recovery.bin (use factory image)'
 cpu: Qualcomm Atheros QCA9561
@@ -32,6 +31,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 switch: Qualcomm Atheros QCA9561
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: TP-Link
 version: v2
 vlan: true
 wlan_24ghz: b/g/n

@@ -1,7 +1,6 @@
 audio_ports: other
 availability: Available 2019
 bootloader: U-Boot
-brand: Xunlong
 comments: 2x USB 2.0, Audio Stereo Out, Mic In, Video Out are available via 13 pin
   header.
 comments_usb_sata_ports: uUSB supports FEL mode
@@ -33,6 +32,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 target: sunxi
 unsupported_functions: WiFi 2.4GHz
+vendor: Xunlong
 video_ports: other
 wlan_24ghz: b/g/n
 wlan_comments: Staging driver, but not supported now

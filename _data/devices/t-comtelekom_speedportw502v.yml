@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: brnboot
-brand: T-Com / Telekom
 cpu: Lantiq XWAY Danube PSB 50702
 cpu_cores: 2
 cpu_mhz: 333
@@ -19,6 +18,7 @@ power_supply: 15 VDC, 1.2 A
 ram_mb: 32
 serial: true
 target: lantiq
+vendor: T-Com / Telekom
 vlan: false
 wlan_24ghz: b/g
 wlan_50ghz: a

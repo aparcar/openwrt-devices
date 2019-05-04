@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: D-Link
 cpu: Broadcom BCM6333
 cpu_cores: 1
 cpu_mhz: 240
@@ -19,6 +18,7 @@ serial: true
 switch: Broadcom BCM5325E
 target: brcm63xx
 unsupported_functions: Impossible
+vendor: D-Link
 version: T1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DSL-2640B_rev_T1

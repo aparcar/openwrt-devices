@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: Breed
-brand: UniElec
 button_count: '1'
 cpu: MediaTek MT7628AN
 cpu_cores: 1
@@ -32,6 +31,7 @@ switch: MediaTek MT7628AN
 target: ramips
 unsupported_functions: microSD card reader
 usb_ports: 1x 2.0
+vendor: UniElec
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: mt76

@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: ZBT
 button_count: '1'
 cpu: MediaTek MT7621AT
 cpu_cores: 2
@@ -31,6 +30,7 @@ supported_since_rel: 18.06.0
 switch: MediaTek MT7621AT
 target: ramips
 usb_ports: 1x 2.0
+vendor: ZBT
 vlan: true
 where_available: zbt.en.alibaba.com
 wikidevi_url: https://wikidevi.com/wiki/ZBT_WE1326

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: EVA
-brand: AVM
 button_count: '1'
 comment_installation: 'For snapshot images: Select image according to the flash chip
   used. Open device to determine the flash chip. For details see devicepage.'
@@ -40,6 +39,7 @@ supported_since_rel: '15.05'
 switch: Lantiq PSB 80920
 target: lantiq
 usb_ports: 2x 2.0
+vendor: AVM
 wikidevi_url: https://wikidevi.com/wiki/AVM_FRITZ!Box_WLAN_3370
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

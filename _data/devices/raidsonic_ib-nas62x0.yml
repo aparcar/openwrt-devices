@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: RaidSonic
 button_count: '3'
 cpu: Marvell 88F6281
 cpu_cores: 1
@@ -31,3 +30,4 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: '12.09'
 target: kirkwood
 usb_ports: 3x 2.0
+vendor: RaidSonic

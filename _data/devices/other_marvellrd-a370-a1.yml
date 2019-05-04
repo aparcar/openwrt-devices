@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: Evaluation boards / unbranded boards
 cpu: Marvell Armada 370
 cpu_cores: 1
 cpu_mhz: 1200
@@ -24,6 +23,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=25
 supported_since_rel: '15.05'
 target: mvebu
 usb_ports: 2x 2.0
+vendor: Evaluation boards / unbranded boards
 vlan: true
 wlan_driver: unknown
 wlan_hardware: 2x mini-PCIe

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: ZTE
 cpu: Lantiq AMAZON-SE
 cpu_cores: 1
 cpu_mhz: 266
@@ -18,6 +17,7 @@ ram_mb: 16
 serial: true
 target: lantiq
 unsupported_functions: Impossible
+vendor: ZTE
 wlan_24ghz: b/g/n
 wlan_driver: unknown
 wlan_hardware: Atheros

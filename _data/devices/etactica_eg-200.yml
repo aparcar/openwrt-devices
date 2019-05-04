@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: eTactica
 cpu: Atheros AR9331
 cpu_cores: 1
 detachable_antennas: '1'
@@ -22,5 +21,6 @@ subtarget: generic
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=b2a5f7683b0d36b2a346c67a0dcf9140498b7f92
 target: ar71xx-ath79
+vendor: eTactica
 wlan_24ghz: b/g
 wlan_driver: unknown

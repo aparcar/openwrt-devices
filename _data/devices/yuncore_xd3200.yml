@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: YunCore
 button_count: '1'
 cpu: Qualcomm Atheros QCA9563
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=c1
 supported_since_rel: 17.01.0
 switch: Atheros AR8337
 target: ar71xx
+vendor: YunCore
 version: v5.3
 vlan: true
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Discontinued 2018
 bootloader: U-Boot
-brand: TP-Link
 button_count: '4'
 comment_installation: Special image needed to flash out of the box, can be found at
   http://www.netadair.de/openwrt/
@@ -42,6 +41,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=8c
 supported_since_rel: 17.01.0
 switch: Qualcomm Atheros QCA8337
 target: ar71xx
+vendor: TP-Link
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WPA8630

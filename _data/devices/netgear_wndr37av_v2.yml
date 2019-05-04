@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 comments: Same hardware as WNDR3700 v2
 cpu: Atheros AR7161
 cpu_cores: 1
@@ -25,6 +24,7 @@ subtarget: generic
 switch: Realtek RTL8366SR
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: Netgear
 version: v2
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WNDR3700v2
 wlan_24ghz: b/g/n

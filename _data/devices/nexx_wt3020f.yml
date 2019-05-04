@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: Nexx
 button_count: '1'
 cpu: MediaTek MT7620N
 cpu_cores: 1
@@ -33,6 +32,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=7b
 supported_since_rel: '15.05'
 switch: MediaTek MT7620N
 target: ramips
+vendor: Nexx
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Nexx_WT3020
 wlan_24ghz: b/g/n

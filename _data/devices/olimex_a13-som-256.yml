@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: Olimex
 cpu: Allwinner A13
 cpu_cores: 1
 cpu_mhz: 1000
@@ -18,5 +17,6 @@ ram_mb: 256
 serial: true
 subtarget: cortexa8
 target: sunxi
+vendor: Olimex
 where_available: olimex.com
 wlan_driver: unknown

@@ -1,6 +1,5 @@
 availability: Discontinued 2016
 bootloader: U-Boot
-brand: ZyXEL
 comments: Should be the same as ZyXEL NBG-419N v2
 cpu: Ralink RT3352
 cpu_cores: 1
@@ -29,6 +28,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 17.01.0
 switch: Ralink RT3352
 target: ramips
+vendor: ZyXEL
 version: v2
 wlan_24ghz: b/g/n
 wlan_driver: unknown

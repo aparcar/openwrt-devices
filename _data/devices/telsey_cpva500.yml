@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Telsey
 cpu: Broadcom BCM6345
 cpu_cores: 1
 cpu_mhz: 140
@@ -19,5 +18,6 @@ serial_connection_parameters: 115200 / 8N1
 target: brcm63xx
 unsupported_functions: Impossible
 usb_ports: 1x 1.1 Device
+vendor: Telsey
 vlan: false
 wlan_driver: unknown

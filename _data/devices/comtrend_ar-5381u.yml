@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Comtrend
 cpu: Broadcom BCM6328
 cpu_cores: 1
 cpu_mhz: 320
@@ -31,6 +30,7 @@ supported_since_rel: '14.07'
 target: brcm63xx
 unsupported_functions: DSL modem
 usb_ports: 1x 2.0
+vendor: Comtrend
 vlan: true
 wlan_24ghz: b/g/n
 wlan_hardware: Broadcom BCM43225

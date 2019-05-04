@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: On Networks
 cpu: Atheros AR7240
 cpu_cores: 1
 cpu_mhz: 400
@@ -28,6 +27,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b6
 supported_since_rel: '14.07'
 switch: Atheros AR7240
 target: ar71xx-ath79
+vendor: On Networks
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/On_Networks_%28Netgear%29_N150R
 wlan_24ghz: b/g/n

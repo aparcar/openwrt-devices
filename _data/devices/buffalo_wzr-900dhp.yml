@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: CFE
-brand: Buffalo
 comments: Also EU + JP images available.
 cpu: Broadcom BCM47081A0
 cpu_cores: 1
@@ -30,6 +29,7 @@ supported_since_rel: 17.01.0
 switch: Broadcom BCM47081A0
 target: bcm53xx
 usb_ports: 1x 3.0
+vendor: Buffalo
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Buffalo_WZR-900DHP
 wlan_24ghz: b/g/n

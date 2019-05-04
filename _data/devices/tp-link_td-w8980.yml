@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '3'
 cpu: Lantiq XWAY VRX268
 cpu_cores: 2
@@ -38,6 +37,7 @@ switch: Lantiq PSB 80910
 target: lantiq
 unsupported_functions: WiFi 5GHz
 usb_ports: 2x 2.0
+vendor: TP-Link
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TD-W8980_v1

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Netgear
 cpu: Broadcom BCM6369
 cpu_cores: 2
 cpu_mhz: 400
@@ -35,6 +34,7 @@ switch: Broadcom BCM53115
 target: brcm63xx
 unsupported_functions: DSL modem
 usb_ports: 2x 2.0
+vendor: Netgear
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_EVG2000
 wlan_24ghz: b/g/n

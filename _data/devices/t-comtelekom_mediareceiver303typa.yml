@@ -1,5 +1,4 @@
 availability: Discontinued 2019
-brand: T-Com / Telekom
 comments: Device type "other" = Harddisk recorder; Discontinued 2019, replaced by
   MR401
 cpu: Broadcom BCM7405
@@ -16,4 +15,5 @@ malformed: {}
 model: Media Receiver 303 Typ A
 ram_mb: 256
 unsupported_functions: Unknown if possible
+vendor: T-Com / Telekom
 wlan_driver: unknown

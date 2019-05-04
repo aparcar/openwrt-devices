@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: Xiaomi
 button_count: '1'
 cpu: MediaTek MT7621AT
 cpu_cores: 2
@@ -31,6 +30,7 @@ supported_since_rel: 18.06.0
 switch: MediaTek MT7621AT
 target: ramips
 usb_ports: 1x 3.0
+vendor: Xiaomi
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Xiaomi_MiWiFi_3G
 wlan_24ghz: b/g/n

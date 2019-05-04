@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: ZyXEL
 button_count: '3'
 cpu: Qualcomm Atheros IPQ4018
 cpu_cores: 4
@@ -34,6 +33,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 switch: Qualcomm Atheros QCA8075
 target: ipq40xx
 usb_ports: 1x 3.0
+vendor: ZyXEL
 where_available: amazon.com
 wikidevi_url: https://wikidevi.com/wiki/ZyXEL_NBG6617
 wlan_24ghz: b/g/n

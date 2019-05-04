@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 cpu: Atheros AR7240
 cpu_cores: 1
 cpu_mhz: 400
@@ -33,6 +32,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: '10.03'
 target: ar71xx-ath79
 usb_ports: Mod
+vendor: TP-Link
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: ath9k

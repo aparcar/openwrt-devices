@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: Adam2
-brand: Linksys
 cpu: Texas Instruments TNETD7200ZDW
 cpu_cores: 1
 cpu_mhz: 212
@@ -25,6 +24,7 @@ supported_current_rel: 10.03.1
 supported_since_rel: '10.03'
 switch: Infineon ADM6996I
 target: ar7
+vendor: Linksys
 version: v3
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WAG54G_v3

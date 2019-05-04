@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: GL.iNet
 button_count: '1'
 comments: TF-Card, PoE option
 cpu: Atheros AR9344
@@ -37,6 +36,7 @@ supported_since_rel: 17.01.0
 switch: Atheros AR9344
 target: ar71xx
 usb_ports: 2x 2.0
+vendor: GL.iNet
 version: v3
 vlan: true
 wlan_24ghz: b/g/n

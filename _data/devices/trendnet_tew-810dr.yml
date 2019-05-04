@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TRENDnet
 cpu: MediaTek MT7620A
 cpu_cores: 1
 cpu_mhz: 580
@@ -25,6 +24,7 @@ subtarget: mt7620
 switch: MediaTek MT7620A
 target: ramips
 unsupported_functions: WiFi 5GHz
+vendor: TRENDnet
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TRENDnet_TEW-810DR
 wlan_24ghz: b/g/n

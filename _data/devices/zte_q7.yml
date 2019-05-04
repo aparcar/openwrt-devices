@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: ZTE
 button_count: '3'
 cpu: MediaTek MT7620A
 cpu_cores: 1
@@ -26,6 +25,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=449c5f7b30e3ec4d685c11ecf88f3412be6a22cf
 supported_since_rel: 17.01.0
 target: ramips
+vendor: ZTE
 wlan_24ghz: b/g/n
 wlan_driver: mt76
 wlan_hardware: MediaTek MT7620A

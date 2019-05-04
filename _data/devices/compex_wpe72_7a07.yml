@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Compex
 comments: 8M + 16M images also available;
 cpu: Atheros AR7240
 cpu_cores: 1
@@ -30,6 +29,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=a5
 supported_since_rel: '12.09'
 switch: Atheros AR7240
 target: ar71xx
+vendor: Compex
 version: 7A07
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Compex_WPE72

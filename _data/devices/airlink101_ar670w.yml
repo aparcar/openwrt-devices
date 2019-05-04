@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Airlink101
 cpu: Ralink RT2880
 cpu_cores: 1
 cpu_mhz: 266
@@ -30,6 +29,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=cc
 supported_since_rel: '15.05'
 switch: IC+ IP175C
 target: ramips
+vendor: Airlink101
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Airlink101_AR670W
 wlan_24ghz: b/g/n

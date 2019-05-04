@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Netgear
 cpu: Broadcom BCM5365
 cpu_cores: 1
 cpu_mhz: 200
@@ -28,6 +27,7 @@ supported_since_rel: '10.03'
 switch: Broadcom BCM5364P
 target: brcm47xx
 usb_ports: 1x 2.0
+vendor: Netgear
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WGT634U
 wlan_24ghz: b/g

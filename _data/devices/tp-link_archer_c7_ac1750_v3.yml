@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '1'
 comments: C7 v3 works with images of C7 v2
 cpu: Qualcomm Atheros QCA9558
@@ -39,6 +38,7 @@ supported_since_rel: '14.07'
 switch: Atheros AR8327N
 target: ar71xx
 usb_ports: 2x 2.0
+vendor: TP-Link
 version: v3
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C7_v3.x

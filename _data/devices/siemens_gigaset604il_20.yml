@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Siemens
 comments_network_ports: 4x Eth
 cpu: Lantiq XWAY Danube
 cpu_cores: 2
@@ -20,6 +19,7 @@ serial: true
 target: lantiq
 unsupported_functions: Possible to support
 usb_ports: 1x 2.0
+vendor: Siemens
 version: '2.0'
 wlan_24ghz: b/g/n
 wlan_driver: ath9k

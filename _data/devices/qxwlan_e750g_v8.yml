@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Qxwlan
 button_count: '1'
 cpu: Atheros AR9344
 cpu_cores: 1
@@ -33,6 +32,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 target: ar71xx
 usb_ports: 1x Header
+vendor: Qxwlan
 version: v8
 wlan_24ghz: b/g/n
 wlan_driver: ath9k

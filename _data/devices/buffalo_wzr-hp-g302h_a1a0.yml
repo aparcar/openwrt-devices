@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Buffalo
 button_count: '5'
 cpu: Atheros AR7242
 cpu_cores: 1
@@ -30,6 +29,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=6d1abbcab482556ad13cc7285680b97d4a28a465
 target: ath79
 usb_ports: 1x 2.0
+vendor: Buffalo
 version: A1A0
 wikidevi_url: https://wikidevi.com/wiki/Buffalo_WZR-HP-G302H
 wlan_24ghz: b/g/n

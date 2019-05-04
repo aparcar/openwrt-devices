@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Devolo
 button_count: '1'
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
@@ -27,6 +26,7 @@ subtarget: generic
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=e67da3443168fa6b6727cd81a35d559be77d6b4c
 target: ath79
+vendor: Devolo
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac
 wlan_driver: ath10k-ct

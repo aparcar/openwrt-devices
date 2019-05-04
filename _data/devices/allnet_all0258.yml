@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Allnet
 cpu: Atheros AR2313
 cpu_cores: 1
 cpu_mhz: 180
@@ -21,6 +20,7 @@ recovery_method_s: unknown
 supported_current_rel: '8.09'
 supported_since_rel: '8.09'
 target: ath25
+vendor: Allnet
 vlan: false
 wlan_24ghz: b/g
 wlan_50ghz: a

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: PowerCloud Systems
 button_count: '2'
 comments: Serial requires soldering on a header.  PowerCloud Systems was aka Enable
   Networks.
@@ -37,6 +36,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 17.01.0
 switch: Atheros AR9341 (built-in SoC switch)
 target: ar71xx-ath79
+vendor: PowerCloud Systems
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Enable_Networks_CR3000
 wlan_24ghz: b/g/n

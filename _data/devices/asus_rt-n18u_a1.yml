@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: CFE
-brand: Asus
 cpu: Broadcom BCM47081A0
 cpu_cores: 1
 cpu_mhz: 800
@@ -36,6 +35,7 @@ supported_since_rel: '15.05'
 switch: Broadcom BCM47081A0
 target: bcm53xx
 unsupported_functions: WiFi 2.4GHz partly
+vendor: Asus
 version: A1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N18U

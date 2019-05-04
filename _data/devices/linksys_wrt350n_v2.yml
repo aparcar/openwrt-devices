@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Linksys
 cpu: Marvell 88F5181L
 cpu_cores: 1
 cpu_mhz: 500
@@ -21,6 +20,7 @@ supported_current_rel: '10.03'
 supported_since_rel: '10.03'
 target: orion
 usb_ports: 1x 2.0
+vendor: Linksys
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT350N_v2
 wlan_24ghz: b/g/n

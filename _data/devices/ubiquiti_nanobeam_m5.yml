@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: Ubiquiti
 button_count: '1'
 cpu: Atheros AR9342
 cpu_cores: 1
@@ -29,6 +28,7 @@ subtarget: generic
 supported_current_rel: 18.06.2
 supported_since_rel: '15.05'
 target: ar71xx
+vendor: Ubiquiti
 wlan_50ghz: a/n
 wlan_comments: 2x2 MIMO
 wlan_driver: unknown

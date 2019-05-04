@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: PSPBoot
-brand: Linksys
 comments: Ticket "Cannot mount rootfs" https://dev.openwrt.org/ticket/13636
 cpu: Texas Instruments TNETV1060
 cpu_cores: 1
@@ -20,6 +19,7 @@ phone_ports: '2'
 ram_mb: 32
 serial: true
 target: ar7
+vendor: Linksys
 version: '1.0'
 vlan: false
 wlan_24ghz: b/g/n

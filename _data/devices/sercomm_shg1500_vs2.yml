@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Sercomm
 cpu: Broadcom BCM6361
 cpu_cores: 2
 cpu_mhz: 400
@@ -21,6 +20,7 @@ subtarget: generic
 target: brcm63xx
 unsupported_functions: Possible to support
 usb_ports: 3x 2.0
+vendor: Sercomm
 version: VS2
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

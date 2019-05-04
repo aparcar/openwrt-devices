@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Linksys
 cpu: Broadcom BCM4785
 cpu_cores: 1
 cpu_mhz: 300
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=91
 supported_since_rel: 17.01.0
 switch: Broadcom BCM5397
 target: brcm47xx
+vendor: Linksys
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT310N_v1

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 cpu: Atheros AR9130
 cpu_cores: 1
 cpu_mhz: 400
@@ -33,6 +32,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=fd
 supported_since_rel: '14.07'
 switch: Atheros AR8216
 target: ar71xx
+vendor: Netgear
 version: v1
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WNR2000v1

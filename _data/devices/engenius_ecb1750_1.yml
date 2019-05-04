@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: EnGenius
 button_count: '1'
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
@@ -28,6 +27,7 @@ recovery_method_s: TFTP generic
 serial: true
 serial_connection_parameters: 115200 / 8N1
 target: ath79
+vendor: EnGenius
 version: v1
 vlan: false
 where_available: amazon.com

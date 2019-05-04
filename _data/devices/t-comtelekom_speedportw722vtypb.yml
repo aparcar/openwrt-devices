@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: T-Com / Telekom
 cpu: Lantiq Danube
 cpu_cores: 1
 cpu_mhz: 333
@@ -19,6 +18,7 @@ serial: true
 serial_connection_parameters: 115200 / 8N1
 target: lantiq
 usb_ports: 1x 2.0
+vendor: T-Com / Telekom
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n
 wlan_driver: ath9k

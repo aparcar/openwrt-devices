@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Netgear
 comments: Hardwarewise identical to WNR1000v2
 cpu: Atheros AR7240
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=31
 supported_since_rel: '15.05'
 switch: Atheros AR7240
 target: ar71xx
+vendor: Netgear
 version: v2-VC
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WNR1000v2

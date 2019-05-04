@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Sitecom
 button_count: '2'
 cpu: Qualcomm Atheros IPQ8064
 cpu_cores: 2
@@ -25,6 +24,7 @@ subtarget: generic
 switch: Qualcomm Atheros QCA8337
 target: ipq806x
 usb_ports: 2x 3.0
+vendor: Sitecom
 version: V1-001
 vlan: true
 wlan_24ghz: b/g/n

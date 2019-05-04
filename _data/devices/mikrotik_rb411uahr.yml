@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RouterBOOT
-brand: MikroTik
 cpu: Atheros AR7161
 cpu_cores: 1
 cpu_mhz: 680
@@ -27,6 +26,7 @@ subtarget: mikrotik
 supported_current_rel: 18.06.2
 supported_since_rel: '12.09'
 target: ar71xx
+vendor: MikroTik
 vlan: false
 wlan_24ghz: b/g
 wlan_driver: unknown

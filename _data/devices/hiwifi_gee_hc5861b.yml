@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: HiWiFi/Gee
 comments: aka "Gee Enjoy1200"
 cpu: MediaTek MT7628AN
 cpu_cores: 1
@@ -26,6 +25,7 @@ subtarget: mt76x8
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=d20f4fc628e9e3c1e1d4063a0798e4097ffb3c4a
 target: ramips
+vendor: HiWiFi/Gee
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac
 wlan_driver: mt76

@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 comment_installation: For TFTP, rename -factory.bin image to ArcherC7v5_tp_recovery.bin
 comments: Archer A7 is identical to Archer C7, see https://forum.openwrt.org/t/support-for-archer-a7/20790/3?u=tmomas
@@ -33,6 +32,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 switch: Qualcomm Atheros QCA8337N
 target: ath79
 usb_ports: 1x 2.0
+vendor: TP-Link
 version: v5
 vlan: true
 where_available: amazon.com

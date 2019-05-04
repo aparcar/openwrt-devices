@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Belkin
 cpu: Ralink RT3052
 cpu_cores: 1
 cpu_mhz: 384
@@ -28,6 +27,7 @@ supported_since_rel: '12.09'
 switch: Realtek RTL8366RB
 target: ramips
 usb_ports: 1x 2.0
+vendor: Belkin
 version: v2
 wikidevi_url: https://wikidevi.com/wiki/Belkin_F5D8235-4_v2
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Linksys
 cpu: Broadcom BCM6348
 cpu_cores: 1
 cpu_mhz: 240
@@ -22,6 +21,7 @@ serial: true
 subtarget: generic
 target: brcm63xx
 unsupported_functions: Impossible
+vendor: Linksys
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WAG54GS
 wlan_24ghz: b/g
 wlan_driver: b43

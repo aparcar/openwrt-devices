@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: I-O Data
 button_count: '6'
 cpu: Atheros AR1022
 cpu_cores: 1
@@ -30,6 +29,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 switch: Atheros AR8327N
 target: ath79
 usb_ports: 1x 2.0
+vendor: I-O Data
 vlan: true
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

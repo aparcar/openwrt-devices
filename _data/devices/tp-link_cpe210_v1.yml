@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: other
-brand: TP-Link
 comments_network_ports: 1 (PoE) + 1 (PoE pass through)
 cpu: Atheros AR9344 rev 2
 cpu_cores: 1
@@ -36,6 +35,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=47ab1cbf23aef658f46bd86af88edb4e3f665639
 supported_since_rel: '14.07'
 target: ar71xx
+vendor: TP-Link
 version: v1
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_CPE210
 wlan_24ghz: b/g/n

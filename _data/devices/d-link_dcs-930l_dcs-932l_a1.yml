@@ -1,6 +1,5 @@
 availability: Discontinued 2018
 bootloader: U-Boot
-brand: D-Link
 cpu: Ralink RT3050F
 cpu_cores: 1
 cpu_mhz: 320
@@ -28,6 +27,7 @@ supported_current_rel: 18.06.1
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=c0f6bf05f4b73d4541865db9785fe691666774cb
 supported_since_rel: 17.01.0
 target: ramips
+vendor: D-Link
 version: A1
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DCS-930L_rev_A1
 wlan_24ghz: b/g/n

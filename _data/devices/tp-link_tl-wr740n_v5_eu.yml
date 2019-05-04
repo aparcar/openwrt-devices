@@ -1,6 +1,5 @@
 availability: Discontinued 2016
 bootloader: U-Boot
-brand: TP-Link
 cpu: Atheros AR9331
 cpu_cores: 1
 device_id: tp-link_tl-wr740n_v5_eu
@@ -27,6 +26,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=6de9aeee35c67b993ec9f6f8321391219995e2c2
 supported_since_rel: 15.05.1
 target: ar71xx
+vendor: TP-Link
 version: v5 (EU)
 wlan_24ghz: b/g/n
 wlan_driver: unknown

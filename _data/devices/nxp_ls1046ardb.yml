@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: NXP
 comments: Also 64b firmware available
 comments_network_ports: additional SFP cage + 2x 10G port
 cpu: NXP LS1046A
@@ -29,3 +28,4 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ad
 supported_since_rel: 17.01.0
 target: layerscape
 usb_ports: 2x 3.0
+vendor: NXP

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 cpu: Atheros AR7242
 cpu_cores: 1
@@ -37,6 +36,7 @@ supported_since_rel: '12.09'
 switch: Realtek RTL8367R
 target: ar71xx-ath79
 usb_ports: 1x 2.0
+vendor: TP-Link
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR2543ND_v1
 wlan_24ghz: b/g/n

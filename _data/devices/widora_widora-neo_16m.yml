@@ -1,7 +1,6 @@
 audio_ports: other
 availability: Available 2017
 bootloader: U-Boot
-brand: Widora
 button_count: '2'
 comments: 'Audio: Combined Mic/Headphone jack; old batch = 16MB flash, new batch =
   32MB flash.'
@@ -34,6 +33,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b38296f2f6c362b81545b7e42eb25abe6ccebfb2
 supported_since_rel: 17.01.0
 target: ramips
+vendor: Widora
 wlan_24ghz: b/g/n
 wlan_driver: unknown
 wlan_hardware: MediaTek MT7688AN

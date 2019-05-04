@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: ZyXEL
 button_count: '3'
 comment_installation: For TFTP, rename -factory.bin image to kextra2_recovery.bin
 comment_recovery: For TFTP, rename -factory.bin image to kextra2_recovery.bin
@@ -31,6 +30,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=7d07bc96b7e686244ed096d3bbfad297a2ec1ce9
 target: ramips
 usb_ports: 1x 2.0
+vendor: ZyXEL
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac
 wlan_driver: mt76

@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: GnuBee
 button_count: '1'
 cpu: MediaTek MT7621A
 cpu_cores: 2
@@ -30,4 +29,5 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=77645ffcd9ad767be02ea6d5cfe042928a3565d1
 supported_since_rel: 18.06.0
 target: ramips
+vendor: GnuBee
 where_available: crowdsupply.com

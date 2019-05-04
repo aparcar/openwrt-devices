@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Zlmnet
 cpu: Ralink RT5350F
 cpu_cores: 1
 cpu_mhz: 360
@@ -20,6 +19,7 @@ serial: true
 subtarget: rt305x
 target: ramips
 unsupported_functions: Possible to support
+vendor: Zlmnet
 wlan_24ghz: b/g/n
 wlan_driver: unknown
 wlan_hardware: Ralink RT5350F

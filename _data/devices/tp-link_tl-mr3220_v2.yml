@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 cpu: Atheros AR9331
 cpu_cores: 1
 cpu_mhz: 400
@@ -36,6 +35,7 @@ supported_since_rel: '12.09'
 switch: Atheros AR9331
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: TP-Link
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-MR3220_v2

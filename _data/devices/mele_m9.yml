@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: MeLE
 comments: See also http://linux-sunxi.org/Mele_M9
 cpu: Allwinner A31
 cpu_cores: 4
@@ -27,6 +26,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=1e0c22507adb4724ca25de994bcdbe69b8502900
 supported_since_rel: '15.05'
 target: sunxi
+vendor: MeLE
 wlan_24ghz: b/g/n
 wlan_driver: unknown
 wlan_hardware: Realtek RTL8188EUS

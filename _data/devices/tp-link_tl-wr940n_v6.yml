@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 comments: Factory image also available for EU, US + BR
 cpu: Qualcomm Atheros TP9343
@@ -34,6 +33,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 switch: Qualcomm Atheros TP9343
 target: ar71xx
+vendor: TP-Link
 version: v6
 where_available: amazon.de, amazon.com
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR940N_v6.x

@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: CFE
-brand: Technicolor
 button_count: '3'
 comment_installation: Stock bootloader unsupported, CFE must be installed before OpenWrt
   installation
@@ -32,6 +31,7 @@ supported_since_rel: '15.05'
 switch: Broadcom BCM63281
 target: brcm63xx
 usb_ports: 1x 2.0
+vendor: Technicolor
 version: DANT-T
 vlan: true
 wlan_24ghz: b/g/n

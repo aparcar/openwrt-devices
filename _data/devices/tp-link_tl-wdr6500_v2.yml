@@ -1,6 +1,5 @@
 availability: Discontinued 2018
 bootloader: U-Boot
-brand: TP-Link
 button_count: '1'
 cpu: Qualcomm Atheros QCA956X
 cpu_cores: 1
@@ -35,6 +34,7 @@ supported_since_rel: 17.01.0
 switch: Qualcomm Atheros QCA956X
 target: ar71xx
 usb_ports: 1x Header
+vendor: TP-Link
 version: v2
 vlan: false
 wlan_24ghz: b/g/n

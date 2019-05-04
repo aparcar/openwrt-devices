@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: Mercury
 comments: Hardware is similar TP-Link TL-MR3040 v1, but intended for PRC; works with
   TL-MR3040 v1 images
 cpu: Atheros AR7240
@@ -27,6 +26,7 @@ supported_current_rel: 17.01.5
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=758f670376db2b4504d4d3fc22b55793effef6d0
 supported_since_rel: '15.05'
 target: ar71xx
+vendor: Mercury
 version: '1'
 wlan_24ghz: b/g/n
 wlan_driver: unknown

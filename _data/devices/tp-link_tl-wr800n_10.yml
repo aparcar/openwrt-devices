@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: TP-Link
 cpu: Atheros AR9341
 cpu_cores: 1
 cpu_mhz: 535
@@ -20,6 +19,7 @@ serial: true
 subtarget: generic
 target: ar71xx
 unsupported_functions: Impossible
+vendor: TP-Link
 version: '1.0'
 wlan_24ghz: b/g/n
 wlan_driver: ath9k

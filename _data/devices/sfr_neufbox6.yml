@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: "SFR (Soci\xE9t\xE9 Fran\xE7aise de Radiot\xE9l\xE9phonie)"
 cpu: Broadcom BCM6361
 cpu_cores: 2
 cpu_mhz: 400
@@ -26,6 +25,7 @@ supported_since_rel: '14.07'
 switch: Realtek RTL8367R
 target: brcm63xx
 usb_ports: 2x 2.0
+vendor: "SFR (Soci\xE9t\xE9 Fran\xE7aise de Radiot\xE9l\xE9phonie)"
 wikidevi_url: https://wikidevi.com/wiki/SFR_Neufbox_6
 wlan_24ghz: b/g/n
 wlan_driver: b43

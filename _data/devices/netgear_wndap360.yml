@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 button_count: '1'
 cpu: Atheros AR7161
 cpu_cores: 1
@@ -33,6 +32,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=c70694e755910904cb31267800cf15ff428cb704
 supported_since_rel: '14.07'
 target: ar71xx
+vendor: Netgear
 version: PY311100154
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WNDAP360

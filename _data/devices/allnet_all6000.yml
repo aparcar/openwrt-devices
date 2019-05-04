@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Allnet
 cpu: Marvell 88F6281
 cpu_cores: 1
 cpu_mhz: 1200
@@ -19,5 +18,6 @@ serial: true
 subtarget: generic
 target: kirkwood
 unsupported_functions: WIP
+vendor: Allnet
 vlan: false
 wlan_driver: unknown

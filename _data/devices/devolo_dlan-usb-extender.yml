@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Devolo
 cpu: Moschip MCS8140
 cpu_cores: 1
 cpu_mhz: 175
@@ -19,4 +18,5 @@ serial: true
 target: mcs814x
 unsupported_functions: Impossible
 usb_ports: 1x 2.0
+vendor: Devolo
 wlan_driver: unknown

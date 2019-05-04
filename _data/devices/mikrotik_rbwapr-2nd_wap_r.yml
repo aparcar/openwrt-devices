@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: RouterBOOT
-brand: MikroTik
 button_count: '1'
 comments_network_ports: 1x mini-PCIe for LTE modem
 cpu: Qualcomm Atheros QCA9531
@@ -27,6 +26,7 @@ subtarget: mikrotik
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=81d446b045176e3e25bb0ef74e3d060b51a0a353
 target: ar71xx
+vendor: MikroTik
 where_available: mikrotik-store.eu
 wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_wAP_R_(RBwAPR-2nD)
 wlan_24ghz: b/g/n

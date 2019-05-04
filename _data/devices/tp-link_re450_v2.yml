@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '3'
 cpu: Qualcomm Atheros QCA9563
 cpu_cores: 1
@@ -34,6 +33,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=781ad46206ddaee74e40d7dbc68840fae1c0cc7c
 switch: Qualcomm Atheros AR8033
 target: ath79
+vendor: TP-Link
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_RE450_v2.x

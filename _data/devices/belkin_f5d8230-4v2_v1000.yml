@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Belkin
 cpu: Realtek RTL8651B
 cpu_cores: 1
 cpu_mhz: 200
@@ -16,6 +15,7 @@ ram_mb: 16
 serial: true
 target: brcm47xx
 unsupported_functions: Impossible
+vendor: Belkin
 version: v1000
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Belkin_F5D8230-4_v2

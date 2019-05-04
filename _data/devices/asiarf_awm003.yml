@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: AsiaRF
 cpu: Ralink RT5350F
 cpu_cores: 1
 cpu_mhz: 360
@@ -25,6 +24,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=2c
 supported_since_rel: '14.07'
 target: ramips
 usb_ports: 1x 2.0
+vendor: AsiaRF
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/AsiaRF_AWM003
 wlan_24ghz: b/g/n

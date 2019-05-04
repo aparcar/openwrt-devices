@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: GL.iNet
 button_count: '2'
 comments: USB power can not be controlled via GPIO, see OEM website.
 cpu: Qualcomm Atheros QCA9531
@@ -32,6 +31,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 switch: Qualcomm Atheros QCA9531
 target: ath79
 usb_ports: 1x 2.0
+vendor: GL.iNet
 version: v1
 vlan: true
 where_available: store.gl-inet.com, amazon.com, amazon.de

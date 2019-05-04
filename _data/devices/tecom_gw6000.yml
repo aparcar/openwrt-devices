@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Tecom
 cpu: Broadcom BCM6348
 cpu_cores: 1
 cpu_mhz: 240
@@ -32,6 +31,7 @@ supported_since_rel: 17.01.0
 switch: Broadcom BCM5325E
 target: brcm63xx
 unsupported_functions: DSL modem
+vendor: Tecom
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Tecom_GW6000
 wlan_24ghz: b/g

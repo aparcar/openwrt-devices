@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Xunlong
 cpu: Allwinner H3
 cpu_cores: 4
 cpu_mhz: 1200
@@ -30,6 +29,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=445ca981d163d54c8dcf16cf206bc44904160b99
 target: sunxi
 unsupported_functions: WiFi 2.4GHz
+vendor: Xunlong
 where_available: aliexpress.com, banggood.com
 wikidevi_url: https://wikidevi.com/wiki/Orange_Pi_PC_Plus
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: Gateway
 comments_network_ports: '2'
 cpu: Intel IXP422
 cpu_cores: 1
@@ -28,6 +27,7 @@ subtarget: generic
 supported_current_rel: 18.06.2
 supported_since_rel: '7.06'
 target: ixp4xx
+vendor: Gateway
 version: a+g
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Gateway_7001_AP

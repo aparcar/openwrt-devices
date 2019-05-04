@@ -1,5 +1,4 @@
 availability: Available 2017
-brand: Cisco
 cpu: Broadcom BCM3380
 cpu_cores: 1
 cpu_mhz: 333
@@ -18,6 +17,7 @@ serial: true
 target: brcm63xx
 unsupported_functions: Possible to support
 usb_ports: 1x 2.0
+vendor: Cisco
 wikidevi_url: https://wikidevi.com/wiki/Cisco_DPC3825
 wlan_24ghz: b/g/n
 wlan_hardware: Broadcom BCM43225 (mini-PCIe)

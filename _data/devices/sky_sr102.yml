@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: CFE
-brand: Sky
 button_count: '2'
 cpu: Broadcom BCM63168
 cpu_cores: 2
@@ -32,6 +31,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=d591260407015d2c451ad8c9e114fe04cf3639bc
 switch: Broadcom BCM63168
 target: brcm63xx
+vendor: Sky
 wlan_24ghz: b/g/n
 wlan_driver: unknown
 wlan_hardware: Broadcom BCM435F

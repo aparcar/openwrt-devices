@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 comment_installation: For TFTP, rename -factory image to wr841nv11_tp_recovery.bin
 comments: Also EU + US factory images available
 cpu: Qualcomm Atheros QCA9533
@@ -33,6 +32,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=c8
 supported_since_rel: 15.05.1
 switch: Qualcomm Atheros QCA9533
 target: ar71xx-ath79
+vendor: TP-Link
 version: v11
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR841N_v11.x

@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: TP-Link
 cpu: Qualcomm Atheros QCA9531
 cpu_cores: 1
 cpu_mhz: 650
@@ -35,6 +34,7 @@ supported_since_rel: 17.01.0
 switch: Qualcomm Atheros QCA9531
 target: ar71xx-ath79
 usb_ports: 1x 2.0
+vendor: TP-Link
 version: v1.0 (US)
 vlan: true
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: ZTE
 comments: Same hardware as Dynalink_RTA1025W and NetComm NB6PLUS4W
 cpu: Broadcom BCM6348
 cpu_cores: 1
@@ -26,6 +25,7 @@ supported_since_rel: '10.03'
 target: brcm63xx
 unsupported_functions: DSL modem
 usb_ports: 1x 1.1 Device
+vendor: ZTE
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Dynalink_RTA1025W
 wlan_24ghz: b/g

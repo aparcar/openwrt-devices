@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Gateworks
 cpu: Intel IXP420
 cpu_cores: 1
 cpu_mhz: 266
@@ -20,6 +19,7 @@ subtarget: generic
 supported_current_rel: '12.09'
 supported_since_rel: '12.09'
 target: ixp4xx
+vendor: Gateworks
 vlan: false
 wlan_driver: unknown
 wlan_hardware: 2x mini-PCI

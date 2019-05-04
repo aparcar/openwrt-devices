@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Linksys
 cpu: Broadcom BCM5358UB0
 cpu_cores: 1
 cpu_mhz: 300
@@ -28,6 +27,7 @@ switch: Broadcom BCM5358UB0
 target: brcm47xx
 unsupported_functions: WiFi 2.4GHz
 usb_ports: 1x 2.0
+vendor: Linksys
 version: v1
 wikidevi_url: https://wikidevi.com/wiki/Linksys_E1550
 wlan_24ghz: b/g/n

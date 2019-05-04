@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: Actiontec
 comment_installation: Stock bootloader unsupported, RedBoot must be installed
 comments_network_ports: MOCA 1.0
 cpu: Intel IXP425
@@ -32,6 +31,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=47
 supported_since_rel: '10.03'
 switch: Kendin KS8995MA
 target: ixp4xx
+vendor: Actiontec
 version: A
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Actiontec_MI424WR_rev_A

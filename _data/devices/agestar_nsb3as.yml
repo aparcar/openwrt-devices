@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Agestar
 cpu: Star STR8132
 cpu_cores: 1
 cpu_mhz: 150
@@ -25,3 +24,4 @@ supported_current_rel: '14.07'
 supported_since_rel: '14.07'
 target: cns21xx
 usb_ports: true
+vendor: Agestar

@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: CFE
-brand: Netgear
 cpu: Broadcom BCM6368
 cpu_cores: 2
 cpu_mhz: 400
@@ -20,6 +19,7 @@ serial: true
 target: brcm63xx
 unsupported_functions: Possible to support
 usb_ports: 1x 2.0
+vendor: Netgear
 wikidevi_url: https://wikidevi.com/wiki/Netgear_VVG2000-1
 wlan_24ghz: b/g/n
 wlan_driver: b43

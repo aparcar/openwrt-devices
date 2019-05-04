@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: CFE
-brand: Belkin
 cpu: Broadcom BCM4718
 cpu_cores: 1
 cpu_mhz: 480
@@ -20,6 +19,7 @@ ram_mb: 64
 serial: true
 target: brcm47xx
 usb_ports: 1x 2.0
+vendor: Belkin
 version: '1'
 wikidevi_url: https://wikidevi.com/wiki/Belkin_F7D3302
 wlan_24ghz: b/g/n

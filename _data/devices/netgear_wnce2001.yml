@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 cpu: Ralink RT3052
 cpu_cores: 1
 cpu_mhz: 384
@@ -30,6 +29,7 @@ supported_current_rel: 18.06.1
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=48feea4861bba4673e8e2d7a6cedf483963180fc
 supported_since_rel: '14.07'
 target: ramips
+vendor: Netgear
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WNCE2001
 wlan_24ghz: b/g/n

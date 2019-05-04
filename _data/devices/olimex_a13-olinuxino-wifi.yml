@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Olimex
 button_count: '5'
 comments_network_ports: Eth via optional UEXT module
 cpu: Allwinner A13
@@ -30,6 +29,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f5
 supported_since_rel: '14.07'
 target: sunxi
 usb_ports: 3x 2.0
+vendor: Olimex
 video_ports: VGA
 where_available: olimex.com
 wlan_24ghz: b/g/n

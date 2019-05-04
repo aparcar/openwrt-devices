@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Asus
 cpu: Broadcom BCM4716
 cpu_cores: 1
 cpu_mhz: 300
@@ -34,6 +33,7 @@ supported_since_rel: '15.05'
 switch: Broadcom BCM5325E
 target: brcm47xx
 unsupported_functions: WiFi 2.4GHz partly
+vendor: Asus
 version: A1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N12_rev_A1

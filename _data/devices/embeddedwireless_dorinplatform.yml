@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Embedded Wireless
 comments: Vendor firmware is based on OpenWrt.
 cpu: Atheros AR9331
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=26
 supported_since_rel: '12.09'
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: Embedded Wireless
 version: Rev 1.2
 vlan: true
 wlan_24ghz: b/g/n

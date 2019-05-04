@@ -1,5 +1,4 @@
 availability: Available 2019
-brand: QEMU (malta)
 comments_network_ports: '1'
 cpu: malta
 cpu_cores: 1
@@ -15,6 +14,7 @@ oem_device_homepage_url: https://www.qemu.org/
 supported_current_rel: 15.05.1
 supported_since_rel: '12.09'
 target: malta
+vendor: QEMU (malta)
 version: 0.12.5
 vlan: false
 where_available: qemu.org

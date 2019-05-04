@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RGLoader
-brand: Actiontec
 comment_installation: Stock bootloader unsupported, RedBoot must be installed
 comments_network_ports: MOCA 1.0
 cpu: Intel IXP420
@@ -36,6 +35,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b8
 supported_since_rel: '12.09'
 switch: Micrel KSZ8995MA
 target: ixp4xx
+vendor: Actiontec
 version: D
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Actiontec_MI424WR_rev_D

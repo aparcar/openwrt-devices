@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Meraki
 button_count: '1'
 cpu: AppliedMicro APM82181
 cpu_cores: 1
@@ -33,4 +32,5 @@ supported_since_rel: 17.01.0
 switch: Atheros AR8327
 target: apm821xx
 usb_ports: 1x 2.0
+vendor: Meraki
 vlan: true

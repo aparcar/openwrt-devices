@@ -1,6 +1,5 @@
 availability: Discontinued 2016
 bootloader: U-Boot
-brand: TRENDnet
 button_count: '2'
 cpu: Atheros AR9341 rev 1
 cpu_cores: 1
@@ -33,6 +32,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=cd
 supported_since_rel: '14.07'
 switch: Atheros AR9341
 target: ar71xx
+vendor: TRENDnet
 version: 1.0R
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TRENDnet_TEW-732BR

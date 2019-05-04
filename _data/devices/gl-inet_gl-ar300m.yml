@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: GL.iNet
 button_count: '2'
 comments: 'NOT SUPPORTED YET: Flashing to the 128MB NAND flash! Can only be installed
   to the 16MB NOR flash, which is not booted by default. (GL-AR300M16 only has 16MB
@@ -39,6 +38,7 @@ supported_since_rel: 17.01.0
 switch: Atheros QCA9531
 target: ar71xx-ath79
 usb_ports: 1x 2.0
+vendor: GL.iNet
 version: v1.4.0
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/GL.iNet_AR300M

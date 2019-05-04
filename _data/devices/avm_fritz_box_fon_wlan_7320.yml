@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: Adam2
-brand: AVM
 button_count: '2'
 comments: see also http://www.wehavemorefun.de/fritzbox/7320
 cpu: Lantiq PSB50812
@@ -34,6 +33,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=2c
 supported_since_rel: 17.01.0
 target: lantiq
 usb_ports: 2x 2.0
+vendor: AVM
 wlan_24ghz: b/g/n
 wlan_driver: ath9k
 wlan_hardware: Atheros AR9227

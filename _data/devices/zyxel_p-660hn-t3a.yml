@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: ZyXEL
 button_count: '1'
 comments_network_ports: '4'
 cpu: TrendChip TC3162U
@@ -21,6 +20,7 @@ power_supply: 12 VDC, 1.0 A
 ram_mb: 32
 serial: true
 switch: TrendChip TC2206F
+vendor: ZyXEL
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: unknown

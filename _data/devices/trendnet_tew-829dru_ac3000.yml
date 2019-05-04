@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: TRENDnet
 comments_network_ports: 2 WAN + 8 Port Switch
 cpu: Qualcomm IPQ4019
 cpu_cores: 4
@@ -34,6 +33,7 @@ subtarget: generic
 switch: Qualcomm Atheros QCA8337, QCA8075
 target: ipq40xx
 usb_ports: 1x 3.0
+vendor: TRENDnet
 version: v1.0R
 vlan: true
 where_available: amazon.com, newegg.com

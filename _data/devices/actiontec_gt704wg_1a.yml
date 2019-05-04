@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: Adam2
-brand: Actiontec
 cpu: Texas Instruments TNETD7300
 cpu_cores: 1
 cpu_mhz: 150
@@ -32,6 +31,7 @@ supported_since_rel: '8.09'
 switch: Marvell 88E6060
 target: ar7
 unsupported_functions: Will boot but there is insufficient memory to function.
+vendor: Actiontec
 version: 1A
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Actiontec_GT704WG

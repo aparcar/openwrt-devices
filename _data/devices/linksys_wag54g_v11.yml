@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Linksys
 comments_network_ports: '4'
 cpu: Broadcom BCM6348
 cpu_cores: 1
@@ -25,6 +24,7 @@ supported_current_rel: 10.03.1
 supported_since_rel: '10.03'
 target: brcm63xx
 unsupported_functions: DSL modem
+vendor: Linksys
 version: v1.1
 vlan: true
 wlan_24ghz: b/g

@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Evaluation boards / unbranded boards
 cpu: Freescale P1020E
 cpu_cores: 2
 cpu_mhz: 800
@@ -22,6 +21,7 @@ ram_mb: 1024
 serial: true
 target: mpc85xx
 usb_ports: 2x 2.0
+vendor: Evaluation boards / unbranded boards
 vlan: false
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

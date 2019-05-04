@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Qxwlan
 button_count: '2'
 cpu: Qualcomm Atheros QCA9563
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_since_rel: 18.06.0
 switch: Qualcomm Atheros QCA8334
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: Qxwlan
 version: v2
 vlan: true
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Discontinued 2014
 bootloader: CFE
-brand: Cisco
 cpu: Broadcom BCM4717
 cpu_cores: 1
 cpu_mhz: 354
@@ -26,6 +25,7 @@ subtarget: mips74k
 supported_current_rel: '14.07'
 supported_since_rel: '14.07'
 target: brcm47xx
+vendor: Cisco
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Cisco_VEN401
 wlan_50ghz: a/n

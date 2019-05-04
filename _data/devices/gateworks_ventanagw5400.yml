@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: Gateworks
 cpu: Freescale i.MX 6
 cpu_cores: 4
 cpu_mhz: 1000
@@ -25,6 +24,7 @@ supported_current_rel: 17.01.4
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=f55d0ff66c34aaaa57637b2f074e840f29fde9a2
 supported_since_rel: '15.05'
 target: imx6
+vendor: Gateworks
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Gateworks_Ventana_GW5400
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: Tenda
 comments: 3G/4G via USB
 cpu: MediaTek MT7620N
 cpu_cores: 1
@@ -23,6 +22,7 @@ serial: true
 subtarget: mt7620
 target: ramips
 usb_ports: 1x 2.0
+vendor: Tenda
 wikidevi_url: https://wikidevi.com/wiki/Tenda_4G301
 wlan_24ghz: b/g/n
 wlan_driver: mt76

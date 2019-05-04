@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: D-Link
 cpu: Texas Instruments TNETD7200
 cpu_cores: 1
 cpu_mhz: 210
@@ -18,6 +17,7 @@ ram_mb: 16
 target: ar7
 unsupported_functions: Impossible
 usb_ports: 1x Device
+vendor: D-Link
 version: C5
 vlan: false
 wlan_driver: unknown

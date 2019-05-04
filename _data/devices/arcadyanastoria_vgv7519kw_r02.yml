@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: brnboot
-brand: Arcadyan / Astoria
 button_count: '4'
 cpu: Lantiq XWAY VRX288 v1.2
 cpu_cores: 2
@@ -28,6 +27,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=4f
 supported_since_rel: 17.01.0
 target: lantiq
 usb_ports: 2x 2.0
+vendor: Arcadyan / Astoria
 version: R02
 wlan_24ghz: b/g/n
 wlan_driver: unknown

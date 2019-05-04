@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Buffalo
 comment_installation: For TFTP, rename initramfs image to firmware_WHR-1166DHP.ram
 cpu: MediaTek MT7620A
 cpu_cores: 1
@@ -27,6 +26,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=07754ac29777a0a81d2ed74a7fb79a223760693e
 supported_since_rel: '15.05'
 target: ramips
+vendor: Buffalo
 wikidevi_url: https://wikidevi.com/wiki/Buffalo_WHR-1166D
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

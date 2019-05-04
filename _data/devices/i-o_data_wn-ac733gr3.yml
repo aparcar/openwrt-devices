@@ -1,6 +1,5 @@
 availability: Discontinued 2015
 bootloader: U-Boot
-brand: I-O Data
 button_count: '4'
 cpu: MediaTek MT7620A
 cpu_cores: 1
@@ -29,6 +28,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=5c112582974218fd4e4624b36dbdeb8edeff55b7
 switch: Realtek RTL8367RB
 target: ramips
+vendor: I-O Data
 vlan: true
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

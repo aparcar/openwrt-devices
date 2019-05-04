@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: EVA
-brand: AVM
 comments: See also http://www.wehavemorefun.de/fritzbox/7570
 cpu: Texas Instruments UR8
 cpu_cores: 1
@@ -21,6 +20,7 @@ serial: true
 serial_connection_parameters: 38400 / 8N1
 switch: PSB6970HL
 usb_ports: 1x 2.0
+vendor: AVM
 wikidevi_url: https://wikidevi.com/wiki/AVM_FRITZ!Box_Fon_WLAN_7570
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

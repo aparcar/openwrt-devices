@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: D-Link
 cpu: Ralink RT3352F
 cpu_cores: 1
 cpu_mhz: 400
@@ -29,6 +28,7 @@ supported_since_rel: '14.07'
 switch: Ralink RT3352F
 target: ramips
 usb_ports: 1x 2.0
+vendor: D-Link
 version: D1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-620_rev_D1

@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: RouterBOOT
-brand: MikroTik
 button_count: '1'
 cpu: Atheros AR9344
 cpu_cores: 1
@@ -33,6 +32,7 @@ supported_current_rel: 18.06.2
 supported_since_rel: '14.07'
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: MikroTik
 vlan: true
 where_available: mikrotik-store.eu
 wlan_24ghz: b/g/n

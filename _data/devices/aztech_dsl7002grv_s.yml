@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: CFE
-brand: Aztech
 comments_network_ports: 1x RJ-11 6P4C Telephone Jack for FXS1 & FXS2
 cpu: Broadcom BCM6361
 cpu_cores: 2
@@ -21,6 +20,7 @@ ram_mb: 128
 subtarget: generic
 target: brcm63xx
 usb_ports: 2x 2.0
+vendor: Aztech
 vlan: true
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

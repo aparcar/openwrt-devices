@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: OMYlink
 cpu: Atheros AR9341
 cpu_cores: 1
 cpu_mhz: 535
@@ -32,6 +31,7 @@ supported_since_rel: 17.01.0
 switch: Atheros AR9341
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: OMYlink
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: ath9k

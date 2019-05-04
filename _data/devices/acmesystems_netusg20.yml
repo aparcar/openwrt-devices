@@ -1,6 +1,5 @@
 availability: Discontinued 2016
 bootloader: U-Boot
-brand: AcmeSystems
 cpu: ARM9
 cpu_cores: 1
 cpu_mhz: 400
@@ -20,4 +19,5 @@ serial: true
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=4bb7ab3057cc4d19924034f92a0a22decba04796
 target: at91
 usb_ports: 1x 2.0 Device
+vendor: AcmeSystems
 wlan_driver: unknown

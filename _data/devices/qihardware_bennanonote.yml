@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Qi hardware
 cpu: Ingenic JZ4720
 cpu_cores: 1
 cpu_mhz: 336
@@ -16,5 +15,6 @@ oem_device_homepage_url: http://en.qi-hardware.com/wiki/Ben_NanoNote
 ram_mb: 32
 serial: true
 usb_ports: 1x 2.0 Device
+vendor: Qi hardware
 vlan: false
 wlan_driver: unknown

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 comments: TL-WR940N v2 works with TL-WR941ND v5 images
 cpu: Atheros AR9341
@@ -35,6 +34,7 @@ supported_since_rel: '10.03'
 switch: Atheros AR9341
 target: ar71xx
 usb_ports: 1x Header
+vendor: TP-Link
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR940N_v2.x

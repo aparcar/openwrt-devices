@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: Tenda
 button_count: '1'
 cpu: Ralink RT5350F
 cpu_cores: 1
@@ -28,6 +27,7 @@ supported_current_rel: 18.06.1
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=36d19e46dfbf0a6baa4f741e8182fbd72dd6575e
 supported_since_rel: 17.01.0
 target: ramips
+vendor: Tenda
 wlan_24ghz: b/g/n
 wlan_driver: unknown
 wlan_hardware: Ralink RT5350F

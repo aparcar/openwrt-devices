@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Accton
 comments: According to https://dev.openwrt.org/changeset/30434, the SMCWBR11S-3GN
   is identical to the Accton WR6202.
 cpu: Ralink RT3050
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=9c
 supported_since_rel: '12.09'
 target: ramips
 usb_ports: 1x 2.0
+vendor: Accton
 wlan_24ghz: b/g/n
 wlan_driver: unknown
 wlan_hardware: Ralink RT3050

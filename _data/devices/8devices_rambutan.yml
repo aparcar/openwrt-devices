@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: 8devices
 button_count: '2'
 cpu: Qualcomm Atheros QCA9557
 cpu_cores: 1
@@ -34,6 +33,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=68
 supported_since_rel: 18.06.0
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: 8devices
 where_available: shop.8devices.com
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

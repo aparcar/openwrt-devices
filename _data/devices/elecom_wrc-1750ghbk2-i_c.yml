@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: ELECOM
 button_count: '3'
 comment_installation: sysupgrade with squashfs image after factory image installing
 cpu: Qualcomm Atheros QCA9563
@@ -30,6 +29,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=caf306ce912a46e2d1204b996c3b4fede9af6dae
 switch: Qualcomm Atheros QCA8337N
 target: ath79
+vendor: ELECOM
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac
 wlan_driver: ath10k-ct

@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Pogoplug
 comments: Pogoplug Mobile uses firmware of POGO-E02 acc. OWrt devicepage. No GUI installation.
   No going back to OEM.
 cpu: Marvell 88F6192
@@ -33,5 +32,6 @@ supported_current_rel: 18.06.2
 supported_since_rel: '15.05'
 target: kirkwood
 usb_ports: 1x 2.0
+vendor: Pogoplug
 version: POGO-V4-A1-01
 wikidevi_url: https://wikidevi.com/wiki/Pogoplug_Mobile

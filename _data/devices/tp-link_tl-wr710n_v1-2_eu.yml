@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '1'
 comments: wallwart size; built in AC PSU
 cpu: Atheros AR9331
@@ -37,6 +36,7 @@ supported_since_rel: '14.07'
 switch: Yes, serving LAN port only (eth1)
 target: ar71xx-ath79
 usb_ports: 1x 2.0
+vendor: TP-Link
 version: v1.2 (EU)
 wlan_24ghz: b/g/n
 wlan_driver: ath9k

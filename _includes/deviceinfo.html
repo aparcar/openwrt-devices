@@ -2,7 +2,7 @@
 <table class="table">
     <tbody>
         <tr>
-            <th colspan="2">{{ device.brand }} {{ device.model }}</th>
+            <th colspan="2">{{ device.vendor}} {{ device.model }}</th>
         </tr>
         {% if device.image %}
         <tr>
@@ -36,8 +36,8 @@
             <td>{{ device.device_type }}</td>
         </tr>
         <tr>
-            <th scope="row">Brand</th>
-            <td>{{ device.brand }}</td>
+            <th scope="row">Vendor</th>
+            <td>{{ device.vendor }}</td>
         </tr>
         <tr>
             <th scope="row">Model</th>

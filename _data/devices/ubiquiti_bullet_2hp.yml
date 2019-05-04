@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: Ubiquiti
 comments_network_ports: PoE
 cpu: Atheros AR2316A
 cpu_cores: 1
@@ -24,6 +23,7 @@ ram_mb: 16
 serial: true
 target: ath25
 unsupported_functions: Impossible
+vendor: Ubiquiti
 version: 2HP
 wikidevi_url: https://wikidevi.com/wiki/Ubiquiti_Networks_Bullet2HP
 wlan_24ghz: b/g

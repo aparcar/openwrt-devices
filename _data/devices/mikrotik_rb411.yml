@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: RouterBOOT
-brand: MikroTik
 button_count: '1'
 comments: Note that some newer units actually have 128MB Flash.
 cpu: Atheros AR7130
@@ -34,6 +33,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e0
 supported_since_rel: '12.09'
 target: ar71xx
 usb_ports: Mod
+vendor: MikroTik
 vlan: false
 where_available: mikrotik-store.eu
 wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_411

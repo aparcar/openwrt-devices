@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RouterBOOT
-brand: MikroTik
 cpu: Qualcomm Atheros QCA9556
 cpu_cores: 1
 cpu_mhz: 720
@@ -21,6 +20,7 @@ serial: true
 switch: Qualcomm Atheros QCA8337
 target: ar71xx
 unsupported_functions: WIP
+vendor: MikroTik
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_hEX_%28RB750Gr2%29
 wlan_driver: unknown

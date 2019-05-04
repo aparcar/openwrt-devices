@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Meraki
 button_count: '1'
 comments: Device shares hardware with the MX60.
 cpu: AppliedMicro APM82181
@@ -36,6 +35,7 @@ supported_since_rel: 17.01.0
 switch: Atheros AR8327
 target: apm821xx
 usb_ports: 1x 2.0
+vendor: Meraki
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Meraki_MX60W
 wlan_24ghz: b/g/n

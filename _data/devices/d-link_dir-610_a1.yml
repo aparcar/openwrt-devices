@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: D-Link
 button_count: '2'
 cpu: Ralink RT5350
 cpu_cores: 1
@@ -35,6 +34,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=dc
 supported_since_rel: 17.01.0
 switch: Ralink RT5350
 target: ramips
+vendor: D-Link
 version: A1
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-610_rev_A1
 wlan_24ghz: b/g/n

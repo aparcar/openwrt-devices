@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Gateworks
 cpu: Intel IXP435
 cpu_cores: 1
 cpu_mhz: 667
@@ -22,6 +21,7 @@ supported_current_rel: '12.09'
 supported_since_rel: '12.09'
 target: ixp4xx
 usb_ports: 2x 2.0
+vendor: Gateworks
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Gateworks_Cambria_GW2358-4
 wlan_driver: unknown

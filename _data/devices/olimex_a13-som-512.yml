@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Olimex
 button_count: '2'
 cpu: Allwinner A13
 cpu_cores: 1
@@ -29,4 +28,5 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=175aad61d4f823e11734c51c4b8ea6b26330110d
 supported_since_rel: '15.05'
 target: sunxi
+vendor: Olimex
 where_available: olimex.com

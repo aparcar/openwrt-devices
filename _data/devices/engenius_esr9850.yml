@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: EnGenius
 button_count: '2'
 comments: Use WL-351 image acc. https://dev.openwrt.org/changeset/29604
 cpu: Ralink RT3052
@@ -31,6 +30,7 @@ supported_current_rel: 18.06.1
 supported_since_rel: '15.05'
 switch: Realtek RTL8366RB
 target: ramips
+vendor: EnGenius
 wikidevi_url: https://wikidevi.com/wiki/EnGenius_ESR9850
 wlan_24ghz: b/g/n
 wlan_driver: rt2800pci

@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: Digilent
 button_count: '10'
 cpu: Xilinx XC7Z020
 cpu_cores: 2
@@ -30,4 +29,5 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=64f4c3ef357815e5d8c780a0d02924b9176db794
 target: zynq
 usb_ports: 1x OTG
+vendor: Digilent
 where_available: OEM webshop

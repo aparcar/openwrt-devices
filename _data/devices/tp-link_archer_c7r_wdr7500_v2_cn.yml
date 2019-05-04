@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
 cpu_mhz: 720
@@ -20,6 +19,7 @@ serial: true
 switch: Atheros AR8327N
 target: ar71xx
 usb_ports: 2x 2.0
+vendor: TP-Link
 version: v2.0 (CN)
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WDR7500_v2.x

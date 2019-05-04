@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Allnet
 button_count: '1'
 cpu: Ralink RT3052F
 cpu_cores: 1
@@ -27,6 +26,7 @@ supported_current_rel: '12.09'
 supported_since_rel: '12.09'
 target: ramips
 usb_ports: 1x 2.0
+vendor: Allnet
 vlan: true
 wlan_24ghz: b/g/n
 wlan_comments: 2x2 MIMO

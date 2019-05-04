@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Comtrend
 button_count: '3'
 cpu: Broadcom BCM6369
 cpu_cores: 2
@@ -34,6 +33,7 @@ switch: Broadcom BCM53115
 target: brcm63xx
 unsupported_functions: DSL modem
 usb_ports: Mod
+vendor: Comtrend
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: b43

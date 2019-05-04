@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Devolo
 button_count: '1'
 comments_network_ports: Atheros AR8035 (PoE in), Atheros AR8033
 cpu: Qualcomm Atheros QCA9558
@@ -32,6 +31,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=1724d4e9ed7716a5444eca42adf045c2f3afc554
 switch: Atheros AR8035
 target: ath79
+vendor: Devolo
 vlan: true
 where_available: amazon.de
 wikidevi_url: https://wikidevi.com/wiki/Devolo_WiFi_pro_1200e

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '1'
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
@@ -39,6 +38,7 @@ supported_since_rel: '14.07'
 switch: Atheros AR8327N
 target: ar71xx-ath79
 usb_ports: 2x 2.0
+vendor: TP-Link
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C7_v2.x
 wlan_24ghz: b/g/n

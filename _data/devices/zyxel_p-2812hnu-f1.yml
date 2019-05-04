@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: ZyXEL
 button_count: '2'
 cpu: Lantiq XWAY VRX288
 cpu_cores: 2
@@ -38,6 +37,7 @@ supported_since_rel: '15.05'
 switch: XWAY PEF 42068 F
 target: lantiq
 usb_ports: 2x 2.0
+vendor: ZyXEL
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ZyXEL_P-2812HNU-F1
 wlan_24ghz: b/g/n

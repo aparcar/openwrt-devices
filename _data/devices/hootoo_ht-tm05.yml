@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: HooToo
 button_count: '1'
 cpu: MediaTek MT7620N
 cpu_cores: 1
@@ -26,6 +25,7 @@ serial: true
 subtarget: mt7620
 target: ramips
 unsupported_functions: WIP
+vendor: HooToo
 wlan_24ghz: b/g/n
 wlan_driver: mt76
 wlan_hardware: MediaTek MT7620N

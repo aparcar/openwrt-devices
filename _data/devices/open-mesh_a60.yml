@@ -1,5 +1,4 @@
 availability: Discontinued 2019
-brand: Open-Mesh
 comments: Openmesh has been acquired by Datto in 2018; from 2019 on, no new production
   any more, only remaining inventory at suppliers.
 cpu: Qualcomm Atheros QCA9558
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=5e
 supported_since_rel: 17.01.0
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: Open-Mesh
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac
 wlan_driver: unknown

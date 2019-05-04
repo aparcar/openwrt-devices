@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: CFE
-brand: Asus
 button_count: '2'
 comments: 'Flash chip: Macronix MX25L6406E, RAM chip: EtronTech EM63A165TS'
 cpu: Broadcom BCM5357C0
@@ -38,6 +37,7 @@ supported_since_rel: '15.05'
 switch: Broadcom BCM5357C0
 target: brcm47xx
 unsupported_functions: WiFi 2.4GHz
+vendor: Asus
 version: D1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N12_rev_D1

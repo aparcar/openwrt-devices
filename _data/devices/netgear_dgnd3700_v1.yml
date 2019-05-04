@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Netgear
 button_count: '3'
 cpu: Broadcom BCM6368
 cpu_cores: 2
@@ -37,6 +36,7 @@ switch: Broadcom BCM53115
 target: brcm63xx
 unsupported_functions: DSL modem
 usb_ports: 2x 2.0
+vendor: Netgear
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_DGND3700v1

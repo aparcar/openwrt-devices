@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: Netgear
 comments: Same hardware as WNR2000v3 except no WAN.
 cpu: Atheros AR7241
 cpu_cores: 1
@@ -21,6 +20,7 @@ ram_mb: 32
 serial: true
 subtarget: generic
 target: ar71xx
+vendor: Netgear
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WN2000RPTv2

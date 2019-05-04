@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: ZyXEL
 cpu: Atheros AR9132
 cpu_cores: 1
 cpu_mhz: 400
@@ -18,6 +17,7 @@ ram_mb: 32
 subtarget: generic
 switch: Infineon ADM6996M
 target: ar71xx
+vendor: ZyXEL
 version: '1'
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/ZyXEL_NBG420N

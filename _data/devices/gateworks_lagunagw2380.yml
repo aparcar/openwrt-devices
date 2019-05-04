@@ -1,5 +1,4 @@
 availability: Available 2017
-brand: Gateworks
 cpu: Cavium CNS3411
 cpu_cores: 1
 cpu_mhz: 300
@@ -28,6 +27,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b591e15f362de31f9fba8905347451b3122cff8c
 supported_since_rel: '14.07'
 target: cns3xxx
+vendor: Gateworks
 vlan: false
 wlan_driver: unknown
 wlan_hardware: 1x mini-PCIe

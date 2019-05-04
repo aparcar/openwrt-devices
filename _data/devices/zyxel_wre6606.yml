@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: ZyXEL
 button_count: '2'
 cpu: Qualcomm Atheros IPQ4018
 cpu_cores: 4
@@ -33,6 +32,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=4b280ad91a6b155ac71c417aaa7bb5f4e328712f
 supported_since_rel: 18.06.0
 target: ipq40xx
+vendor: ZyXEL
 wikidevi_url: https://wikidevi.com/wiki/ZyXEL_WRE6606
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

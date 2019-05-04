@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: TP-Link
 cpu: Broadcom BCM4708
 cpu_cores: 2
 cpu_mhz: 800
@@ -22,6 +21,7 @@ serial: true
 subtarget: generic
 target: bcm53xx
 unsupported_functions: Possible to support
+vendor: TP-Link
 version: v1.0
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C8_v1.x
 wlan_24ghz: b/g/n

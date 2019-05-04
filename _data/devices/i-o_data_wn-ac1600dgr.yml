@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: I-O Data
 button_count: '6'
 cpu: Qualcomm Atheros QCA9557
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 switch: Qualcomm Atheros QCA8337N
 target: ath79
 usb_ports: 1x 2.0
+vendor: I-O Data
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/I-O_DATA_WN-AC1600DGR
 wlan_24ghz: b/g/n

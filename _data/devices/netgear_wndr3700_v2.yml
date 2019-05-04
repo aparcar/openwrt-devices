@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 button_count: '3'
 comments_network_ports: 1 WAN + 4x LAN
 cpu: Atheros AR7161
@@ -39,6 +38,7 @@ supported_since_rel: '10.03'
 switch: Realtek RTL8366SR
 target: ar71xx-ath79
 usb_ports: 1x 2.0
+vendor: Netgear
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WNDR3700v2

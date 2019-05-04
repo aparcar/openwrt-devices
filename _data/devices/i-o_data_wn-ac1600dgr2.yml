@@ -1,6 +1,5 @@
 availability: Discontinued 2014
 bootloader: U-Boot
-brand: I-O Data
 button_count: '6'
 cpu: Qualcomm Atheros QCA9557
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 switch: Qualcomm Atheros QCA8337N
 target: ath79
 usb_ports: 1x 2.0
+vendor: I-O Data
 vlan: true
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

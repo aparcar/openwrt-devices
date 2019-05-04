@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: D-Link
 comments_network_ports: PoE
 cpu: Atheros AR9132
 cpu_cores: 1
@@ -23,6 +22,7 @@ ram_mb: 64
 subtarget: generic
 target: ar71xx
 unsupported_functions: WIP
+vendor: D-Link
 version: A1
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DAP-2553_rev_A1

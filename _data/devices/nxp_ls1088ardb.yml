@@ -1,5 +1,4 @@
 availability: Available 2017
-brand: NXP
 comments: Also 64b firmware available
 comments_network_ports: additional 1x 10G network port
 cpu: NXP LS1088A
@@ -27,3 +26,4 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=18
 supported_since_rel: 17.01.0
 target: layerscape
 usb_ports: 2x 3.0
+vendor: NXP

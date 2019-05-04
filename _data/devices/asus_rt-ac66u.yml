@@ -1,5 +1,4 @@
 availability: Available 2019
-brand: Asus
 button_count: '1'
 comments: Unsupported due to ASUS' proprietary wireless AC implementation
 cpu: Broadcom BCM4706
@@ -25,6 +24,7 @@ subtarget: mips74k
 switch: Broadcom BCM53125
 target: brcm47xx
 usb_ports: 2x 2.0
+vendor: Asus
 vlan: true
 where_available: amazon.de
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-AC66U

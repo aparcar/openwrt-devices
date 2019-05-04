@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: Meraki
 cpu: Atheros AR2315
 cpu_cores: 1
 cpu_mhz: 180
@@ -21,6 +20,7 @@ serial: true
 supported_current_rel: '10.03'
 supported_since_rel: '10.03'
 target: ath25
+vendor: Meraki
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Meraki_Mini
 wlan_24ghz: b/g

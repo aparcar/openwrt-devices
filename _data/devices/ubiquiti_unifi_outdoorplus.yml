@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: Ubiquiti
 cpu: Atheros AR7240
 cpu_cores: 1
 cpu_mhz: 400
@@ -28,6 +27,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ae70358b1b0dc6b5881ad931213e00793d8df9c2
 supported_since_rel: '15.05'
 target: ar71xx
+vendor: Ubiquiti
 version: '1'
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Ubiquiti_Networks_UniFi_AP_Outdoor%2B_%28UAP-Outdoor%2B%29

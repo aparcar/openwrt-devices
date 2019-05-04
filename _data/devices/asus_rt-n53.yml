@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Asus
 cpu: Broadcom BCM5358
 cpu_cores: 1
 cpu_mhz: 500
@@ -31,6 +30,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=69
 supported_since_rel: '15.05'
 switch: Broadcom BCM5358
 target: brcm47xx
+vendor: Asus
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N53
 wlan_24ghz: b/g/n
 wlan_50ghz: a

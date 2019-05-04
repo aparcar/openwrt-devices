@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Netgear
 cpu: Broadcom BCM6358
 cpu_cores: 2
 cpu_mhz: 300
@@ -24,6 +23,7 @@ switch: Broadcom BCM5325E
 target: brcm63xx
 unsupported_functions: Possible to support
 usb_ports: 1x 2.0
+vendor: Netgear
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_MBRN3000
 wlan_24ghz: b/g/n

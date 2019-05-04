@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: TP-Link
 button_count: '3'
 cpu: MediaTek MT7621A
 cpu_cores: 2
@@ -32,6 +31,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f683385e73f09c13fd08c3d352f3f1739c1944c4
 supported_since_rel: 18.06.0
 target: ramips
+vendor: TP-Link
 version: v1
 where_available: pollin.de
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_RE350_V1.x

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Gigaset
 cpu: Lantiq XWAY Danube
 cpu_cores: 2
 cpu_mhz: 333
@@ -30,6 +29,7 @@ supported_since_rel: '15.05'
 switch: Infineon ADM6996I
 target: lantiq
 usb_ports: 1x 2.0
+vendor: Gigaset
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Siemens_Gigaset_SX762
 wlan_24ghz: b/g

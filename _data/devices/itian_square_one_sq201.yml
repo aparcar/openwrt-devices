@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: other
-brand: ITian
 button_count: '1'
 comments: 'Useful website: https://dflund.se/~triad/krad/itian-squareone/'
 cpu: Storm SL3516
@@ -33,6 +32,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 switch: Vitesse VSC7395XYV
 target: gemini
 usb_ports: 3x 2.0
+vendor: ITian
 wlan_24ghz: b/g
 wlan_driver: unknown
 wlan_hardware: Ralink RT2561T (mini-PCI)

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Asus
 button_count: '1'
 cpu: Broadcom BCM5365
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_since_rel: 10.03.1
 switch: Broadcom BCM5365
 target: brcm47xx
 usb_ports: 2x 2.0
+vendor: Asus
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ASUS_WL-500g_Deluxe
 wlan_24ghz: b/g

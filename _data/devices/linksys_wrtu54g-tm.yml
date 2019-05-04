@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Linksys
 button_count: '2'
 comments: Barrier Breaker 14.07 not built and Chaos Calmer 15.05 does not currently
   boot
@@ -37,6 +36,7 @@ supported_since_rel: '12.09'
 switch: Infineon ADM6996M
 target: adm8668
 usb_ports: Mod
+vendor: Linksys
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WRTU54G-TM
 wlan_24ghz: b/g

@@ -1,6 +1,5 @@
 availability: Discontinued 2016
 bootloader: U-Boot
-brand: Ocedo
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
 cpu_mhz: 720
@@ -27,6 +26,7 @@ subtarget: generic
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=de2f888024ac58c6137959ea91f65cb6ad098df3
 target: ath79
+vendor: Ocedo
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac
 wlan_driver: ath10k-ct

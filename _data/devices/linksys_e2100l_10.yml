@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Linksys
 comments: 'To be confirmed: Works with WRT160NL images according forum thread.'
 cpu: Atheros AR9130
 cpu_cores: 1
@@ -30,6 +29,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 switch: Realtek RTL8306SD
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: Linksys
 version: '1.0'
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_E2100L

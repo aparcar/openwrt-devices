@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: PSPBoot
-brand: Linksys
 comment_installation: For TFTP, rename OpenWrt image to upgrade_code.bin
 comment_recovery: For TFTP, rename OpenWrt image to upgrade_code.bin
 cpu: Texas Instruments TNETD7200ZDW
@@ -28,5 +27,6 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b5
 supported_since_rel: 8.09.2
 switch: Infineon ADM6996LC
 target: ar7
+vendor: Linksys
 version: v2
 vlan: false

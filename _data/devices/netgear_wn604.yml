@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 comments: Access Point with similar hardware to WPN824N
 cpu: Atheros AR7240
 cpu_cores: 1
@@ -25,6 +24,7 @@ subtarget: generic
 switch: Atheros AR7240
 target: ar71xx
 unsupported_functions: WIP
+vendor: Netgear
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WN604
 wlan_24ghz: b/g/n

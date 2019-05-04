@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: Redwave
 cpu: Atheros AR7240
 cpu_cores: 1
 cpu_mhz: 390
@@ -27,6 +26,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=1e
 supported_since_rel: '12.09'
 target: ar71xx
 usb_ports: 2x 2.0
+vendor: Redwave
 wikidevi_url: https://wikidevi.com/wiki/Redwave_RW2458N
 wlan_driver: unknown
 wlan_hardware: 1x mini-PCIe

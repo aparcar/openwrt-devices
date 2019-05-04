@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 comments: Should be the same as Netgear WNR2000
 cpu: Atheros AR9132
 cpu_cores: 1
@@ -24,6 +23,7 @@ serial: true
 subtarget: generic
 switch: "\xBF Atheros"
 target: ar71xx
+vendor: Netgear
 version: v1
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WN2000RPTv1
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: RouterBOOT
-brand: MikroTik
 cpu: Atheros AR7161
 cpu_cores: 1
 cpu_mhz: 300
@@ -26,4 +25,5 @@ subtarget: mikrotik
 supported_current_rel: 18.06.2
 supported_since_rel: '14.07'
 target: ar71xx
+vendor: MikroTik
 vlan: true

@@ -1,6 +1,5 @@
 availability: Discontinued 2018
 bootloader: U-Boot
-brand: Allnet
 cpu: Ralink RT3050F
 cpu_cores: 1
 cpu_mhz: 320
@@ -27,6 +26,7 @@ supported_current_rel: 18.06.1
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=02e77c6ae119694c254297fa4001a3694d6c08d1
 supported_since_rel: '12.09'
 target: ramips
+vendor: Allnet
 vlan: false
 wlan_24ghz: b/g/n
 wlan_driver: unknown

@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Toradex
 button_count: '2'
 cpu: NXP i.MX6 Quad
 cpu_cores: 4
@@ -29,4 +28,5 @@ subtarget: generic
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=d23222a96caeca5f83d22ffd55e210da30eaa379
 target: imx6
+vendor: Toradex
 where_available: toradex.com

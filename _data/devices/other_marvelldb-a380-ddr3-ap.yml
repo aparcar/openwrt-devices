@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: Evaluation boards / unbranded boards
 cpu: Marvell Armada 38x
 cpu_cores: 2
 cpu_mhz: 1600
@@ -23,5 +22,6 @@ supported_current_rel: 17.01.4
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=66e35c52467cde2fff7c3148b3c3e0f668fb9721
 supported_since_rel: '15.05'
 target: mvebu
+vendor: Evaluation boards / unbranded boards
 wlan_driver: unknown
 wlan_hardware: 3x mini-PCIe

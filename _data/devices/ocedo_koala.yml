@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Ocedo
 button_count: '1'
 comment_installation: Hold down the reset button while powering on the device. It
   will load a ramdisk image named 'koala-uImage-initramfs-lzma.bin' from 192.168.100.8
@@ -33,6 +32,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=e36f8b3f3980903d5cefc51fe274c19c7a0719f2
 supported_since_rel: 18.06.0
 target: ar71xx-ath79
+vendor: Ocedo
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac
 wlan_driver: ath10k

@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Buffalo
 cpu: Atheros AR9132
 cpu_cores: 1
 cpu_mhz: 400
@@ -21,6 +20,7 @@ serial: true
 subtarget: generic
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: Buffalo
 version: v1
 wlan_24ghz: b/g/n
 wlan_driver: ath9k

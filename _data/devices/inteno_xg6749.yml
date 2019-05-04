@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Inteno
 button_count: '1'
 cpu: Broadcom BCM6338
 cpu_cores: 1
@@ -20,6 +19,7 @@ serial: true
 switch: Marvel 88E6185-LKJ1
 target: brcm63xx
 unsupported_functions: Possible to support
+vendor: Inteno
 version: v1.0
 vlan: true
 wlan_driver: unknown

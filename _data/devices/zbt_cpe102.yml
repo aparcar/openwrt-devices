@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: ZBT
 button_count: '1'
 cpu: MediaTek MT7620N
 cpu_cores: 1
@@ -27,6 +26,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=66aae9a27154f837607337fc099bd72fe4a9edf9
 supported_since_rel: 17.01.0
 target: ramips
+vendor: ZBT
 where_available: zbt.en.alibaba.com
 wlan_24ghz: b/g/n
 wlan_driver: unknown

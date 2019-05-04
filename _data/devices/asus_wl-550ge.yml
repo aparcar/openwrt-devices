@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Asus
 button_count: '2'
 cpu: Broadcom BCM5352E
 cpu_cores: 1
@@ -30,6 +29,7 @@ supported_since_rel: '10.03'
 switch: Broadcom BCM5352E
 target: brcm47xx
 unsupported_functions: WiFi 2.4GHz partly
+vendor: Asus
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ASUS_WL-550gE
 wlan_24ghz: b/g

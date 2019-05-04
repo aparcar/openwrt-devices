@@ -1,5 +1,4 @@
 availability: Available 2017
-brand: Gateworks
 cpu: Cavium CNS3420
 cpu_cores: 2
 cpu_mhz: 600
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b5
 supported_since_rel: '14.07'
 target: cns3xxx
 usb_ports: 2x 2.0
+vendor: Gateworks
 vlan: false
 wlan_driver: unknown
 wlan_hardware: 4x mini-PCI

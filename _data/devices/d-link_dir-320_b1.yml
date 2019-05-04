@@ -1,6 +1,5 @@
 availability: Discontinued 2011
 bootloader: U-Boot
-brand: D-Link
 cpu: Ralink RT5350
 cpu_cores: 1
 cpu_mhz: 360
@@ -30,6 +29,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=57
 supported_since_rel: '14.07'
 target: ramips
 usb_ports: 1x 2.0
+vendor: D-Link
 version: B1
 vlan: true
 wlan_24ghz: b/g/n

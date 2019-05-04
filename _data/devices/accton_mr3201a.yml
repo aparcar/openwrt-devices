@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: Accton
 cpu: Atheros AR2315
 cpu_cores: 1
 cpu_mhz: 183
@@ -21,6 +20,7 @@ serial: true
 supported_current_rel: '8.09'
 supported_since_rel: '8.09'
 target: ath25
+vendor: Accton
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Accton_MR3201A
 wlan_24ghz: b/g

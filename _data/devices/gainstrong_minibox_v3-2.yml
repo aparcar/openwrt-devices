@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Gainstrong
 button_count: '1'
 cpu: Qualcomm Atheros QCA9531
 cpu_cores: 1
@@ -28,6 +27,7 @@ subtarget: generic
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=15f16bf05b8441aed0e0c6000740996b75724ac1
 target: ar71xx
+vendor: Gainstrong
 version: v3.2
 where_available: gainstrong.en.alibaba.com
 wikidevi_url: "http://\xBF"

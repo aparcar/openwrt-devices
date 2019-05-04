@@ -1,6 +1,5 @@
 availability: Discontinued 2013
 bootloader: CFE
-brand: Comtrend
 button_count: '3'
 cpu: Broadcom BCM6368
 cpu_cores: 2
@@ -28,6 +27,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=78
 supported_since_rel: 17.01.0
 target: brcm63xx
 unsupported_functions: DSL modem
+vendor: Comtrend
 version: v1
 vlan: true
 wlan_24ghz: b/g/n

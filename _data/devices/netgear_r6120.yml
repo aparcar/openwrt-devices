@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Netgear
 button_count: '1'
 comment_recovery: nmrpflash with stock firmware image.
 cpu: MediaTek MT7628A
@@ -34,6 +33,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 switch: MediaTek MT7628A
 target: ramips
 usb_ports: 1x 2.0
+vendor: Netgear
 vlan: true
 where_available: amazon.de, amazon.com
 wikidevi_url: https://wikidevi.com/wiki/Netgear_R6120

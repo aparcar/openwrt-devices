@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Allnet
 comments_network_ports: '1'
 cpu: Atmel AT91SAM9G45
 cpu_cores: 1
@@ -16,5 +15,6 @@ ram_mb: 64
 target: at91
 unsupported_functions: WIP
 usb_ports: 4x 2.0
+vendor: Allnet
 vlan: false
 wlan_driver: unknown

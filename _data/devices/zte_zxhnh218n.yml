@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: ZTE
 cpu: Broadcom BCM5357
 cpu_cores: 1
 cpu_mhz: 500
@@ -17,6 +16,7 @@ ram_mb: 64
 subtarget: mips74k
 target: brcm47xx
 usb_ports: 2x 2.0
+vendor: ZTE
 vlan: false
 wlan_24ghz: b/g/n
 wlan_driver: unknown

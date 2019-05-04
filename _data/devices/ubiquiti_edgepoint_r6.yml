@@ -1,5 +1,4 @@
 availability: Available 2018
-brand: Ubiquiti
 button_count: '1'
 comment_installation: EdgePoint R6 uses OpenWrt image of EdgeRouter X-SFP
 comments_network_ports: 1x 1 Gbps SFP
@@ -31,5 +30,6 @@ subtarget: mt7621
 supported_current_rel: 18.06.2
 supported_since_rel: 18.06.0
 target: ramips
+vendor: Ubiquiti
 where_available: OEM webshop
 wlan_driver: unknown

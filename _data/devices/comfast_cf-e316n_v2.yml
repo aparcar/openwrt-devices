@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: COMFAST
 button_count: '1'
 comment_installation: Router checks for "firmware-auto.bin" on TFTP server at 192.168.1.10.
 comments: Waterproof. Suitable for outdoor usage.
@@ -31,6 +30,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=2ce833060a6ac412d0df362edb950b19da9af04c
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: COMFAST
 version: v2
 wlan_24ghz: b/g/n
 wlan_driver: unknown

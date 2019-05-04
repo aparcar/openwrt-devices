@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: ARC Flex
 comment_installation: For stock firmware > 1.2 the OpenWrt firmware must end in .img
   before it can be flashed.
 cpu: Ralink RT3050F
@@ -33,6 +32,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e9
 supported_since_rel: '12.09'
 target: ramips
 usb_ports: 2x 2.0
+vendor: ARC Flex
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ARC_Wireless_FreeStation_5

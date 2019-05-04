@@ -1,7 +1,6 @@
 audio_ports: HDMI
 availability: Available 2019
 bluetooth: '4.1'
-brand: Sinovoip
 button_count: '3'
 cpu: MediaTek MT7623N
 cpu_cores: 4
@@ -34,6 +33,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: "http://\xBF"
 supported_since_rel: 18.06.0
 target: mediatek
+vendor: Sinovoip
 where_available: reichelt.de, pollin.de
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

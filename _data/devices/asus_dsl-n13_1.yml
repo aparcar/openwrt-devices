@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Asus
 cpu: Broadcom BCM6348
 cpu_cores: 1
 cpu_mhz: 266
@@ -23,6 +22,7 @@ switch: Broadcom BCM5325E
 target: brcm63xx
 unsupported_functions: Possible to support
 usb_ports: 1x 2.0
+vendor: Asus
 version: '1'
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ASUS_DSL-N13

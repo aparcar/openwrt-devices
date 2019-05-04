@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: AudioCodes
 button_count: '2'
 comments_network_ports: 4x Eth
 cpu: Lantiq XWAY Danube
@@ -32,6 +31,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=28
 supported_since_rel: '15.05'
 target: lantiq
 usb_ports: 1x 2.0
+vendor: AudioCodes
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: rt2800pci

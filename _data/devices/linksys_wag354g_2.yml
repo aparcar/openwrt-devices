@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: PSPBoot
-brand: Linksys
 cpu: Texas Instruments TNETD7200ZDW
 cpu_cores: 1
 cpu_mhz: 212
@@ -25,6 +24,7 @@ supported_current_rel: 10.03.1
 supported_since_rel: 10.03.1
 switch: Infineon ADM6996LC
 target: ar7
+vendor: Linksys
 version: v2
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WAG354G_v2

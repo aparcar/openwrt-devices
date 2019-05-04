@@ -1,6 +1,5 @@
 availability: Discontinued 2015
 bootloader: U-Boot
-brand: Meraki
 cpu: Atheros AR7242
 cpu_cores: 1
 cpu_mhz: 400
@@ -30,6 +29,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=66950455b7d1c462db1a1fd72622f0703d55ce6e
 supported_since_rel: '15.05'
 target: ar71xx
+vendor: Meraki
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Cisco_Meraki_MR12
 wlan_24ghz: b/g/n

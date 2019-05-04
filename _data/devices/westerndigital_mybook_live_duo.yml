@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Western Digital
 cpu: AppliedMicro APM82181
 cpu_cores: 1
 cpu_mhz: 800
@@ -33,4 +32,5 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=dc
 supported_since_rel: 17.01.0
 target: apm821xx
 usb_ports: 1x 2.0
+vendor: Western Digital
 version: Duo

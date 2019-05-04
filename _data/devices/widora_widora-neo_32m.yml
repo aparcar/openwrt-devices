@@ -1,7 +1,6 @@
 audio_ports: other
 availability: Available 2017
 bootloader: U-Boot
-brand: Widora
 button_count: '2'
 comments: 'Audio: Combined Mic/Headphone jack;'
 cpu: MediaTek MT7688AN
@@ -33,6 +32,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=21d3643828187df873118c4c2a51a48c54e0f6b1
 supported_since_rel: 18.06.0
 target: ramips
+vendor: Widora
 wlan_24ghz: b/g/n
 wlan_driver: unknown
 wlan_hardware: MediaTek MT7688AN

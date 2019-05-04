@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Xiaomi
 button_count: '2'
 cpu: MediaTek MT7621AT
 cpu_cores: 2
@@ -32,6 +31,7 @@ serial_connection_parameters: 115200 / 8N1
 subtarget: MT7621
 supported_since_commit: "http://\xBF"
 target: ramips
+vendor: Xiaomi
 version: v1
 where_available: aliexpress.com, banggood.com, gearbest.com
 wikidevi_url: https://wikidevi.com/wiki/List_of_Xiaomi_Wireless_Devices

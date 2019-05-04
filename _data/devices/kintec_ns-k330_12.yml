@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Kintec
 comments_network_ports: '1'
 cpu: Cavium CNS2132
 cpu_cores: 1
@@ -22,5 +21,6 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: '14.07'
 target: cns21xx
 usb_ports: true
+vendor: Kintec
 version: '1.2'
 wlan_driver: unknown

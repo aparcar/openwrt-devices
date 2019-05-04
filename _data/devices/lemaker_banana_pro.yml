@@ -1,7 +1,6 @@
 audio_ports: Headphone jack
 availability: Available 2019
 bootloader: U-Boot
-brand: Lemaker
 button_count: '2'
 comments: See also http://linux-sunxi.org/Banana_Pro
 cpu: Allwinner A20
@@ -37,6 +36,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=157e1da749c95589631dbedd6ce4ef79e0dad1cb
 supported_since_rel: '15.05'
 target: sunxi
+vendor: Lemaker
 video_ports: HDMI
 wikidevi_url: https://wikidevi.com/wiki/Banana_Pi_BPI_Pro
 wlan_24ghz: b/g/n

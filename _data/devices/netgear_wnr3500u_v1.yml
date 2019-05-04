@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Netgear
 cpu: Broadcom BCM4718
 cpu_cores: 1
 cpu_mhz: 480
@@ -18,6 +17,7 @@ serial: true
 target: brcm47xx
 unsupported_functions: Possible to support
 usb_ports: 1x 2.0
+vendor: Netgear
 version: v1
 wlan_24ghz: b/g/n
 wlan_driver: b43

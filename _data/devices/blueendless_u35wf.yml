@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: Blueendless
 comments: 'sold also as: KIMAX'
 cpu: MediaTek MT7620A
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=16d6a63f857a4e9eeb1f173e964264d8a06e65eb
 target: ramips
 usb_ports: 1x 2.0
+vendor: Blueendless
 where_available: aliexpress.com, banggood.com, gearbest.com
 wlan_24ghz: b/g/n
 wlan_driver: mt76

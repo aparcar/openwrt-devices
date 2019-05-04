@@ -1,6 +1,5 @@
 availability: Discontinued 2014
 bootloader: CFE
-brand: D-Link
 cpu: Broadcom BCM6328
 cpu_cores: 1
 cpu_mhz: 320
@@ -32,6 +31,7 @@ supported_since_rel: '12.09'
 switch: Broadcom BCM63281
 target: brcm63xx
 unsupported_functions: DSL modem
+vendor: D-Link
 version: F1 (EU)
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DSL-2740B_rev_F1

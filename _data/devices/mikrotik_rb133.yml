@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RouterBOOT
-brand: MikroTik
 comments: Reported working with self-built 15.05 + 17.01 images, see forum.
 cpu: Infineon ADM5120
 cpu_cores: 1
@@ -25,6 +24,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: '7.09'
 switch: Infineon ADM5120
 target: adm5120
+vendor: MikroTik
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_133_%28RB133%29
 wlan_driver: unknown

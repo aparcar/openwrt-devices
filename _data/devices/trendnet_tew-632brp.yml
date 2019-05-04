@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TRENDnet
 button_count: '2'
 cpu: Atheros AR9130
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=45
 supported_since_rel: 10.03.1
 switch: Atheros AR8216
 target: ar71xx
+vendor: TRENDnet
 wikidevi_url: https://wikidevi.com/wiki/TRENDnet_TEW-632BRP
 wlan_24ghz: b/g/n
 wlan_comments: 2x2 MIMO

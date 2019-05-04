@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 cpu: Qualcomm Atheros QCA9563
 cpu_cores: 1
@@ -28,6 +27,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=d03aae1a09fce5a5d5747855bc07ee1f54388e03
 switch: Qualcomm Atheros QCA8337N
 target: ath79
+vendor: TP-Link
 version: v2 (EU)
 vlan: true
 where_available: amazon.de

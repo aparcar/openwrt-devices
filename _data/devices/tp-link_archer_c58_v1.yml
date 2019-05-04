@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '3'
 comment_installation: For TFTP, rename ...squashfs-factory.bin image to tp_recovery.bin
 cpu: Qualcomm Atheros QCA9561
@@ -33,6 +32,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b0
 supported_since_rel: 18.06.0
 switch: Qualcomm Atheros QCA9561
 target: ar71xx-ath79
+vendor: TP-Link
 version: v1
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C58_v1.x
 wlan_24ghz: b/g/n

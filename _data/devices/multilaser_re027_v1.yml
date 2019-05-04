@@ -1,5 +1,4 @@
 availability: Available 2019
-brand: Multilaser
 button_count: '2'
 comments: Rebranded TP-Link TL-WR741ND v1;
 cpu: Atheros AR7240
@@ -24,6 +23,7 @@ subtarget: generic
 supported_current_rel: '12.09'
 supported_since_rel: '12.09'
 target: ar71xx
+vendor: Multilaser
 version: v1
 vlan: true
 where_available: amazon.com.br

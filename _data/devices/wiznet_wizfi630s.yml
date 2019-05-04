@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: WIZnet
 cpu: Mediatek MT7688AN
 cpu_cores: 1
 detachable_antennas: '1'
@@ -26,6 +25,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=7c4b85ee278576816b0f9d20e48fa696f8793fdf
 target: ramips
 usb_ports: 1x 2.0
+vendor: WIZnet
 vlan: true
 where_available: http://shop.wiznet.eu/wizfi630s.html
 wlan_24ghz: b/g/n

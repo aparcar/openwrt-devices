@@ -1,5 +1,4 @@
 availability: Available 2019
-brand: Devolo
 button_count: '1'
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
@@ -27,6 +26,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=8d68be8057d6c689025cc236d20b96b77a6ccf30
 switch: Atheros AR8035
 target: ath79
+vendor: Devolo
 where_available: amazon.de, jacob.de
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

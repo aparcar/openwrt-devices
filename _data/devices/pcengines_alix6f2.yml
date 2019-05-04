@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: BIOS
-brand: PC Engines
 comments: CPU has 128-CBC HW Encrytion
 cpu: AMD Geode LX800
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=93
 supported_since_rel: '10.03'
 target: x86
 usb_ports: 2x 2.0
+vendor: PC Engines
 vlan: false
 wlan_driver: unknown
 wlan_hardware: Optional (1x mini-PCI)

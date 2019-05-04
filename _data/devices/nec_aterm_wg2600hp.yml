@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: NEC
 button_count: '4'
 cpu: Qualcomm Atheros IPQ8064
 cpu_cores: 2
@@ -30,6 +29,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 target: ipq806x
 usb_ports: 1x 3.0
+vendor: NEC
 where_available: amazon.co.jp
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

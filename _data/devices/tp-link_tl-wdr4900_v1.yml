@@ -1,6 +1,5 @@
 availability: Discontinued 2015
 bootloader: U-Boot
-brand: TP-Link
 comments: Image build disabled in master with 324e94f31bfdcf9c2245303434b087b306de0262
 cpu: Freescale P1014
 cpu_cores: 1
@@ -39,6 +38,7 @@ switch: Atheros AR8327N
 target: mpc85xx
 unsupported_functions: HwNAT
 usb_ports: 2x 2.0
+vendor: TP-Link
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WDR4900_v1
 wlan_24ghz: b/g/n

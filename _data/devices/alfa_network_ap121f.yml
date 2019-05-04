@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: ALFA Network
 button_count: '2'
 cpu: Atheros AR9331
 cpu_cores: 1
@@ -27,6 +26,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=0c
 supported_since_rel: 17.01.3
 switch: Atheros AR9331
 target: ar71xx
+vendor: ALFA Network
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: ath9k

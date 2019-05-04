@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Asus
 cpu: Broadcom BCM4748
 cpu_cores: 1
 cpu_mhz: 533
@@ -14,6 +13,7 @@ model: RT-N76U
 ram_mb: 128
 target: brcm47xx
 unsupported_functions: Possible to support
+vendor: Asus
 version: '1'
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N76U
 wlan_24ghz: b/g/n

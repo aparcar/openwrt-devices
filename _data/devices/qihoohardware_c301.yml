@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Qihoo hardware
 comments_network_ports: 1x WAN + 2x LAN
 cpu: Atheros AR9344
 cpu_cores: 1
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=7d
 supported_since_rel: '15.05'
 target: ar71xx
 usb_ports: true
+vendor: Qihoo hardware
 vlan: true
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 comment_installation: Install via stock U-Boot tftp through serial is unconfirmed
 comment_recovery: Install via stock U-Boot tftp through serial is unconfirmed
 cpu: Atheros AR9331
@@ -30,6 +29,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=18
 supported_since_rel: '14.07'
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: TP-Link
 version: v3 (CN)
 vlan: true
 wlan_24ghz: b/g/n

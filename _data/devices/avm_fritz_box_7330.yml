@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: Adam2
-brand: AVM
 button_count: '2'
 comment_installation: Works with images of Fritz!Box 7320
 comments_network_ports: Only LAN1 working
@@ -36,6 +35,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: "http://\xBF"
 target: lantiq
 usb_ports: 2x 2.0
+vendor: AVM
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: ath9k

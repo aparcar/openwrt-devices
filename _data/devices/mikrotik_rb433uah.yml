@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: RouterBOOT
-brand: MikroTik
 button_count: '1'
 cpu: Atheros AR7161
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_since_rel: '12.09'
 switch: IC+ IP175D
 target: ar71xx
 usb_ports: 2x 2.0
+vendor: MikroTik
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_433UAH_(RB433UAH)
 wlan_driver: unknown

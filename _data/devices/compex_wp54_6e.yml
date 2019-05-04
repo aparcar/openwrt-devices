@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Compex
 cpu: Infineon ADM5120
 cpu_cores: 1
 cpu_mhz: 175
@@ -20,6 +19,7 @@ serial: true
 supported_current_rel: '12.09'
 supported_since_rel: '12.09'
 target: adm5120
+vendor: Compex
 version: 6E
 vlan: true
 wlan_driver: unknown

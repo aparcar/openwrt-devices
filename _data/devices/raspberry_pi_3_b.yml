@@ -1,6 +1,5 @@
 availability: Available 2019
 bluetooth: '4.1'
-brand: Raspberry Pi Foundation
 comment_installation: Use an existing computer to flash disk image to MicroSD card
 comment_recovery: Use an existing computer to flash disk image to MicroSD card
 comments: The bootloader is an image on MicroSD Card (the data partition can be resized
@@ -43,6 +42,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=99
 supported_since_rel: 17.01.0
 target: brcm2708
 unsupported_functions: Country Code setting
+vendor: Raspberry Pi Foundation
 version: B
 vlan: false
 where_available: commonly avaiable

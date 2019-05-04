@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Linksys
 comments: Same hardware as Sitecom WL-404 v1
 cpu: Geode GX1
 cpu_cores: 1
@@ -16,6 +15,7 @@ package_architecture: i386_pentium4
 ram_mb: 32
 target: x86
 unsupported_functions: Possible to support
+vendor: Linksys
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WVC54GCA
 wlan_24ghz: b/g
 wlan_driver: unknown

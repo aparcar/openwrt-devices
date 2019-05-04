@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 comment_installation: Rename installation image to openwrt.bin before flashing.
 cpu: Atheros AR9341
@@ -36,6 +35,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=42a37b2a894fc774e1ee13993c434ea2909c3f67
 supported_since_rel: 15.05.1
 target: ar71xx
+vendor: TP-Link
 version: v2
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WA830RE_v2
 wlan_24ghz: b/g/n

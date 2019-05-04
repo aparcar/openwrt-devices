@@ -2,7 +2,6 @@ audio_ports: HDMI
 availability: Available 2019
 bluetooth: '4.0'
 bootloader: U-Boot
-brand: Sinovoip
 cpu: Allwinner H3
 cpu_cores: 4
 cpu_mhz: 1000
@@ -32,6 +31,7 @@ subtarget: cortexa7
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=d5f615bf2a0434c15d13943b566d46f25da579bb
 target: sunxi
+vendor: Sinovoip
 version: M2PLUS-H3
 vlan: true
 where_available: aliexpress, tme.eu

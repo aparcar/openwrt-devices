@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: GL.iNet
 button_count: '1'
 cpu: MediaTek MT7628NN
 cpu_cores: 1
@@ -29,6 +28,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=43e8c37cb4da64a12a3cb88a84b19db7f2fc640c
 target: ramips
 usb_ports: "1x \xB5USB (power)"
+vendor: GL.iNet
 vlan: true
 where_available: store.gl-inet.com, newegg.com
 wlan_24ghz: b/g/n

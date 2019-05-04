@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: ZBT
 button_count: '1'
 cpu: MediaTek MT7620N
 cpu_cores: 1
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=03
 supported_since_rel: '14.07'
 target: ramips
 usb_ports: 1x 2.0
+vendor: ZBT
 wlan_24ghz: b/g/n
 wlan_driver: mt76
 wlan_hardware: MediaTek MT7620N

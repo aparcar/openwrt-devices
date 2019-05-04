@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Linksys
 button_count: '2'
 cpu: Atheros AR9130
 cpu_cores: 1
@@ -34,6 +33,7 @@ supported_since_rel: '10.03'
 switch: Realtek RTL8306SD
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: Linksys
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT160NL
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 comment_installation: For TFTP, rename -factory image to wr841nv10_tp_recovery.bin
 comment_recovery: For TFTP, rename -factory image to wr841nv10_tp_recovery.bin
 comments_network_ports: 1 WAN + 4x LAN
@@ -34,6 +33,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=c4
 supported_since_rel: 15.05.1
 switch: Qualcomm Atheros QCA9533-BL3A
 target: ar71xx
+vendor: TP-Link
 version: v10
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR841N_v10.x

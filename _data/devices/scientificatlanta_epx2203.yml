@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Scientific Atlanta
 comments_network_ports: Cable, 2x VOIP
 cpu: Broadcom BCM3349
 cpu_cores: 1
@@ -17,4 +16,5 @@ ram_mb: 32
 target: brcm63xx
 unsupported_functions: Possible to support
 usb_ports: 1x Device
+vendor: Scientific Atlanta
 wlan_driver: unknown

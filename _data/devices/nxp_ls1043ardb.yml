@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: NXP
 comments: Also 64b firmware available
 comments_network_ports: additional 1x 10G network port
 cpu: NXP LS1043A
@@ -28,3 +27,4 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=c6c731fe311f7da42777ffd31804a4f6aa3f8e19
 supported_since_rel: 17.01.0
 target: layerscape
+vendor: NXP

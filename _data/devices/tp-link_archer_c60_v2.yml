@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 comment_installation: Rename OpenWrt image to tp_recovery.bin and flash it with the
   TP-Link web gui of the router. Else, you'll get an error message, about wrong firmware.
@@ -39,6 +38,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 switch: Qualcomm Atheros QCA9561
 target: ar71xx
+vendor: TP-Link
 version: v2
 vlan: true
 where_available: amazon.de, amazon.com

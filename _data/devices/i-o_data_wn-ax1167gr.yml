@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: I-O Data
 button_count: '3'
 comment_installation: upgrade on stock firmware using factory -> 'mtd erase firmware'
   -> sysupgrade
@@ -31,6 +30,7 @@ subtarget: mt7621
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=0b83a235602dace3de116a10de9515cda5b76be4
 target: ramips
+vendor: I-O Data
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac
 wlan_driver: mt76

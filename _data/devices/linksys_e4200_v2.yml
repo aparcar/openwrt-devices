@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Linksys
 button_count: '2'
 comments: Same hardware as EA4500 v1; works with images for EA4500, see https://forum.openwrt.org/viewtopic.php?pid=289937
 cpu: Marvell 88F6282
@@ -37,6 +36,7 @@ supported_since_rel: '15.05'
 switch: Marvell 88E6171R
 target: kirkwood
 usb_ports: 1x 2.0
+vendor: Linksys
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_E4200_v2

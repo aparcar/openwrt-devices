@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: RouterBOOT
-brand: MikroTik
 comments_network_ports: 1x SFP cage
 cpu: Qualcomm Atheros QCA9557
 cpu_cores: 1
@@ -30,6 +29,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 target: ar71xx
 unsupported_functions: SFP
 usb_ports: 1x 2.0
+vendor: MikroTik
 where_available: mikrotik-store.eu
 wlan_50ghz: a/n/ac
 wlan_driver: ath10k-ct

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: ZyXEL
 cpu: Lantiq XWAY VRX288 PSB 80920
 cpu_cores: 2
 cpu_mhz: 500
@@ -33,6 +32,7 @@ supported_since_rel: '15.05'
 switch: Lantiq PSB 80920
 target: lantiq
 usb_ports: 2x 2.0
+vendor: ZyXEL
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ZyXEL_P-2812HNU-F3
 wlan_24ghz: b/g/n

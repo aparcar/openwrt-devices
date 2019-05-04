@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: PSPBoot
-brand: Linksys
 comments: Platform= TNETV1050 acc. Bootlog (https://dev.openwrt.org/ticket/6185);
   wikidevi says TNETV1060, which seems incorrect.
 cpu: Texas Instruments TNETV1050
@@ -23,6 +22,7 @@ ram_mb: 16
 serial: true
 switch: Infineon ADM6996L
 target: ar7
+vendor: Linksys
 version: '1.0'
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WRTP54G

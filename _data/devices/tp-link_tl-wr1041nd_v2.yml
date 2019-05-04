@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 comments: TL-WR1041NDv2 uses image of TL-WR1041Nv2
 cpu: Atheros AR9342
 cpu_cores: 1
@@ -30,6 +29,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=94
 supported_since_rel: '12.09'
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: TP-Link
 version: v2
 vlan: true
 wlan_24ghz: b/g/n

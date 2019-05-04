@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: VoCore
 cpu: MediaTek MT7628AN
 cpu_cores: 1
 cpu_mhz: 580
@@ -27,6 +26,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=3f
 supported_since_rel: 17.01.0
 target: ramips
 usb_ports: "1x \xB5USB (power)"
+vendor: VoCore
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: mt76

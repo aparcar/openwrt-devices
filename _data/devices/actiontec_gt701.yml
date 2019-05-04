@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: PSPBoot
-brand: Actiontec
 cpu: Texas Instruments TNETD7200
 cpu_cores: 1
 cpu_mhz: 150
@@ -23,5 +22,6 @@ serial: true
 supported_current_rel: 10.03.1
 supported_since_rel: '10.03'
 target: ar7
+vendor: Actiontec
 vlan: false
 wlan_driver: unknown

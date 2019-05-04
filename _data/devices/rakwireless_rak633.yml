@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Rakwireless
 cpu: MediaTek MT7628AN
 cpu_cores: 1
 cpu_mhz: 580
@@ -30,6 +29,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=9e0fb5a27ff53214734a0d8776161342cf7359e8
 target: ramips
 usb_ports: 1x 2.0
+vendor: Rakwireless
 vlan: true
 where_available: aliexpress.com
 wlan_24ghz: b/g/n

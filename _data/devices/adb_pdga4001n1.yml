@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: ADB
 button_count: '2'
 cpu: Broadcom BCM6328
 cpu_cores: 1
@@ -33,6 +32,7 @@ supported_since_rel: '15.05'
 target: brcm63xx
 unsupported_functions: DSL modem
 usb_ports: 1x 2.0
+vendor: ADB
 vlan: true
 wlan_24ghz: b/g/n
 wlan_hardware: Broadcom BCM43225

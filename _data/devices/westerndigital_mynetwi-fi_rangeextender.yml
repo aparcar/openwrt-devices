@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: Western Digital
 cpu: Atheros AR7370
 cpu_cores: 1
 cpu_mhz: 560
@@ -28,6 +27,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f02c8802e363317211ce72b62c29a89911019769
 supported_since_rel: '14.07'
 target: ar71xx
+vendor: Western Digital
 wikidevi_url: https://wikidevi.com/wiki/Western_Digital_My_Net_Wi-Fi_Range_Extender
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

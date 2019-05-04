@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Buffalo
 button_count: '4'
 cpu: MediaTek MT7621A
 cpu_cores: 2
@@ -34,6 +33,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=03
 supported_since_rel: '15.05'
 switch: MediaTek MT7621A
 target: ramips
+vendor: Buffalo
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Buffalo_AirStation_WSR-1166DHP
 wlan_24ghz: b/g/n

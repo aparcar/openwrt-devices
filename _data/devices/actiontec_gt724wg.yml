@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: PSPBoot
-brand: Actiontec
 comments_network_ports: '4'
 cpu: Texas Instruments TNETD7200
 cpu_cores: 1
@@ -22,6 +21,7 @@ serial_connection_parameters: 38400 / 8N1
 switch: Marvell 88E6060
 target: ar7
 unsupported_functions: Impossible
+vendor: Actiontec
 vlan: false
 wlan_24ghz: b/g
 wlan_driver: unknown

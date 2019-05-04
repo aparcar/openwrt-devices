@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: CFE
-brand: Netgear
 comments_network_ports: VDSL support
 cpu: Broadcom BCM6368
 cpu_cores: 2
@@ -36,6 +35,7 @@ switch: Broadcom BCM53115
 target: brcm63xx
 unsupported_functions: DSL modem
 usb_ports: 2x 2.0
+vendor: Netgear
 vlan: true
 where_available: expert.de
 wikidevi_url: https://wikidevi.com/wiki/Netgear_DGND3800B

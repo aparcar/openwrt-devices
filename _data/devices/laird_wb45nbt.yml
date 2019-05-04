@@ -1,7 +1,6 @@
 availability: Available 2018
 bluetooth: '4.0'
 bootloader: U-Boot
-brand: Laird
 cpu: Atmel ARM926EJS
 cpu_cores: 1
 cpu_mhz: 400
@@ -27,6 +26,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=86d037e4a27fcf8f465fb1e79db727995ad5c684
 supported_since_rel: 18.06.1
 target: at91
+vendor: Laird
 vlan: false
 wlan_24ghz: b/g/n
 wlan_50ghz: a

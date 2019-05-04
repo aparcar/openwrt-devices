@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: ALFA Network
 button_count: '1'
 cpu: Atheros AR9344
 cpu_cores: 1
@@ -26,6 +25,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=4b0eebe9dfa49f995474322f2c6998026534a5f8
 supported_since_rel: 18.06.0
 target: ar71xx
+vendor: ALFA Network
 wlan_50ghz: a/n/ac
 wlan_driver: ath9k
 wlan_hardware: Atheros AR9344

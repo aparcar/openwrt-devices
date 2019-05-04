@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: CFE
-brand: Huawei
 cpu: Broadcom BCM6359
 cpu_cores: 2
 cpu_mhz: 300
@@ -27,6 +26,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=32
 supported_since_rel: '14.07'
 target: brcm63xx
 unsupported_functions: DSL modem
+vendor: Huawei
 vlan: true
 wlan_24ghz: b/g
 wlan_driver: b43

@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: TP-Link
 comment_installation: Rename installation image to openwrt.bin before flashing.
 cpu: Atheros AR7240
 cpu_cores: 1
@@ -33,6 +32,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f7879cd8d889aa13768c014a582fc593aa0313ad
 supported_since_rel: 15.05.1
 target: ar71xx
+vendor: TP-Link
 version: v1
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WA830RE_v1
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Ubiquiti
 button_count: '1'
 comments: WIP = https://github.com/openwrt/openwrt/pull/689
 cpu: Atheros AR9342 rev 2
@@ -29,6 +28,7 @@ serial: true
 subtarget: generic
 target: ar71xx
 unsupported_functions: WIP
+vendor: Ubiquiti
 where_available: amazon.de, jacob.de, mindfactory.de
 wlan_50ghz: a/n/ac
 wlan_driver: unknown

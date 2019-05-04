@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Asus
 comments: ASUS RT-N10P != ASUS RT-N10+ / ASUS RT-N10plus
 cpu: Broadcom BCM5357
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=44
 supported_since_rel: '15.05'
 target: brcm47xx
 unsupported_functions: WiFi 2.4GHz
+vendor: Asus
 version: A1
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N10P
 wlan_24ghz: b/g/n

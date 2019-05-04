@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 button_count: '1'
 cpu: Atheros AR9132
 cpu_cores: 1
@@ -25,6 +24,7 @@ ram_mb: 32
 serial: true
 subtarget: generic
 target: ar71xx
+vendor: Netgear
 version: v2
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WN802Tv2
 wlan_24ghz: b/g/n

@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Edimax
 cpu: Ralink RT3050F
 cpu_cores: 1
 cpu_mhz: 320
@@ -18,6 +17,7 @@ subtarget: rt305x
 switch: Ralink RT3050F
 target: ramips
 unsupported_functions: Impossible
+vendor: Edimax
 wikidevi_url: https://wikidevi.com/wiki/Edimax_BR-6226n
 wlan_24ghz: b/g/n
 wlan_driver: unknown

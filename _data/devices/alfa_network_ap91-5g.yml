@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: ALFA Network
 button_count: '1'
 cpu: Atheros AR7240
 cpu_cores: 1
@@ -27,6 +26,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=7f9f42d42eff837d2eca5b4862cbb3b1ccebbefd
 supported_since_rel: 18.06.0
 target: ar71xx
+vendor: ALFA Network
 wlan_50ghz: a/n/ac
 wlan_driver: ath9k
 wlan_hardware: Atheros AR9280

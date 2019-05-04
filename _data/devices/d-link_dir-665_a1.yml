@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: D-Link
 cpu: Marvell 88F6281
 cpu_cores: 1
 cpu_mhz: 1200
@@ -17,6 +16,7 @@ subtarget: generic
 target: kirkwood
 unsupported_functions: Possible to support
 usb_ports: 1x 2.0
+vendor: D-Link
 version: A1
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-665_rev_A1
 wlan_24ghz: b/g/n

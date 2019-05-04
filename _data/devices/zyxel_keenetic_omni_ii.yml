@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: ZyXEL
 button_count: '3'
 cpu: MediaTek MT7620N
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_since_rel: 17.01.0
 switch: MediaTek MT7620N
 target: ramips
 usb_ports: 1x 2.0
+vendor: ZyXEL
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: mt76

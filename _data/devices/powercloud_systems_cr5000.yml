@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: PowerCloud Systems
 button_count: '2'
 comments: aka "Senao WBR4200AGN", aka"Skydog", serial header is not populated
 cpu: Atheros AR1022
@@ -36,6 +35,7 @@ supported_since_rel: 17.01.0
 switch: Atheros AR8327
 target: ar71xx-ath79
 usb_ports: 1x 2.0
+vendor: PowerCloud Systems
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Senao_WBR4200AGN
 wlan_24ghz: b/g/n

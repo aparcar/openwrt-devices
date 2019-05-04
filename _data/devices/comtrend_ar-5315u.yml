@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: CFE
-brand: Comtrend
 button_count: '2'
 cpu: Broadcom BCM6318
 cpu_cores: 1
@@ -37,6 +36,7 @@ supported_since_rel: 18.06.0
 switch: Broadcom BCM6318
 target: brcm63xx
 usb_ports: 1x 2.0
+vendor: Comtrend
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: b43

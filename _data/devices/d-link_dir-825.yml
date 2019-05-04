@@ -1,6 +1,5 @@
 availability: Discontinued 2013
 bootloader: U-Boot
-brand: D-Link
 comments: B2 appears to only be different in labeling. The default firmware claims
   B1 and even /proc/cpuinfo claim to be B1 revisions even though the packaging and
   the sticker say B2 (see devicepage)
@@ -36,6 +35,7 @@ supported_since_rel: '12.09'
 switch: Realtek RTL8366SR
 target: ar71xx-ath79
 usb_ports: 1x 2.0
+vendor: D-Link
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-825_rev_B1
 wlan_24ghz: b/g/n

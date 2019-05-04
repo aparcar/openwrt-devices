@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: Ubiquiti
 cpu: MediaTek MT7621AT
 cpu_cores: 2
 cpu_mhz: 880
@@ -37,5 +36,6 @@ supported_since_rel: 17.01.0
 switch: MediaTek MT7621AT
 target: ramips
 unsupported_functions: See forum
+vendor: Ubiquiti
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Ubiquiti_Networks_EdgeRouter_X

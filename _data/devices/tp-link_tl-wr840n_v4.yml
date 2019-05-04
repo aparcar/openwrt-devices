@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '1'
 cpu: MediaTek MT7628N
 cpu_cores: 1
@@ -34,6 +33,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=24
 supported_since_rel: 18.06.0
 switch: MediaTek MT7628N
 target: ramips
+vendor: TP-Link
 version: v4
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR840N_v4
 wlan_24ghz: b/g/n

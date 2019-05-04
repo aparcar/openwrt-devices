@@ -1,7 +1,6 @@
 audio_ports: Headphone jack
 availability: Available 2019
 bootloader: U-Boot
-brand: Lamobo
 cpu: Allwinner A20
 cpu_cores: 2
 cpu_mhz: 1000
@@ -34,6 +33,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=71
 supported_since_rel: 17.01.0
 switch: Broadcom BCM53125
 target: sunxi
+vendor: Lamobo
 video_ports: HDMI
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Banana_Pi_BPI-R1

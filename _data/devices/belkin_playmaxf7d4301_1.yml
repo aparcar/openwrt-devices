@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: CFE
-brand: Belkin
 cpu: Broadcom BCM4718
 cpu_cores: 1
 cpu_mhz: 480
@@ -21,6 +20,7 @@ switch: Broadcom BCM53115
 target: brcm47xx
 unsupported_functions: Possible to support
 usb_ports: 2x 2.0
+vendor: Belkin
 version: '1'
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Belkin_F7D4301

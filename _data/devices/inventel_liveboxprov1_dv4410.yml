@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: Inventel
 button_count: '2'
 cpu: Broadcom BCM6348
 cpu_cores: 1
@@ -25,6 +24,7 @@ subtarget: generic
 switch: Broadcom BCM5325
 target: brcm63xx
 unsupported_functions: Impossible
+vendor: Inventel
 version: DV4410
 vlan: true
 wlan_24ghz: b/g

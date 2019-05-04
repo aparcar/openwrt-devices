@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: SimpleTech
 comments_network_ports: '1'
 cpu: Broadcom BCM4780
 cpu_cores: 1
@@ -17,5 +16,6 @@ supported_current_rel: '10.03'
 supported_since_rel: '10.03'
 target: brcm47xx
 usb_ports: 2x 2.0
+vendor: SimpleTech
 vlan: false
 wlan_driver: unknown

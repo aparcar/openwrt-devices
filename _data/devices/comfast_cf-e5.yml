@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: COMFAST
 button_count: '1'
 cpu: Qualcomm Atheros QCA9531
 cpu_cores: 1
@@ -26,6 +25,7 @@ subtarget: generic
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=acf149d531c0c263a2869abe09018e7e232a9e41
 target: ath79
+vendor: COMFAST
 where_available: aliexpress.com, amazon.de, amazon.in
 wlan_24ghz: b/g/n
 wlan_driver: unknown

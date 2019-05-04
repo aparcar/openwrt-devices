@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: BIOS
-brand: PC Engines
 cpu: PC Engines Wrap
 cpu_cores: 1
 cpu_mhz: 233
@@ -26,6 +25,7 @@ supported_current_rel: 18.06.2
 supported_since_rel: 10.03.1
 target: x86
 usb_ports: 1x Header
+vendor: PC Engines
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/PC-Engines_Wrap_wrap1e202
 wlan_driver: unknown

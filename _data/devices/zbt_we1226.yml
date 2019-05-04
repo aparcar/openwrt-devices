@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: ZBT
 button_count: '1'
 cpu: MediaTek MT7628NN
 cpu_cores: 1
@@ -32,5 +31,6 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 target: ramips
 unsupported_functions: Switch LEDs
+vendor: ZBT
 wlan_24ghz: b/g/n
 wlan_driver: unknown

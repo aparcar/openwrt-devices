@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: Abicom International
 comments_network_ports: 1x SFP
 cpu: Qualcomm Atheros QCA9550
 cpu_cores: 1
@@ -26,6 +25,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=274546046de47883031d8279fdc60856517fb263
 supported_since_rel: 18.06.0
 target: ar71xx
+vendor: Abicom International
 vlan: true
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

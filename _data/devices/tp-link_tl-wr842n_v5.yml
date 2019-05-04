@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 comment_recovery: put image file tp_recovery.bin (renamed *squashfs-tftp-recovery.bin)
   to   192.168.0.225/24 tftp server
@@ -36,6 +35,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 target: ramips
 usb_ports: 1x 2.0
+vendor: TP-Link
 version: v5
 where_available: www.tp-link.com/ru
 wlan_24ghz: b/g/n

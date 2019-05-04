@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: EnGenius
 cpu: Ralink RT3052F
 cpu_cores: 1
 cpu_mhz: 384
@@ -24,6 +23,7 @@ subtarget: rt305x
 target: ramips
 unsupported_functions: Possible to support
 usb_ports: 1x 2.0
+vendor: EnGenius
 version: 1.10.0
 wlan_24ghz: b/g/n
 wlan_driver: rt2800pci

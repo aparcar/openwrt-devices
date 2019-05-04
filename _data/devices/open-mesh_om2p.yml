@@ -1,5 +1,4 @@
 availability: Available 2017
-brand: Open-Mesh
 comments: sysupgrade image = factory image;
 cpu: Atheros AR7240
 cpu_cores: 1
@@ -35,6 +34,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ac
 supported_since_rel: '12.09'
 switch: Atheros AR7240
 target: ar71xx
+vendor: Open-Mesh
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Open-Mesh_OM2P_v1
 wlan_24ghz: b/g/n

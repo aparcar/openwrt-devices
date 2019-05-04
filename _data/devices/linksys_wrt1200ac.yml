@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: Linksys
 button_count: '1'
 comment_installation: Image name may need to be changed to OEM Code Name
 comment_recovery: Image name MUST be OEM Code Name
@@ -45,6 +44,7 @@ supported_since_rel: '15.05'
 switch: Marvell 88E6176
 target: mvebu
 unsupported_functions: v2 needs newer wifi driver
+vendor: Linksys
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT1200AC
 wlan_24ghz: b/g/n

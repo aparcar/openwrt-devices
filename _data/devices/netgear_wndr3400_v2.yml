@@ -1,5 +1,4 @@
 availability: Discontinued 2017
-brand: Netgear
 button_count: '3'
 comments: No way to enable wi-fi. Tested with 17.01.0-rc1
 cpu: Broadcom BCM5357
@@ -33,6 +32,7 @@ supported_since_rel: '14.07'
 switch: Broadcom BCM5325
 target: brcm47xx
 usb_ports: 1x 2.0
+vendor: Netgear
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WNDR3400v2

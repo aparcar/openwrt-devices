@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: Wavlink
 button_count: '3'
 cpu: MediaTek MT7628AN
 cpu_cores: 1
@@ -28,6 +27,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=5f
 supported_since_rel: 17.01.0
 switch: Ralink RT3050
 target: ramips
+vendor: Wavlink
 vlan: true
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

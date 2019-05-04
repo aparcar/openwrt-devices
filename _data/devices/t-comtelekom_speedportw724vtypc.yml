@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: Adam2
-brand: T-Com / Telekom
 cpu: "Broadcom BCM63268 \xBF"
 cpu_cores: 2
 cpu_mhz: 400
@@ -18,6 +17,7 @@ ram_mb: 32
 serial: true
 target: brcm63xx
 usb_ports: 2x 2.0
+vendor: T-Com / Telekom
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac
 wlan_driver: unknown

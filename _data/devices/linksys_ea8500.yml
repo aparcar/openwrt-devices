@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Linksys
 button_count: '3'
 comments_network_ports: 4 LAN, 1 WAN ports
 cpu: Qualcomm Atheros IPQ8064
@@ -41,6 +40,7 @@ supported_since_rel: 17.01.0
 switch: Qualcomm Atheros QCA8337
 target: ipq806x
 usb_ports: 1x 3.0
+vendor: Linksys
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_EA8500

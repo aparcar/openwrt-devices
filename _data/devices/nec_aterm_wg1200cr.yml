@@ -1,6 +1,5 @@
 availability: unknown 2019
 bootloader: U-Boot
-brand: NEC
 button_count: '3'
 cpu: Qualcomm Atheros QCA9563
 cpu_cores: 1
@@ -28,6 +27,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=643fcfc8d64563d6c581a899ff839c9a91432e98
 switch: Atheros QCA8334
 target: ath79
+vendor: NEC
 vlan: true
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

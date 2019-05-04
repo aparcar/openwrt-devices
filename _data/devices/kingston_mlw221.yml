@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Kingston
 cpu: MediaTek MT7620N
 cpu_cores: 1
 cpu_mhz: 580
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=5b
 supported_since_rel: '14.07'
 target: ramips
 usb_ports: 1x 2.0
+vendor: Kingston
 where_available: amazon.de
 wikidevi_url: https://wikidevi.com/wiki/Kingston_MobileLite_Wireless
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: ZyXEL
 button_count: '3'
 cpu: MediaTek MT7620A
 cpu_cores: 1
@@ -34,6 +33,7 @@ switch: Realtek RTL8367RB
 target: ramips
 unsupported_functions: HwNAT
 usb_ports: 1x 2.0
+vendor: ZyXEL
 version: rev. B
 vlan: true
 wlan_24ghz: b/g/n

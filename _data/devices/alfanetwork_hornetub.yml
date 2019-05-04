@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: ALFA Network
 cpu: Atheros AR9331
 cpu_cores: 1
 cpu_mhz: 400
@@ -32,6 +31,7 @@ supported_since_rel: '12.09'
 switch: Atheros AR9331
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: ALFA Network
 vlan: true
 where_available: varia-store.com
 wikidevi_url: https://wikidevi.com/wiki/ALFA_Network_AP121

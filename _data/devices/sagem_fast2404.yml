@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Sagem
 cpu: Broadcom BCM6348
 cpu_cores: 1
 cpu_mhz: 256
@@ -29,6 +28,7 @@ supported_since_rel: '10.03'
 switch: Broadcom BCM5325
 target: brcm63xx
 unsupported_functions: DSL modem
+vendor: Sagem
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Sagemcom_F@st_2404
 wlan_24ghz: b/g

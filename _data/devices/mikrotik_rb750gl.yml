@@ -1,6 +1,5 @@
 availability: Discontinued 2015
 bootloader: RouterBOOT
-brand: MikroTik
 button_count: '1'
 comments: Early versions only had 64 MB NAND, use 64MB sysupgrade image instead for
   those devices.
@@ -34,5 +33,6 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=8a
 supported_since_rel: '12.09'
 switch: Atheros AR8327
 target: ar71xx
+vendor: MikroTik
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_750GL

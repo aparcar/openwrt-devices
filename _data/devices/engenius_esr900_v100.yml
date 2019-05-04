@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: EnGenius
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
 cpu_mhz: 720
@@ -34,6 +33,7 @@ supported_since_rel: '15.05'
 switch: Atheros AR8327N
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: EnGenius
 version: v1.00
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/EnGenius_ESR900

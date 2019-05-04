@@ -1,6 +1,5 @@
 availability: unknown 2019
 bootloader: U-Boot
-brand: YOUKU
 button_count: '2'
 cpu: MediaTek MT7621A
 cpu_cores: 2
@@ -26,6 +25,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=32689e93c4ec39a8c5cc29716c0b2cfe9ee578e5
 target: ramips
 usb_ports: 1x 3.0
+vendor: YOUKU
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac
 wlan_driver: mt76

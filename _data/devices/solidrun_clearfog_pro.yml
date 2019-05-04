@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: SolidRun
 comments: Mini-pcie slots on the top of the board can be configured to be either SATA
   or PCIe by hardcoding uboot. If the MicroSom has EMMC onboard, the SD card will
   not work.
@@ -39,5 +38,6 @@ supported_since_rel: 17.01.0
 switch: Marvell 88E6176
 target: mvebu
 usb_ports: 1x 3.0
+vendor: SolidRun
 version: v2.1
 vlan: true

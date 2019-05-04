@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Observa
 button_count: '2'
 cpu: Broadcom BCM6368
 cpu_cores: 2
@@ -37,6 +36,7 @@ supported_since_rel: 17.01.2
 switch: Broadcom BCM6368 in SoC
 target: brcm63xx
 usb_ports: 3x 2.0
+vendor: Observa
 vlan: true
 where_available: ebay.es
 wlan_24ghz: b/g/n

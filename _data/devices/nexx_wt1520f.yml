@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: Nexx
 cpu: Ralink RT5350
 cpu_cores: 1
 cpu_mhz: 360
@@ -30,6 +29,7 @@ supported_current_rel: 18.06.1
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=af1207b58c61eed1eaa86f5e670347b84fd75a09
 supported_since_rel: '15.05'
 target: ramips
+vendor: Nexx
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Nexx_WT1520
 wlan_24ghz: b/g/n

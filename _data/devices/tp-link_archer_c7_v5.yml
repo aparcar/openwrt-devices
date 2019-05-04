@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 comment_installation: use TFTP Method and rename to "ArcherC7v5_tp_recovery.bin"
 comment_recovery: use TFTP Method and rename to "ArcherC7v5_tp_recovery.bin"
@@ -45,6 +44,7 @@ supported_since_rel: 18.06.0
 switch: Qualcomm Atheros QCA8337N
 target: ar71xx-ath79
 usb_ports: 1x 2.0
+vendor: TP-Link
 version: v5
 vlan: true
 where_available: amazon.de, amazon.com

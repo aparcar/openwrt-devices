@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Linksprite
 cpu: Allwinner A20
 cpu_cores: 2
 cpu_mhz: 1000
@@ -26,3 +25,4 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=18
 supported_since_rel: '14.07'
 target: sunxi
 usb_ports: 1x 2.0
+vendor: Linksprite

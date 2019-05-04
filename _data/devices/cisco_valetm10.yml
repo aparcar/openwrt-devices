@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Cisco
 cpu: Broadcom BCM4716
 cpu_cores: 1
 cpu_mhz: 300
@@ -19,6 +18,7 @@ subtarget: mips74k
 switch: Broadcom BCM5325E
 target: brcm47xx
 unsupported_functions: Possible to support
+vendor: Cisco
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: b43

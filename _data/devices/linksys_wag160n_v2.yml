@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Linksys
 cpu: Broadcom BCM6358
 cpu_cores: 2
 cpu_mhz: 300
@@ -22,6 +21,7 @@ serial: true
 subtarget: generic
 target: brcm63xx
 unsupported_functions: WIP
+vendor: Linksys
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WAG160N_v2

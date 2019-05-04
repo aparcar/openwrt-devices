@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Olimex
 comments_network_ports: Eth via optional UEXT module
 cpu: Freescale i.MX233
 cpu_cores: 1
@@ -26,6 +25,7 @@ supported_current_rel: '15.05'
 supported_since_rel: '14.07'
 target: mxs
 usb_ports: 3x 2.0
+vendor: Olimex
 vlan: false
 where_available: olimex.com
 wlan_24ghz: b/g/n

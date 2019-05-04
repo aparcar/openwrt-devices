@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 cpu: Lantiq XWAY ARX168
 cpu_cores: 2
 cpu_mhz: 333
@@ -28,6 +27,7 @@ supported_current_rel: 18.06.2
 supported_since_rel: '14.07'
 target: lantiq
 usb_ports: 1x 2.0
+vendor: Netgear
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: unknown

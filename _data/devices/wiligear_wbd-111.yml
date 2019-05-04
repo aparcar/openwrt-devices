@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: RedBoot
-brand: Wiligear
 comments: http://www.wiligear.com/ seems dead (Sept. 2015); http://www.wimoodshop.nl/brands/wiligear
   has this device in store, can be ordered.
 cpu: Storm SL3512
@@ -31,4 +30,5 @@ supported_since_rel: '15.05'
 target: gemini
 unsupported_functions: WIP
 usb_ports: 1x 2.0
+vendor: Wiligear
 vlan: false

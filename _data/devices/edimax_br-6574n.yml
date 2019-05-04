@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Edimax
 cpu: Ralink RT2880F
 cpu_cores: 1
 cpu_mhz: 266
@@ -18,6 +17,7 @@ ram_mb: 16
 subtarget: rt288x
 target: ramips
 unsupported_functions: Impossible
+vendor: Edimax
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Edimax_BR-6574n
 wlan_24ghz: b/g/n

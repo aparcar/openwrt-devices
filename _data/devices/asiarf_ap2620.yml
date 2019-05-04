@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: AsiaRF
 cpu: MediaTek MT7620A
 cpu_cores: 1
 cpu_mhz: 580
@@ -17,6 +16,7 @@ ram_mb: 32
 subtarget: mt7620
 target: ramips
 usb_ports: 1x 2.0
+vendor: AsiaRF
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: unknown

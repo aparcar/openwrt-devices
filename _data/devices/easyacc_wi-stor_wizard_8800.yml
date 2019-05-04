@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: EasyAcc
 comments: built in SD/SDHC card reader;
 cpu: Ralink RT5350
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_current_rel: 18.06.1
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=9efd7ebd346862f32acb7ee782e90aa9eaab2268
 supported_since_rel: '15.05'
 target: ramips
+vendor: EasyAcc
 wikidevi_url: https://wikidevi.com/wiki/EasyAcc_Wi-Stor_Wizard
 wlan_24ghz: b/g/n
 wlan_driver: unknown

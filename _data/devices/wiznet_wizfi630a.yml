@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: WIZnet
 button_count: '4'
 cpu: Ralink RT5350
 cpu_cores: 1
@@ -34,6 +33,7 @@ supported_since_rel: 15.05.1
 switch: Ralink RT5350
 target: ramips
 usb_ports: 1x 2.0
+vendor: WIZnet
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: unknown

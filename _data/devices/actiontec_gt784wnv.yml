@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Actiontec
 comments: wpad must be installed for wireless to work properly
 cpu: Broadcom BCM6328
 cpu_cores: 1
@@ -36,6 +35,7 @@ supported_since_rel: '14.07'
 switch: Broadcom BCM63281
 target: brcm63xx
 usb_ports: 1x 2.0
+vendor: Actiontec
 version: 5A
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Actiontec_GT784WNV

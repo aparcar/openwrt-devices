@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: Allnet
 cpu: Atheros AR7161
 cpu_cores: 1
 cpu_mhz: 680
@@ -24,6 +23,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=5a694e09c8559cc257e5252cf2ca4af153215e30
 supported_since_rel: '10.03'
 target: ar71xx
+vendor: Allnet
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Allnet_ALL0305
 wlan_24ghz: b/g

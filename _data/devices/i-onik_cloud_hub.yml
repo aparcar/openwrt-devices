@@ -1,6 +1,5 @@
 availability: unknown 2019
 bootloader: U-Boot
-brand: i.onik
 button_count: '1'
 comment_installation: login root/91657853, then mtd_write of sysupgrade image to mtd5
 comment_recovery: press reset button during reset/power-on, then serial access to
@@ -37,6 +36,7 @@ switch: RT305x_ESW
 target: ramips
 unsupported_functions: 2nd uart
 usb_ports: 1x 2.0
+vendor: i.onik
 vlan: true
 where_available: pollin.de
 wlan_24ghz: b/g/n

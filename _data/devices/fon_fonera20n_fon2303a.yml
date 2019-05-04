@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Fon
 button_count: '2'
 cpu: Ralink RT3052 v2
 cpu_cores: 1
@@ -28,6 +27,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e4
 supported_since_rel: '12.09'
 target: ramips
 usb_ports: 1x 2.0
+vendor: Fon
 version: FON2303A
 vlan: true
 wlan_24ghz: b/g/n

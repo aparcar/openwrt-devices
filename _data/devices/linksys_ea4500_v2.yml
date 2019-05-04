@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Linksys
 button_count: '2'
 comments: Same hardware as E4200 v2 acc. wikidevi.
 cpu: Marvell 88F6282
@@ -36,6 +35,7 @@ supported_since_rel: 17.01.0
 switch: Marvell 88E6171R
 target: kirkwood
 usb_ports: 2x 2.0
+vendor: Linksys
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_E4200_v2

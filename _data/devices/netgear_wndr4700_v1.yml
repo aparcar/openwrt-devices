@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 button_count: '5'
 cpu: AppliedMicro APM82181
 cpu_cores: 1
@@ -36,6 +35,7 @@ supported_since_rel: 17.01.0
 switch: Atheros AR8327N
 target: apm821xx
 usb_ports: 2x 3.0
+vendor: Netgear
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WNDR4700

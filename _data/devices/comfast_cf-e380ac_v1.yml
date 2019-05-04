@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: COMFAST
 button_count: '1'
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
@@ -28,6 +27,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=16afa08d19b4f7bf256a89749e76ff8421ece013
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: COMFAST
 version: v1
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

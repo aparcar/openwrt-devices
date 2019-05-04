@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Allnet
 cpu: Ralink RT5350
 cpu_cores: 1
 cpu_mhz: 360
@@ -28,6 +27,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=cf
 supported_since_rel: '14.07'
 target: ramips
 usb_ports: 1x 2.0
+vendor: Allnet
 vlan: false
 wlan_24ghz: b/g/n
 wlan_comments: 1x1 MIMO

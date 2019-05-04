@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Asus
 button_count: '2'
 cpu: MediaTek MT7620N
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_since_commit: https://git.lede-project.org/?p=openwrt/openwrt.git;a=co
 supported_since_rel: 18.06.0
 switch: MediaTek MT7620N
 target: ramips
+vendor: Asus
 version: B1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N12E_B1

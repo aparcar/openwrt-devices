@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Mercury
 cpu: Atheros AR9344
 cpu_cores: 1
 cpu_mhz: 560
@@ -28,6 +27,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=a5b60de2535a518e43fc67060512f2e9a9b93c30
 supported_since_rel: '15.05'
 target: ar71xx
+vendor: Mercury
 version: v1.1
 vlan: true
 where_available: joybuy.com

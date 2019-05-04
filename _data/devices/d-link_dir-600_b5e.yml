@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: D-Link
 button_count: '2'
 comments: Works with 17.01.0 DIR-610A1 image (see LEDE forum); u-boot version in original
   firmware prevents direct flashing openwrt
@@ -33,6 +32,7 @@ supported_current_rel: 17.01.0
 supported_since_rel: 17.01.0
 switch: Ralink RT5350
 target: ramips
+vendor: D-Link
 version: B5E
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-600_rev_B5

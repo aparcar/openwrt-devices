@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Buffalo
 button_count: '2'
 comments: Exchangeable mains plugs
 cpu: Atheros AR7240
@@ -32,6 +31,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=01
 supported_since_rel: '12.09'
 switch: Atheros AR7240
 target: ar71xx
+vendor: Buffalo
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Buffalo_WLAE-AG300N

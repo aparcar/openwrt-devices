@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Netgear
 button_count: '2'
 cpu: Broadcom BCM4704
 cpu_cores: 1
@@ -30,6 +29,7 @@ supported_current_rel: 18.06.2
 supported_since_rel: '7.09'
 switch: Broadcom BCM5325
 target: brcm47xx
+vendor: Netgear
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WNDR3300v1

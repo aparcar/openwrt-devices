@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 comments: TL-WR847N v8 is a rebranded model of WR841N v8 with updated bootloader.
   Hardwarewise identical.
 cpu: Atheros AR9341
@@ -31,6 +30,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=73
 supported_since_rel: '12.09'
 switch: Atheros AR9341
 target: ar71xx
+vendor: TP-Link
 version: v8
 vlan: true
 wlan_24ghz: b/g/n

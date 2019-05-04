@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: ZyXEL
 cpu: AR9
 cpu_cores: 1
 cpu_mhz: 166
@@ -18,5 +17,6 @@ serial: true
 target: lantiq
 unsupported_functions: Possible to support
 usb_ports: 1x 2.0
+vendor: ZyXEL
 wlan_driver: unknown
 wlan_hardware: Ralink RT3062F

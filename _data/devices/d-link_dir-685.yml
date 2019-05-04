@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: D-Link
 button_count: '2'
 comments: '3.2" LCD; Useful page: https://dflund.se/~triad/krad/dlink-dir-685/'
 cpu: Storm SL3516
@@ -33,6 +32,7 @@ supported_since_rel: 18.06.0
 switch: Realtek RTL8366SR
 target: gemini
 usb_ports: 2x 2.0
+vendor: D-Link
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-685
 wlan_24ghz: b/g/n
 wlan_driver: rt2800pci

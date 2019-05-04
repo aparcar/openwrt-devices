@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 cpu: Qualcomm Atheros QCA9561
 cpu_cores: 1
 cpu_mhz: 775
@@ -31,6 +30,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b4
 supported_since_rel: 18.06.0
 switch: Qualcomm Atheros QCA9561
 target: ar71xx
+vendor: TP-Link
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C25_v1.x

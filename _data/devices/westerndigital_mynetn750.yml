@@ -1,6 +1,5 @@
 availability: Discontinued 2013
 bootloader: U-Boot
-brand: Western Digital
 cpu: Atheros AR9344
 cpu_cores: 1
 cpu_mhz: 560
@@ -35,6 +34,7 @@ supported_since_rel: '14.07'
 switch: Atheros AR8327N
 target: ar71xx
 usb_ports: 2x 2.0
+vendor: Western Digital
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Western_Digital_My_Net_N750
 wlan_24ghz: b/g/n

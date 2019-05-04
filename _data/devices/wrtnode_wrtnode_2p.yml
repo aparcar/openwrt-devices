@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: WRTnode
 cpu: MediaTek MT7628AN
 cpu_cores: 1
 cpu_mhz: 580
@@ -30,6 +29,7 @@ supported_since_rel: 17.01.0
 switch: MediaTek MT7628AN
 target: ramips
 usb_ports: 1x 2.0
+vendor: WRTnode
 version: 2P
 wikidevi_url: https://wikidevi.com/wiki/WRTnode_2P
 wlan_24ghz: b/g/n

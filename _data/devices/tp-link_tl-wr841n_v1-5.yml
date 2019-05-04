@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 comments: In trunk (r48767) the filename was changed to "tl-wr841-v1.5".
 cpu: Atheros AR7130
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ca
 supported_since_rel: '10.03'
 switch: Marvell 88E6063
 target: ar71xx
+vendor: TP-Link
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR841N_v1.5
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Xiaomi
 button_count: '1'
 cpu: MediaTek MT7621AT
 cpu_cores: 2
@@ -33,6 +32,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 switch: MediaTek MT7621AT
 target: ramips
 usb_ports: 1x 3.0
+vendor: Xiaomi
 vlan: true
 where_available: banggood.com, gearbest.com
 wikidevi_url: https://wikidevi.com/wiki/Xiaomi_MiWiFi_Pro

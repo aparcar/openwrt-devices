@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: WRTnode
 cpu: MediaTek MT7620N
 cpu_cores: 1
 cpu_mhz: 580
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=96
 supported_since_rel: '14.07'
 target: ramips
 usb_ports: 1x 2.0
+vendor: WRTnode
 version: '1'
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/WRTnode

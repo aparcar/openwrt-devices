@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Belkin
 cpu: Ralink RT3052F
 cpu_cores: 1
 cpu_mhz: 384
@@ -19,6 +18,7 @@ ram_mb: 64
 subtarget: rt305x
 switch: Ralink RT3052F
 target: ramips
+vendor: Belkin
 version: v1
 wikidevi_url: https://wikidevi.com/wiki/Belkin_F7D6301_v1
 wlan_24ghz: b/g/n

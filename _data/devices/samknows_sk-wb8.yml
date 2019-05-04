@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: SamKnows
 button_count: '2'
 cpu: MediaTek MT7621A
 cpu_cores: 2
@@ -31,6 +30,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=37
 supported_since_rel: 17.01.0
 target: ramips
 usb_ports: 1x 2.0
+vendor: SamKnows
 vlan: true
 where_available: samknows.com
 wlan_24ghz: b/g/n

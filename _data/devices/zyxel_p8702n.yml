@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: ZyXEL
 button_count: '1'
 cpu: Broadcom BCM63168
 cpu_cores: 2
@@ -27,6 +26,7 @@ switch: Broadcom BCM63168
 target: brcm63xx
 unsupported_functions: WIP
 usb_ports: 1x 2.0
+vendor: ZyXEL
 vlan: true
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

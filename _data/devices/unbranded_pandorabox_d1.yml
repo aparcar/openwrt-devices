@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: unbranded
 button_count: '1'
 cpu: MediaTek MT7688
 cpu_cores: 1
@@ -23,4 +22,5 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=9fe833e1d020748fa92e485aeb08b1ac9a6fdb09
 supported_since_rel: 17.01.0
 target: ramips
+vendor: unbranded
 wlan_driver: unknown

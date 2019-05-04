@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 cpu: Atheros AR7241
 cpu_cores: 1
 cpu_mhz: 360
@@ -33,6 +32,7 @@ supported_since_rel: '14.07'
 switch: Atheros AR7241
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: Netgear
 version: v3
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WNR2200

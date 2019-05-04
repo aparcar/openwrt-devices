@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: EnGenius
 comments: ESR6650 works with images for ESR9753
 cpu: Ralink RT3052
 cpu_cores: 1
@@ -33,6 +32,7 @@ supported_current_rel: 18.06.1
 supported_since_rel: '12.09'
 target: ramips
 usb_ports: 1x 2.0
+vendor: EnGenius
 wikidevi_url: https://wikidevi.com/wiki/EnGenius_ESR6650
 wlan_24ghz: b/g/n
 wlan_driver: rt2800pci

@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: GL.iNet
 button_count: '2'
 comment_installation: Can't directly flash OWrt 18.0 from stock firmware's web interface
   and sysupgrade
@@ -37,6 +36,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 switch: Qualcomm Atheros QCA8075
 target: ipq40xx
+vendor: GL.iNet
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/GL.iNet_GL-B1300
 wlan_24ghz: b/g/n

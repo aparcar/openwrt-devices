@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: TP-Link
 cpu: Atheros AR9344
 cpu_cores: 1
 cpu_mhz: 560
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=0d
 supported_since_rel: 17.01.0
 switch: Atheros AR9344
 target: ar71xx
+vendor: TP-Link
 version: v2
 vlan: true
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: Netgear
 button_count: '1'
 comments: sysupgrade not supported, upgrading involves a complete re-install
 cpu: Intel IXP422BB
@@ -32,6 +31,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ed57d3042b03a8c06022d70ac656c4cf5c216b1c
 supported_since_rel: '8.09'
 target: ixp4xx
+vendor: Netgear
 version: v1
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WG302v1

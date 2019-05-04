@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: RavPower
 button_count: '1'
 cpu: Ralink RT5350
 cpu_cores: 1
@@ -29,5 +28,6 @@ subtarget: rt305x
 supported_current_rel: 18.06.1
 supported_since_rel: '15.05'
 target: ramips
+vendor: RavPower
 wlan_24ghz: b/g/n
 wlan_driver: unknown

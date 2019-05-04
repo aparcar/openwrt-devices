@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: CFE
-brand: Huawei
 button_count: '3'
 comment_installation: bootloader needs replacing; HG655b image is also valid for HG655d,
   but the HG655d rejects to flash it -> JTAG cable is required to replace the CFE
@@ -38,6 +37,7 @@ switch: Broadcom BCM6368
 target: brcm63xx
 unsupported_functions: DSL modem
 usb_ports: 1x 2.0
+vendor: Huawei
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: rt2800pci

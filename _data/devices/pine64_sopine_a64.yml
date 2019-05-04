@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: Pine64
 cpu: Allwinner A64
 cpu_cores: 4
 cpu_mhz: 1200
@@ -26,5 +25,6 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=8e1065d681daff321f715ce5c6c172c12036bd6f
 supported_since_rel: 18.06.0
 target: sunxi
+vendor: Pine64
 where_available: pine64.org
 wlan_hardware: optional WiFi/BT module

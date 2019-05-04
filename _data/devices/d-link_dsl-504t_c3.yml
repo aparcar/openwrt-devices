@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: PSPBoot
-brand: D-Link
 cpu: Texas Instruments TNETD7200
 cpu_cores: 1
 cpu_mhz: 211
@@ -22,6 +21,7 @@ serial: true
 supported_current_rel: 10.03.1
 supported_since_rel: 10.03.1
 target: ar7
+vendor: D-Link
 version: C3
 vlan: true
 wlan_driver: unknown

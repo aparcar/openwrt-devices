@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: Inventel
 button_count: '2'
 comments: '>32MB RAM memory mod required for current Openwrt version'
 cpu: Broadcom BCM6348
@@ -31,6 +30,7 @@ supported_current_rel: 18.06.2
 supported_since_rel: 17.01.0
 target: brcm63xx
 unsupported_functions: Impossible
+vendor: Inventel
 version: DV4210
 vlan: false
 wlan_24ghz: b/g

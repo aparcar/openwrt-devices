@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: WAVLINK
 button_count: '1'
 cpu: MediaTek MT7688AN
 cpu_cores: 1
@@ -28,6 +27,7 @@ subtarget: mt76x8
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=a160f50d4f240019fafe95e80701ebb871c788fe
 target: ramips
+vendor: WAVLINK
 where_available: ebay, Amazon, aliexpress
 wikidevi_url: https://wikidevi.com/wiki/Wavlink_WL-WN570HA1
 wlan_24ghz: b/g/n

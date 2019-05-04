@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: SMC
 button_count: '2'
 comments: Identical to ARV4518PW, see https://dev.openwrt.org/changeset/35352
 comments_network_ports: 2xVOIP
@@ -25,6 +24,7 @@ supported_current_rel: '14.07'
 supported_since_rel: 10.03.1
 target: lantiq
 usb_ports: 1x 2.0
+vendor: SMC
 wlan_24ghz: b/g
 wlan_driver: ath5k
 wlan_hardware: Atheros AR2317

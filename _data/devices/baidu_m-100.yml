@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Baidu
 button_count: '2'
 comments: aka "Hame WU01X"
 cpu: MediaTek MT7620A
@@ -22,6 +21,7 @@ serial: true
 subtarget: mt7620
 target: ramips
 usb_ports: 1x 2.0
+vendor: Baidu
 vlan: false
 wlan_24ghz: b/g/n
 wlan_driver: unknown

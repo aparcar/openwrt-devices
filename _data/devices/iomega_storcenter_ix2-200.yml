@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Iomega
 cpu: Marvell 88F6281
 cpu_cores: 1
 cpu_mhz: 1000
@@ -29,4 +28,5 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=27b2f0fc0fc5513304a5be3c5b8cb23aeb09e6f5
 target: kirkwood
 usb_ports: 3x 2.0
+vendor: Iomega
 wikidevi_url: https://wikidevi.com/wiki/Iomega_StorCenter_ix2-200

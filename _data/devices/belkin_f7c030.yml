@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Belkin
 button_count: '1'
 cpu: Ralink RT5350F
 cpu_cores: 1
@@ -21,6 +20,7 @@ ram_mb: 32
 serial: true
 subtarget: rt305x
 target: ramips
+vendor: Belkin
 vlan: false
 where_available: amazon.com
 wikidevi_url: https://wikidevi.com/wiki/Belkin_WeMo_Light_Switch_(F7C030)

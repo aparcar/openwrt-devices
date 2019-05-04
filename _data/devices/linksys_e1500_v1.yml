@@ -1,5 +1,4 @@
 availability: Discontinued 2015
-brand: Linksys
 cpu: Broadcom BCM5357B0
 cpu_cores: 1
 cpu_mhz: 300
@@ -28,6 +27,7 @@ supported_since_rel: 17.01.0
 switch: Broadcom BCM5357B0
 target: brcm47xx
 unsupported_functions: WiFi 2.4GHz
+vendor: Linksys
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_E1500

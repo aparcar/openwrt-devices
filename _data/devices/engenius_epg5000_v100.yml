@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: EnGenius
 button_count: '2'
 comment_installation: ath79 installation instructions see git commit ee34740ca3f90a5359392d629544e4520030e52e
 comment_recovery: ath79 recovery instructions see git commit ee34740ca3f90a5359392d629544e4520030e52e
@@ -36,6 +35,7 @@ supported_since_rel: '15.05'
 switch: Qualcomm Atheros QCA8337N
 target: ar71xx-ath79
 usb_ports: 1x 2.0
+vendor: EnGenius
 version: v1.0.0
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/EnGenius_EPG5000

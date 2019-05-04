@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Xiaomi
 cpu: MediaTek MT7628
 cpu_cores: 1
 cpu_mhz: 575
@@ -27,5 +26,6 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=99
 supported_since_rel: 17.01.0
 target: ramips
 usb_ports: "1x \xB5USB (power)"
+vendor: Xiaomi
 wlan_24ghz: b/g/n
 wlan_driver: unknown

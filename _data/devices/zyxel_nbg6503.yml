@@ -1,5 +1,4 @@
 availability: Discontinued 2015
-brand: ZyXEL
 cpu: MediaTek MT7620A
 cpu_cores: 1
 cpu_mhz: 580
@@ -20,6 +19,7 @@ ram_mb: 64
 subtarget: mt7620
 switch: MediaTek MT7620A
 target: ramips
+vendor: ZyXEL
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ZyXEL_NBG6503
 wlan_24ghz: b/g/n

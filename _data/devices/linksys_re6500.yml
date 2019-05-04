@@ -1,7 +1,6 @@
 audio_ports: Headphone jack
 availability: Available 2019
 bootloader: U-Boot
-brand: Linksys
 button_count: '1'
 cpu: MediaTek MT7621AT
 cpu_cores: 2
@@ -36,6 +35,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=cf
 supported_since_rel: '15.05'
 switch: MediaTek MT7621AT
 target: ramips
+vendor: Linksys
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_RE6500
 wlan_24ghz: b/g/n

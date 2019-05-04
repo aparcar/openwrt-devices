@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Buffalo
 cpu: Ralink RT2880F
 cpu_cores: 1
 cpu_mhz: 266
@@ -24,6 +23,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=6351d88e29a6e0ffc96d11d33d22eafdbfd1a41b
 supported_since_rel: 15.05.1
 target: ramips
+vendor: Buffalo
 version: V01
 vlan: false
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: CFE
-brand: TP-Link
 button_count: '3'
 comments: The Plusnet Fast2704N v1 and TD-W8960N v5 are almost similar.
 comments_network_ports: One LAN port convertible to WAN in settings of stock f/w.
@@ -29,6 +28,7 @@ switch: Broadcom BCM6318
 target: brcm63xx
 unsupported_functions: DSL modem
 usb_ports: Mod
+vendor: TP-Link
 version: v5
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TD-W8960N_v5.x

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: HiWiFi/Gee
 button_count: '1'
 cpu: MediaTek MT7621AT
 cpu_cores: 2
@@ -28,6 +27,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=edae3479e64e93275dce4a928ea70279282eef9d
 supported_since_rel: 18.06.0
 target: ramips
+vendor: HiWiFi/Gee
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac
 wlan_driver: mt76

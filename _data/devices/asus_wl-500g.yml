@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Asus
 cpu: Broadcom BCM4710
 cpu_cores: 1
 cpu_mhz: 125
@@ -26,6 +25,7 @@ supported_since_rel: 10.03.1
 switch: Broadcom BCM5325
 target: brcm47xx
 usb_ports: 1x 1.1
+vendor: Asus
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ASUS_WL-500g
 wlan_24ghz: b/g

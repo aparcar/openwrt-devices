@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: D-Link
 button_count: '1'
 cpu: Ralink RT5350
 cpu_cores: 1
@@ -33,6 +32,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=57
 supported_since_rel: '14.07'
 switch: Ralink RT5350
 target: ramips
+vendor: D-Link
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-300/NRU_rev_B7
 wlan_24ghz: b/g/n

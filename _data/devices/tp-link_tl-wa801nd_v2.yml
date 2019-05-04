@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '1'
 cpu: Atheros AR9341 rev 3
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e3e559fd5245650a1808556e83809f2fb55c1783
 supported_since_rel: '14.07'
 target: ar71xx
+vendor: TP-Link
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WA801ND_v2

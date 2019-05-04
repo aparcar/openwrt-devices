@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Atmel
 cpu: Atmel AT32AP7000
 cpu_cores: 1
 cpu_mhz: 210
@@ -21,5 +20,6 @@ supported_current_rel: '8.09'
 supported_since_rel: '8.09'
 target: avr32
 usb_ports: 1x 2.0 Device
+vendor: Atmel
 vlan: false
 wlan_driver: unknown

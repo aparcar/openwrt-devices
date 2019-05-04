@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: I-O Data
 button_count: '3'
 cpu: MediaTek MT7621S
 cpu_cores: 1
@@ -33,6 +32,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=a32c06f44d6340fd25d1eb276f62b8494de9f462
 supported_since_rel: 18.06.0
 target: ramips
+vendor: I-O Data
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: mt76

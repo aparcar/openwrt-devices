@@ -1,6 +1,5 @@
 availability: Discontinued 2010
 bootloader: CFE
-brand: D-Link
 comments: Remove eth1. Change and configure SWITCH on eth0, after install firmware.
 cpu: Broadcom BCM5836
 cpu_cores: 1
@@ -31,6 +30,7 @@ switch: Broadcom BCM5325E
 target: brcm47xx
 unsupported_functions: wan port not working by default
 usb_ports: 1x 1.1
+vendor: D-Link
 version: A1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-330

@@ -1,5 +1,4 @@
 availability: Available 2019
-brand: HAK5
 button_count: '2'
 cpu: Atheros AR9331
 cpu_cores: 1
@@ -24,5 +23,6 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=950b278c81cb380df869b0dadc02fa8258a91a6a
 supported_since_rel: 18.06.0
 target: ar71xx
+vendor: HAK5
 where_available: shop.hak5.org
 wlan_driver: unknown

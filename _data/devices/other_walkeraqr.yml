@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: Evaluation boards / unbranded boards
 cpu: Atheros AR7240
 cpu_cores: 1
 cpu_mhz: 400
@@ -16,6 +15,7 @@ ram_mb: 32
 subtarget: generic
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: Evaluation boards / unbranded boards
 wlan_24ghz: b/g/n
 wlan_driver: ath9k
 wlan_hardware: Atheros AR9331

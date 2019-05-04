@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: RouterBOOT
-brand: MikroTik
 cpu: Atheros AR9342
 cpu_cores: 1
 cpu_mhz: 600
@@ -30,6 +29,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: '14.07'
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: MikroTik
 vlan: true
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

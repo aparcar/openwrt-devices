@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: Samsung
 button_count: '2'
 cpu: Atheros AR9344
 cpu_cores: 1
@@ -27,5 +26,6 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: Samsung
 wlan_driver: ath9k
 wlan_hardware: Atheros AR9344

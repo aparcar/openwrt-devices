@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Zorlik
 cpu: Ralink RT5350F
 cpu_cores: 1
 cpu_mhz: 360
@@ -29,6 +28,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 target: ramips
 usb_ports: 1x 2.0
+vendor: Zorlik
 version: v2
 wlan_24ghz: b/g/n
 wlan_comments: 1x1

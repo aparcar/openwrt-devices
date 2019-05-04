@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Avnet
 button_count: '15'
 cpu: Xilinx XC7Z020
 cpu_cores: 2
@@ -27,4 +26,5 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=869d3adc379aac12b8933d1f3072a809dcf748c5
 target: zynq
 usb_ports: 1x OTG
+vendor: Avnet
 where_available: avnet.com, mouser.de

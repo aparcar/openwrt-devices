@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Asus
 cpu: Broadcom BCM5354
 cpu_cores: 1
 cpu_mhz: 240
@@ -30,6 +29,7 @@ supported_since_rel: '8.09'
 switch: Broadcom BCM5354
 target: brcm47xx
 usb_ports: 1x 1.1
+vendor: Asus
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ASUS_WL-520gU
 wlan_24ghz: b/g

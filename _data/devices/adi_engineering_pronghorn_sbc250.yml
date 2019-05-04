@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: ADI Engineering
 button_count: '1'
 comment_installation: For installation you also need ixp4xx-generic-squashfs.img
 comments: sysupgrade not supported, re-install necessary
@@ -33,6 +32,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=1f68c4745d77d681991a6059fd8ad42418e576de
 supported_since_rel: '8.09'
 target: ixp4xx
+vendor: ADI Engineering
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/ADI_Engineering_Pronghorn_SBC250
 wlan_24ghz: b/g

@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: other
-brand: Upvel
 button_count: '1'
 comments_network_ports: 1 WAN + 4x LAN
 cpu: Realtek RTL8197DN
@@ -29,6 +28,7 @@ switch: Realtek RTL8367RB
 target: ramips
 unsupported_functions: Possible to support
 usb_ports: 2x 2.0
+vendor: Upvel
 version: 1.0R
 wikidevi_url: https://wikidevi.com/wiki/UPVEL_UR-825AC
 wlan_24ghz: b/g/n

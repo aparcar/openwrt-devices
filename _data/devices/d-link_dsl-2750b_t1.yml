@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: D-Link
 button_count: '2'
 comments: Flashed via CFE recovery (hold down reset when powering up device)
 cpu: Broadcom BMIPS4350 v7.5
@@ -36,6 +35,7 @@ switch: Broadcom BCM63281
 target: brcm63xx
 unsupported_functions: DSL modem
 usb_ports: 1x 2.0 Device
+vendor: D-Link
 version: T1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DSL-2750B_rev_T1

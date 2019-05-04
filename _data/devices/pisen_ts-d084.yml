@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: PISEN
 button_count: '1'
 cpu: Atheros AR9331
 cpu_cores: 1
@@ -29,6 +28,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: PISEN
 wlan_24ghz: b/g/n
 wlan_driver: ath9k
 wlan_hardware: Atheros AR9331

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Devolo
 button_count: '3'
 device_id: devolo_dlan_hotspot
 device_type: WiFi Router
@@ -24,5 +23,6 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=99fd9a704184d5f1b9ef279115aa529d3ef63fdb
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: Devolo
 wlan_24ghz: b/g/n
 wlan_driver: unknown

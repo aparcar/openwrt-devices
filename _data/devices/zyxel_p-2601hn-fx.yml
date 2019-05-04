@@ -1,6 +1,5 @@
 availability: Discontinued 2015
 bootloader: U-Boot
-brand: ZyXEL
 button_count: '2'
 cpu: Lantiq PSB 50800
 cpu_cores: 2
@@ -31,6 +30,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=3b
 supported_since_rel: 17.01.0
 switch: Realtek RTL8306G
 target: lantiq
+vendor: ZyXEL
 wlan_24ghz: b/g/n
 wlan_driver: rt2800usb
 wlan_hardware: Ralink RT3070L

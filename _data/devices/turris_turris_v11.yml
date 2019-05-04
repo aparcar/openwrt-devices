@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Turris CZ.NIC
 cpu: Freescale P2020
 cpu_cores: 2
 cpu_mhz: 1200
@@ -15,6 +14,7 @@ package_architecture: powerpc_8540
 ram_mb: 2048
 serial: true
 target: mpc85xx
+vendor: Turris CZ.NIC
 version: v1.1
 vlan: true
 wlan_24ghz: b/g/n

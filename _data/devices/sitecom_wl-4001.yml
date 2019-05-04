@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: Sitecom
 cpu: Realtek RTL8198
 cpu_cores: 1
 cpu_mhz: 620
@@ -16,6 +15,7 @@ model: WL-4001
 ram_mb: 64
 serial: true
 unsupported_functions: Possible to support
+vendor: Sitecom
 version: v1 001
 wlan_24ghz: b/g/n
 wlan_driver: rtl819x

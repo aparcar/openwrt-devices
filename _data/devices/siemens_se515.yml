@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Siemens
 cpu: Broadcom BCM6345
 cpu_cores: 1
 cpu_mhz: 140
@@ -18,6 +17,7 @@ ram_mb: 16
 serial: true
 target: brcm63xx
 unsupported_functions: Impossible
+vendor: Siemens
 wikidevi_url: https://wikidevi.com/wiki/Siemens_Gigaset_SE515
 wlan_24ghz: b/g
 wlan_driver: b43

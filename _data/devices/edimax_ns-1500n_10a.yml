@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Edimax
 cpu: Ralink RT3050F
 cpu_cores: 1
 cpu_mhz: 320
@@ -23,6 +22,7 @@ subtarget: rt305x
 target: ramips
 unsupported_functions: Possible to support
 usb_ports: 1x 2.0
+vendor: Edimax
 version: 1.0A
 wlan_24ghz: b/g/n
 wlan_driver: unknown

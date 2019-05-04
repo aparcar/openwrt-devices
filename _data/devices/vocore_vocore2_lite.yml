@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: VoCore
 comments: 'See also the vocore forum: http://forum.vocore.io/viewforum.php?f=16; Vendor
   firmware is based on OpenWrt.'
 cpu: MediaTek MT7688AN
@@ -30,6 +29,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=df
 supported_since_rel: 18.06.0
 target: ramips
 usb_ports: 1x 2.0
+vendor: VoCore
 wlan_24ghz: b/g/n
 wlan_driver: unknown
 wlan_hardware: MediaTek MT7688AN

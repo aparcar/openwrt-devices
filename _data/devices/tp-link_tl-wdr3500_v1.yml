@@ -1,6 +1,5 @@
 availability: Discontinued 2015
 bootloader: U-Boot
-brand: TP-Link
 comment_installation: Rename installation image to wdr3500v1_tp_recovery.bin before
   flashing.
 cpu: Atheros AR9344
@@ -33,6 +32,7 @@ supported_since_rel: '14.07'
 switch: Atheros AR9344
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: TP-Link
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WDR3500

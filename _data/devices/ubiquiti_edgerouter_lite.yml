@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Ubiquiti
 cpu: Cavium CN5020
 cpu_cores: 2
 cpu_mhz: 500
@@ -30,5 +29,6 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=3a
 supported_since_rel: '14.07'
 target: octeon
 usb_ports: 1x 2.0
+vendor: Ubiquiti
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Ubiquiti_Networks_EdgeRouter_LITE

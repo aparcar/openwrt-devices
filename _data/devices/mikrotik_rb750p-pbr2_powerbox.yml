@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: RouterBOOT
-brand: MikroTik
 button_count: '1'
 comments_network_ports: 1 POE in, 4 POE out
 cpu: Qualcomm Atheros QCA9533
@@ -35,4 +34,5 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=44
 supported_since_rel: 18.06.0
 switch: Qualcomm Atheros QCA9533
 target: ar71xx
+vendor: MikroTik
 vlan: true

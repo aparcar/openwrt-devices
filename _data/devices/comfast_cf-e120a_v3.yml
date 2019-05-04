@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: COMFAST
 button_count: '1'
 comments_network_ports: 2x PoE in 9-24 VDC
 cpu: Atheros AR9344
@@ -30,6 +29,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=59c2f8af8c4400baffb09d6f8ab4d2826e38726a
 switch: Atheros AR9344
 target: ath79
+vendor: COMFAST
 version: v3
 vlan: true
 where_available: aliexpress.com, dx.com

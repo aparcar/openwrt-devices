@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 cpu: Atheros AR9342
 cpu_cores: 1
 cpu_mhz: 560
@@ -30,6 +29,7 @@ supported_since_rel: '12.09'
 switch: Atheros AR8327
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: TP-Link
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR1041N_v2

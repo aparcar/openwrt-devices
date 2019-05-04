@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Evaluation boards / unbranded boards
 cpu: Ralink RT3052
 cpu_cores: 1
 cpu_mhz: 384
@@ -27,6 +26,7 @@ supported_since_rel: '12.09'
 switch: Ralink RT3052
 target: ramips
 usb_ports: 1x 2.0
+vendor: Evaluation boards / unbranded boards
 vlan: false
 wlan_24ghz: b/g/n
 wlan_driver: ath9k

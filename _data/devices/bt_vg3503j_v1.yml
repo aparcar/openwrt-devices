@@ -1,6 +1,5 @@
 availability: Discontinued 2014
 bootloader: U-Boot
-brand: BT Openreach
 button_count: '1'
 cpu: Lantiq XRX200
 cpu_cores: 1
@@ -31,5 +30,6 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=d5f87e193cb45d2067bd5667d7c6fb567bc34a56
 supported_since_rel: '15.05'
 target: lantiq
+vendor: BT Openreach
 version: v1
 vlan: true

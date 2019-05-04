@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: GL.iNet
 button_count: '2'
 comments: OpenWrt version 15.05 with their own additional GLI GUI, supports webcam,
   USB, NAS, Cloud and more; optional internal microSD card
@@ -39,6 +38,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=96
 supported_since_rel: 17.01.0
 switch: MediaTek MT7620A
 target: ramips
+vendor: GL.iNet
 version: v1.3
 vlan: true
 wlan_24ghz: b/g/n

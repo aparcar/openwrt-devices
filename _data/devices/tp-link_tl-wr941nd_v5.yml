@@ -1,6 +1,5 @@
 availability: Discontinued 2016
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 cpu: Atheros AR9341
 cpu_cores: 1
@@ -35,6 +34,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=cd
 supported_since_rel: '12.09'
 switch: Atheros AR9341
 target: ar71xx
+vendor: TP-Link
 version: v5
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR941ND_v5.x

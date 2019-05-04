@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Linksys
 cpu: Broadcom BCM4718
 cpu_cores: 1
 cpu_mhz: 480
@@ -32,6 +31,7 @@ switch: Broadcom BCM53115
 target: brcm47xx
 unsupported_functions: WiFi 5GHz
 usb_ports: 1x 2.0
+vendor: Linksys
 version: v1.0
 wikidevi_url: https://wikidevi.com/wiki/Linksys_E4200_v1
 wlan_24ghz: b/g/n

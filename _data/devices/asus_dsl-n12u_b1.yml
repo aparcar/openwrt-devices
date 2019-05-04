@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: Asus
 cpu: Ralink RT3052F
 cpu_cores: 1
 cpu_mhz: 384
@@ -26,6 +25,7 @@ subtarget: rt305x
 target: ramips
 unsupported_functions: Possible to support
 usb_ports: 1x 2.0
+vendor: Asus
 version: B1
 wikidevi_url: https://wikidevi.com/wiki/ASUS_DSL-N12U_rev_B1
 wlan_24ghz: b/g/n

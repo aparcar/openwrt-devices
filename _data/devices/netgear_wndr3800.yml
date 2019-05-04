@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 comments: Identical to WNDR3700v2 but with more RAM/Flash;
 comments_network_ports: 1x WLAN, 4x LAN
 cpu: Atheros AR7161
@@ -38,6 +37,7 @@ supported_since_rel: 10.03.1
 switch: Realtek RTL8366SR
 target: ar71xx-ath79
 usb_ports: 1x 2.0
+vendor: Netgear
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WNDR3800
 wlan_24ghz: b/g/n

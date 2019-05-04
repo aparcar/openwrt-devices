@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Buffalo
 button_count: '3'
 cpu: Broadcom BCM5352
 cpu_cores: 1
@@ -29,6 +28,7 @@ supported_current_rel: 10.03.1
 supported_since_rel: 10.03.1
 switch: Broadcom BCM5352
 target: brcm47xx
+vendor: Buffalo
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Buffalo_WHR-G54S
 wlan_24ghz: b/g

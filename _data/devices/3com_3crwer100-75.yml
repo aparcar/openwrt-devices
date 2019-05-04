@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: 3Com
 comments: Reported working acc. https://forum.openwrt.org/viewtopic.php?pid=304399
 cpu: Atheros AR2315A
 cpu_cores: 1
@@ -24,6 +23,7 @@ supported_current_rel: '14.07'
 supported_since_rel: '14.07'
 switch: IC+ IP175C
 target: ath25
+vendor: 3Com
 wikidevi_url: https://wikidevi.com/wiki/3Com_OfficeConnect_3CRWER100-75
 wlan_24ghz: b/g
 wlan_driver: unknown

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 cpu: Atheros AR9330 rev 1
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=c6
 supported_since_rel: '12.09'
 switch: Atheros AR9331
 target: ar71xx-ath79
+vendor: TP-Link
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR740N_v4.x
 wlan_24ghz: b/g/n

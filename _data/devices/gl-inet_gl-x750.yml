@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: GL.iNet
 button_count: '1'
 comments_network_ports: 3G/4G via mini-PCIe module
 cpu: Qualcomm Atheros QCA9531
@@ -30,6 +29,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=9989fd5154fd8301bf363ddae0b5083220141865
 target: ath79
 usb_ports: 1x 2.0
+vendor: GL.iNet
 where_available: store.gl-inet.com, amazon.com
 wikidevi_url: https://wikidevi.com/wiki/GL.iNet_GL-X750
 wlan_24ghz: b/g/n

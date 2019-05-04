@@ -1,5 +1,4 @@
 availability: Available 2019
-brand: Linksys
 cpu: MediaTek MT7620A
 cpu_cores: 1
 cpu_mhz: 580
@@ -20,6 +19,7 @@ switch: MediaTek MT7620A
 target: ramips
 unsupported_functions: Possible to support
 usb_ports: 1x 2.0
+vendor: Linksys
 version: '1.0'
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_EA6100

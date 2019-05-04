@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 comments: 3G via USB
 cpu: Atheros AR9331
 cpu_cores: 1
@@ -30,6 +29,7 @@ supported_current_rel: 17.01.5
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=97e4ddd012546ecaf5dea609af784e339408e502
 supported_since_rel: '12.09'
 target: ar71xx
+vendor: TP-Link
 version: v1
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-MR11U
 wlan_24ghz: b/g/n

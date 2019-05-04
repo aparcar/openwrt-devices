@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: Netgear
 cpu: Intel IXP425
 cpu_cores: 1
 cpu_mhz: 533
@@ -22,5 +21,6 @@ ram_mb: 32
 serial: true
 subtarget: generic
 target: ixp4xx
+vendor: Netgear
 version: v1
 wlan_driver: unknown

@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Ubiquiti
 button_count: '1'
 cpu: Qualcomm Atheros QCA9563
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=cede06cebc7678b5d617ab4f64b3b53b8bbe44dc
 supported_since_rel: 17.01.0
 target: ar71xx-ath79
+vendor: Ubiquiti
 vlan: true
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

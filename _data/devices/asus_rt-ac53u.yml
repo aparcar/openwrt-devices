@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Asus
 cpu: Broadcom BCM5358U
 cpu_cores: 1
 cpu_mhz: 500
@@ -28,6 +27,7 @@ supported_since_rel: 17.01.0
 switch: Broadcom BCM5358
 target: brcm47xx
 usb_ports: 1x 2.0
+vendor: Asus
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-AC53U
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

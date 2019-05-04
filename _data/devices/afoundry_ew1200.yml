@@ -1,6 +1,5 @@
 availability: Discontinued 2019
 bootloader: U-Boot
-brand: Afoundry
 button_count: '1'
 cpu: MediaTek MT7621A
 cpu_cores: 2
@@ -32,6 +31,7 @@ supported_since_rel: 18.06.0
 target: ramips
 unsupported_functions: 2.4 GHz may be unstable
 usb_ports: 1x 3.0
+vendor: Afoundry
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac
 wlan_driver: mt76

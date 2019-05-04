@@ -1,6 +1,5 @@
 availability: Discontinued 2016
 bootloader: U-Boot
-brand: Buffalo
 cpu: Atheros AR7242
 cpu_cores: 1
 cpu_mhz: 400
@@ -28,6 +27,7 @@ supported_since_rel: '12.09'
 switch: Atheros AR8316
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: Buffalo
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Buffalo_WZR-300HP
 wlan_24ghz: b/g/n

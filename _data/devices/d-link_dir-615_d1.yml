@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: D-Link
 comments: Basic functions tested until now (LAN/WLAN/VLAN/DHCP)
 cpu: Ralink RT3052
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_current_rel: 18.06.1
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=d495277d9ff556a372fc5c49c610287d37574cb5
 supported_since_rel: 15.05.1
 target: ramips
+vendor: D-Link
 version: D1
 vlan: true
 wlan_24ghz: b/g/n

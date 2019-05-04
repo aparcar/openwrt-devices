@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: ADMboot
-brand: D-Link
 cpu: Infineon ADM5120
 cpu_cores: 1
 cpu_mhz: 175
@@ -21,6 +20,7 @@ ram_mb: 32
 serial: true
 target: adm5120
 unsupported_functions: WIP
+vendor: D-Link
 version: A4
 vlan: false
 wlan_24ghz: b/g

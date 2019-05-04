@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: TP-Link
 button_count: '2'
 comment_installation: For OEM GUI installation, rename ...squashfs-factory.bin to
   firmware.bin
@@ -31,6 +30,7 @@ subtarget: tiny
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=02494fa35ca07f01598e8bddb14303486ba69ba4
 target: ar71xx
+vendor: TP-Link
 version: v4
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WA801ND_v4
 wlan_24ghz: b/g/n

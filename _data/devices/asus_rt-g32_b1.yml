@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Asus
 button_count: '1'
 cpu: Ralink RT3052
 cpu_cores: 1
@@ -30,6 +29,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=43
 supported_since_rel: '12.09'
 switch: Ralink RT3050
 target: ramips
+vendor: Asus
 version: B1
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-G32_rev_B1
 wlan_24ghz: b/g

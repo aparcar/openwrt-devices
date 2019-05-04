@@ -1,5 +1,4 @@
 availability: Discontinued 2016
-brand: TRENDnet
 button_count: '2'
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=1f
 supported_since_rel: 17.01.0
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: TRENDnet
 version: v1.0R
 wikidevi_url: https://wikidevi.com/wiki/TRENDnet_TEW-823DRU_V1.xR
 wlan_24ghz: b/g/n

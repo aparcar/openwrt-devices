@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Huawei
 cpu: Broadcom BCM5354
 cpu_cores: 1
 cpu_mhz: 240
@@ -25,6 +24,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=c78e4fb220169b5ee8358f7b2582972c00b88fd7
 supported_since_rel: '15.05'
 target: brcm47xx
+vendor: Huawei
 vlan: true
 wlan_24ghz: b/g
 wlan_driver: b43

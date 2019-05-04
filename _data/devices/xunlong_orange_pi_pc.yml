@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Xunlong
 cpu: Allwinner H3
 cpu_cores: 4
 cpu_mhz: 1300
@@ -29,5 +28,6 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=70130268a85ea2373c6787414a20caa31ab05df7
 supported_since_rel: 18.06.0
 target: sunxi
+vendor: Xunlong
 wikidevi_url: https://wikidevi.com/wiki/Orange_Pi_PC
 wlan_driver: unknown

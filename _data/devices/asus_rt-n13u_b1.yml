@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Asus
 button_count: '2'
 cpu: Ralink RT3052
 cpu_cores: 1
@@ -36,6 +35,7 @@ supported_since_rel: '14.07'
 switch: Ralink RT3052
 target: ramips
 usb_ports: 1x 2.0
+vendor: Asus
 version: B1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N13U_B1

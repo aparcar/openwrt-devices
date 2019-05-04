@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: TP-Link
 cpu: Atheros AR9341
 cpu_cores: 1
 cpu_mhz: 535
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=df
 supported_since_rel: 17.01.0
 switch: Atheros AR9341
 target: ar71xx
+vendor: TP-Link
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR843ND

@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: RouterBOOT
-brand: MikroTik
 cpu: MediaTek MT7621A
 cpu_cores: 2
 cpu_mhz: 880
@@ -28,5 +27,6 @@ subtarget: mt7621
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=faf64056ddd46992a75b1e277d94541c7251035c
 target: ramips
+vendor: MikroTik
 where_available: mikrotik-store.eu, amazon.de
 wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_M11_(RBM11G)

@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: Inventel
 comments_network_ports: '5'
 cpu: Broadcom BCM6358
 cpu_cores: 2
@@ -17,6 +16,7 @@ subtarget: generic
 target: brcm63xx
 unsupported_functions: WIP
 usb_ports: true
+vendor: Inventel
 version: BlueDSL 8G
 vlan: false
 wlan_24ghz: b/g

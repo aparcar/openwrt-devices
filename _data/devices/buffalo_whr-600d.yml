@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Buffalo
 cpu: MediaTek MT7620A
 cpu_cores: 1
 cpu_mhz: 580
@@ -26,6 +25,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=43
 supported_since_rel: '15.05'
 switch: MediaTek MT7620A
 target: ramips
+vendor: Buffalo
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Buffalo_WHR-600D
 wlan_24ghz: b/g/n

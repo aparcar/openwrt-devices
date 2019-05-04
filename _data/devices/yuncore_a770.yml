@@ -1,6 +1,5 @@
 availability: unknown 2019
 bootloader: U-Boot
-brand: YunCore
 button_count: '1'
 cpu: Qualcomm Atheros QCA9531
 cpu_cores: 1
@@ -28,6 +27,7 @@ subtarget: generic
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=6fa94d5e8f8d008dc55eae02ca1b21199d9a8915
 target: ath79
+vendor: YunCore
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac
 wlan_driver: ath10k

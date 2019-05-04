@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Open-Mesh
 button_count: '1'
 comments: Openmesh has been acquired by Datto in 2018; from 2019 on, no new production
   any more, only remaining inventory at suppliers.
@@ -34,6 +33,7 @@ supported_since_rel: 18.06.0
 switch: Qualcomm Atheros QCA8072
 target: ipq40xx
 usb_ports: 1x 3.0
+vendor: Open-Mesh
 wikidevi_url: https://wikidevi.com/wiki/Open_Mesh_A42
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

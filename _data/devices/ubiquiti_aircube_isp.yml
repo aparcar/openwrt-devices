@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Ubiquiti
 button_count: '1'
 cpu: Qualcomm Atheros QCA9533
 cpu_cores: 1
@@ -33,6 +32,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 target: ath79
 unsupported_functions: LEDs
 usb_ports: "1x \xB5USB (power)"
+vendor: Ubiquiti
 where_available: alternate.de, reichelt.de, store.ui.com
 wlan_24ghz: b/g/n
 wlan_driver: ath10k

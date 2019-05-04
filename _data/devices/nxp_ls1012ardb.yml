@@ -1,5 +1,4 @@
 availability: Available 2017
-brand: NXP
 button_count: '1'
 comments: 32b and 64b firmware available
 cpu: NXP LS1012A
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=15
 supported_since_rel: 17.01.0
 target: layerscape
 usb_ports: 1x 3.0
+vendor: NXP
 wlan_24ghz: b/g/n
 wlan_driver: unknown
 wlan_hardware: SDIO WiFi module

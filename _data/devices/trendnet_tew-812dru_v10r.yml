@@ -1,5 +1,4 @@
 availability: Available 2017
-brand: TRENDnet
 cpu: Broadcom BCM4706
 cpu_cores: 1
 cpu_mhz: 800
@@ -22,6 +21,7 @@ subtarget: mips74k
 switch: Broadcom BCM53125
 target: brcm47xx
 usb_ports: 1x 2.0
+vendor: TRENDnet
 version: V1.0R
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TRENDnet_TEW-812DRU_v1

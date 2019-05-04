@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: Buffalo
 comments: Images are currently broken! See https://dev.openwrt.org/ticket/22318
 cpu: Ralink RT2880
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=72
 supported_since_rel: '14.07'
 switch: IC+ IP175C
 target: ramips
+vendor: Buffalo
 version: v1
 wikidevi_url: https://wikidevi.com/wiki/Buffalo_WLI-TX4-AG300N
 wlan_24ghz: b/g/n

@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: BT
 cpu: Broadcom BCM6348
 cpu_cores: 1
 cpu_mhz: 256
@@ -21,6 +20,7 @@ subtarget: generic
 target: brcm63xx
 unsupported_functions: WIP
 usb_ports: 1x Device
+vendor: BT
 vlan: false
 wlan_24ghz: b/g
 wlan_driver: b43

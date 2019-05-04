@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: TP-Link
 cpu: Broadcom BCM6358
 cpu_cores: 2
 cpu_mhz: 300
@@ -33,6 +32,7 @@ supported_since_rel: '12.09'
 switch: Broadcom BCM5325E
 target: brcm63xx
 unsupported_functions: DSL modem
+vendor: TP-Link
 version: v1
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TD-W8960N_v1.x

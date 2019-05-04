@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: Adam2
-brand: Netgear
 cpu: Texas Instruments TNETD7200ZDW
 cpu_cores: 1
 cpu_mhz: 211
@@ -24,6 +23,7 @@ serial: true
 supported_current_rel: 10.03.1
 supported_since_rel: '10.03'
 target: ar7
+vendor: Netgear
 version: v3
 wikidevi_url: https://wikidevi.com/wiki/Netgear_DG834Gv3
 wlan_24ghz: b/g

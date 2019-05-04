@@ -1,6 +1,5 @@
 availability: Discontinued 2018
 bootloader: CFE
-brand: Compex
 cpu: Atheros AR7161
 cpu_cores: 1
 cpu_mhz: 680
@@ -22,6 +21,7 @@ subtarget: generic
 supported_current_rel: '10.03'
 supported_since_rel: '10.03'
 target: ar71xx
+vendor: Compex
 version: 6B08
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Compex_WP546HV

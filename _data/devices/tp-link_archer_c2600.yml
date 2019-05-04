@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: TP-Link
 button_count: '4'
 comment_installation: Rename installation image to ArcherC2600_1.0_tp_recovery.bin
   before flashing, see devicepage.
@@ -40,6 +39,7 @@ supported_since_rel: 17.01.0
 switch: Qualcomm Atheros QCA8337
 target: ipq806x
 usb_ports: 2x 3.0
+vendor: TP-Link
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C2600_v1.x
 wlan_24ghz: b/g/n

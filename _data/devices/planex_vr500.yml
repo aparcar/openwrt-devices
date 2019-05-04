@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: Planex
 button_count: '1'
 cpu: MediaTek MT7621A
 cpu_cores: 2
@@ -28,3 +27,4 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=4050cfebdaa001d498c396f24dd67771541b710e
 supported_since_rel: 17.01.0
 target: ramips
+vendor: Planex

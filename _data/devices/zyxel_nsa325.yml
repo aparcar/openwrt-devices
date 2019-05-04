@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: ZyXEL
 button_count: '2'
 comments_network_ports: WoL supported
 cpu: Marvell 88F6702
@@ -34,5 +33,6 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=4383c13aee8963ee93ca1950e7f0ea5a35309ab4
 supported_since_rel: 18.06.0
 target: kirkwood
+vendor: ZyXEL
 vlan: true
 wlan_driver: unknown

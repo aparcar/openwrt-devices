@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Linksys
 button_count: '2'
 cpu: Broadcom BCM5350
 cpu_cores: 1
@@ -26,6 +25,7 @@ supported_current_rel: 18.06.2
 supported_since_rel: '10.03'
 target: brcm47xx
 usb_ports: 3x 2.0
+vendor: Linksys
 version: '1.0'
 vlan: true
 wlan_24ghz: b/g

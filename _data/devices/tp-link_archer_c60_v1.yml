@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 comment_installation: Rename installation image to tp_recovery.bin, see git-commit
 cpu: Qualcomm Atheros QCA9561
@@ -37,6 +36,7 @@ supported_since_rel: 18.06.0
 switch: Qualcomm Atheros QCA9561
 target: ar71xx
 unsupported_functions: WiFi 5GHz
+vendor: TP-Link
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C60_v1.x

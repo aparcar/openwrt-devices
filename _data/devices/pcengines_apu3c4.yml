@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: Coreboot
-brand: PC Engines
 button_count: '1'
 comments: 'bare board, requires case, PS and media for OS. See: https://www.pcengines.ch/newshop.php?c=4'
 comments_network_ports: 3 Intel i211AT
@@ -34,3 +33,4 @@ supported_since_commit: "http://\xBF"
 supported_since_rel: 17.01.2
 target: x86
 usb_ports: 2x 3.0
+vendor: PC Engines

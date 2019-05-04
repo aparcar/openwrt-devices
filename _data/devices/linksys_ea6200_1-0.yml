@@ -1,6 +1,5 @@
 availability: Discontinued 2015
 bootloader: CFE
-brand: Linksys
 button_count: '2'
 comments: Hardware wise pretty much the same as EA6300; image build for EA6300 disabled
   as of 2017-01-25, see https://git.lede-project.org/?p=source.git;a=commit;h=55ff15cfd50927c393300c372efe55ccbc41ad6d
@@ -29,6 +28,7 @@ switch: Broadcom BCM47081
 target: bcm53xx
 unsupported_functions: image build disabled as of 2017-01-25
 usb_ports: 1x 3.0
+vendor: Linksys
 version: '1.0'
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_EA6200

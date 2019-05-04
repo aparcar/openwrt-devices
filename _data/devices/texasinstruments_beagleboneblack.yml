@@ -1,6 +1,5 @@
 audio_ports: HDMI
 availability: Available 2017
-brand: Texas Instruments
 button_count: '2'
 comments: See also http://elinux.org/Beagleboard:BeagleBoneBlack
 cpu: Texas Instruments AM335x
@@ -25,6 +24,7 @@ serial: true
 subtarget: am335x
 target: omap
 usb_ports: 1x 2.0
+vendor: Texas Instruments
 video_ports: HDMI
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/BeagleBone_Black

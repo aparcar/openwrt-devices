@@ -1,6 +1,5 @@
 availability: unknown 2019
 bootloader: U-Boot
-brand: ALFA Network
 button_count: '1'
 cpu: Atheros AR9331
 cpu_cores: 1
@@ -36,6 +35,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: "http://\xBF"
 supported_since_rel: 17.01.1
 target: ar71xx
+vendor: ALFA Network
 vlan: false
 wlan_24ghz: b/g/n
 wlan_driver: ath9k

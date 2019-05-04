@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Cisco
 cpu: Broadcom BCM3382
 cpu_cores: 1
 device_id: cisco_epc3208g
@@ -15,4 +14,5 @@ modem: DOCSIS
 ram_mb: 32
 target: brcm63xx
 unsupported_functions: Possible to support
+vendor: Cisco
 wlan_driver: unknown

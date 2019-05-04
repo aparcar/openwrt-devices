@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Onion
 cpu: MediaTek MT7688AN
 cpu_cores: 1
 cpu_mhz: 580
@@ -31,6 +30,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ab
 supported_since_rel: 17.01.0
 target: ramips
 usb_ports: 1x 2.0
+vendor: Onion
 wikidevi_url: https://wikidevi.com/wiki/Onion_Omega2_Plus
 wlan_24ghz: b/g/n
 wlan_driver: unknown

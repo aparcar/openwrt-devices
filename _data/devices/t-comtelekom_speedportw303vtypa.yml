@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: T-Com / Telekom
 comments_network_ports: '1'
 cpu: Lantiq Danube
 cpu_cores: 2
@@ -17,6 +16,7 @@ modem: ADSL2+
 phone_ports: '2'
 ram_mb: 32
 target: lantiq
+vendor: T-Com / Telekom
 vlan: false
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: PISEN
 button_count: '2'
 cpu: Atheros AR9331
 cpu_cores: 1
@@ -24,6 +23,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=b2a33d5463e88b74b021711d7f392edeafe61041
 target: ath79
 unsupported_functions: SD card
+vendor: PISEN
 wlan_24ghz: b/g/n
 wlan_driver: ath9k
 wlan_hardware: Atheros AR9331

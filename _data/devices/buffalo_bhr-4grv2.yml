@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Buffalo
 comment_installation: For ath79 see new installation instructions in https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=879f2ef7c0720c49f0911a6a3a7f8fe4111c2acb
 cpu: Qualcomm Atheros QCA9557
 cpu_cores: 1
@@ -30,5 +29,6 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=01
 supported_since_rel: 17.01.0
 switch: Qualcomm Atheros QCA8337N
 target: ar71xx-ath79
+vendor: Buffalo
 vlan: true
 where_available: amazon.co.jp

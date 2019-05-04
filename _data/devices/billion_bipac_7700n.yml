@@ -1,6 +1,5 @@
 availability: Discontinued 2013
 bootloader: CFE
-brand: Billion
 button_count: '3'
 cpu: Broadcom BCM63281
 cpu_cores: 1
@@ -35,6 +34,7 @@ supported_current_rel: 18.06.2
 switch: Broadcom BCM63281
 target: brcm63xx
 unsupported_functions: DSL modem
+vendor: Billion
 vlan: true
 wlan_24ghz: b/g/n
 wlan_comments: b43 driver only supported (so no kmod-brcmsmac or kmod-brcm-wl) and

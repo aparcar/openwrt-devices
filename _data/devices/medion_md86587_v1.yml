@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Medion
 button_count: '2'
 cpu: PLX NAS7820
 cpu_cores: 2
@@ -34,4 +33,5 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=72
 supported_since_rel: '15.05'
 target: oxnas
 usb_ports: 2x 2.0
+vendor: Medion
 version: v1

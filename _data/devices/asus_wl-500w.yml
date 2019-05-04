@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Asus
 cpu: Broadcom BCM4704
 cpu_cores: 1
 cpu_mhz: 264
@@ -28,6 +27,7 @@ supported_since_rel: '10.03'
 switch: Broadcom BCM5325F
 target: brcm47xx
 usb_ports: 2x 2.0
+vendor: Asus
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ASUS_WL-500W
 wlan_24ghz: b/g/n

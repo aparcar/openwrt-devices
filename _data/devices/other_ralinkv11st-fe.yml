@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Evaluation boards / unbranded boards
 cpu: Ralink RT2880F
 cpu_cores: 1
 cpu_mhz: 266
@@ -28,6 +27,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=3c
 supported_since_rel: '15.05'
 switch: IC+ IP175C
 target: ramips
+vendor: Evaluation boards / unbranded boards
 vlan: true
 wlan_driver: unknown
 wlan_hardware: 1x mini-PCI

@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Sparklan
 cpu: Ralink RT3050
 cpu_cores: 1
 cpu_mhz: 320
@@ -28,5 +27,6 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=46
 supported_since_rel: '12.09'
 target: ramips
 usb_ports: true
+vendor: Sparklan
 wlan_24ghz: b/g/n
 wlan_driver: unknown

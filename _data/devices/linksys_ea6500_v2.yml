@@ -1,5 +1,4 @@
 availability: Discontinued 2014
-brand: Linksys
 button_count: '2'
 cpu: Broadcom BCM4708A0
 cpu_cores: 2
@@ -22,6 +21,7 @@ subtarget: generic
 target: bcm53xx
 unsupported_functions: WIP
 usb_ports: 2x 3.0
+vendor: Linksys
 version: v2
 wikidevi_url: https://wikidevi.com/wiki/Linksys_EA6500_v2
 wlan_24ghz: b/g/n

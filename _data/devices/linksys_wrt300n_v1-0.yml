@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Linksys
 cpu: Broadcom BCM4704
 cpu_cores: 1
 cpu_mhz: 300
@@ -21,6 +20,7 @@ serial: true
 subtarget: legacy
 target: brcm47xx
 unsupported_functions: WIP
+vendor: Linksys
 version: '1.0'
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT300N_v1.0

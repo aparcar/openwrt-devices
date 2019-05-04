@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: Planex
 button_count: '1'
 cpu: Ralink RT5350
 cpu_cores: 1
@@ -27,5 +26,6 @@ supported_current_rel: 18.06.1
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=eff79253f2fd3b4e7f1000b09e1fedf8f52d7af4
 supported_since_rel: 17.01.0
 target: ramips
+vendor: Planex
 wlan_24ghz: b/g/n
 wlan_driver: unknown

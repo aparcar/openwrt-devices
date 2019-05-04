@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Onion
 cpu: Atheros AR9331
 cpu_cores: 1
 cpu_mhz: 400
@@ -28,5 +27,6 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=5c
 supported_since_rel: 17.01.0
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: Onion
 wlan_24ghz: b/g/n
 wlan_driver: unknown

@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: EnGenius
 button_count: '1'
 cpu: Atheros AR9341
 cpu_cores: 1
@@ -33,6 +32,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=558d86923e3f5a62577036aa2bace2532163ca13
 supported_since_rel: 18.06.0
 target: ar71xx
+vendor: EnGenius
 version: 1.0.0
 vlan: true
 where_available: amazon.de

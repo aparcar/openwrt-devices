@@ -1,5 +1,4 @@
 availability: Available 2019
-brand: ZBT
 button_count: '1'
 cpu: Qualcomm Atheros QCA9531
 cpu_cores: 1
@@ -27,6 +26,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f4
 supported_since_rel: 17.01.0
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: ZBT
 where_available: zbt.en.alibaba.com
 wlan_24ghz: b/g/n
 wlan_driver: unknown

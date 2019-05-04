@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: TRENDnet
 button_count: '2'
 comments_usb_sata_ports: Power-only labeled "5V 1A ~ 2.1A"
 cpu: Ralink RT5350
@@ -32,6 +31,7 @@ supported_current_rel: 18.06.1
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=2b1f4945b155ffee7f9c7f44bb90e5498b880ff5
 supported_since_rel: 17.01.0
 target: ramips
+vendor: TRENDnet
 version: 1.0R
 where_available: Amazon US
 wikidevi_url: https://wikidevi.com/wiki/TRENDnet_TEW-714TRU

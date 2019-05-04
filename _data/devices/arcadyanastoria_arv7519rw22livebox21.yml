@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: brnboot
-brand: Arcadyan / Astoria
 button_count: '3'
 comments: Due to the AFE used only ADSL2+ is supported.
 cpu: Lantiq XWAY VRX288
@@ -35,6 +34,7 @@ supported_since_rel: '14.07'
 target: lantiq
 unsupported_functions: WiFi 2.4GHz
 usb_ports: 2x 2.0
+vendor: Arcadyan / Astoria
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Orange_Livebox_2.1
 wlan_24ghz: b/g/n

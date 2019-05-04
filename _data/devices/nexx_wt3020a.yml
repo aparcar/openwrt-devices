@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Nexx
 cpu: MediaTek MT7620N
 cpu_cores: 1
 cpu_mhz: 580
@@ -30,6 +29,7 @@ supported_since_rel: '15.05'
 switch: MediaTek MT7620N
 target: ramips
 usb_ports: "1x \xB5USB (power)"
+vendor: Nexx
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Nexx_WT3020
 wlan_24ghz: b/g/n

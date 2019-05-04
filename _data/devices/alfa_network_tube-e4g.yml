@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: ALFA Network
 button_count: '1'
 cpu: MediaTek MT7620A
 cpu_cores: 1
@@ -28,4 +27,5 @@ subtarget: mt7620
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=9b6413982c4c7f9191d08995f1e9b67e38f259de
 target: ramips
+vendor: ALFA Network
 wlan_driver: unknown

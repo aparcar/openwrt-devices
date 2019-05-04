@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 button_count: '2'
 cpu: Atheros AR9344
 cpu_cores: 1
@@ -37,6 +36,7 @@ supported_since_rel: '14.07'
 switch: Atheros AR8327
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: Netgear
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WNDR4300v1

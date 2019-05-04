@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: A-Link
 cpu: Realtek RTL8197DN
 cpu_cores: 1
 cpu_mhz: 660
@@ -22,6 +21,7 @@ ram_mb: 64
 serial: false
 switch: Realtek RTL8367RB
 usb_ports: 1x 2.0
+vendor: A-Link
 vlan: true
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

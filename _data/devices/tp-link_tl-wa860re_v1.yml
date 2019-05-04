@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: TP-Link
 button_count: '3'
 cpu: Atheros AR9341
 cpu_cores: 1
@@ -34,6 +33,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=9e26031a8897eac44c16445f83729ba972fd95a7
 supported_since_rel: '15.05'
 target: ar71xx
+vendor: TP-Link
 version: v1 (EU)
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WA860RE_v1.x

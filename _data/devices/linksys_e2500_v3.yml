@@ -1,5 +1,4 @@
 availability: Available 2019
-brand: Linksys
 cpu: Broadcom BCM5358UB0
 cpu_cores: 1
 cpu_mhz: 500
@@ -27,6 +26,7 @@ supported_since_rel: 17.01.0
 switch: Broadcom BCM5358UB0
 target: brcm47xx
 usb_ports: 1x 2.0
+vendor: Linksys
 version: v3
 wikidevi_url: https://wikidevi.com/wiki/Linksys_E2500_v3
 wlan_24ghz: b/g/n

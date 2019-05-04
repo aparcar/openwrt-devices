@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Netgear
 cpu: Broadcom BCM4718A1
 cpu_cores: 1
 cpu_mhz: 453
@@ -29,6 +28,7 @@ supported_current_rel: 18.06.2
 supported_since_rel: 17.01.0
 switch: Broadcom BCM53115
 target: brcm47xx
+vendor: Netgear
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WNR3500v2

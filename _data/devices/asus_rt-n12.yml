@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Asus
 button_count: '1'
 comments: Same hardware as RT-N11P + RT-N12E B1
 cpu: MediaTek MT7620N
@@ -32,6 +31,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=58
 supported_since_rel: 18.06.0
 switch: MediaTek MT7620N
 target: ramips
+vendor: Asus
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N12+
 wlan_24ghz: b/g/n

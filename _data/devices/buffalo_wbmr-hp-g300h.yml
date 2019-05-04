@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: Buffalo
 comments: 'For Annex A, use a-image. (for 17.01.2: at NETWORK -> INTERFACES -> DSL
   you have to change Annex A to Annex B! Don''t change the firmware file, because
   this one is already correct!'
@@ -40,6 +39,7 @@ supported_since_rel: '12.09'
 switch: Atheros AR8316
 target: lantiq
 usb_ports: 1x 2.0
+vendor: Buffalo
 wikidevi_url: https://wikidevi.com/wiki/Buffalo_WBMR-HP-G300H
 wlan_24ghz: b/g/n
 wlan_driver: unknown

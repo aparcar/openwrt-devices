@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Alpha Networks
 button_count: '1'
 cpu: Lantiq XRX268
 cpu_cores: 1
@@ -26,4 +25,5 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=6254a2028c181fe9863dc7758d47eda667b4f397
 supported_since_rel: 18.06.0
 target: lantiq
+vendor: Alpha Networks
 wlan_driver: unknown

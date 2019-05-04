@@ -1,7 +1,6 @@
 audio_ports: Headphone jack
 availability: Available 2018
 bootloader: U-Boot
-brand: D-Link
 button_count: '2'
 comment_installation: 'WARNING: at present the v18.x release doesn''t enable wifi,
   bricks device because there''s no Ethernet'
@@ -38,6 +37,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=c3e420f28cf1ed229753f94bafdb0d5851748af3
 supported_since_rel: 17.01.0
 target: ramips
+vendor: D-Link
 version: A1
 where_available: amazon.de
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DCH-M225_rev_A1

@@ -1,6 +1,5 @@
 availability: Discontinued 2012
 bootloader: ARMboot
-brand: Cisco
 cpu: Cavium CNS1109 & CNS1202
 cpu_cores: 1
 cpu_mhz: 250
@@ -22,6 +21,7 @@ serial: true
 serial_connection_parameters: 38400 / 8N1
 switch: Vitesse VSC7385 SparX-G5
 unsupported_functions: Possible to support
+vendor: Cisco
 version: v2.0
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WRVS4400N_v2.0

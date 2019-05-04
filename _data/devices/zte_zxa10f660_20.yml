@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: ZTE
 comments_network_ports: Fibre
 cpu: "Broadcom BCM6362\xBF"
 cpu_cores: 1
@@ -17,6 +16,7 @@ ram_mb: 64
 target: brcm63xx
 unsupported_functions: Possible to support
 usb_ports: 1x 2.0
+vendor: ZTE
 version: '2.0'
 wlan_24ghz: b/g/n
 wlan_driver: b43

@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: CFE
-brand: Linksys
 comments: Mine has a Cisco logo on it
 cpu: Broadcom BCM5357
 cpu_cores: 1
@@ -37,6 +36,7 @@ supported_since_rel: '14.07'
 switch: Broadcom BCM5357
 target: brcm47xx
 unsupported_functions: WiFi 2.4GHz
+vendor: Linksys
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_E1200_v2

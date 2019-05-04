@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Linksys
 cpu: Broadcom BCM5358
 cpu_cores: 1
 cpu_mhz: 300
@@ -28,6 +27,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=98
 supported_since_rel: '15.05'
 switch: Broadcom BCM5358UB0
 target: brcm47xx
+vendor: Linksys
 version: v1
 wikidevi_url: https://wikidevi.com/wiki/Linksys_E2500_v1
 wlan_24ghz: b/g/n

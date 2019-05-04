@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: JBoot
-brand: D-Link
 button_count: '2'
 cpu: MediaTek MT7620A
 cpu_cores: 1
@@ -32,6 +31,7 @@ subtarget: mt7620
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=67fced9ba336dd69c5a35aec3157db4b158a9e2d
 target: ramips
+vendor: D-Link
 version: A1
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-510L_rev_A1
 wlan_24ghz: b/g/n

@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Actiontec
 cpu: Broadcom BCM6368
 cpu_cores: 2
 cpu_mhz: 400
@@ -24,5 +23,6 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f9
 supported_since_rel: 18.06.0
 target: brcm63xx
 usb_ports: 1x 2.0
+vendor: Actiontec
 wlan_24ghz: b/g/n
 wlan_driver: unknown

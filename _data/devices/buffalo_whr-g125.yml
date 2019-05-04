@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Buffalo
 cpu: Broadcom BCM5354
 cpu_cores: 1
 cpu_mhz: 240
@@ -28,6 +27,7 @@ supported_current_rel: 10.03.1
 supported_since_rel: '8.09'
 switch: Broadcom BCM5354
 target: brcm47xx
+vendor: Buffalo
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Buffalo_WHR-G125
 wlan_24ghz: b/g

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Scientific Atlanta
 comments_network_ports: 2x VOIP
 cpu: Broadcom BCM3368
 cpu_cores: 1
@@ -21,6 +20,7 @@ serial: true
 target: brcm63xx
 unsupported_functions: Possible to support
 usb_ports: 1x Device
+vendor: Scientific Atlanta
 version: '1.1'
 wikidevi_url: https://wikidevi.com/wiki/Scientific_Atlanta_WebSTAR_DPC2203C
 wlan_driver: unknown

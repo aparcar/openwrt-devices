@@ -1,6 +1,5 @@
 availability: Discontinued 2014
 bootloader: U-Boot
-brand: Linksys
 cpu: Atheros AR9132
 cpu_cores: 1
 cpu_mhz: 400
@@ -22,6 +21,7 @@ ram_mb: 32
 serial: true
 subtarget: generic
 target: ar71xx
+vendor: Linksys
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Cisco_WAP4410N

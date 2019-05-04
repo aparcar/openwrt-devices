@@ -1,7 +1,6 @@
 audio_ports: other
 availability: Discontinued
 bootloader: JBoot
-brand: D-Link
 button_count: '2'
 cpu: MediaTek MT7620N
 cpu_cores: 1
@@ -40,6 +39,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 switch: MediaTek MT7620N
 target: ramips
+vendor: D-Link
 version: C1
 vlan: true
 wlan_24ghz: b/g/n

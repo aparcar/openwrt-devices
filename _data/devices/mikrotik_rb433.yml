@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: RouterBOOT
-brand: MikroTik
 cpu: Atheros AR7130
 cpu_cores: 1
 cpu_mhz: 300
@@ -30,6 +29,7 @@ supported_current_rel: 18.06.2
 supported_since_rel: '12.09'
 target: ar71xx
 usb_ports: Mod
+vendor: MikroTik
 vlan: true
 wlan_driver: unknown
 wlan_hardware: 3x mini-PCI

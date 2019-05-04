@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Asus
 button_count: '1'
 cpu: Broadcom BCM5352E
 cpu_cores: 1
@@ -29,6 +28,7 @@ subtarget: legacy
 supported_current_rel: 18.06.2
 supported_since_rel: '7.06'
 target: brcm47xx
+vendor: Asus
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ASUS_WL-320gP
 wlan_24ghz: b/g

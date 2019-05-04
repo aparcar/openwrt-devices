@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Buffalo
 button_count: '2'
 comments: WHR-G300N v2 = WHR-G301N v1
 cpu: Atheros AR7240
@@ -31,6 +30,7 @@ supported_current_rel: 17.01.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=0d9ae0a0364fcea8c18465ade28c4b719542f018
 supported_since_rel: '12.09'
 target: ar71xx-ath79
+vendor: Buffalo
 version: v1
 vlan: true
 wlan_24ghz: b/g/n

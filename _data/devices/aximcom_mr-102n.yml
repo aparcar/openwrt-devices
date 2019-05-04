@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: AXIMCom
 cpu: Ralink RT3050
 cpu_cores: 1
 cpu_mhz: 320
@@ -27,6 +26,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=9c
 supported_since_rel: '15.05'
 target: ramips
 usb_ports: 1x 2.0
+vendor: AXIMCom
 vlan: false
 wlan_24ghz: b/g/n
 wlan_driver: rt2800pci

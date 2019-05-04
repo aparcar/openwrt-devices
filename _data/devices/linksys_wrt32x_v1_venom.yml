@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: Linksys
 comments: 'OEM Firmware Name: venom.img'
 comments_usb_sata_ports: eSATA <-> USB2
 cpu: Marvell Armada 385 88F6820
@@ -40,6 +39,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 switch: Marvell 88E6352
 target: mvebu
+vendor: Linksys
 version: v1 (venom)
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT32X

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '1'
 comments_network_ports: cpu is connected to 2 switch ports
 cpu: Qualcomm Atheros QCA9558
@@ -33,6 +32,7 @@ supported_since_rel: 17.01.0
 switch: Atheros AR8327N
 target: ar71xx
 usb_ports: 2x 2.0
+vendor: TP-Link
 version: v3.0 (CN)
 vlan: true
 wlan_24ghz: b/g/n

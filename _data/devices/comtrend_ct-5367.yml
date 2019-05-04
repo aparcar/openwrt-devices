@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Comtrend
 cpu: Broadcom BCM6338
 cpu_cores: 1
 cpu_mhz: 240
@@ -18,6 +17,7 @@ ram_mb: 16
 serial: true
 target: brcm63xx
 unsupported_functions: Impossible
+vendor: Comtrend
 vlan: true
 wlan_24ghz: b/g
 wlan_driver: b43

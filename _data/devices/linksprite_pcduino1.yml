@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Linksprite
 cpu: Allwinner A10
 cpu_cores: 1
 cpu_mhz: 1000
@@ -26,3 +25,4 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=51
 supported_since_rel: '15.05'
 target: sunxi
 usb_ports: 2x 2.0
+vendor: Linksprite

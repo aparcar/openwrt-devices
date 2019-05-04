@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: 8devices
 button_count: '2'
 cpu: Atheros AR9331
 cpu_cores: 1
@@ -33,6 +32,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=39
 supported_since_rel: '14.07'
 switch: Atheros AR9331
 target: ar71xx
+vendor: 8devices
 vlan: true
 where_available: shop.8devices.com
 wikidevi_url: https://wikidevi.com/wiki/8devices_Carambola_2

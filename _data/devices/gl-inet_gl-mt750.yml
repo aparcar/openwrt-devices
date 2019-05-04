@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: GL.iNet
 button_count: '1'
 comments: OpenWrt pre-installed; GPIOs available; MMC interface
 cpu: MediaTek MT7620A
@@ -36,6 +35,7 @@ supported_since_rel: 17.01.0
 target: ramips
 unsupported_functions: WiFi 5GHz
 usb_ports: 1x 2.0
+vendor: GL.iNet
 vlan: true
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

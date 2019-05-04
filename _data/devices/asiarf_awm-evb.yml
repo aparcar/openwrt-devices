@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: AsiaRF
 cpu: Ralink RT5350F
 cpu_cores: 1
 cpu_mhz: 360
@@ -17,6 +16,7 @@ ram_mb: 32
 subtarget: rt305x
 target: ramips
 usb_ports: 1x 2.0
+vendor: AsiaRF
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: unknown

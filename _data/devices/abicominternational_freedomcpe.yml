@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: Abicom International
 cpu: Atheros AR5312
 cpu_cores: 1
 cpu_mhz: 220
@@ -21,6 +20,7 @@ serial: true
 supported_current_rel: '10.03'
 supported_since_rel: '10.03'
 target: ath25
+vendor: Abicom International
 version: Rev 05
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Abicom_International_Freedom_CPE_rev_05

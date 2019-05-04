@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: RouterBOOT
-brand: MikroTik
 button_count: '1'
 comment_installation: Requires initramfs network boot to install; run sysupgrade after
   that.
@@ -35,6 +34,7 @@ supported_since_rel: 17.01.0
 switch: Atheros AR8316
 target: ar71xx
 usb_ports: 2x 2.0
+vendor: MikroTik
 vlan: true
 wlan_driver: unknown
 wlan_hardware: 5x mini-PCI

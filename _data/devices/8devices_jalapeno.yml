@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: 8devices
 cpu: Qualcomm Atheros IPQ4018
 cpu_cores: 4
 cpu_mhz: 700
@@ -32,6 +31,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 switch: Qualcomm Atheros QCA8072
 target: ipq40xx
+vendor: 8devices
 where_available: shop.8devices.com
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

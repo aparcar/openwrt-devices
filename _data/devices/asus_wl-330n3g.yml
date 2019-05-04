@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Asus
 comments: Needs USB 3G modem for 3G (no built-in 3G hardware)
 cpu: Ralink RT3050
 cpu_cores: 1
@@ -30,6 +29,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=36
 supported_since_rel: '15.05'
 target: ramips
 usb_ports: 1x 2.0
+vendor: Asus
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/ASUS_WL-330N3G
 wlan_24ghz: b/g/n

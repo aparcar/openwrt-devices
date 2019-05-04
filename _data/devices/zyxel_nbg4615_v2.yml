@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: ZyXEL
 cpu: Ralink RT6856
 cpu_cores: 1
 cpu_mhz: 700
@@ -19,6 +18,7 @@ switch: Realtek RTL8367RB
 target: ramips
 unsupported_functions: Possible to support
 usb_ports: 2x 2.0
+vendor: ZyXEL
 version: v2
 wikidevi_url: https://wikidevi.com/wiki/ZyXEL_NBG4615_v2
 wlan_24ghz: b/g/n

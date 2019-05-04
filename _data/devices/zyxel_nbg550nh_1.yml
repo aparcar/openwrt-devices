@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: Bootbase
-brand: ZyXEL
 button_count: '2'
 cpu: Atheros AR9132
 cpu_cores: 1
@@ -24,6 +23,7 @@ serial: true
 subtarget: generic
 switch: Realtek RTL8366SR
 target: ar71xx
+vendor: ZyXEL
 version: '1'
 wlan_24ghz: b/g/n
 wlan_comments: 3x3

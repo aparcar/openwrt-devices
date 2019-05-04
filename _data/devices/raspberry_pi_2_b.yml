@@ -1,5 +1,4 @@
 availability: Available 2019
-brand: Raspberry Pi Foundation
 cpu: Broadcom BCM2836
 cpu_cores: 4
 cpu_mhz: 900
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ca
 supported_since_rel: '15.05'
 target: brcm2708
 usb_ports: 4x 2.0
+vendor: Raspberry Pi Foundation
 version: B
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/RPF_Raspberry_Pi_2_Model_B_%281GB%29

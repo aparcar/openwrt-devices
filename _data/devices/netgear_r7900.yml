@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: CFE
-brand: Netgear
 cpu: Broadcom BCM4709A0
 cpu_cores: 2
 cpu_mhz: 1000
@@ -35,6 +34,7 @@ supported_since_rel: 17.01.0
 switch: Broadcom BCM4709A0
 target: bcm53xx
 usb_ports: 1x 3.0
+vendor: Netgear
 vlan: true
 where_available: amazon.com
 wikidevi_url: https://wikidevi.com/wiki/Netgear_R7900

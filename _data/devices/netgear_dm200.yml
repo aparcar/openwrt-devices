@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Netgear
 button_count: '1'
 cpu: Lantiq XWAY VRX220
 cpu_cores: 2
@@ -33,5 +32,6 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=50e3659703113df036e755e0d483172c3b809242
 supported_since_rel: 18.06.0
 target: lantiq
+vendor: Netgear
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_DM200

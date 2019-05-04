@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: YunCore
 button_count: '1'
 cpu: Qualcomm Atheros QCA9531 v2
 cpu_cores: 1
@@ -27,5 +26,6 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=01dda0659eb7d029672af3bd3b590d98e2ee0a5d
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: YunCore
 wlan_24ghz: b/g/n
 wlan_driver: unknown

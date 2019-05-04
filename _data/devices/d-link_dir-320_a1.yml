@@ -1,6 +1,5 @@
 availability: Discontinued 2011
 bootloader: CFE
-brand: D-Link
 cpu: Broadcom BCM5354
 cpu_cores: 1
 cpu_mhz: 240
@@ -28,6 +27,7 @@ supported_since_rel: '10.03'
 switch: Broadcom BCM5354
 target: brcm47xx
 usb_ports: 1x 2.0
+vendor: D-Link
 version: A1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-320_rev_A1

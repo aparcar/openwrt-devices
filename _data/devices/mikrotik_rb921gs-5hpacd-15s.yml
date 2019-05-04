@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: RouterBOOT
-brand: MikroTik
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
 cpu_mhz: 720
@@ -28,6 +27,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=82626cc145610b8b6485d650693629ef0b943505
 supported_since_rel: 18.06.0
 target: ar71xx
+vendor: MikroTik
 wlan_50ghz: a/n/ac
 wlan_driver: ath10k
 wlan_hardware: Qualcomm Atheros QCA9882

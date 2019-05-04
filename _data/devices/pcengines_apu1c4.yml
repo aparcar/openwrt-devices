@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: Coreboot
-brand: PC Engines
 cpu: AMD T40E
 cpu_cores: 2
 cpu_mhz: 1000
@@ -27,6 +26,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=1898f7339fc6a6f39e093562f2c4b6de534ef4db
 target: x86
 usb_ports: 2x 2.0
+vendor: PC Engines
 vlan: false
 wlan_driver: unknown
 wlan_hardware: Optional (2x mini-PCI-E/1x mini-PCI-E for 3G)

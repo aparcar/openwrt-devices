@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: brnboot
-brand: Arcadyan / Astoria
 button_count: '2'
 cpu: Lantiq XWAY Danube
 cpu_cores: 2
@@ -30,6 +29,7 @@ supported_since_rel: 10.03.1
 switch: Realtek RTL8306SD
 target: lantiq
 usb_ports: 1x 2.0
+vendor: Arcadyan / Astoria
 version: R01
 wikidevi_url: https://wikidevi.com/wiki/Arcadyan_ARV4518PW
 wlan_24ghz: b/g

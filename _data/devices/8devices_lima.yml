@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: 8devices
 cpu: Qualcomm Atheros QCA4531
 cpu_cores: 1
 cpu_mhz: 650
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=58
 supported_since_rel: 18.06.0
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: 8devices
 where_available: shop.8devices.com
 wlan_24ghz: b/g/n
 wlan_driver: unknown

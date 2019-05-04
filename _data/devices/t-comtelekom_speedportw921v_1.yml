@@ -1,5 +1,4 @@
 availability: Discontinued 2014
-brand: T-Com / Telekom
 cpu: Lantiq XWAY VRX288
 cpu_cores: 2
 cpu_mhz: 500
@@ -20,6 +19,7 @@ serial: true
 subtarget: xrx200
 target: lantiq
 usb_ports: 2x 2.0
+vendor: T-Com / Telekom
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n
 wlan_driver: unknown

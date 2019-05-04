@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: Breed
-brand: YOUKU
 button_count: '1'
 cpu: MediaTek MT7620A
 cpu_cores: 1
@@ -27,5 +26,6 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 17.01.0
 target: ramips
 usb_ports: 1x 2.0
+vendor: YOUKU
 wlan_driver: unknown
 wlan_hardware: MediaTek MT7620A

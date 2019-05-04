@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: RouterBOOT
-brand: MikroTik
 button_count: '2'
 cpu: MediaTek MT7621AT
 cpu_cores: 2
@@ -35,6 +34,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 switch: MediaTek MT7621AT
 target: ramips
 usb_ports: 1x 2.0
+vendor: MikroTik
 vlan: true
 where_available: amazon.com
 wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_hEX_v3_(RB750Gr3)

@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 cpu: Atheros AR9331
 cpu_cores: 1
@@ -35,6 +34,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=4961c7d0f51674063a58a11032ea62eb9ef111f3
 supported_since_rel: '15.05'
 target: ar71xx
+vendor: TP-Link
 version: v2.x
 vlan: false
 wlan_24ghz: b/g/n

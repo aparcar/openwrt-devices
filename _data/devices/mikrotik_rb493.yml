@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RouterBOOT
-brand: MikroTik
 button_count: '1'
 comments_network_ports: Install has eth0 and eth1 mis-assigned and switch mis-configured
 cpu: Atheros AR7130
@@ -33,6 +32,7 @@ supported_current_rel: 18.06.2
 supported_since_rel: '12.09'
 switch: IC+ IP178C
 target: ar71xx
+vendor: MikroTik
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_493_%28RB493%29
 wlan_driver: unknown

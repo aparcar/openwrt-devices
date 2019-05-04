@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 comments: Works with TD-W8980 image acc. devicepage
 cpu: Lantiq XWAY VRX268
 cpu_cores: 2
@@ -35,6 +34,7 @@ supported_since_rel: 17.01.0
 target: lantiq
 unsupported_functions: WiFi 5GHz
 usb_ports: 2x 2.0
+vendor: TP-Link
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TD-W9980_v1.x
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

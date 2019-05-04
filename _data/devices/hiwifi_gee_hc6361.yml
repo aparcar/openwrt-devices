@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: HiWiFi/Gee
 button_count: '1'
 comment_installation: Need to downgrade (unlock) U-Boot at first, do not reboot, then
   issue sysupgrade -F -n sysupgrade -F -n *sysupgrade.bin to install Openwrt, you
@@ -35,6 +34,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=5c1105d2a149f80386dbaeb6f52af7ccbdc48adc
 supported_since_rel: '14.07'
 target: ar71xx
+vendor: HiWiFi/Gee
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/HiWiFi_HC6361
 wlan_24ghz: b/g/n

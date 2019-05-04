@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: BDCOM
 comments: aka ZTE ZXECS EBG3130
 cpu: MediaTek MT7620A
 cpu_cores: 1
@@ -25,5 +24,6 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=16b950c981c91bcd2dde8bd1c4ed10bf3a6b1763
 target: ramips
 usb_ports: 1x 2.0
+vendor: BDCOM
 wlan_24ghz: b/g/n
 wlan_driver: unknown

@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Globalscale
 cpu: Marvell Armada 3700LP 88F3720
 cpu_cores: 2
 cpu_mhz: 1000
@@ -34,6 +33,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 switch: Marvell Topaz 88E6341
 target: mvebu
+vendor: Globalscale
 version: V5_0_1
 vlan: true
 where_available: www.globalscaletechnologies.com, www.amazon.com, taobao.com

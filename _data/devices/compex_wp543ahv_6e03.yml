@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Compex
 cpu: Atheros AR7161
 cpu_cores: 1
 cpu_mhz: 680
@@ -24,6 +23,7 @@ subtarget: generic
 supported_current_rel: 17.01.4
 supported_since_rel: '12.09'
 target: ar71xx
+vendor: Compex
 version: 6E03
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Compex_WP543AHV

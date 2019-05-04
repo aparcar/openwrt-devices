@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Samsung
 cpu: Infineon PSB50505
 cpu_cores: 1
 cpu_mhz: 235
@@ -19,4 +18,5 @@ ram_mb: 64
 serial: true
 target: lantiq
 usb_ports: 1x 2.0
+vendor: Samsung
 wlan_driver: unknown

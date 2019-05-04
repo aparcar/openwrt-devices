@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: Digineo
 comments: Same as ZBT WG3526; renamed to WG3526 32M -> AC1200pro Image will be gone
   with next release (>17.01.1), see https://git.lede-project.org/?p=source.git;a=commit;h=3cfc909c54c07d5a24d9a1a7496142b82d580878
 cpu: MediaTek MT7621AT
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=8b
 supported_since_rel: 17.01.0
 target: ramips
 usb_ports: 1x 3.0
+vendor: Digineo
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac
 wlan_driver: mt76

@@ -1,6 +1,5 @@
 availability: unknown 2019
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
@@ -28,5 +27,6 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=8de907c441db8a4aae746f44ee2c4651225d389f
 switch: Atheros AR8236
 target: ath79
+vendor: TP-Link
 version: v7 (CN)
 wlan_driver: unknown

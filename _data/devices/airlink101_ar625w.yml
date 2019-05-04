@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Airlink101
 cpu: Marvell 88F5181
 cpu_cores: 1
 cpu_mhz: 500
@@ -15,6 +14,7 @@ model: AR625W
 ram_mb: 32
 target: orion
 unsupported_functions: WIP
+vendor: Airlink101
 wikidevi_url: https://wikidevi.com/wiki/Airlink101_AR625W
 wlan_24ghz: b/g/n
 wlan_driver: mwlwifi

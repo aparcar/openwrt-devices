@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Linksys
 cpu: Broadcom BCM4716
 cpu_cores: 1
 cpu_mhz: 300
@@ -29,6 +28,7 @@ supported_since_rel: '15.05'
 switch: Broadcom BCM53115
 target: brcm47xx
 unsupported_functions: WiFi 2.4GHz partly
+vendor: Linksys
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT310N_v2

@@ -1,5 +1,4 @@
 availability: Available 2019
-brand: Ubiquiti
 comment_installation: Flashing through the system upgrade GUI is only possible with
   the unsigned OEM firmware v5.6.12 or v5.6.15!
 comment_recovery: Power off the device, press and hold reset 8 sec. with power on
@@ -34,6 +33,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: "http://\xBF"
 supported_since_rel: 18.06.1
 target: ar71xx
+vendor: Ubiquiti
 vlan: true
 where_available: amazon.com
 wikidevi_url: "http://\xBF"

@@ -6,7 +6,7 @@ import os
 import yaml
 import json
 
-dev = True
+dev = False
 
 base_url = "https://openwrt.org"
 
@@ -50,10 +50,11 @@ def download_images():
             if href != "/_media/media/example/genericrouter1.png?cache=":
                 url = base_url + href
                 suffix = url.split("?")[0].split(".")[-1]
-                print(url)
+                image = device + "." + suffix
+
                 try:
                     with urllib.request.urlopen(url) as response, open(
-                        "images/devices/" + device + "." + suffix, "wb"
+                        "images/devices/" + image, "wb"
                     ) as out_file:
                         data = response.read()  # a `bytes` object
                         out_file.write(data)
@@ -62,7 +63,7 @@ def download_images():
                     if os.path.exists(yaml_path):
                         with open(yaml_path, "r") as yaml_file:
                             device_info = yaml.full_load(yaml_file.read())
-                        device_info["image"] = device + "." + suffix
+                        device_info["image"] = image
                         with open(yaml_path, "w") as yaml_file:
                             yaml.dump(device_info, yaml_file, default_flow_style=False)
                         print("stored and added", device)
@@ -86,6 +87,9 @@ def parse_raw_devices():
         if os.path.exists(yaml_path):
             with open(yaml_path, "r") as yaml_file:
                 device_info = yaml.full_load(yaml_file.read())
+            device_info["vendor"] = device_info["brand"]
+            if "brand" in device_info: device_info.pop("brand", None)
+
         else:
             with open("raw/" + device_raw, "r") as device_file:
                 soup = BeautifulSoup(device_file.read(), "html.parser")
@@ -150,5 +154,5 @@ def download_raw_devices():
 
 
 # download_raw_devices()
-# parse_raw_devices()
-download_images()
+parse_raw_devices()
+#download_images()

@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Netgear
 cpu: Broadcom BCM4704KFBG
 cpu_cores: 1
 cpu_mhz: 264
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=76
 supported_since_rel: '12.09'
 switch: Broadcom BCM5325F
 target: brcm47xx
+vendor: Netgear
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WNR834Bv2

@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: "SFR (Soci\xE9t\xE9 Fran\xE7aise de Radiot\xE9l\xE9phonie)"
 cpu: Broadcom BCM6358
 cpu_cores: 2
 cpu_mhz: 300
@@ -23,6 +22,7 @@ supported_since_rel: 10.03.1
 switch: Broadcom BCM5325
 target: brcm63xx
 usb_ports: 2x 2.0
+vendor: "SFR (Soci\xE9t\xE9 Fran\xE7aise de Radiot\xE9l\xE9phonie)"
 vlan: true
 wlan_24ghz: b/g
 wlan_driver: b43

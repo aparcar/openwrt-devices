@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Inventel
 comments_network_ports: '7'
 cpu: Broadcom BCM6348
 cpu_cores: 1
@@ -18,6 +17,7 @@ subtarget: generic
 target: brcm63xx
 unsupported_functions: Impossible
 usb_ports: true
+vendor: Inventel
 version: D5213
 vlan: false
 wlan_driver: unknown

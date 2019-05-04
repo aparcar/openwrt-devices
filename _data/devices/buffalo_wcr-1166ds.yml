@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Buffalo
 button_count: '3'
 comments: Due to the "dual image" function in the bootloader, the second half of the
   SPI flash ("firmware2" partition) cannot be used as a part of the file system.
@@ -31,6 +30,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=6b0b526a4fc11d3b1b588d5b3b789da0c66adce9
 supported_since_rel: 18.06.0
 target: ramips
+vendor: Buffalo
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac
 wlan_driver: mt76

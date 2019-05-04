@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 button_count: '3'
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
@@ -29,6 +28,7 @@ subtarget: generic
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=f61e754522996d1557691f945518b69a14d0446c
 target: ath79
+vendor: Netgear
 wikidevi_url: https://wikidevi.com/wiki/Netgear_EX7300
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

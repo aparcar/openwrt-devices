@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Linksys
 comment_installation: OpenWrt is installed using the upslug2 utility available on
   some Linux distributions
 cpu: Intel IXP422
@@ -28,5 +27,6 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=3f
 supported_since_rel: '7.06'
 target: ixp4xx
 usb_ports: 2x 2.0
+vendor: Linksys
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Linksys_NSLU2

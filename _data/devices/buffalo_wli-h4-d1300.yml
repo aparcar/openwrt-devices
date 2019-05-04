@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: CFE
-brand: Buffalo
 cpu: Broadcom BCM4706
 cpu_cores: 1
 cpu_mhz: 600
@@ -21,6 +20,7 @@ subtarget: mips74k
 target: brcm47xx
 unsupported_functions: Possible to support
 usb_ports: 1x 2.0
+vendor: Buffalo
 wikidevi_url: https://wikidevi.com/wiki/Buffalo_WLI-H4-D1300
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Bitmain
 cpu: Atheros AR9331
 cpu_cores: 1
 cpu_mhz: 400
@@ -28,6 +27,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=055663201b7ce579815ec1cd23424237aede5134
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: Bitmain
 wikidevi_url: "http://\xBF"
 wlan_24ghz: b/g/n
 wlan_driver: ath9k

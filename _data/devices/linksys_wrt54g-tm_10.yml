@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Linksys
 comments: WRT54G-TM is a renamed WRT54GS v3.0
 cpu: Broadcom BCM5352E
 cpu_cores: 1
@@ -27,6 +26,7 @@ supported_current_rel: 18.06.2
 supported_since_rel: '0.9'
 switch: Broadcom BCM5352E
 target: brcm47xx
+vendor: Linksys
 version: v1.0
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT54G-TM

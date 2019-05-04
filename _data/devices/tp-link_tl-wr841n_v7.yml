@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 cpu: Atheros AR7241
 cpu_cores: 1
 cpu_mhz: 400
@@ -32,6 +31,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ef
 supported_since_rel: '12.09'
 switch: Atheros AR7241
 target: ar71xx-ath79
+vendor: TP-Link
 version: v7
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR841N_v7.x

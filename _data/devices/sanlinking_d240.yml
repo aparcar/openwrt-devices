@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Sanlinking
 button_count: '1'
 comments: Basically the same device as the ZBT WE826; see there for unbricking instructions.
 cpu: MediaTek MT7620A
@@ -28,5 +27,6 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=bb
 supported_since_rel: 17.01.2
 target: ramips
 usb_ports: 1x 2.0
+vendor: Sanlinking
 wlan_24ghz: b/g/n
 wlan_driver: unknown

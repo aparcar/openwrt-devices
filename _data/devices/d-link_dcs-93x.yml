@@ -1,6 +1,5 @@
 availability: Discontinued 2018
 bootloader: U-Boot
-brand: D-Link
 cpu: Ralink RT5350F
 cpu_cores: 1
 cpu_mhz: 320
@@ -27,6 +26,7 @@ supported_current_rel: 18.06.1
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e26ba31f76a4498be4080a8481f010d6a6cd54ed
 supported_since_rel: '14.07'
 target: ramips
+vendor: D-Link
 version: B1
 vlan: false
 wlan_24ghz: b/g/n

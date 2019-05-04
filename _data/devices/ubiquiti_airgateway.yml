@@ -1,5 +1,4 @@
 availability: Available 2017
-brand: Ubiquiti
 cpu: Atheros AR9330 rev 1
 cpu_cores: 1
 cpu_mhz: 400
@@ -30,6 +29,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=d1
 supported_since_rel: '14.07'
 switch: Atheros AR9331
 target: ar71xx
+vendor: Ubiquiti
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Ubiquiti_Networks_airGateway
 wlan_24ghz: b/g/n

@@ -1,5 +1,4 @@
 availability: Available 2019
-brand: COMFAST
 button_count: '1'
 cpu: Qualcomm Atheros QCA9531
 cpu_cores: 1
@@ -25,6 +24,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=e07014e70bae07201844265d74f88234685e694c
 supported_since_rel: 18.06.0
 target: ar71xx
+vendor: COMFAST
 version: v2
 where_available: aliexpress.com
 wlan_24ghz: b/g/n

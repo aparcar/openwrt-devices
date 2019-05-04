@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: EVA
-brand: AVM
 button_count: '2'
 comment_recovery: AVM provides a recovery tool for Windows
 comments: See also https://boxmatrix.info/wiki/FRITZ!Box_7490 (old http://www.wehavemorefun.de/fritzbox/FRITZ!Box_Fon_WLAN_7490)
@@ -31,6 +30,7 @@ subtarget: xrx200
 switch: Atheros AR8035
 target: lantiq
 usb_ports: 2x 3.0
+vendor: AVM
 vlan: true
 where_available: amazon.de
 wikidevi_url: https://wikidevi.com/wiki/AVM

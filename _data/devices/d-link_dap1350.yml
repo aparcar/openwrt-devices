@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: D-Link
 button_count: '3'
 cpu: Ralink RT3052
 cpu_cores: 1
@@ -33,6 +32,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=79
 supported_since_rel: '12.09'
 target: ramips
 usb_ports: 1x 2.0
+vendor: D-Link
 version: A1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DAP-1350_rev_A1

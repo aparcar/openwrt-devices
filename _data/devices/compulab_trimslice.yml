@@ -1,7 +1,6 @@
 availability: Discontinued 2014
 bluetooth: other
 bootloader: U-Boot
-brand: CompuLab
 button_count: '1'
 comments_usb_sata_ports: SATA optional; USB to SATA bridge
 cpu: NVIDIA Tegra 2
@@ -33,6 +32,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=bba0c012b824c8281b16e120126e3d6f8c09b01f
 target: tegra
 unsupported_functions: DVI-D
+vendor: CompuLab
 wlan_24ghz: b/g/n
 wlan_comments: optional
 wlan_driver: rt2800usb

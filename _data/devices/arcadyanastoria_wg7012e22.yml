@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Arcadyan / Astoria
 button_count: '2'
 cpu: Ralink RT3052
 cpu_cores: 1
@@ -20,5 +19,6 @@ ram_mb: 32
 subtarget: rt305x
 target: ramips
 usb_ports: 1x 2.0
+vendor: Arcadyan / Astoria
 wlan_24ghz: b/g/n
 wlan_driver: unknown

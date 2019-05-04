@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RouterBOOT
-brand: MikroTik
 cpu: Atheros AR7240
 cpu_cores: 1
 cpu_mhz: 300
@@ -27,5 +26,6 @@ supported_current_rel: 18.06.2
 supported_since_rel: '12.09'
 switch: Atheros AR7240
 target: ar71xx
+vendor: MikroTik
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_750_(RB750)

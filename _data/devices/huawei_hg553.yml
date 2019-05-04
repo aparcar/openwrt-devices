@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: CFE
-brand: Huawei
 cpu: Broadcom BCM6358
 cpu_cores: 2
 cpu_mhz: 300
@@ -29,6 +28,7 @@ switch: Broadcom BCM5325
 target: brcm63xx
 unsupported_functions: DSL modem
 usb_ports: 2x 2.0
+vendor: Huawei
 vlan: true
 wlan_24ghz: b/g
 wlan_driver: b43

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Sitecom
 button_count: '1'
 cpu: Ralink RT3052_MP2
 cpu_cores: 1
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=7b
 supported_since_rel: '12.09'
 switch: Realtek RTL8366RB
 target: ramips
+vendor: Sitecom
 version: v1 002
 wikidevi_url: https://wikidevi.com/wiki/Sitecom_WL-351_v1_002
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 cpu: Atheros AR9341
 cpu_cores: 1
 cpu_mhz: 500
@@ -32,6 +31,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=3d341e8ca51be0387a70515b2835b958d6bf8767
 supported_since_rel: '15.05'
 target: ar71xx
+vendor: TP-Link
 version: v1
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WA750RE_v1.x
 wlan_24ghz: b/g/n

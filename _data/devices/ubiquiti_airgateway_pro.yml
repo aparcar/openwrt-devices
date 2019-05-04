@@ -1,5 +1,4 @@
 availability: Available 2017
-brand: Ubiquiti
 button_count: '2'
 cpu: Atheros AR9344
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=1297679f4bbd47000d3ee36ed0f09efd7c581e76
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: Ubiquiti
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n
 wlan_driver: ath9k

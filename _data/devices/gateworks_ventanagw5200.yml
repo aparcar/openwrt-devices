@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: Gateworks
 cpu: Freescale i.MX 6
 cpu_cores: 2
 cpu_mhz: 800
@@ -27,6 +26,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: '15.05'
 target: imx6
 usb_ports: 1x OTG
+vendor: Gateworks
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Gateworks_Ventana_GW5200
 wlan_24ghz: b/g/n

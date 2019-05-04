@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: MTC
 button_count: '1'
 comment_installation: Flash first -initramfs.bin and after, -squashfs.bin
 cpu: MediaTek MT7621AT
@@ -33,6 +32,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=30a7ab8f61c8a5f1a4428f8c7cf9a1d6a12b096b
 target: ramips
 usb_ports: 1x 3.0
+vendor: MTC
 vlan: true
 where_available: amazon.es, amazon.de, jacob.de
 wlan_24ghz: b/g/n

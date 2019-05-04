@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 button_count: '3'
 cpu: Atheros AR9344
 cpu_cores: 1
@@ -36,6 +35,7 @@ supported_since_rel: '15.05'
 switch: Atheros AR9344
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: Netgear
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_R6100
 wlan_24ghz: b/g/n

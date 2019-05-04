@@ -1,6 +1,5 @@
 availability: unknown 2019
 bootloader: U-Boot
-brand: Qxwlan
 button_count: '1'
 cpu: Qualcomm Atheros IPQ4019
 cpu_cores: 4
@@ -29,6 +28,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 switch: Qualcomm Atheros QCA8075
 target: ipq40xx
 usb_ports: 1x 3.0
+vendor: Qxwlan
 version: C1
 vlan: true
 wlan_24ghz: b/g/n

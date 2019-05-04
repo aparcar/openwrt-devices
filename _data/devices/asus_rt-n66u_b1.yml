@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: CFE
-brand: Asus
 comments: 'RT-N66U = black case; RT-N66W = white case; RT-N66R = retail packaging
   for some countries; All devices (U,W,R) are the same hardware + software. (Source:
   wikidevi + https://forum.openwrt.org/viewtopic.php?pid=292174)'
@@ -38,6 +37,7 @@ supported_since_rel: '15.05'
 switch: Broadcom BCM53125
 target: brcm47xx
 usb_ports: 2x 2.0
+vendor: Asus
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N66U
 wlan_24ghz: b/g/n

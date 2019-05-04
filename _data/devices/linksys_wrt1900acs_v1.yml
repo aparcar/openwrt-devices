@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: Linksys
 comment_installation: Image name may need to be changed to OEM Code Name
 comment_recovery: Image name MUST be OEM Code Name
 comments: '[Launch Date: 2015.10] OEM Firmware Name: shelby.img. (Device Page: see
@@ -44,6 +43,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=8b
 supported_since_rel: '15.05'
 switch: Marvell 88E6176
 target: mvebu
+vendor: Linksys
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT1900ACS
 wlan_24ghz: b/g/n

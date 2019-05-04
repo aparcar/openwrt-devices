@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: Telsey
 comments_network_ports: 4x Eth, 1x fiber, 2x RJ9
 cpu: Broadcom BCM6369
 cpu_cores: 2
@@ -16,6 +15,7 @@ subtarget: generic
 target: brcm63xx
 unsupported_functions: Possible to support
 usb_ports: 2x 2.0
+vendor: Telsey
 vlan: false
 wlan_24ghz: b/g/n
 wlan_driver: rt2800pci

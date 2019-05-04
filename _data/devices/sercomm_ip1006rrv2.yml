@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Sercomm
 cpu: Ralink RT3052_MP1
 cpu_cores: 1
 cpu_mhz: 384
@@ -22,6 +21,7 @@ subtarget: rt305x
 supported_current_rel: '12.09'
 supported_since_rel: '12.09'
 target: ramips
+vendor: Sercomm
 wlan_24ghz: b/g/n
 wlan_driver: rt2800pci
 wlan_hardware: Ralink RT2800pci

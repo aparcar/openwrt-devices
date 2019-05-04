@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: Ubiquiti
 cpu: Atheros AR7240
 cpu_cores: 1
 cpu_mhz: 390
@@ -31,6 +30,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=20b2a4417affc2d85e6c0eba48f19edcdb54c359
 supported_since_rel: '12.09'
 target: ar71xx
+vendor: Ubiquiti
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Ubiquiti_Networks_UniFi
 wlan_24ghz: b/g/n

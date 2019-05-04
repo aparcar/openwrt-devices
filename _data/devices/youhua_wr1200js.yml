@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: YouHua
 button_count: '3'
 cpu: MediaTek MT7621AT
 cpu_cores: 2
@@ -32,6 +31,7 @@ supported_since_rel: 18.06.0
 switch: MediaTek MT7621AT
 target: ramips
 usb_ports: 1x 2.0
+vendor: YouHua
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Youhua_WR1200JS
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Available 2019
 bluetooth: '4.2'
-brand: Raspberry Pi Foundation
 comment_installation: Use an existing computer to flash disk image to MicroSD card
 comment_recovery: Use an existing computer to flash disk image to MicroSD card
 comments: The bootloader is an image on MicroSD Card (the data partition can be resized
@@ -44,6 +43,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 switch: LAN7515
 target: brcm2708
+vendor: Raspberry Pi Foundation
 version: B+
 where_available: commonly available
 wikidevi_url: https://wikidevi.com/wiki/RPF_Raspberry_Pi_3_Model_B%2B

@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Mercury
 cpu: MediaTek MT7628AN
 cpu_cores: 1
 cpu_mhz: 580
@@ -24,6 +23,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=083ef3fefecd024b2b9cdc496e1f7811c225041e
 supported_since_rel: 17.01.0
 target: ramips
+vendor: Mercury
 version: v2
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

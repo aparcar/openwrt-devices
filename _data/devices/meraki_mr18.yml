@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: other
-brand: Meraki
 comments_network_ports: PoE
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=abc84551c04783c2d59fdd4aa474d5a82ed30cf5
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: Meraki
 wikidevi_url: https://wikidevi.com/wiki/Cisco_Meraki_MR18
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

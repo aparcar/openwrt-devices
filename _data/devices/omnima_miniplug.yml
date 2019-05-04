@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Omnima
 cpu: Ralink RT5350
 cpu_cores: 1
 cpu_mhz: 360
@@ -22,4 +21,5 @@ supported_current_rel: 18.06.1
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=d04cab8dfc8340b530363c6afc99c86dccb075d1
 supported_since_rel: 17.01.0
 target: ramips
+vendor: Omnima
 wlan_driver: unknown

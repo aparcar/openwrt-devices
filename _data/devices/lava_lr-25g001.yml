@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: JBoot
-brand: Lava
 button_count: '2'
 cpu: MediaTek MT7620A
 cpu_cores: 1
@@ -30,6 +29,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 switch: Qualcomm Atheros QCA8337
 target: ramips
 usb_ports: 1x 2.0
+vendor: Lava
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Lava_LR-25G001
 wlan_24ghz: b/g/n

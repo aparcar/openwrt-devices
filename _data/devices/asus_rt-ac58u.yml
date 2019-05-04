@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Asus
 button_count: '2'
 cpu: Qualcomm Atheros IPQ4018
 cpu_cores: 4
@@ -34,6 +33,7 @@ supported_since_rel: 18.06.0
 switch: Qualcomm Atheros QCA8075
 target: ipq40xx
 usb_ports: 1x 3.0
+vendor: Asus
 vlan: true
 where_available: amazon.de
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-AC58U

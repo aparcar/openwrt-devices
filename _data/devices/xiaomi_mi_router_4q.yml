@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Xiaomi
 button_count: '2'
 cpu: Qualcomm Atheros QCA9561
 cpu_cores: 1
@@ -29,6 +28,7 @@ subtarget: generic
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=0c24b363a69d1445a280e41e5c33675be95295d1
 target: ath79
+vendor: Xiaomi
 where_available: aliexpress.com, gearbest.com
 wlan_24ghz: b/g/n
 wlan_driver: ath10k

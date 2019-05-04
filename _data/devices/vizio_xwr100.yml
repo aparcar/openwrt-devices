@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Vizio
 cpu: Atheros AR7161
 cpu_cores: 1
 cpu_mhz: 680
@@ -23,6 +22,7 @@ subtarget: generic
 switch: Atheros AR8236
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: Vizio
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/VIZIO_XWR100
 wlan_24ghz: b/g/n

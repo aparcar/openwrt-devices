@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Tenda
 cpu: Broadcom BCM6348
 cpu_cores: 1
 cpu_mhz: 256
@@ -19,6 +18,7 @@ subtarget: generic
 target: brcm63xx
 unsupported_functions: Impossible
 usb_ports: true
+vendor: Tenda
 wlan_24ghz: b/g
 wlan_driver: b43
 wlan_hardware: Broadcom BCM4318

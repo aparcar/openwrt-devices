@@ -1,6 +1,5 @@
 availability: unknown 2019
 bootloader: U-Boot
-brand: Librerouter
 button_count: '1'
 comment_installation: 'Prefered method: sysupgrade -n'
 cpu: Qualcomm Atheros QCA9558
@@ -31,6 +30,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=24463d0d9479bf701e3aaa122f539a43cc97402b
 switch: Qualcomm Atheros QCA8337N
 target: ath79
+vendor: Librerouter
 version: v1
 vlan: true
 wlan_24ghz: b/g/n

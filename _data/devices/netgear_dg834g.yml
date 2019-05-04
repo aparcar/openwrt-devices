@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: Adam2
-brand: Netgear
 cpu: Texas Instruments TNETD7300
 cpu_cores: 1
 cpu_mhz: 150
@@ -24,6 +23,7 @@ serial: true
 supported_current_rel: 10.03.1
 supported_since_rel: '10.03'
 target: ar7
+vendor: Netgear
 vlan: true
 wlan_24ghz: b/g
 wlan_driver: unknown

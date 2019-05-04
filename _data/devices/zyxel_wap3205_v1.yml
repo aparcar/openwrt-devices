@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: ZyXEL
 comments: WAP3205 v1 works with fw images for NBG-419N
 cpu: Ralink RT3052
 cpu_cores: 1
@@ -33,6 +32,7 @@ supported_current_rel: 18.06.1
 supported_since_rel: '12.09'
 switch: Ralink RT3052
 target: ramips
+vendor: ZyXEL
 version: v1
 wikidevi_url: https://wikidevi.com/wiki/ZyXEL_WAP3205
 wlan_24ghz: b/g/n

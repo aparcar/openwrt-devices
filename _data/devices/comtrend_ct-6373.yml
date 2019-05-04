@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Comtrend
 cpu: Broadcom BCM6358
 cpu_cores: 2
 cpu_mhz: 300
@@ -30,6 +29,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=18
 supported_since_rel: '12.09'
 target: brcm63xx
 unsupported_functions: DSL modem
+vendor: Comtrend
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Comtrend_CT-6373
 wlan_24ghz: b/g

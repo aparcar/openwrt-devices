@@ -1,6 +1,5 @@
 availability: Discontinued 2016
 bootloader: U-Boot
-brand: Netgear
 button_count: '3'
 cpu: Qualcomm Atheros IPQ8064
 cpu_cores: 2
@@ -37,6 +36,7 @@ switch: Qualcomm Atheros QCA8337
 target: ipq806x
 unsupported_functions: WiFi 5GHz
 usb_ports: 2x 3.0
+vendor: Netgear
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_R7500

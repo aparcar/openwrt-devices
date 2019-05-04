@@ -1,7 +1,6 @@
 availability: unknown 2018
 bluetooth: BLE
 bootloader: U-Boot
-brand: Meraki
 button_count: '1'
 cpu: Qualcomm Atheros IPQ4029
 cpu_cores: 4
@@ -33,6 +32,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 switch: Qualcomm Atheros AR8035
 target: ipq40xx
+vendor: Meraki
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac
 wlan_comments: 2x2 MU-MIMO

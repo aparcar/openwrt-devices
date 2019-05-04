@@ -1,6 +1,5 @@
 availability: Discontinued 2013
 bootloader: U-Boot
-brand: D-Link
 cpu: Atheros AR9344
 cpu_cores: 1
 cpu_mhz: 560
@@ -32,6 +31,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f7
 supported_since_rel: '14.07'
 target: ar71xx-ath79
 usb_ports: 1x 2.0
+vendor: D-Link
 version: C1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-825_rev_C1

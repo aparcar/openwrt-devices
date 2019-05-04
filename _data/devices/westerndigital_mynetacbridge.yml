@@ -1,5 +1,4 @@
 availability: Available 2017
-brand: Western Digital
 cpu: Broadcom BCM4706
 cpu_cores: 1
 cpu_mhz: 600
@@ -16,6 +15,7 @@ package_architecture: mipsel_74kc
 ram_mb: 64
 subtarget: mips74k
 target: brcm47xx
+vendor: Western Digital
 wikidevi_url: https://wikidevi.com/wiki/Western_Digital_My_Net_AC_Bridge
 wlan_50ghz: a/n/ac
 wlan_driver: b43

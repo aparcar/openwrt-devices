@@ -1,5 +1,4 @@
 availability: Available 2017
-brand: Ubiquiti
 button_count: '1'
 comments: OEM Firmware airOS V7.1-RC added encryption preventing flashing non-stock
   firmware. Do not update to latest version right out the box.
@@ -34,6 +33,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=cfd97db63ea4f0c0c1b73679feec7a2d99300783
 supported_since_rel: 10.03.1
 target: ar71xx-ath79
+vendor: Ubiquiti
 wlan_50ghz: a/n
 wlan_comments: HT40, HT20, HT10 & HT05
 wlan_driver: unknown

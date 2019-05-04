@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: Airlink101
 button_count: '2'
 comments: No update process available so save config and re-install to update
 cpu: Atheros AR2318
@@ -31,6 +30,7 @@ supported_current_rel: '12.09'
 supported_since_rel: 10.03.1
 switch: IC+ IP175E
 target: ath25
+vendor: Airlink101
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Airlink101_AR430W
 wlan_24ghz: b/g

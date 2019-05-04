@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Linksys
 cpu: Broadcom BCM5352
 cpu_cores: 1
 cpu_mhz: 200
@@ -22,6 +21,7 @@ subtarget: legacy
 supported_current_rel: 10.03.1
 supported_since_rel: '0.9'
 target: brcm47xx
+vendor: Linksys
 version: '4.0'
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT54G_v4

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: Gateway
 comments_network_ports: '2'
 cpu: Intel IXP422
 cpu_cores: 1
@@ -22,6 +21,7 @@ subtarget: generic
 supported_current_rel: '15.05'
 supported_since_rel: '7.06'
 target: ixp4xx
+vendor: Gateway
 version: g
 vlan: false
 wlan_24ghz: b/g

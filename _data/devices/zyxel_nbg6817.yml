@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: ZyXEL
 button_count: '2'
 comment_recovery: tftp server ip 192.168.1.99/24, rename image to 'ras.bin', hold
   WPS key while powering up.
@@ -37,6 +36,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=a0
 supported_since_rel: 17.01.5
 switch: Qualcomm Atheros QCA8337
 target: ipq806x
+vendor: ZyXEL
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ZyXEL_NBG6817
 wlan_24ghz: b/g/n

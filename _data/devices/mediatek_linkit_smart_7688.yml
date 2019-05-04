@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: MediaTek
 button_count: '2'
 cpu: MediaTek MT7688AN
 cpu_cores: 1
@@ -35,6 +34,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=51dd991d3957a33f102c9887da379263599c395f
 supported_since_rel: 15.05.1
 target: ramips
+vendor: MediaTek
 wikidevi_url: https://wikidevi.com/wiki/LinkIt_Smart_7688
 wlan_24ghz: b/g/n
 wlan_driver: unknown

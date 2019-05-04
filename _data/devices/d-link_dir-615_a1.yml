@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: D-Link
 cpu: Marvell 88F5180N
 cpu_cores: 1
 cpu_mhz: 500
@@ -20,6 +19,7 @@ serial: true
 switch: Marvell 88E6061
 target: orion
 unsupported_functions: WIP
+vendor: D-Link
 version: A1
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-615_rev_A1
 wlan_24ghz: b/g/n

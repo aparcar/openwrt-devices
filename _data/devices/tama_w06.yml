@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Tama
 button_count: '1'
 cpu: MediaTek MT7688AN
 cpu_cores: 1
@@ -29,5 +28,6 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=e1d4aa36b0e08d7e4b77b8b1a7ddae44188e8eb1
 supported_since_rel: 18.06.0
 target: ramips
+vendor: Tama
 wlan_24ghz: b/g/n
 wlan_driver: unknown

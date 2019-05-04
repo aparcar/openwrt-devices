@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: RouterBOOT
-brand: MikroTik
 button_count: '1'
 cpu: Qualcomm IPQ4019
 cpu_cores: 4
@@ -34,6 +33,7 @@ supported_current_rel: external image
 supported_since_commit: "http://\xBF"
 switch: Atheros AR8327
 target: ipq40xx
+vendor: MikroTik
 vlan: true
 where_available: https://mikrotik.com/buy
 wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_450Gx4_(RB450Gx4)

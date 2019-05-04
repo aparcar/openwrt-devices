@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: RouterBOOT
-brand: MikroTik
 button_count: '1'
 cpu: MediaTek MT7621A
 cpu_cores: 2
@@ -37,6 +36,7 @@ supported_since_rel: 18.06.0
 switch: MediaTek MT7621A
 target: ramips
 usb_ports: 1x 3.0
+vendor: MikroTik
 vlan: true
 where_available: mikrotik-store.eu, amazon.com, amazon.de
 wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_M33_(RBM33G)

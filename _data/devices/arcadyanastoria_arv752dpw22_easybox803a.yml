@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: brnboot
-brand: Arcadyan / Astoria
 cpu: Lantiq XWAY Danube
 cpu_cores: 2
 cpu_mhz: 333
@@ -27,6 +26,7 @@ supported_since_rel: 10.03.1
 switch: Atheros AR8216
 target: lantiq
 usb_ports: 3x 2.0
+vendor: Arcadyan / Astoria
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Vodafone_DSL-EasyBox_803
 wlan_24ghz: b/g/n

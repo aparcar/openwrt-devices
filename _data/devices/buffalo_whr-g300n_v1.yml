@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: Buffalo
 cpu: Ralink RT3052
 cpu_cores: 1
 cpu_mhz: 384
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=0d
 supported_since_rel: '15.05'
 switch: Ralink RT3052
 target: ramips
+vendor: Buffalo
 version: v1
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Buffalo_WHR-G300N_v1

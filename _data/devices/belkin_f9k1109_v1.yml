@@ -1,6 +1,5 @@
 availability: unknown 2019
 bootloader: U-Boot
-brand: Belkin
 button_count: '2'
 cpu: Ralink RT3883
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 switch: Realtek RTL8367R-VB
 target: ramips
 usb_ports: 2x 2.0
+vendor: Belkin
 version: v1
 vlan: true
 wlan_24ghz: b/g/n

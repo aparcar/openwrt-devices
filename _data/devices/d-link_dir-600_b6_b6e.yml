@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: D-Link
 button_count: '1'
 cpu: Ralink RT5350
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_current_rel: 18.06.1
 supported_since_commit: "http://\xBF"
 switch: Ralink RT5350
 target: ramips
+vendor: D-Link
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: unknown

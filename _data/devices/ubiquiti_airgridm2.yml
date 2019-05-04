@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Ubiquiti
 comments_network_ports: (passive, PoE)
 cpu: Atheros AR7240 rev 2
 cpu_cores: 1
@@ -22,6 +21,7 @@ subtarget: generic
 supported_current_rel: '10.03'
 supported_since_rel: '10.03'
 target: ar71xx
+vendor: Ubiquiti
 vlan: false
 wlan_24ghz: b/g/n
 wlan_comments: 1x1 MIMO

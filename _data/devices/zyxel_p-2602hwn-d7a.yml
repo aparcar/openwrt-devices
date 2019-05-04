@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: Bootbase
-brand: ZyXEL
 cpu: Texas Instruments TNETD7200ZDW
 cpu_cores: 1
 cpu_mhz: 212
@@ -21,5 +20,6 @@ ram_mb: 32
 serial: true
 target: ar7
 unsupported_functions: Possible to support
+vendor: ZyXEL
 wlan_24ghz: b/g
 wlan_driver: unknown

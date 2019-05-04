@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Planex
 button_count: '2'
 cpu: Ralink RT3052F
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_current_rel: 18.06.1
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=6708d68c24309fc45f5a6de001ad92ef2ba96b6f
 supported_since_rel: 17.01.0
 target: ramips
+vendor: Planex
 wlan_24ghz: b/g/n
 wlan_driver: unknown
 wlan_hardware: Ralink RT3052F

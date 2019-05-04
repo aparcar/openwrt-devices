@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Netgear
 button_count: '3'
 cpu: MediaTek MT7620A
 cpu_cores: 1
@@ -34,6 +33,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=7fb11c8ed2ca47716a2f27e5efed8bcd567cfc98
 supported_since_rel: 17.01.2
 target: ramips
+vendor: Netgear
 version: v3
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WN3000RPv3
 wlan_24ghz: b/g/n

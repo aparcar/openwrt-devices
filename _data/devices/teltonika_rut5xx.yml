@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: Teltonika
 button_count: '1'
 comments: Some Models have a 16 MB flash on board
 comments_network_ports: 3xLAN, 1xWAN
@@ -34,6 +33,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ef
 supported_since_rel: '14.07'
 switch: Ralink RT3050
 target: ramips
+vendor: Teltonika
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: unknown

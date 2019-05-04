@@ -1,6 +1,5 @@
 availability: Discontinued 2016
 bootloader: U-Boot
-brand: Buffalo
 button_count: '4'
 cpu: Atheros AR7242
 cpu_cores: 1
@@ -37,6 +36,7 @@ supported_since_rel: '12.09'
 switch: ag71xx-mdio.0
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: Buffalo
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Buffalo_WZR-HP-G300NH2
 wlan_24ghz: b/g/n

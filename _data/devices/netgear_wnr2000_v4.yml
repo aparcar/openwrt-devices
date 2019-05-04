@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 cpu: Atheros AR9341
 cpu_cores: 1
 cpu_mhz: 533
@@ -31,6 +30,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=2c
 supported_since_rel: '15.05'
 switch: Atheros AR9341
 target: ar71xx
+vendor: Netgear
 version: v4
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WNR2000v4
 wlan_24ghz: b/g/n

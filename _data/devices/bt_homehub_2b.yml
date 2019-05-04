@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: BT
 cpu: Lantiq Danube PSB 50712
 cpu_cores: 2
 cpu_mhz: 333
@@ -29,6 +28,7 @@ supported_since_rel: '14.07'
 switch: Infineon ADM6996I
 target: lantiq
 usb_ports: 1x 2.0
+vendor: BT
 version: Type B
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/BT_Home_Hub_2.0B

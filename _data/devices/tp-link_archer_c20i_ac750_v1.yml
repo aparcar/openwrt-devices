@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 comment_recovery: 'TFTP-Recoveryname: ArcherC20iV1_tp_recovery.bin'
 cpu: MediaTek MT7620A
@@ -37,6 +36,7 @@ switch: MediaTek MT7620A
 target: ramips
 unsupported_functions: WiFi 5GHz
 usb_ports: 1x 2.0
+vendor: TP-Link
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C20i

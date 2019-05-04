@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: RavPower
 button_count: '1'
 cpu: MediaTek MT7620N
 cpu_cores: 1
@@ -30,6 +29,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=5ef79af4f80f772772e44e38478f2b3b78d40732
 supported_since_rel: 18.06.0
 target: ramips
+vendor: RavPower
 where_available: amazon.de, amazon.com
 wikidevi_url: https://wikidevi.com/wiki/RAVPower_FileHub_Plus
 wlan_24ghz: b/g/n

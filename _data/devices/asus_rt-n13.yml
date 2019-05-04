@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Asus
 cpu: Ralink RT2880
 cpu_cores: 1
 cpu_mhz: 266
@@ -28,6 +27,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=44
 supported_since_rel: '15.05'
 switch: IC+ IP175C
 target: ramips
+vendor: Asus
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N13
 wlan_24ghz: b/g/n
 wlan_driver: rt2800pci

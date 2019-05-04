@@ -1,6 +1,5 @@
 availability: Discontinued 2012
 bootloader: U-Boot
-brand: D-Link
 cpu: Ralink RT3050
 cpu_cores: 1
 cpu_mhz: 320
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e9
 supported_since_rel: '12.09'
 switch: Ralink RT3050
 target: ramips
+vendor: D-Link
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-300_rev_B1
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: Senao
 button_count: '2'
 cpu: Atheros AR7161
 cpu_cores: 1
@@ -28,6 +27,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=7bff9c01010f5c8ba3147da4feffff477eccb164
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: Senao
 vlan: true
 wlan_24ghz: b/g
 wlan_50ghz: a

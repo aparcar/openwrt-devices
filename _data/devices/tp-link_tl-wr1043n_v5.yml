@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 comment_installation: For TFTP, rename -factory image to WR1043v5_tp_recovery.bin
 comment_recovery: For TFTP, rename -factory image to WR1043v5_tp_recovery.bin
@@ -38,6 +37,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=67
 supported_since_rel: 18.06.0
 switch: Qualcomm Atheros QCA8337
 target: ar71xx
+vendor: TP-Link
 version: v5
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR1043N_v5.x

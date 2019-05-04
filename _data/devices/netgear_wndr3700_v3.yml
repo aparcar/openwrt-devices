@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 comments_network_ports: 1 WAN + 4x LAN
 cpu: Broadcom BCM4718A1
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_since_rel: '14.07'
 switch: Broadcom BCM53115
 target: brcm47xx
 usb_ports: 1x 2.0
+vendor: Netgear
 version: v3
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WNDR3700v3

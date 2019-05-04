@@ -1,5 +1,4 @@
 availability: Available 2018
-brand: Ubiquiti
 button_count: '1'
 cpu: Atheros AR9342
 cpu_cores: 1
@@ -30,6 +29,7 @@ subtarget: generic
 supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=a34db67857c13a8d05dca71721f3fba7b961e034
 target: ar71xx
+vendor: Ubiquiti
 where_available: amazon.com
 wlan_50ghz: a/n
 wlan_driver: unknown

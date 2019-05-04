@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: TP-Link
 button_count: '4'
 cpu: Lantiq XWAY VRX288
 cpu_cores: 2
@@ -34,6 +33,7 @@ supported_since_rel: 17.01.0
 switch: Internal configurable (Infineon)
 target: lantiq
 usb_ports: 2x 2.0
+vendor: TP-Link
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac
 wlan_driver: unknown

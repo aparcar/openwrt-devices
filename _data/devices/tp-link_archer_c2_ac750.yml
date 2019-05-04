@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 comment_installation: 'TFTP-Recoveryname: ArcherC2V1_tp_recovery.bin'
 comment_recovery: 'TFTP-Recoveryname: ArcherC2V1_tp_recovery.bin'
@@ -42,6 +41,7 @@ switch: Realtek RTL8367RB
 target: ramips
 unsupported_functions: WiFi 5GHz
 usb_ports: 1x 2.0
+vendor: TP-Link
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C2_v1.x

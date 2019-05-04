@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: PSPBoot
-brand: Linksys
 comment_installation: For TFTP, rename OpenWrt image to upgrade_code.bin
 comment_recovery: For TFTP, rename OpenWrt image to upgrade_code.bin
 cpu: Texas Instruments TNETD7200ZDW
@@ -21,5 +20,6 @@ ram_mb: 16
 supported_current_rel: 10.03.1
 supported_since_rel: 8.09.2
 target: ar7
+vendor: Linksys
 version: v2b
 vlan: false

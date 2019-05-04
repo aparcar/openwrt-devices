@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: Planex
 comments: Equipped with touch LCD (not supported), Stereo speakers
 cpu: Ralink RT3050F
 cpu_cores: 1
@@ -28,5 +27,6 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=1b
 supported_since_rel: 17.01.0
 target: ramips
 usb_ports: 2x 2.0
+vendor: Planex
 wlan_24ghz: b/g/n
 wlan_driver: unknown

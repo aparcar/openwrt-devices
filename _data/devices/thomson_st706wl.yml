@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Thomson
 comments_network_ports: '4'
 cpu: Broadcom BCM6348
 cpu_cores: 1
@@ -20,6 +19,7 @@ serial: true
 subtarget: generic
 target: brcm63xx
 unsupported_functions: Impossible
+vendor: Thomson
 vlan: false
 wlan_24ghz: b/g
 wlan_driver: b43

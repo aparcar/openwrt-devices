@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: D-Link
 cpu: Broadcom BCM6338
 cpu_cores: 1
 cpu_mhz: 240
@@ -16,6 +15,7 @@ modem: ADSL
 ram_mb: 16
 target: brcm63xx
 unsupported_functions: Impossible
+vendor: D-Link
 version: D2 (EU)
 vlan: true
 wlan_driver: unknown

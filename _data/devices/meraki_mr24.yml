@@ -1,6 +1,5 @@
 availability: Discontinued 2014
 bootloader: U-Boot
-brand: Meraki
 button_count: '1'
 cpu: AppliedMicro APM82181
 cpu_cores: 1
@@ -33,6 +32,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=a57d6e2d47688cfa392d6ea7f36ae6f9d84affc5
 supported_since_rel: 17.01.0
 target: apm821xx
+vendor: Meraki
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Meraki_MR24
 wlan_24ghz: b/g/n

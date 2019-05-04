@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Huawei
 cpu: Broadcom BCM6368
 cpu_cores: 2
 cpu_mhz: 400
@@ -33,6 +32,7 @@ switch: Broadcom BCM6368
 target: brcm63xx
 unsupported_functions: DSL modem
 usb_ports: 1x 2.0
+vendor: Huawei
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Huawei_EchoLife_HG655b
 wlan_24ghz: b/g/n

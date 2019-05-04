@@ -2,7 +2,6 @@ audio_ports: other
 availability: Available 2019
 bluetooth: '4.0'
 bootloader: U-Boot
-brand: FriendlyElec
 comment_installation: Similar to install method for Raspberry Pi
 comments: Both 512MB and 1024MB RAM versions are available
 comments_av_ports: Audio and Video ports are on the header, see OEM wiki for more
@@ -36,6 +35,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 switch: Realtek RTL8211E
 target: sunxi
+vendor: FriendlyElec
 video_ports: other
 vlan: false
 where_available: friendlyarm.com

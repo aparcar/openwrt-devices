@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Compex
 button_count: '1'
 cpu: Qualcomm Atheros IPQ8064
 cpu_cores: 2
@@ -33,6 +32,7 @@ switch: Qualcomm Atheros QCA8337N
 target: ipq806x
 unsupported_functions: USB
 usb_ports: 1x 3.0
+vendor: Compex
 where_available: shop.compex.com.sg
 wikidevi_url: https://wikidevi.com/wiki/Compex_WPQ864
 wlan_hardware: 3x mini-PCIe

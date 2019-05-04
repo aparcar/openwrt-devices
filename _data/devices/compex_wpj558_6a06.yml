@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Compex
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
 cpu_mhz: 700
@@ -29,6 +28,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b065411a85c10d6be7f5cdb80026ad43c6303013
 supported_since_rel: '15.05'
 target: ar71xx
+vendor: Compex
 version: 6A06
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Compex_WPJ558

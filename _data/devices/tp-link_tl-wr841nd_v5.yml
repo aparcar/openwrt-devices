@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 cpu: Atheros AR7240
 cpu_cores: 1
 cpu_mhz: 400
@@ -32,6 +31,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=29
 supported_since_rel: '10.03'
 switch: Atheros AR7240
 target: ar71xx
+vendor: TP-Link
 version: v5
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR841ND_v5.x

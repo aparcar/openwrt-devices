@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: other
-brand: D-Link
 button_count: '1'
 comments: VoIP. Looks like Octtel SP5220
 comments_network_ports: 4*LAN, 1*WAN
@@ -24,6 +23,7 @@ power_supply: 12 VDC, 1.25 A
 ram_mb: 32
 serial: true
 switch: Realtek RTL8651
+vendor: D-Link
 version: B2
 vlan: true
 wlan_driver: unknown

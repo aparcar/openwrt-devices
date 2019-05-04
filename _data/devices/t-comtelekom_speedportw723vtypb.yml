@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: T-Com / Telekom
 comments_network_ports: 1x S0
 cpu: Lantiq XWAY VRX288 v1.1
 cpu_cores: 2
@@ -21,6 +20,7 @@ subtarget: xrx200
 target: lantiq
 unsupported_functions: Possible to support
 usb_ports: 1x 2.0
+vendor: T-Com / Telekom
 wikidevi_url: https://wikidevi.com/wiki/T-Com_Speedport_W723V_Typ_B
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

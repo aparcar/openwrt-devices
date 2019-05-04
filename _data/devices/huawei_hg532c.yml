@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: other
-brand: Huawei
 button_count: '1'
 cpu: Realtek RTL8672
 cpu_cores: 1
@@ -21,6 +20,7 @@ ram_mb: 32
 serial: true
 unsupported_functions: Possible to support
 usb_ports: 1x 2.0
+vendor: Huawei
 wlan_24ghz: b/g/n
 wlan_driver: rtl819x
 wlan_hardware: Realtek RTL8192CE

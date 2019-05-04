@@ -1,5 +1,4 @@
 availability: Discontinued 2017
-brand: Buffalo
 cpu: Atheros AR7240
 cpu_cores: 1
 cpu_mhz: 400
@@ -27,6 +26,7 @@ supported_current_rel: 17.01.2
 supported_since_rel: '12.09'
 switch: Atheros AR7240
 target: ar71xx
+vendor: Buffalo
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Buffalo_WHR-G300N_v2

@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: Blueendless
 button_count: '1'
 comments: 'Manufacturer = Blueendless; sold also as: KIMAX, MBOX, MIXXAR, and possibly
   other brands.'
@@ -31,6 +30,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=6f008af3f0b30d2af21ad6934c17b0ae69103ecd
 supported_since_rel: 18.06.0
 target: ramips
+vendor: Blueendless
 version: HSEN-KI-300M-HDD-V3.0
 vlan: true
 where_available: banggood.com

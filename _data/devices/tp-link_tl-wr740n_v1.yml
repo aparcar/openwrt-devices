@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 cpu: Atheros AR7240
 cpu_cores: 1
 cpu_mhz: 400
@@ -29,6 +28,7 @@ supported_since_rel: 10.03.1
 switch: Atheros AR7240
 target: ar71xx
 usb_ports: Mod
+vendor: TP-Link
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR740N_v1.x

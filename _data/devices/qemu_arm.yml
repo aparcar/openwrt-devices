@@ -1,5 +1,4 @@
 availability: Available 2019
-brand: QEMU (armvirt)
 comments_network_ports: '1'
 cpu: armvirt
 cpu_cores: 1
@@ -15,6 +14,7 @@ oem_device_homepage_url: https://www.qemu.org/
 supported_current_rel: 15.05.1
 supported_since_rel: '14.07'
 target: armvirt
+vendor: QEMU (armvirt)
 version: 0.12.5
 vlan: false
 where_available: qemu.org

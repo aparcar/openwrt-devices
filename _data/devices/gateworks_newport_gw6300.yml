@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: Gateworks
 cpu: Cavium CN8020
 cpu_cores: 2
 cpu_mhz: 800
@@ -28,6 +27,7 @@ subtarget: generic
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=fc03b3aa1610feed89b04aa504a3468c904a1aae
 target: octeontx
+vendor: Gateworks
 wikidevi_url: "http://\xBF"
 wlan_driver: unknown
 wlan_hardware: 3x mini-PCIe

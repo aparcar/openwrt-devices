@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Linksys
 cpu: Broadcom BCM4717
 cpu_cores: 1
 cpu_mhz: 354
@@ -28,6 +27,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=98
 supported_since_rel: '14.07'
 switch: Broadcom BCM53115
 target: brcm47xx
+vendor: Linksys
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_E2000

@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Compex
 button_count: '1'
 cpu: Qualcomm Atheros QCA9563
 cpu_cores: 1
@@ -28,6 +27,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=dc4eae7a8cf676911b0048b1e73c6f9adeea2f06
 supported_since_rel: 18.06.0
 target: ar71xx
+vendor: Compex
 where_available: shop.compex.com.sg
 wikidevi_url: https://wikidevi.com/wiki/Compex_WPJ563
 wlan_24ghz: b/g/n

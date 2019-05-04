@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Xunlong
 button_count: '3'
 comments: Not to be mixed up with Orange Pi Pc Plus or Orange Pi Plus 2E, which have
   different HW specs.
@@ -34,6 +33,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=a9
 supported_since_rel: 17.01.0
 target: sunxi
 unsupported_functions: WIP
+vendor: Xunlong
 video_ports: HDMI
 wlan_24ghz: b/g/n
 wlan_driver: unknown

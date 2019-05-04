@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: TP-Link
 button_count: '1'
 cpu: Qualcomm Atheros AR9350B
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=1fef80f29cf6bdfcb6cdbd913b9147797b8bc218
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: TP-Link
 version: v1
 wlan_50ghz: a/n
 wlan_driver: unknown

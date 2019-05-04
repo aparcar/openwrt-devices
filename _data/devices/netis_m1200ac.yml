@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: Netis
 button_count: '1'
 comments: Failsafe mode not workign acc. https://dev.openwrt.org/changeset/47619
 cpu: MediaTek MT7621AT
@@ -35,6 +34,7 @@ switch: MediaTek MT7530
 target: ramips
 unsupported_functions: Failsafe mode
 usb_ports: 1x 3.0
+vendor: Netis
 vlan: true
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

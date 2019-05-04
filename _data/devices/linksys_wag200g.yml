@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: Adam2
-brand: Linksys
 cpu: Texas Instruments TNETD7200ZDW
 cpu_cores: 1
 cpu_mhz: 211
@@ -22,6 +21,7 @@ serial: true
 switch: Marvell 88E6060
 target: ar7
 unsupported_functions: Impossible
+vendor: Linksys
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WAG200G
 wlan_24ghz: b/g
 wlan_driver: unknown

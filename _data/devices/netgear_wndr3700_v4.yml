@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 comments: 5G radio many not be detected after new install. It appeared after a power
   cycle.
 comments_network_ports: 1x WAN + 4x LAN
@@ -37,6 +36,7 @@ supported_since_rel: '14.07'
 switch: Atheros AR8327
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: Netgear
 version: v4
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WNDR3700v4

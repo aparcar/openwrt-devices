@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: ZyXEL
 comments: SMP-enabled build is required for dual-core support
 cpu: Broadcom BCM6368
 cpu_cores: 2
@@ -30,6 +29,7 @@ supported_since_rel: '15.05'
 switch: Broadcom BCM6368U
 target: brcm63xx
 unsupported_functions: WIP; Not working
+vendor: ZyXEL
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ZyXEL_P-870HN-51b
 wlan_24ghz: b/g/n

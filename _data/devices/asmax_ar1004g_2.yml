@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Asmax
 comments_network_ports: '4'
 cpu: Broadcom BCM6333
 cpu_cores: 1
@@ -16,6 +15,7 @@ modem: ADSL
 ram_mb: 16
 target: brcm63xx
 unsupported_functions: Impossible
+vendor: Asmax
 version: '2'
 vlan: true
 wlan_24ghz: b/g

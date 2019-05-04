@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Evaluation boards / unbranded boards
 comments: LY OEM
 cpu: Ralink RT5350F
 cpu_cores: 1
@@ -30,6 +29,7 @@ supported_current_rel: 18.06.1
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=d0bf15f235951973836da586c05693c0563ed4f2
 supported_since_rel: '15.05'
 target: ramips
+vendor: Evaluation boards / unbranded boards
 wlan_24ghz: b/g/n
 wlan_driver: unknown
 wlan_hardware: Ralink RT5350F

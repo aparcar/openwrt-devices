@@ -1,7 +1,6 @@
 audio_ports: other
 availability: Available 2019
 bootloader: U-Boot
-brand: FriendlyElec
 cpu: Allwinner H3
 cpu_cores: 4
 cpu_mhz: 1200
@@ -34,4 +33,5 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 target: sunxi
 usb_ports: 1x 2.0
+vendor: FriendlyElec
 where_available: friendlyarm.com, aliexpress.com, amazon.de, conrad.de

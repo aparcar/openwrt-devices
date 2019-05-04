@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 comment_installation: Rename installation image to wa801ndv3_tp_recovery.bin before
   flashing.
@@ -36,6 +35,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=d6cb792d21273c7aa101dbfa1072534f35cabf96
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: TP-Link
 version: v3
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WA801ND_v3
 wlan_24ghz: b/g/n

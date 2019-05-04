@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: D-Link
 cpu: Broadcom BCM5357C0
 cpu_cores: 1
 cpu_mhz: 400
@@ -21,6 +20,7 @@ serial: false
 subtarget: mips74k
 switch: Broadcom BCM5357C0
 target: brcm47xx
+vendor: D-Link
 version: K1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-615_rev_K1

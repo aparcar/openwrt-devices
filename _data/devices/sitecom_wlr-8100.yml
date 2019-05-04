@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Sitecom
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
 cpu_mhz: 720
@@ -32,6 +31,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=fd
 supported_since_rel: '15.05'
 switch: Qualcomm Atheros QCA8337N
 target: ar71xx
+vendor: Sitecom
 version: v1 001
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Sitecom_WLR-8100

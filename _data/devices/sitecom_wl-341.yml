@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Sitecom
 button_count: '1'
 cpu: Ralink RT3052_MP1
 cpu_cores: 1
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b3
 supported_since_rel: '12.09'
 target: ramips
 usb_ports: 1x Header
+vendor: Sitecom
 version: v3 001
 wlan_24ghz: b/g/n
 wlan_driver: rt2800pci

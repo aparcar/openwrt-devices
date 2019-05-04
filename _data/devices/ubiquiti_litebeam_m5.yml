@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Ubiquiti
 cpu: Atheros AR9342
 cpu_cores: 1
 cpu_mhz: 533
@@ -29,6 +28,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=d0988235dd277b9a832bbc4b2a100ac6e821f577
 supported_since_rel: 18.06.0
 target: ar71xx
+vendor: Ubiquiti
 where_available: amazon.com, amazon.de
 wlan_50ghz: a/n
 wlan_comments: 1x1 SISO

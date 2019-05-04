@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: Adam2
-brand: AVM
 button_count: '2'
 comment_installation: Works with images of Fritz!Box 7320
 cpu: Lantiq XWAY ARX188
@@ -33,6 +32,7 @@ subtarget: xway
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=02d53e6a2113f80ae429664e7990d167fbf44604
 target: lantiq
+vendor: AVM
 wlan_24ghz: b/g/n
 wlan_driver: ath9k
 wlan_hardware: Atheros AR9227

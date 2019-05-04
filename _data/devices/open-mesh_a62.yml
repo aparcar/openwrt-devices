@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Open-Mesh
 button_count: '1'
 comment_installation: Use https://github.com/ap51-flash/ap51-flash to flash the factory
   image, see git commit.
@@ -35,6 +34,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 target: ipq40xx
 usb_ports: 1x 2.0
+vendor: Open-Mesh
 where_available: amazon.com
 wikidevi_url: https://wikidevi.com/wiki/Open_Mesh_A62
 wlan_24ghz: b/g/n

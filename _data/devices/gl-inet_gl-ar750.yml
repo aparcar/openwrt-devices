@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: GL.iNet
 button_count: '2'
 comments: I2C header on PCB.
 cpu: Qualcomm Atheros QCA9531
@@ -38,6 +37,7 @@ supported_since_rel: 18.06.0
 switch: Qualcomm Atheros QCA9531
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: GL.iNet
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/GL.iNet_GL-AR750
 wlan_24ghz: b/g/n

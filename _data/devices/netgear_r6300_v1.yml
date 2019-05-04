@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: CFE
-brand: Netgear
 button_count: '3'
 cpu: Broadcom BCM4706
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_since_rel: 17.01.0
 switch: Broadcom BCM53125
 target: brcm47xx
 usb_ports: 2x 2.0
+vendor: Netgear
 version: v1
 vlan: true
 where_available: amazon.com, newegg.com

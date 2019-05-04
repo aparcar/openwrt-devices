@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: EVA
-brand: AVM
 button_count: '2'
 comment_recovery: AVM provides a recovery tool for Windows
 cpu: Qualcomm Atheros IPQ4018
@@ -37,6 +36,7 @@ supported_since_rel: 18.06.0
 switch: Qualcomm Atheros QCA8075
 target: ipq40xx
 unsupported_functions: VLAN on WAN port
+vendor: AVM
 where_available: amazon.de
 wikidevi_url: https://wikidevi.com/wiki/AVM_FRITZ!Box_4040
 wlan_24ghz: b/g/n

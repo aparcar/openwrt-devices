@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Huawei
 button_count: '4'
 cpu: Broadcom BCM6358
 cpu_cores: 2
@@ -33,6 +32,7 @@ supported_since_rel: '14.07'
 switch: Broadcom BCM5325
 target: brcm63xx
 usb_ports: 3x 2.0
+vendor: Huawei
 version: A
 vlan: true
 wlan_24ghz: b/g/n

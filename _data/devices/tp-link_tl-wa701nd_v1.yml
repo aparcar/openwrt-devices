@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 cpu: Atheros AR7240
 cpu_cores: 1
@@ -35,6 +34,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=2a58dbda98484893e50361be6ed4a0d78af8491f
 supported_since_rel: '12.09'
 target: ar71xx
+vendor: TP-Link
 version: v1.x
 vlan: false
 wlan_24ghz: b/g/n

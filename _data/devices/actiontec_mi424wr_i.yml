@@ -1,6 +1,5 @@
 availability: Discontinued 2015
 bootloader: U-Boot
-brand: Actiontec
 cpu: Marvell 88F6560
 cpu_cores: 1
 cpu_mhz: 1200
@@ -30,6 +29,7 @@ switch: Marvell 88F6560
 target: kirkwood
 unsupported_functions: WIP
 usb_ports: 2x 2.0
+vendor: Actiontec
 version: I
 wikidevi_url: https://wikidevi.com/wiki/Actiontec_MI424WR_rev_I
 wlan_24ghz: b/g/n

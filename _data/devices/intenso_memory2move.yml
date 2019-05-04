@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Intenso
 cpu: Ralink RT5350
 cpu_cores: 1
 cpu_mhz: 360
@@ -27,6 +26,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=88
 supported_since_rel: '15.05'
 target: ramips
 usb_ports: 1x 3.0
+vendor: Intenso
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Intenso_Memory_2_Move_500GB_Black
 wlan_24ghz: b/g/n

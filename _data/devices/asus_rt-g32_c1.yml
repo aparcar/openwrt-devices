@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Asus
 comments: RT-G32 C1 works with images of RT-N10plus
 cpu: Ralink RT3052
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_current_rel: 18.06.1
 supported_since_rel: '12.09'
 switch: Ralink RT3050F
 target: ramips
+vendor: Asus
 version: C1
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-G32_rev_C1
 wlan_24ghz: b/g

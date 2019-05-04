@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: GL.iNet
 button_count: '2'
 comments: Increased RAM from 64MB to 128 MB, Better Wi-Fi with MTK driver
 cpu: MediaTek MT7628AN
@@ -36,6 +35,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ab
 supported_since_rel: 18.06.0
 switch: MediaTek MT7628AN
 target: ramips
+vendor: GL.iNet
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/GL.iNet_GL-MT300N-V2

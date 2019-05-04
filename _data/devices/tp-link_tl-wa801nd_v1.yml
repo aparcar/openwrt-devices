@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: TP-Link
 button_count: '2'
 cpu: Atheros AR7240
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=d7ba2b4840471ca2b171c40f1ca10b905e680c1d
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: TP-Link
 version: v1
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WA801ND_v1
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Compex
 cpu: Atheros AR7240
 cpu_cores: 1
 cpu_mhz: 400
@@ -25,6 +24,7 @@ subtarget: generic
 supported_current_rel: 17.01.4
 supported_since_rel: '12.09'
 target: ar71xx
+vendor: Compex
 version: 7A07
 vlan: true
 wlan_24ghz: b/g/n

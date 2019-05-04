@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: ZBT
 cpu: MediaTek MT7620N
 cpu_cores: 1
 cpu_mhz: 580
@@ -29,6 +28,7 @@ supported_since_rel: '15.05'
 switch: MediaTek MT7620N
 target: ramips
 usb_ports: 1x 2.0
+vendor: ZBT
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: unknown

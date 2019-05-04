@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 cpu: MediaTek MT7620A
 cpu_cores: 1
@@ -26,6 +25,7 @@ serial: true
 subtarget: mt7620
 target: ramips
 unsupported_functions: Possible to support
+vendor: TP-Link
 version: v1
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

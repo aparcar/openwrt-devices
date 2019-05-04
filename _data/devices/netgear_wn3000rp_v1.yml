@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Netgear
 cpu: Broadcom BCM5357C0
 cpu_cores: 1
 cpu_mhz: 300
@@ -28,6 +27,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ba
 supported_since_rel: 17.01.0
 target: brcm47xx
 unsupported_functions: WiFi 2.4GHz
+vendor: Netgear
 version: v1
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WN3000RPv1
 wlan_24ghz: b/g/n

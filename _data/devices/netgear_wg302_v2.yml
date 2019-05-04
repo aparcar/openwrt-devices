@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: Netgear
 cpu: Intel IXP422BB
 cpu_cores: 1
 cpu_mhz: 266
@@ -23,6 +22,7 @@ subtarget: generic
 supported_current_rel: '12.09'
 supported_since_rel: '12.09'
 target: ixp4xx
+vendor: Netgear
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WG302v2

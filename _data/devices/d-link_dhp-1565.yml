@@ -1,6 +1,5 @@
 availability: Discontinued 2018
 bootloader: U-Boot
-brand: D-Link
 cpu: Atheros AR9344
 cpu_cores: 1
 cpu_mhz: 560
@@ -33,6 +32,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f2
 supported_since_rel: 17.01.0
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: D-Link
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DHP-1565_rev_A1
 wlan_24ghz: b/g/n
 wlan_driver: ath9k

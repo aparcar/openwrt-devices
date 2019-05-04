@@ -1,6 +1,5 @@
 availability: Discontinued 2018
 bootloader: U-Boot
-brand: ELECOM
 button_count: '3'
 cpu: MediaTek MT7621A
 cpu_cores: 2
@@ -29,6 +28,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=ad10e71becfb36d36c81c5b0e898c4ea7912d778
 switch: MediaTek MT7621A
 target: ramips
+vendor: ELECOM
 vlan: true
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

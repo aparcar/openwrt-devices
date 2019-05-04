@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Sitecom
 cpu: Atheros AR1022
 cpu_cores: 1
 device_id: sitecom_wlr-7100
@@ -20,6 +19,7 @@ switch: Atheros AR8327N
 target: ar71xx
 unsupported_functions: WIP
 usb_ports: 1x 2.0
+vendor: Sitecom
 version: v1 001
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Sitecom_WLR-7100

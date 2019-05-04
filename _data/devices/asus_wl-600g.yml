@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Asus
 cpu: Broadcom BCM6348
 cpu_cores: 1
 cpu_mhz: 256
@@ -30,6 +29,7 @@ switch: Broadcom BCM5325
 target: brcm63xx
 unsupported_functions: DSL modem
 usb_ports: 2x 2.0
+vendor: Asus
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ASUS_WL-600g
 wlan_24ghz: b/g

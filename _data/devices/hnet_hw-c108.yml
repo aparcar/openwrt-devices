@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Hnet
 button_count: '1'
 cpu: MediaTek MT7620A
 cpu_cores: 1
@@ -26,6 +25,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=80
 supported_since_rel: 18.06.0
 target: ramips
 usb_ports: 1x Power only
+vendor: Hnet
 where_available: alibaba.com
 wlan_24ghz: b/g/n
 wlan_driver: unknown

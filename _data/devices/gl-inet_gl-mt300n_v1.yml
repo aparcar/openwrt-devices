@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: GL.iNet
 button_count: '2'
 comments: GLI 15.05 version with their own additional GLI GUI, supports webcam, USB,
   NAS, Cloud and more
@@ -36,6 +35,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=be53e5a154931109dd76a8015583123201c4b602
 supported_since_rel: 17.01.0
 target: ramips
+vendor: GL.iNet
 version: v1
 wlan_24ghz: b/g/n
 wlan_driver: mt76

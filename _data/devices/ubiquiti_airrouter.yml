@@ -1,6 +1,5 @@
 availability: Discontinued 2014
 bootloader: U-Boot
-brand: Ubiquiti
 button_count: '1'
 comments_network_ports: (passive, PoE, WAN, (HP, models))
 cpu: Atheros AR7241
@@ -35,6 +34,7 @@ supported_since_rel: '12.09'
 switch: Atheros AR7241
 target: ar71xx-ath79
 usb_ports: 1x 2.0
+vendor: Ubiquiti
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Ubiquiti_Networks_airRouter
 wlan_24ghz: b/g/n

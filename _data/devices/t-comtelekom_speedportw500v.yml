@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: T-Com / Telekom
 cpu: Broadcom BCM6348
 cpu_cores: 1
 cpu_mhz: 256
@@ -28,6 +27,7 @@ supported_current_rel: '12.09'
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=314bce63e6a510e0b47c70c72293a1a094a7cac7
 supported_since_rel: '12.09'
 target: brcm63xx
+vendor: T-Com / Telekom
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/T-Com_Speedport_W500V
 wlan_24ghz: b/g

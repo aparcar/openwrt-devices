@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Edimax
 cpu: Ralink RT3662F
 cpu_cores: 1
 cpu_mhz: 500
@@ -34,6 +33,7 @@ supported_since_rel: '14.07'
 switch: Realtek RTL8367R
 target: ramips
 usb_ports: Mod
+vendor: Edimax
 version: A
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Edimax_BR-6475nD

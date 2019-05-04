@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: UniElec
 button_count: '1'
 comments_usb_sata_ports: 1x msata slot with USB
 cpu: MediaTek MT7621AT
@@ -33,6 +32,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=df3e0b580644bd8434a690802e3c5c18a6e38098
 switch: MediaTek MT7621AT
 target: ramips
+vendor: UniElec
 version: 512M/64M
 vlan: true
 where_available: aliexpress.com

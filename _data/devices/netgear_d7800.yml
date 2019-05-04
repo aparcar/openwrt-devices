@@ -1,5 +1,4 @@
 availability: Available 2019
-brand: Netgear
 button_count: '3'
 comment_installation: flash from Netgear default UI
 cpu: Qualcomm Atheros IPQ8064
@@ -40,6 +39,7 @@ switch: Qualcomm Atheros QCA8337
 target: ipq806x
 unsupported_functions: DSL modem
 usb_ports: 2x 3.0
+vendor: Netgear
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_D7800
 wlan_24ghz: b/g/n

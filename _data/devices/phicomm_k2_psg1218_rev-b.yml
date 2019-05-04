@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: PHICOMM
 button_count: '1'
 cpu: MediaTek MT7620A
 cpu_cores: 1
@@ -26,6 +25,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=dce5c4f5c8629af13bdb7cb5803a349cb8305d70
 supported_since_rel: 17.01.0
 target: ramips
+vendor: PHICOMM
 version: rev. B
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

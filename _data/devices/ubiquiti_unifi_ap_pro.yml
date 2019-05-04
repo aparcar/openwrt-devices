@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: Ubiquiti
 cpu: Atheros AR9344 rev 2
 cpu_cores: 1
 cpu_mhz: 560
@@ -32,6 +31,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=61
 supported_since_rel: '15.05'
 switch: Atheros AR8327
 target: ar71xx
+vendor: Ubiquiti
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Ubiquiti_Networks_UniFi_AP_Pro
 wlan_24ghz: b/g/n

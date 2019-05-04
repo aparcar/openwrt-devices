@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: TP-Link
 button_count: '4'
 comments: 'Note: This device basically features *two* entirely different SoCs: a 400MHz
   dualcore MIPS SoC and a 1GHz dualcore ARM Cortex A9'
@@ -26,6 +25,7 @@ power_supply: 12 VDC, 3.3 A
 ram_mb: 128
 serial: true
 target: brcm63xx
+vendor: TP-Link
 version: v1.0
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_VR900v_(v1.0)

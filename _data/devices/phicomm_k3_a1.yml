@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: CFE
-brand: PHICOMM
 button_count: '1'
 comments: 'see also discussion in chinese forum regarding 18.06.1 for K3: https://www.right.com.cn/forum/thread-332985-1-1.html'
 cpu: Broadcom BCM4709C0
@@ -30,6 +29,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 switch: Broadcom BCM4709C0
 target: bcm53xx
 usb_ports: 1x 3.0
+vendor: PHICOMM
 version: A1
 vlan: true
 where_available: amazon.com

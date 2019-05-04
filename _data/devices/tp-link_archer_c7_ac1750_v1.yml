@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 comments: ath10k on this device causes a boot loop in 17.03 and newer OpenWrt, removing
   minipcie card or building image without ath10k should work
@@ -39,6 +38,7 @@ switch: Atheros AR8327N
 target: ar71xx-ath79
 unsupported_functions: WiFi 5GHz
 usb_ports: 2x 2.0
+vendor: TP-Link
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C7_v1.x
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: CFE
-brand: Netgear
 cpu: Broadcom BCM4708A0
 cpu_cores: 2
 cpu_mhz: 800
@@ -35,6 +34,7 @@ supported_since_rel: '15.05'
 switch: Broadcom BCM4708A0
 target: bcm53xx
 usb_ports: 1x 3.0
+vendor: Netgear
 wikidevi_url: https://wikidevi.com/wiki/Netgear_R6250
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

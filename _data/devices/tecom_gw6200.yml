@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Tecom
 cpu: Broadcom BCM6348
 cpu_cores: 1
 cpu_mhz: 240
@@ -24,6 +23,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=fa
 supported_since_rel: 17.01.0
 switch: Broadcom BCM5325E
 target: brcm63xx
+vendor: Tecom
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Tecom_GW6200
 wlan_24ghz: b/g

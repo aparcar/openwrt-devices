@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: RouterBOOT
-brand: MikroTik
 button_count: '1'
 cpu: Qualcomm Atheros QCA9556
 cpu_cores: 1
@@ -29,6 +28,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=e15c63a37574bd15ce3a6636c2f04741ab76f7b9
 supported_since_rel: 18.06.0
 target: ar71xx
+vendor: MikroTik
 where_available: mikrotik-store.eu
 wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_wAP_ac_(RBwAPG-5HacT2HnD)
 wlan_24ghz: b/g/n

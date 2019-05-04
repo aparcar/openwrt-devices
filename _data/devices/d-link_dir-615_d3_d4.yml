@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: D-Link
 cpu: Ralink RT3052
 cpu_cores: 1
 cpu_mhz: 320
@@ -32,6 +31,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=d4
 supported_since_rel: '12.09'
 switch: Ralink RT3052
 target: ramips
+vendor: D-Link
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-615_rev_D
 wlan_24ghz: b/g/n

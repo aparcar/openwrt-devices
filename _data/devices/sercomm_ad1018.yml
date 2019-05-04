@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Sercomm
 button_count: '2'
 comment_installation: Only supported by soldering an SPI flash memory chip.
 cpu: Broadcom BCM6328
@@ -38,6 +37,7 @@ supported_since_rel: 18.06.0
 switch: Broadcom BCM6328
 target: brcm63xx
 usb_ports: Mod
+vendor: Sercomm
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: b43

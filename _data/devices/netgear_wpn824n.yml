@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 button_count: '3'
 comments: Also NA factory image available
 cpu: Atheros AR7240
@@ -33,6 +32,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ed
 supported_since_rel: 17.01.0
 switch: Atheros AR7240
 target: ar71xx
+vendor: Netgear
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_WPN824N
 wlan_24ghz: b/g/n

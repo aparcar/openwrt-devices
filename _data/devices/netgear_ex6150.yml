@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Netgear
 button_count: '3'
 cpu: MediaTek MT7621ST
 cpu_cores: 1
@@ -29,6 +28,7 @@ subtarget: mt7621
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=3f019bf96cdf52668750f67cb139fa1b5c538f0b
 target: ramips
+vendor: Netgear
 wikidevi_url: https://wikidevi.com/wiki/Netgear_EX6150
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

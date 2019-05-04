@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: JBoot
-brand: D-Link
 button_count: '2'
 comment_installation: Bootloader needs to be replaced before installation.
 cpu: Ralink RT5350
@@ -35,6 +34,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ec
 supported_since_rel: 17.01.0
 switch: Ralink RT5350
 target: ramips
+vendor: D-Link
 version: B
 vlan: true
 wlan_24ghz: b/g/n

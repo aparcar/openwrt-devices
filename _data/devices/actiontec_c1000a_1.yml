@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: CFE
-brand: Actiontec
 cpu: Broadcom BCM63168
 cpu_cores: 2
 cpu_mhz: 400
@@ -24,6 +23,7 @@ switch: Broadcom BCM53125
 target: brcm63xx
 unsupported_functions: WIP
 usb_ports: 1x 2.0
+vendor: Actiontec
 version: '1'
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Actiontec_C1000A_%28CenturyLink%29

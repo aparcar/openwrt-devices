@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Arcadyan / Astoria
 button_count: '2'
 cpu: Lantiq XWAY Danube PSB 50702
 cpu_cores: 2
@@ -30,6 +29,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=3a
 supported_since_rel: 17.01.0
 switch: Infineon ADM6996I
 target: lantiq
+vendor: Arcadyan / Astoria
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Wippies_(BeWAN)_BWA_iBox_V1.0
 wlan_24ghz: b/g

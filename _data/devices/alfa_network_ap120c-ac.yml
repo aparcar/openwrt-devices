@@ -1,7 +1,6 @@
 availability: Available 2019
 bluetooth: '4.0'
 bootloader: U-Boot
-brand: ALFA Network
 button_count: '1'
 comments: 'This board uses dual-image feature (128 MB NAND is divided into two 64
   MB partitions: ''rootfs1'' and ''rootfs2'')'
@@ -30,6 +29,7 @@ subtarget: generic
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=c568c6dc09f0a847097fb9697369114a251f096d
 target: ipq40xx
+vendor: ALFA Network
 where_available: alibaba.com
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

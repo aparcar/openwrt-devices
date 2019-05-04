@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: HooToo
 button_count: '2'
 comments: 'Flash chip: KH 25L6406E, RAM chip: ESMT M12L2561616A-6T'
 cpu: Ralink RT5350F
@@ -36,6 +35,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=21
 supported_since_rel: '15.05'
 switch: Ralink RT5350F
 target: ramips
+vendor: HooToo
 version: v1.5
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/HooToo_TripMate_Nano

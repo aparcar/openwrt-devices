@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: VxWorks
-brand: TP-Link
 cpu: Atheros AR2315
 cpu_cores: 1
 cpu_mhz: 180
@@ -20,6 +19,7 @@ serial: true
 supported_current_rel: 10.03.1
 supported_since_rel: '8.09'
 target: ath25
+vendor: TP-Link
 version: v1
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WA5210G

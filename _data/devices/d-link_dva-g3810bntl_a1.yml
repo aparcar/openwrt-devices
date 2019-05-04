@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: D-Link
 button_count: '1'
 cpu: Broadcom BCM6358
 cpu_cores: 2
@@ -35,6 +34,7 @@ supported_since_rel: '14.07'
 switch: Broadcom BCM5325F
 target: brcm63xx
 usb_ports: 1x 2.0
+vendor: D-Link
 version: A1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DVA-G3810BN/TL

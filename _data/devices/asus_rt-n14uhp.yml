@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Asus
 cpu: Broadcom BCM5358UB0
 cpu_cores: 1
 cpu_mhz: 530
@@ -31,6 +30,7 @@ supported_since_rel: 17.01.0
 switch: Broadcom BCM5358UB0
 target: brcm47xx
 unsupported_functions: WiFi 2.4GHz
+vendor: Asus
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N14UHP
 wlan_24ghz: b/g/n
 wlan_driver: b43

@@ -1,6 +1,5 @@
 availability: Discontinued 2016
 bootloader: CFE
-brand: Buffalo
 comments: WZR-600DHP2D is same hardware, but preloaded with Buffalo DD-WRT firmware.
 cpu: Broadcom BCM47081
 cpu_cores: 1
@@ -35,6 +34,7 @@ switch: Broadcom BCM53011
 target: bcm53xx
 unsupported_functions: WiFi 2.4GHz partly
 usb_ports: 1x 2.0
+vendor: Buffalo
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Buffalo_WZR-600DHP2
 wlan_24ghz: b/g/n

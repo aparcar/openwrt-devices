@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: D-Link
 button_count: '2'
 comments: Has WiFi problems with LEDE <=17.01.2 (slow on 5 GHz, some people also report
   buggy on 2.4 GHz). The 5GHz-WiFi problems seem fixed on snapshots > ~2017-07-20
@@ -41,6 +40,7 @@ supported_since_rel: '15.05'
 switch: MediaTek MT7621AT
 target: ramips
 usb_ports: 1x 3.0
+vendor: D-Link
 version: B1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-860L_rev_B1

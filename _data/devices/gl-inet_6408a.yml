@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: GL.iNet
 comments: 'Flash chip: cFeon Q64-104HIP), RAM chip: EM6AB160TSD-5G'
 cpu: Atheros AR9331
 cpu_cores: 1
@@ -33,6 +32,7 @@ supported_current_rel: 18.06.2
 supported_since_rel: '14.07'
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: GL.iNet
 version: v1.0
 wikidevi_url: https://wikidevi.com/wiki/GL.iNet_6416A
 wlan_24ghz: b/g/n

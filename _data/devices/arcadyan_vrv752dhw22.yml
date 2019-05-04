@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: brnboot
-brand: Arcadyan
 button_count: '2'
 cpu: Lantiq VINAX
 cpu_cores: 2
@@ -21,6 +20,7 @@ ram_mb: 64
 serial: true
 target: lantiq
 usb_ports: 1x 2.0
+vendor: Arcadyan
 wlan_24ghz: b/g/n
 wlan_driver: unknown
 wlan_hardware: Ralink RT3062

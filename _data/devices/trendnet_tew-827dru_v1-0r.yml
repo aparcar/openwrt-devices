@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TRENDnet
 button_count: '3'
 comment_installation: See forum topic for firmware downloads and installation instructions
 comment_recovery: See forum topic for firmware downloads and recovery instructions
@@ -33,6 +32,7 @@ supported_since_rel: external image
 switch: Qualcomm Atheros QCA8337
 target: ipq806x
 usb_ports: 2x 3.0
+vendor: TRENDnet
 version: v1.0R
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TRENDnet_TEW-827DRU_v1.0R

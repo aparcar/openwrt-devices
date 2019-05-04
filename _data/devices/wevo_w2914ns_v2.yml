@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: WeVO
 cpu: MediaTek MT7621AT
 cpu_cores: 2
 cpu_mhz: 880
@@ -29,6 +28,7 @@ supported_since_rel: 17.01.0
 switch: MediaTek MT7621AT
 target: ramips
 usb_ports: 1x 3.0
+vendor: WeVO
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/WeVO_W2914NS_v2

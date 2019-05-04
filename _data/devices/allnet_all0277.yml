@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Allnet
 comments_network_ports: '5'
 cpu: Broadcom BCM4702
 cpu_cores: 1
@@ -20,6 +19,7 @@ recovery_method_s: unknown
 supported_current_rel: 10.03.1
 supported_since_rel: '8.09'
 target: brcm47xx
+vendor: Allnet
 wlan_24ghz: b/g
 wlan_driver: b43
 wlan_hardware: Broadcom BCM4702

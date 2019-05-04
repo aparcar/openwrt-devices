@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 cpu: Atheros AR9331
 cpu_cores: 1
 cpu_mhz: 400
@@ -29,6 +28,7 @@ supported_current_rel: 17.01.5
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=d614f8a880f8c44555fe1c3a89e8a037db7cf8eb
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: TP-Link
 version: v2
 wlan_24ghz: b/g/n
 wlan_driver: unknown

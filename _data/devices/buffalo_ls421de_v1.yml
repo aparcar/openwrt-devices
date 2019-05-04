@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Buffalo
 cpu: Marvell Armada 370
 cpu_cores: 1
 cpu_mhz: 1200
@@ -21,5 +20,6 @@ serial: true
 subtarget: generic
 target: mvebu
 unsupported_functions: WIP
+vendor: Buffalo
 version: v1
 wlan_driver: unknown

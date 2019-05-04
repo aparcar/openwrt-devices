@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: Fon
 cpu: Atheros AR2315
 cpu_cores: 1
 cpu_mhz: 180
@@ -24,6 +23,7 @@ supported_since_rel: '10.03'
 switch: Marvell 88E6060
 target: ath25
 usb_ports: 1x 2.0
+vendor: Fon
 version: FON2202
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/La_Fonera_2.0g_FON2202

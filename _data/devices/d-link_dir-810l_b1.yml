@@ -1,6 +1,5 @@
 availability: Discontinued 2016
 bootloader: U-Boot
-brand: D-Link
 button_count: '2'
 comments: WiFi 5GHz unsupported up to 18.06.1; WiFi 5GHz support added in snapshot
   (https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=cb6a8aa584a2be62aeac9b5b1573303d5615c672)
@@ -36,6 +35,7 @@ supported_since_rel: '14.07'
 switch: MediaTek MT7620A
 target: ramips
 unsupported_functions: WiFi 5GHz
+vendor: D-Link
 vlan: true
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

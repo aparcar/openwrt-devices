@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Rosewill
 button_count: '1'
 cpu: Atheros AR7241
 cpu_cores: 1
@@ -26,6 +25,7 @@ supported_current_rel: '12.09'
 supported_since_rel: '12.09'
 switch: Atheros AR7241
 target: ar71xx
+vendor: Rosewill
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Rosewill_RNX-N300RT
 wlan_24ghz: b/g/n

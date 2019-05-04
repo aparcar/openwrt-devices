@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Asus
 cpu: Broadcom BCM5352
 cpu_cores: 1
 cpu_mhz: 200
@@ -27,6 +26,7 @@ subtarget: legacy
 supported_current_rel: 10.03.1
 supported_since_rel: '7.06'
 target: brcm47xx
+vendor: Asus
 vlan: true
 wlan_24ghz: b/g
 wlan_driver: b43

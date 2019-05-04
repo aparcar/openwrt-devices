@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: EVA
-brand: AVM
 button_count: '1'
 comment_recovery: AVM provides a recovery tool for Windows
 cpu: Qualcomm Atheros QCA9556
@@ -33,6 +32,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 target: ar71xx
 unsupported_functions: RSSI LEDs
+vendor: AVM
 where_available: amazon.de
 wlan_24ghz: b/g/n
 wlan_driver: ath9k

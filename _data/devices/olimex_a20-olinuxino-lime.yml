@@ -1,7 +1,6 @@
 audio_ports: other
 availability: Available 2019
 bootloader: U-Boot
-brand: Olimex
 button_count: '2'
 cpu: Allwinner A20
 cpu_cores: 2
@@ -36,4 +35,5 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ddb98cb70f8ed4b1e44fa8680e185fa22c0b753c
 supported_since_rel: '15.05'
 target: sunxi
+vendor: Olimex
 where_available: olimex.com

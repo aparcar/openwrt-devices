@@ -1,5 +1,4 @@
 availability: Available 2019
-brand: Ubiquiti
 cpu: Atheros AR9342
 cpu_cores: 1
 cpu_mhz: 533
@@ -23,6 +22,7 @@ subtarget: generic
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=23f9b2d9a981c61b7166557febde31778d13b86f
 target: ath79
+vendor: Ubiquiti
 where_available: amazon.com, eurodk.com
 wlan_50ghz: a/n/ac
 wlan_driver: ath10k

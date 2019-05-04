@@ -1,5 +1,4 @@
 availability: Available 2019
-brand: Gainstrong
 button_count: '2'
 comment_installation: LuCI or sysupgrade can be used to flash OpenWrt firmware.
 comments: Vendor firmware is based on OpenWrt.
@@ -28,6 +27,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: Gainstrong
 version: V5.2
 where_available: gainstrong.en.alibaba.com
 wlan_24ghz: b/g/n

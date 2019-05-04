@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Cubitech
 cpu: Allwinner A10
 cpu_cores: 1
 cpu_mhz: 1000
@@ -28,6 +27,7 @@ supported_current_rel: 18.06.2
 supported_since_rel: 17.01.0
 target: sunxi
 usb_ports: 2x 2.0
+vendor: Cubitech
 video_ports: HDMI
 where_available: eleduino.com
 wikidevi_url: https://wikidevi.com/wiki/Cubietech_Cubieboard

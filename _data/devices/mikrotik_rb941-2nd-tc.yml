@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: RouterBOOT
-brand: MikroTik
 button_count: '2'
 comments: TowerCase variant of the RB941-2nD
 cpu: Qualcomm Atheros QCA9533
@@ -38,6 +37,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 switch: Qualcomm Atheros QCA9533
 target: ar71xx
+vendor: MikroTik
 vlan: true
 where_available: amazon.com
 wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_hAP_lite_(RB941-2nD-TC)

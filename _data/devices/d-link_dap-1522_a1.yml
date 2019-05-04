@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: D-Link
 cpu: Ralink RT2880
 cpu_cores: 1
 cpu_mhz: 266
@@ -30,6 +29,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 switch: Realtek RTL8366SR
 target: ramips
+vendor: D-Link
 version: A1
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DAP-1522_rev_A1
 wlan_24ghz: b/g/n

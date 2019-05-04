@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: RouterBOOT
-brand: MikroTik
 button_count: '1'
 comments_network_ports: Passive PoE out on ETH2
 cpu: Qualcomm Atheros QCA9531
@@ -36,6 +35,7 @@ supported_since_rel: 18.06.0
 switch: Qualcomm Atheros QCA9531
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: MikroTik
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: ath10k

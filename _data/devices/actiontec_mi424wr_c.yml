@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RGLoader
-brand: Actiontec
 comment_installation: Stock bootloader unsupported, RedBoot must be installed
 comments_network_ports: MOCA 1.0
 cpu: Intel IXP425
@@ -31,6 +30,7 @@ supported_current_rel: 18.06.1
 supported_since_rel: '15.05'
 switch: Kendin KS8995MA
 target: ixp4xx
+vendor: Actiontec
 version: C
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Actiontec_MI424WR_rev_C

@@ -1,7 +1,6 @@
 audio_ports: S/PDIF
 availability: unknown 2018
 bootloader: U-Boot
-brand: SolidRun
 cpu: NXP i.MX6 Solo
 cpu_cores: 1
 cpu_mhz: 1000
@@ -27,4 +26,5 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=6cda4f68619ec139be7897ea61b7f22c72c38b59
 target: imx6
 usb_ports: 2x 2.0
+vendor: SolidRun
 video_ports: HDMI

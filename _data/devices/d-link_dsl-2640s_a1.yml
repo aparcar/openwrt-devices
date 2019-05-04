@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: D-Link
 cpu: Broadcom BCM63281
 cpu_cores: 1
 cpu_mhz: 320
@@ -18,6 +17,7 @@ subtarget: generic
 switch: Broadcom BCM63281
 target: brcm63xx
 unsupported_functions: Possible to support
+vendor: D-Link
 version: A1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DSL-2640S

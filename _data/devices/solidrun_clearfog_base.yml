@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: SolidRun
 cpu: Marvell Armada 380
 cpu_cores: 2
 cpu_mhz: 1600
@@ -30,4 +29,5 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ee
 supported_since_rel: 17.01.4
 target: mvebu
 usb_ports: 1x 3.0
+vendor: SolidRun
 wlan_driver: unknown

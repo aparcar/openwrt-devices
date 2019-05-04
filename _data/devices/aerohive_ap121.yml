@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: Aerohive
 button_count: '1'
 comments: End-of-Sale date for this product is August 1st, 2017
 cpu: Atheros AR9344
@@ -33,6 +32,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=10
 supported_since_rel: 18.06.0
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: Aerohive
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n
 wlan_driver: ath9k

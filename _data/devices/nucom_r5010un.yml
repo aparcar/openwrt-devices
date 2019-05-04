@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: NuCom
 cpu: Broadcom BCM6328
 cpu_cores: 1
 cpu_mhz: 320
@@ -30,6 +29,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=d1
 supported_since_rel: 17.01.0
 target: brcm63xx
 usb_ports: 1x 2.0
+vendor: NuCom
 version: v2
 wlan_24ghz: b/g/n
 wlan_driver: b43

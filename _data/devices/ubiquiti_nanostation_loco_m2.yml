@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: Ubiquiti
 cpu: Atheros AR7240
 cpu_cores: 1
 cpu_mhz: 400
@@ -24,6 +23,7 @@ subtarget: generic
 supported_current_rel: 10.03.1
 supported_since_rel: 10.03.1
 target: ar71xx
+vendor: Ubiquiti
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Ubiquiti_Networks_NanoStation_Loco_M2
 wlan_24ghz: b/g/n

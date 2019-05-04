@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: GL.iNet
 button_count: '2'
 comments: 3G/4G LTE - There is a PCI-e slot and the device can be purchased with or
   without a region specific modem card. Battery is optional. V2.22 firmware => r47065
@@ -40,6 +39,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=42
 supported_since_rel: 17.01.0
 switch: Atheros AR9331
 target: ar71xx
+vendor: GL.iNet
 vlan: true
 where_available: amazon.com
 wlan_24ghz: b/g/n

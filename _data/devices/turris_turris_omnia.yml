@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Turris CZ.NIC
 button_count: '1'
 comment_recovery: 'flash drive formatted with FAT32 / ext2/3/4 / btrfs / XFS, image
   has to be named: omnia-medkit*.tar.gz for reset mode 4 recovery'
@@ -46,6 +45,7 @@ supported_since_rel: 18.06.0
 switch: Marvell 88E6176
 target: mvebu
 usb_ports: 2x 3.0
+vendor: Turris CZ.NIC
 vlan: true
 where_available: omnia.turris.cz
 wikidevi_url: https://wikidevi.com/wiki/Turris_Omnia

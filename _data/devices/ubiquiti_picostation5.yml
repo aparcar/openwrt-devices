@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: Ubiquiti
 comments_network_ports: (passive, PoE)
 cpu: Atheros AR2313
 cpu_cores: 1
@@ -20,6 +19,7 @@ serial: true
 supported_current_rel: 10.03.1
 supported_since_rel: 10.03.1
 target: ath25
+vendor: Ubiquiti
 wlan_50ghz: a
 wlan_driver: unknown
 wlan_hardware: Atheros AR2313

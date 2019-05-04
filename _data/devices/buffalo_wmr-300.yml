@@ -1,6 +1,5 @@
 availability: Discontinued 2016
 bootloader: U-Boot
-brand: Buffalo
 button_count: '2'
 cpu: MediaTek MT7620N
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e4b6dcee5e7c67a11a417c04790ac22bb287aa58
 supported_since_rel: '14.07'
 target: ramips
+vendor: Buffalo
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Buffalo_WMR-300
 wlan_24ghz: b/g/n

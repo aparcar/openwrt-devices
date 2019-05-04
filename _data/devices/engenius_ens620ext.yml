@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: EnGenius
 button_count: '1'
 cpu: Qualcomm Atheros IPQ4018
 cpu_cores: 4
@@ -32,6 +31,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=dc4f6b896f009c24170e75af745fc636ef8166a8
 switch: Qualcomm Atheros QCA8072
 target: ipq40xx
+vendor: EnGenius
 version: V1.0.0
 vlan: true
 where_available: amazon.com

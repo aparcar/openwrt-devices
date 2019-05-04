@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: D-Link
 cpu: Atheros AR9341
 cpu_cores: 1
 cpu_mhz: 533
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=d5
 supported_since_rel: 15.05.1
 switch: Atheros AR9341
 target: ar71xx
+vendor: D-Link
 version: I3
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-615_rev_I3

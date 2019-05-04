@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: D-Link
 cpu: Atheros AR2317
 cpu_cores: 1
 cpu_mhz: 183
@@ -22,6 +21,7 @@ serial: true
 supported_current_rel: 10.03.1
 supported_since_rel: 10.03.1
 target: ath25
+vendor: D-Link
 version: A1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-300_rev_A1

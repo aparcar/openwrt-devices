@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: YunCore
 button_count: '1'
 comment_installation: See git commit of AP90Q for installation instructions.
 cpu: Qualcomm Atheros QCA9531
@@ -27,6 +26,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e33dcd1cfe105cb0e1ad09887144e4911eac653f
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: YunCore
 wlan_24ghz: b/g/n
 wlan_driver: ath10k
 wlan_hardware: Qualcomm Atheros QCA9531

@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Netgear
 button_count: '3'
 cpu: Broadcom BCM63281
 cpu_cores: 1
@@ -21,6 +20,7 @@ subtarget: generic
 switch: Broadcom BCM63281
 target: brcm63xx
 usb_ports: 1x 2.0
+vendor: Netgear
 version: v4
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_DGN2200v4

@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: D-Link
 button_count: '2'
 comments: Additional to reset and WPA buttons it also has a 3 state mode switch AP/Repeater/HS
 cpu: Atheros AR1311
@@ -39,6 +38,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=42
 supported_since_rel: '14.07'
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: D-Link
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-505_rev_A1
 wlan_24ghz: b/g/n
 wlan_driver: ath9k

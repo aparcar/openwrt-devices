@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Asus
 button_count: '3'
 comments_network_ports: Initial VLAN layout is incorrect Port4 is the WAN port and
   should be on VLAN 2
@@ -40,6 +39,7 @@ supported_since_rel: '15.05'
 switch: Broadcom BCM5325
 target: brcm47xx
 unsupported_functions: WiFi 2.4GHz
+vendor: Asus
 version: B1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N12_rev_B1

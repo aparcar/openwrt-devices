@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: ZTE
 button_count: '2'
 cpu: Broadcom BCM63281
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_current_rel: 18.06.2
 supported_since_rel: 15.05.1
 target: brcm63xx
 usb_ports: 1x 2.0
+vendor: ZTE
 version: v1
 wlan_24ghz: b/g/n
 wlan_hardware: Broadcom BCM43225

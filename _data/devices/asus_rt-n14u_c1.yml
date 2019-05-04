@@ -1,6 +1,5 @@
 availability: Discontinued 2016
 bootloader: U-Boot
-brand: Asus
 button_count: '1'
 cpu: MediaTek MT7620N
 cpu_cores: 1
@@ -33,6 +32,7 @@ supported_since_rel: '14.07'
 switch: MediaTek MT7620N
 target: ramips
 usb_ports: 1x 2.0
+vendor: Asus
 version: C1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N14U

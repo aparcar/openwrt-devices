@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Linksys
 cpu: Broadcom BCM4712
 cpu_cores: 1
 cpu_mhz: 200
@@ -25,6 +24,7 @@ supported_current_rel: 10.03.1
 supported_since_rel: '0.9'
 target: brcm47xx
 usb_ports: Mod
+vendor: Linksys
 vlan: true
 wlan_24ghz: b/g
 wlan_driver: b43

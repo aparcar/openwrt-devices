@@ -1,6 +1,5 @@
 availability: unknown 2019
 bootloader: U-Boot
-brand: ZyXEL
 button_count: '2'
 cpu: Ralink RT5350F
 cpu_cores: 1
@@ -26,6 +25,7 @@ subtarget: rt305x
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=58becdb30d1048903ad704a227a52bdf695a0087
 target: ramips
+vendor: ZyXEL
 wlan_24ghz: b/g/n
 wlan_driver: unknown
 wlan_hardware: Ralink RT5350F

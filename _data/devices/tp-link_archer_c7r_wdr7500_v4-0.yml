@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 cpu: Qualcomm Atheros QCA9880
 cpu_cores: 1
 cpu_mhz: 720
@@ -17,6 +16,7 @@ power_supply: 12 VDC, 2.0 A
 ram_mb: 128
 target: ar71xx
 usb_ports: 2x 2.0
+vendor: TP-Link
 version: v4.0 (CN)
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

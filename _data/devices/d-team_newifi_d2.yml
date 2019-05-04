@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: D-Team
 button_count: '2'
 cpu: MediaTek MT7621AT
 cpu_cores: 2
@@ -30,6 +29,7 @@ supported_since_rel: 18.06.0
 switch: MediaTek MT7621AT
 target: ramips
 usb_ports: 1x 3.0
+vendor: D-Team
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Lenovo_Newifi_3
 wlan_24ghz: b/g/n

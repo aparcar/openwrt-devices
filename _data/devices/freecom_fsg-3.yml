@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: Freecom
 cpu: Intel IXP425/IXP422
 cpu_cores: 1
 cpu_mhz: 266
@@ -26,5 +25,6 @@ supported_current_rel: 18.06.2
 supported_since_rel: 10.03.1
 target: ixp4xx
 usb_ports: 4x 2.0
+vendor: Freecom
 wlan_driver: unknown
 wlan_hardware: 1x mini-PCI

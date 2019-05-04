@@ -1,7 +1,6 @@
 audio_ports: other
 availability: Available 2019
 bootloader: U-Boot
-brand: Xunlong
 comments: Audio, Video + USB via 13 pin header only, no plug.
 comments_network_ports: Primary Ethernet port is from the CPU itself, the second Ethernet
   port is from RTL8152B via USB off the CPU
@@ -34,6 +33,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 target: sunxi
 unsupported_functions: WiFi 2.4GHz
+vendor: Xunlong
 video_ports: other
 wikidevi_url: https://wikidevi.com/wiki/Orange_Pi_R1
 wlan_24ghz: b/g/n

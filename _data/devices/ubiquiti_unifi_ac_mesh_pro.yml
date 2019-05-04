@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: Ubiquiti
 button_count: '1'
 cpu: Qualcomm Atheros QCA9563-AL3A
 cpu_cores: 1
@@ -27,6 +26,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=987b961537b7002eda21df97dd8bfebe8882bc6d
 switch: Atheros AR8337
 target: ar71xx-ath79
+vendor: Ubiquiti
 vlan: true
 where_available: amazon.com
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: TP-Link
 button_count: '3'
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
@@ -29,6 +28,7 @@ subtarget: generic
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=db91418766562fde7da468a19c87f25bc8aad8a0
 target: ath79
+vendor: TP-Link
 version: v1
 where_available: amazon.com
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_RE350K

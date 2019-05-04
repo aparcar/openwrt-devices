@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Sagem
 cpu: Broadcom BCM6348
 cpu_cores: 1
 cpu_mhz: 256
@@ -26,6 +25,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e6
 supported_since_rel: '14.07'
 target: brcm63xx
 unsupported_functions: DSL modem
+vendor: Sagem
 vlan: true
 wlan_24ghz: b/g
 wlan_driver: b43

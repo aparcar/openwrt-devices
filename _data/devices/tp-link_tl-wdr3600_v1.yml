@@ -1,6 +1,5 @@
 availability: Discontinued 2015
 bootloader: U-Boot
-brand: TP-Link
 button_count: '1'
 comments: This device is very similar to the TP-Link TL-WDR4300. For USB mod, see
   device page.
@@ -41,6 +40,7 @@ supported_since_rel: '14.07'
 switch: Atheros AR8327N
 target: ar71xx-ath79
 usb_ports: 2x 2.0
+vendor: TP-Link
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WDR3600
 wlan_24ghz: b/g/n

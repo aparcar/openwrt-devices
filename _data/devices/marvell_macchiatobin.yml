@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: Marvell
 comments_network_ports: Dual 10GbE (1/2.5/10GbE) via SFP; 2.5GbE (1/2.5GbE) via SFP
 cpu: Marvell Armada 8040
 cpu_cores: 4
@@ -31,4 +30,5 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=2534141322b0541daa627a516280638c12a262fe
 supported_since_rel: 18.06.0
 target: mvebu
+vendor: Marvell
 where_available: solid-run.com

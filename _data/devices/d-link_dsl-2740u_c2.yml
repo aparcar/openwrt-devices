@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: CFE
-brand: D-Link
 button_count: '1'
 comments: Identical hardware as DSL-2740B C2
 cpu: Broadcom BCM6358
@@ -36,6 +35,7 @@ supported_since_rel: '12.09'
 switch: Broadcom BCM5325
 target: brcm63xx
 unsupported_functions: DSL modem
+vendor: D-Link
 version: C2
 vlan: true
 wlan_24ghz: b/g/n

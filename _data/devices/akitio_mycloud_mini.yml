@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Akitio
 button_count: '1'
 cpu: PLX NAS782x
 cpu_cores: 2
@@ -30,3 +29,4 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=01
 supported_since_rel: 17.01.0
 target: oxnas
 usb_ports: 2x 2.0
+vendor: Akitio

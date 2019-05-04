@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: EnGenius
 cpu: Atheros AR9341
 cpu_cores: 1
 cpu_mhz: 535
@@ -33,6 +32,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=2adff1734f0bdd3947430834ab7bb8f0bf852b6e
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: EnGenius
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/EnGenius_EAP300_v2

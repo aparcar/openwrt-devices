@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: Netgear
 comments: Serial headers can be soldered on.  See the image for the location near
   the center.
 cpu: Broadcom BCM63281
@@ -23,6 +22,7 @@ subtarget: generic
 switch: Broadcom BCM63281
 target: brcm63xx
 usb_ports: 1x 2.0
+vendor: Netgear
 version: v3
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_DGN2200v3

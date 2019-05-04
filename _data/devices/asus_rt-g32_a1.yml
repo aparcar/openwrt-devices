@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: Asus
 cpu: Atheros AR2317
 cpu_cores: 1
 cpu_mhz: 183
@@ -21,6 +20,7 @@ serial: true
 switch: Atheros AR8216
 target: ath25
 unsupported_functions: Impossible
+vendor: Asus
 version: A1
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-G32_rev_A1
 wlan_24ghz: b/g/n

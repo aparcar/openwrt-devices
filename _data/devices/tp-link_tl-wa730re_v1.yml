@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 comment_installation: Rename installation image to openwrt.bin before flashing.
 comments: The TL-WA730RE seems to be almost identical to TL-WA701ND, just that it
   comes without PoE and a stock-firmware claiming the device to be a "Range Extender".
@@ -34,6 +33,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=85b889940d66b4c4a28691d8166eeef119912473
 supported_since_rel: '14.07'
 target: ar71xx
+vendor: TP-Link
 version: v1
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WA730RE_v1
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: DuZun
 cpu: MediaTek MT7628
 cpu_cores: 1
 cpu_mhz: 580
@@ -25,4 +24,5 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=9a4935687d6d79e0eeae37204794fc68e17c8b68
 supported_since_rel: 17.01.0
 target: ramips
+vendor: DuZun
 wlan_driver: unknown

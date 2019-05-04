@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: CFE
-brand: TP-Link
 comments: 'GPL Code: http://www.tp-link.com/en/gpl-code.html. v2 only shows one 802.11g
   network, other modes are not available due to the Broadcom chips.'
 cpu: Broadcom BCM47081
@@ -34,6 +33,7 @@ supported_since_rel: 17.01.2
 switch: Broadcom BCM47081
 target: bcm53xx
 usb_ports: 2x 2.0
+vendor: TP-Link
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C5_v2.x

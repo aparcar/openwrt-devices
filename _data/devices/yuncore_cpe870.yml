@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: YunCore
 button_count: '1'
 cpu: Atheros AR9341
 cpu_cores: 1
@@ -28,6 +27,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=eb9ba2b91e0f0c2d0b072b3fea3ea2a8b50af5fc
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: YunCore
 wlan_24ghz: b/g/n
 wlan_driver: ath9k
 wlan_hardware: Atheros AR9341

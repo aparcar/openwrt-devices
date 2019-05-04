@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Firefly
 button_count: '3'
 cpu: MediaTek MT7621A
 cpu_cores: 2
@@ -35,6 +34,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=60
 supported_since_rel: 17.01.0
 switch: MediaTek MT7621A
 target: ramips
+vendor: Firefly
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Firefly_FireWRT
 wlan_24ghz: b/g/n

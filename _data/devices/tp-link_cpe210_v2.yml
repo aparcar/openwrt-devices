@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 comment_installation: For TFTP, rename -factory image to recovery.bin
 cpu: Qualcomm Atheros QCA9533
 cpu_cores: 1
@@ -33,6 +32,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=5c5bf8b8658a588423f6ec445d7ef6a36f99a396
 supported_since_rel: 18.06.0
 target: ar71xx-ath79
+vendor: TP-Link
 version: v2
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_CPE210_v2.x
 wlan_24ghz: b/g/n

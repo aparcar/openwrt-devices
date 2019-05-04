@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: jjPlus
 button_count: '1'
 cpu: Atheros AR7130
 cpu_cores: 1
@@ -30,5 +29,6 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=69
 supported_since_rel: 17.01.0
 target: ar71xx
 usb_ports: 2x 2.0
+vendor: jjPlus
 wlan_driver: unknown
 wlan_hardware: mini-PCI

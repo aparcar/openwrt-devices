@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Arcadyan / Astoria
 button_count: '2'
 cpu: Lantiq XWAY Danube
 cpu_cores: 2
@@ -31,5 +30,6 @@ supported_since_rel: 17.01.0
 switch: Realtek RTL8306SD
 target: lantiq
 usb_ports: 1x 2.0
+vendor: Arcadyan / Astoria
 wlan_driver: unknown
 wlan_hardware: Atheros AR2417

@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Netgear
 cpu: Cavium CNS3411
 cpu_cores: 1
 cpu_mhz: 300
@@ -20,6 +19,7 @@ subtarget: generic
 switch: Broadcom BCM53128
 target: cns3xxx
 unsupported_functions: Possible to support
+vendor: Netgear
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_FVS318N

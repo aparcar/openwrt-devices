@@ -1,5 +1,4 @@
 availability: Discontinued 2018
-brand: GL.iNet
 button_count: '1'
 comments: separate mcu with 4x pwm, Wi-Fi controller for R/C cars, robots with video
   streaming
@@ -24,5 +23,6 @@ serial: true
 subtarget: generic
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: GL.iNet
 wlan_24ghz: b/g/n
 wlan_driver: unknown

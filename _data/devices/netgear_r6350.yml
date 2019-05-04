@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Netgear
 button_count: '2'
 cpu: MediaTek MT7621AT
 cpu_cores: 2
@@ -31,6 +30,7 @@ switch: MediaTek MT7621AT
 target: ramips
 unsupported_functions: WiFi 5GHz
 usb_ports: 1x 2.0
+vendor: Netgear
 vlan: true
 where_available: amazon.in, amazon.co.jp
 wikidevi_url: https://wikidevi.com/wiki/Netgear_R6350

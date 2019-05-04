@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: TP-Link
 button_count: '3'
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
@@ -34,6 +33,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 switch: Qualcomm Atheros AR8035-A
 target: ar71xx
+vendor: TP-Link
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_RE355

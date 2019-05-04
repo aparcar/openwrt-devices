@@ -1,5 +1,4 @@
 availability: Discontinued 2015
-brand: Linksys
 comments: image build disabled as of 2017-01-25, see https://git.lede-project.org/?p=source.git;a=commit;h=55ff15cfd50927c393300c372efe55ccbc41ad6d
 cpu: Broadcom BCM4708A0
 cpu_cores: 2
@@ -24,6 +23,7 @@ switch: Broadcom BCM4708A0
 target: bcm53xx
 unsupported_functions: image build disabled as of 2017-01-25
 usb_ports: 1x 3.0
+vendor: Linksys
 version: v1
 wikidevi_url: https://wikidevi.com/wiki/Linksys_EA6300_v1
 wlan_24ghz: b/g/n

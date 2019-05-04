@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Asus
 button_count: '2'
 cpu: Ralink RT2880
 cpu_cores: 1
@@ -33,6 +32,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=3f
 supported_since_rel: '14.07'
 switch: Realtek RTL8366SR
 target: ramips
+vendor: Asus
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N15
 wlan_24ghz: b/g/n

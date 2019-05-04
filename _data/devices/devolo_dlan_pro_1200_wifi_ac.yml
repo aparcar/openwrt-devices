@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Devolo
 button_count: '3'
 cpu: Atheros AR9344
 cpu_cores: 1
@@ -36,6 +35,7 @@ supported_since_rel: 17.01.0
 switch: Atheros AR8327
 target: ar71xx
 unsupported_functions: Powerline only supported by external package feed
+vendor: Devolo
 vlan: true
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

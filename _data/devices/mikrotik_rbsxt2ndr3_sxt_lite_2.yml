@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: RouterBOOT
-brand: MikroTik
 comment_installation: Erase the firmware MTD partition. Use sysupgrade -F (force)
 cpu: Atheros AR9344
 cpu_cores: 1
@@ -25,6 +24,7 @@ subtarget: mikrotik
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=5ac974f2145c770431a6eb7e006dd086b70224b1
 target: ar71xx
+vendor: MikroTik
 where_available: mikrotik-store.eu
 wlan_24ghz: b/g/n
 wlan_driver: ath9k

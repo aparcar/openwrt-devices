@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: ADB
 cpu: Lantiq AMAZON-SE
 cpu_cores: 1
 cpu_mhz: 266
@@ -17,6 +16,7 @@ ram_mb: 16
 serial: false
 target: lantiq
 unsupported_functions: Impossible
+vendor: ADB
 vlan: false
 wlan_24ghz: b/g/n
 wlan_driver: unknown

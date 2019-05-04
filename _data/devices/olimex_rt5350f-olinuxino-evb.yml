@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Olimex
 button_count: '1'
 comments_network_ports: Ethernet, 2x10/100 on EVB breakout, 5x 10/100 on-SoC switch
 cpu: Ralink RT5350F
@@ -38,6 +37,7 @@ supported_since_rel: '15.05'
 switch: Ralink RT5350F
 target: ramips
 usb_ports: 1x 2.0 Device
+vendor: Olimex
 version: Rev. A
 vlan: true
 where_available: olimex.com

@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Compex
 button_count: '1'
 cpu: Qualcomm Atheros IPQ4028
 cpu_cores: 4
@@ -31,6 +30,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 target: ipq40xx
 usb_ports: 1x 3.0
+vendor: Compex
 where_available: shop.compex.com.sg
 wikidevi_url: https://wikidevi.com/wiki/Compex_WPJ428
 wlan_24ghz: b/g/n

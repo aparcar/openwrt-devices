@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: OMYlink
 button_count: '1'
 cpu: Atheros AR9341
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=3f
 supported_since_rel: 17.01.0
 switch: Atheros AR9341
 target: ar71xx
+vendor: OMYlink
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: ath9k

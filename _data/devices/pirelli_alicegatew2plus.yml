@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Pirelli
 cpu: Broadcom BCM6348
 cpu_cores: 1
 cpu_mhz: 256
@@ -20,6 +19,7 @@ serial: true
 subtarget: generic
 target: brcm63xx
 unsupported_functions: Impossible
+vendor: Pirelli
 vlan: true
 wlan_24ghz: b/g
 wlan_driver: b43

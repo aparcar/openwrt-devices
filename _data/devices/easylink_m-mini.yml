@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: EasyLink
 cpu: Atheros AR9331
 cpu_cores: 1
 cpu_mhz: 400
@@ -28,6 +27,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e6e6a85dc962d1ef3f6e8b914dd323cfb2b93c8d
 supported_since_rel: '14.07'
 target: ar71xx
+vendor: EasyLink
 where_available: aliexpress.com
 wlan_24ghz: b/g/n
 wlan_driver: ath9k

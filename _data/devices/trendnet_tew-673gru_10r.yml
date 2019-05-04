@@ -1,6 +1,5 @@
 availability: Discontinued 2012
 bootloader: U-Boot
-brand: TRENDnet
 cpu: Atheros AR7161 rev 2
 cpu_cores: 1
 cpu_mhz: 680
@@ -34,6 +33,7 @@ supported_since_rel: '12.09'
 switch: Realtek RTL8366SR
 target: ar71xx
 usb_ports: 2x 2.0
+vendor: TRENDnet
 version: 1.0R
 wikidevi_url: https://wikidevi.com/wiki/TRENDnet_TEW-673GRU
 wlan_24ghz: b/g/n

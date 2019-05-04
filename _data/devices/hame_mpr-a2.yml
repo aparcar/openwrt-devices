@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: HAME
 button_count: '1'
 comments: Serial pads internal, reset button programmable
 cpu: Ralink RT5350
@@ -36,6 +35,7 @@ supported_since_commit: 'https://git.openwrt.org/?p=openwrt/openwrt.gitSupported
   Since Commit_git                     :'
 supported_since_rel: '14.07'
 target: ramips
+vendor: HAME
 version: v1
 vlan: false
 wlan_24ghz: b/g/n

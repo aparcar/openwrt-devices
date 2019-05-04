@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 comments: 3G via USB
 cpu: Atheros AR9331
 cpu_cores: 1
@@ -34,6 +33,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=75
 supported_since_rel: '12.09'
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: TP-Link
 version: v1
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-MR3040_v1.x

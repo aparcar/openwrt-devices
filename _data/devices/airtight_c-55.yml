@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: AirTight
 button_count: '1'
 cpu: Atheros
 device_id: airtight_c-55
@@ -24,6 +23,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=772f9d4e32f326d94050da157d108f7f97961c5f
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: AirTight
 vlan: true
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

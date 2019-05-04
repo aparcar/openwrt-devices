@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: ZBT
 button_count: '1'
 cpu: MediaTek MT7620N
 cpu_cores: 1
@@ -26,6 +25,7 @@ supported_since_rel: 15.05.1
 switch: MediaTek MT7620N
 target: ramips
 usb_ports: 1x 2.0
+vendor: ZBT
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: unknown

@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: YunCore
 button_count: '1'
 comment_installation: See git commit of AP90Q for installation instructions.
 comments: Identical hardware as AP90Q, works with images for AP90Q.
@@ -30,5 +29,6 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=22ae9b742bb0ac3290aa45858268d278f66d55b2
 supported_since_rel: 17.01.4
 target: ar71xx
+vendor: YunCore
 wlan_24ghz: b/g/n
 wlan_driver: unknown

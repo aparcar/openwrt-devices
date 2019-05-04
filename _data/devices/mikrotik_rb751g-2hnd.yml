@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RouterBOOT
-brand: MikroTik
 cpu: Atheros AR7242
 cpu_cores: 1
 cpu_mhz: 400
@@ -31,6 +30,7 @@ supported_since_rel: '12.09'
 switch: Atheros AR8327
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: MikroTik
 wikidevi_url: https://wikidevi.com/wiki/MikroTik_RouterBOARD_751G-2HnD_(RB751G-2HnD)
 wlan_24ghz: b/g/n
 wlan_driver: ath9k

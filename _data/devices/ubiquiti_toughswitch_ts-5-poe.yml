@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Ubiquiti
 button_count: '1'
 cpu: Atheros AR7240
 cpu_cores: 1
@@ -23,4 +22,5 @@ serial: true
 subtarget: generic
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: Ubiquiti
 wikidevi_url: https://wikidevi.com/wiki/Ubiquiti_Networks_TOUGHSwitch_PoE

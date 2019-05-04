@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Pirelli
 cpu: Broadcom BCM6348
 cpu_cores: 1
 cpu_mhz: 240
@@ -22,6 +21,7 @@ serial: true
 subtarget: generic
 target: brcm63xx
 unsupported_functions: Impossible
+vendor: Pirelli
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Pirelli_DRG_A125G
 wlan_24ghz: b/g

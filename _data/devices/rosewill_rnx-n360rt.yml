@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Rosewill
 button_count: '2'
 cpu: Atheros AR9132
 cpu_cores: 1
@@ -33,6 +32,7 @@ supported_since_rel: '14.07'
 switch: Marvell 88E6060
 target: ar71xx
 usb_ports: 1x Header
+vendor: Rosewill
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Rosewill_RNX-N360RT
 wlan_24ghz: b/g/n

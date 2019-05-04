@@ -1,5 +1,4 @@
 availability: Available 2017
-brand: Open-Mesh
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
 cpu_mhz: 700
@@ -31,6 +30,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=fec6313b6284e8098a27efef077173f7107e2bda
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: Open-Mesh
 vlan: true
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Ubiquiti
 cpu: Atheros AR2315
 cpu_cores: 1
 cpu_mhz: 180
@@ -16,6 +15,7 @@ ram_mb: 16
 supported_current_rel: 10.03.1
 supported_since_rel: '8.09'
 target: ath25
+vendor: Ubiquiti
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Ubiquiti_Networks_LiteStation2
 wlan_24ghz: b/g

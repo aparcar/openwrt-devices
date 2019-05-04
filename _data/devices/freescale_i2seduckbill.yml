@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: Freescale i.MX23/i.MX28
 cpu: Freescale i.MX283
 cpu_cores: 1
 cpu_mhz: 454
@@ -24,4 +23,5 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: '15.05'
 target: mxs
 usb_ports: 1x 2.0 Device
+vendor: Freescale i.MX23/i.MX28
 vlan: false

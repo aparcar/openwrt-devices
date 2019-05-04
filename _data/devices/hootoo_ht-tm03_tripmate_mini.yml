@@ -1,6 +1,5 @@
 availability: Discontinued 2015
 bootloader: U-Boot
-brand: HooToo
 button_count: '1'
 cpu: Ralink RT5350F
 cpu_cores: 1
@@ -25,6 +24,7 @@ serial: true
 subtarget: rt305x
 target: ramips
 unsupported_functions: WIP
+vendor: HooToo
 wikidevi_url: https://wikidevi.com/wiki/HooToo_TripMate_Mini
 wlan_24ghz: b/g/n
 wlan_driver: unknown

@@ -1,5 +1,4 @@
 availability: Available 2019
-brand: Netgear
 button_count: '2'
 cpu: Qualcomm Atheros IPQ4018
 cpu_cores: 4
@@ -34,6 +33,7 @@ supported_since_rel: 18.06.0
 switch: Qualcomm Atheros QCA8072
 target: ipq40xx
 unsupported_functions: AP-Extender toggle-switch
+vendor: Netgear
 version: v2
 where_available: amazon.com, amazon.de, reichelt.de
 wikidevi_url: https://wikidevi.com/wiki/Netgear_EX6100v2

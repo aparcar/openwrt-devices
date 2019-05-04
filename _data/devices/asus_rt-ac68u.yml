@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: CFE
-brand: Asus
 button_count: '3'
 cpu: Broadcom BCM4708A0
 cpu_cores: 2
@@ -39,6 +38,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e0
 supported_since_rel: '15.05'
 switch: Broadcom BCM4708A0
 target: bcm53xx
+vendor: Asus
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-AC68U
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

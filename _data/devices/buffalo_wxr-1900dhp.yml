@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: Buffalo
 cpu: Broadcom BCM4709A0
 cpu_cores: 2
 cpu_mhz: 1000
@@ -26,6 +25,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: '15.05'
 switch: Broadcom BCM4709A0
 target: bcm53xx
+vendor: Buffalo
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Buffalo_WXR-1900DHP
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Discontinued 2019
 bootloader: U-Boot
-brand: MQMaker
 button_count: '1'
 cpu: MediaTek MT7621A
 cpu_cores: 2
@@ -37,6 +36,7 @@ switch: MediaTek MT7621A
 target: ramips
 unsupported_functions: 6th Gbit Ethernet IP1001 on rgmii2 is not working yet
 usb_ports: 1x 3.0
+vendor: MQMaker
 version: v2.0 / 256MB
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/MQmaker_WiTi_Board

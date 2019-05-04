@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: EVA
-brand: AVM
 button_count: '1'
 cpu: Atheros AR7242
 cpu_cores: 1
@@ -27,6 +26,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=e7cd6f5d66b827e31cfa7e7bc019ac1b86aac770
 supported_since_rel: 18.06.0
 target: ar71xx-ath79
+vendor: AVM
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n
 wlan_driver: ath9k

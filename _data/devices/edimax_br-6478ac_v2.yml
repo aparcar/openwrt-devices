@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Edimax
 button_count: '1'
 cpu: MediaTek MT7620A
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 switch: Mediatek MT7530W
 target: ramips
 usb_ports: 1x 2.0
+vendor: Edimax
 version: V2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Edimax_BR-6478AC_v2

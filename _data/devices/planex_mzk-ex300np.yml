@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Planex
 button_count: '2'
 cpu: MediaTek MT7620A
 cpu_cores: 1
@@ -27,6 +26,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=279eeeb744f1d3e0d3af7b5801324b05fbf75ffa
 supported_since_rel: 17.01.0
 target: ramips
+vendor: Planex
 wlan_24ghz: b/g/n
 wlan_driver: mt76
 wlan_hardware: MediaTek MT7620A

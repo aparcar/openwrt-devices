@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: CFE
-brand: Netgear
 cpu: Broadcom BCM4709A0
 cpu_cores: 2
 cpu_mhz: 1000
@@ -36,6 +35,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=cf
 supported_since_rel: '15.05'
 switch: Broadcom BCM4709A0
 target: bcm53xx
+vendor: Netgear
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_R7000
 wlan_24ghz: b/g/n

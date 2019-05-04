@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Sagem
 cpu: Broadcom BCM6328
 cpu_cores: 1
 cpu_mhz: 320
@@ -28,6 +27,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=fa
 supported_since_rel: '14.07'
 target: brcm63xx
 usb_ports: 1x 2.0
+vendor: Sagem
 version: V2
 vlan: true
 wlan_24ghz: b/g/n

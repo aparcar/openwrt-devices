@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: Teltonika
 button_count: '1'
 cpu: Atheros AR9344
 cpu_cores: 1
@@ -30,6 +29,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=1f06144cdec1487122201faa9350825ed565d99c
 supported_since_rel: 18.06.0
 target: ar71xx
+vendor: Teltonika
 wlan_24ghz: b/g/n
 wlan_driver: ath9k
 wlan_hardware: Atheros AR9344

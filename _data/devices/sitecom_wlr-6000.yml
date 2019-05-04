@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Sitecom
 button_count: '1'
 cpu: Ralink RT3883
 cpu_cores: 1
@@ -37,6 +36,7 @@ supported_since_rel: 17.01.0
 switch: Atheros AR8327
 target: ramips
 usb_ports: 1x 2.0
+vendor: Sitecom
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Sitecom_WLR-6000
 wlan_24ghz: b/g/n

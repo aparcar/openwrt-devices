@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: D-Link
 button_count: '2'
 comments: 'Useful page: https://dflund.se/~triad/krad/dlink-dns-313/'
 cpu: Cortina Systems QWCS3512C A3
@@ -31,4 +30,5 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 target: gemini
 usb_ports: 1x 2.0 Device
+vendor: D-Link
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DNS-313

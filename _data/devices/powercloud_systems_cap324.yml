@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: PowerCloud Systems
 button_count: '1'
 comments: All LEDs are bi-color; colors can be controlled separately.
 cpu: Atheros AR9344
@@ -35,6 +34,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 17.01.0
 target: ar71xx-ath79
 unsupported_functions: ath79 WIP
+vendor: PowerCloud Systems
 vlan: true
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

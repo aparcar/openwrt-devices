@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: D-Link
 button_count: '1'
 cpu: Atheros AR7240
 cpu_cores: 1
@@ -29,6 +28,7 @@ supported_since_rel: '10.03'
 switch: Atheros AR7240
 target: ar71xx
 usb_ports: Mod
+vendor: D-Link
 version: E1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-615_rev_E1

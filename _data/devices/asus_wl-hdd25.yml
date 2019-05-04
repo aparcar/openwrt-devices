@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Asus
 cpu: Broadcom BCM4702
 cpu_cores: 1
 cpu_mhz: 125
@@ -28,6 +27,7 @@ supported_current_rel: 18.06.2
 supported_since_rel: '10.03'
 target: brcm47xx
 usb_ports: 1x 1.1
+vendor: Asus
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/ASUS_WL-HDD2.5
 wlan_24ghz: b/g

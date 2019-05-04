@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: D-Link
 button_count: '3'
 cpu: Ralink RT63365E
 cpu_cores: 1
@@ -19,6 +18,7 @@ ram_mb: 16
 serial: true
 target: ramips
 unsupported_functions: Impossible
+vendor: D-Link
 version: C1
 vlan: false
 wlan_24ghz: b/g/n

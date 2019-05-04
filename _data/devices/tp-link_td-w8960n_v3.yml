@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: TP-Link
 button_count: '2'
 cpu: Broadcom BCM6318
 cpu_cores: 1
@@ -29,6 +28,7 @@ supported_current_rel: 18.06.2
 switch: Broadcom BCM5325E
 target: brcm63xx
 unsupported_functions: DSL modem
+vendor: TP-Link
 version: v3
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TD-W8960N_v3.x

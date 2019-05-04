@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: D-Link
 button_count: '2'
 comments: The official firmware appears to differ in certain countries.
 comments_network_ports: 4 LAN ports, and 1 WAN port, VLAN support might not work,
@@ -39,6 +38,7 @@ supported_since_rel: '12.09'
 switch: Ralink RT3050
 target: ramips
 unsupported_functions: VLAN support on the switch might not work.
+vendor: D-Link
 version: B1
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-600_rev_B1/B2
 wlan_24ghz: b/g/n

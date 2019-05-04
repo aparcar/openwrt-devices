@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Planex
 button_count: '3'
 cpu: Atheros AR9130
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=c8
 supported_since_rel: '10.03'
 switch: Atheros AR8216
 target: ar71xx
+vendor: Planex
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Planex_MZK-W300NH
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: ELECOM
 button_count: '1'
 comments: CRWH=white; CRBK=black
 cpu: MediaTek MT7620N
@@ -32,6 +31,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=37b50fdb92742024849241cf41091f97e11b2ba0
 supported_since_rel: 17.01.0
 target: ramips
+vendor: ELECOM
 where_available: amazon.co.jp
 wlan_24ghz: b/g/n
 wlan_driver: mt76

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: RaidSonic
 button_count: '3'
 cpu: Storm SL3516
 cpu_cores: 1
@@ -29,3 +28,4 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: '15.05'
 target: gemini
 usb_ports: 2x 2.0
+vendor: RaidSonic

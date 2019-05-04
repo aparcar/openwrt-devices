@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Open-Mesh
 cpu: Atheros AR9344
 cpu_cores: 1
 cpu_mhz: 560
@@ -28,6 +27,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=31881357af992c59255faa1fef184f4b05a39fa4
 supported_since_rel: '12.09'
 target: ar71xx
+vendor: Open-Mesh
 wikidevi_url: https://wikidevi.com/wiki/Open-Mesh_MR600
 wlan_24ghz: b/g/n
 wlan_50ghz: a

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Alpha Networks
 cpu: Ralink RT3052F
 cpu_cores: 1
 cpu_mhz: 384
@@ -26,6 +25,7 @@ supported_since_rel: '14.07'
 target: ramips
 unsupported_functions: DSL modem
 usb_ports: 1x 2.0
+vendor: Alpha Networks
 vlan: true
 wlan_24ghz: b/g/n
 wlan_comments: 2x2 MIMO

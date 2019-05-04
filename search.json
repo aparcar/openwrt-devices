@@ -10,7 +10,7 @@ search: exclude
 {%- if page.url contains "/devices" %}
 {%- assign device = site.data.devices[page.device] %}
 {%- assign tags = device.target %}
-{%- capture title %}{{ device.brand | escape }} {{ device.model }} - {{ device.device_id | escape }}{%- endcapture %}
+{%- capture title %}{{ device.vendor | escape }} {{ device.model }} - {{ device.device_id | escape }}{%- endcapture %}
 {% else -%}
 {%- assign title = page.title | escape %}
 {%- assign tags = page.tags%}

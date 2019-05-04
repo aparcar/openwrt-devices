@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Poray
 comments_network_ports: '5'
 cpu: Ralink RT3052F
 cpu_cores: 1
@@ -25,6 +24,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=16
 supported_since_rel: '15.05'
 target: ramips
 usb_ports: 1x 2.0
+vendor: Poray
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: rt2800pci

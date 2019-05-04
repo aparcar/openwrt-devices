@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 cpu: Atheros AR7240
 cpu_cores: 1
@@ -34,6 +33,7 @@ supported_since_rel: '12.09'
 switch: Atheros AR7240
 target: ar71xx
 usb_ports: Mod
+vendor: TP-Link
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR743ND_v1.1
 wlan_24ghz: b/g/n

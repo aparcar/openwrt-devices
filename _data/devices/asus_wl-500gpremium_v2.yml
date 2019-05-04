@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Asus
 cpu: Broadcom BCM5354
 cpu_cores: 1
 cpu_mhz: 240
@@ -29,6 +28,7 @@ supported_since_rel: '14.07'
 switch: Broadcom BCM5354
 target: brcm47xx
 usb_ports: 2x 2.0
+vendor: Asus
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ASUS_WL-500g_Premium_v2

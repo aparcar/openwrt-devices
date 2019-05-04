@@ -1,5 +1,4 @@
 availability: unknown 2019
-brand: ZyXEL
 button_count: '2'
 comments: Support by external image seems to exist (4pda.ru and others)
 cpu: Ralink RT5350
@@ -23,6 +22,7 @@ subtarget: rt305x
 supported_current_rel: external image
 target: ramips
 usb_ports: 1x 2.0
+vendor: ZyXEL
 version: rev. B
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ZyXEL_Keenetic_4G_rev_B

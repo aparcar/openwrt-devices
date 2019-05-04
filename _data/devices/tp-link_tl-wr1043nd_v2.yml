@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 comments: German stock firmware is newer than the english version above.
 cpu: Qualcomm Atheros QCA9558
@@ -39,6 +38,7 @@ supported_since_rel: '14.07'
 switch: Atheros AR8327N
 target: ar71xx-ath79
 usb_ports: 1x 2.0
+vendor: TP-Link
 version: v2.x
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR1043ND_v2.x

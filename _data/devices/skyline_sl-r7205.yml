@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Skyline
 comments_network_ports: 1 WAN + 4x LAN
 cpu: Ralink RT3052
 cpu_cores: 1
@@ -29,6 +28,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=34
 supported_since_rel: '12.09'
 target: ramips
 usb_ports: 1x 2.0
+vendor: Skyline
 wlan_24ghz: b/g/n
 wlan_driver: unknown
 wlan_hardware: Ralink RT2872

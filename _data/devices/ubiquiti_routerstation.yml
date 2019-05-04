@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: Ubiquiti
 button_count: '1'
 cpu: Atheros AR7161
 cpu_cores: 1
@@ -34,6 +33,7 @@ supported_since_rel: 10.03.1
 switch: Infineon ADM6996FC
 target: ar71xx-ath79
 usb_ports: 1x 2.0
+vendor: Ubiquiti
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Ubiquiti_Networks_RouterStation
 wlan_hardware: 3x mini-PCI

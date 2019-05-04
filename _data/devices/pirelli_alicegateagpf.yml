@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: CFE
-brand: Pirelli
 comments: Also smp firmware image available.
 comments_network_ports: '4'
 cpu: Broadcom BCM6358
@@ -33,6 +32,7 @@ switch: Broadcom BCM5325
 target: brcm63xx
 unsupported_functions: DSL modem
 usb_ports: 1x 2.0
+vendor: Pirelli
 vlan: true
 wlan_24ghz: b/g
 wlan_driver: b43

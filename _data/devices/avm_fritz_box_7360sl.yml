@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: Adam2
-brand: AVM
 button_count: '3'
 comments: DECT IP telephony, there is also a V1 and a V2, ADSL2, ADSL2+, VDSL capable;
   See also http://www.wehavemorefun.de/fritzbox/7360
@@ -39,6 +38,7 @@ switch: Lantiq PSB 80920
 target: lantiq
 unsupported_functions: DECT
 usb_ports: 2x 2.0
+vendor: AVM
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/AVM_FRITZ!Box_Fon_WLAN_7360_SL
 wlan_24ghz: b/g/n

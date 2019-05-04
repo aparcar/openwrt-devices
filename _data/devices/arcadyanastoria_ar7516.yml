@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Arcadyan / Astoria
 button_count: '2'
 cpu: Broadcom BCM6328
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_since_rel: 17.01.0
 switch: Broadcom BCM6328
 target: brcm63xx
 usb_ports: 1x 2.0
+vendor: Arcadyan / Astoria
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Arcadyan_AR7516
 wlan_24ghz: b/g/n

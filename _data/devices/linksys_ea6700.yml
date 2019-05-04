@@ -1,6 +1,5 @@
 availability: Discontinued 2014
 bootloader: CFE
-brand: Linksys
 button_count: '2'
 cpu: Broadcom BCM4708A0
 cpu_cores: 2
@@ -25,6 +24,7 @@ subtarget: generic
 switch: Broadcom BCM4708A0
 target: bcm53xx
 usb_ports: 2x 3.0
+vendor: Linksys
 wikidevi_url: https://wikidevi.com/wiki/Linksys_EA6700
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: VoCore
 comments: 'Ultra low size: 25mm x 25mm board; Forum available: http://forum.vocore.io/;
   Vendor firmware is based on OpenWrt/LEDE.'
 cpu: Ralink RT5350F
@@ -31,6 +30,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=21
 supported_since_rel: '14.07'
 target: ramips
 usb_ports: 1x 2.0
+vendor: VoCore
 version: v1.0
 wikidevi_url: https://wikidevi.com/wiki/VoCore
 wlan_24ghz: b/g/n

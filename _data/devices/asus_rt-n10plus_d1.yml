@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Asus
 comments: ASUS RT-N10P != ASUS RT-N10+ / ASUS RT-N10plus
 cpu: Broadcom BCM5356
 cpu_cores: 1
@@ -28,6 +27,7 @@ supported_since_rel: 10.03.1
 switch: Broadcom BCM5356
 target: brcm47xx
 unsupported_functions: WiFi 2.4GHz
+vendor: Asus
 version: D1
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N10%2B_rev_D1
 wlan_24ghz: b/g/n

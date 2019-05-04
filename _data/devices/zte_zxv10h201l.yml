@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: ZTE
 cpu: Lantiq AMAZON-SE
 cpu_cores: 1
 cpu_mhz: 266
@@ -30,6 +29,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=7d
 supported_since_rel: 17.01.0
 switch: Realtek RTL8306G
 target: lantiq
+vendor: ZTE
 wlan_24ghz: b/g/n
 wlan_driver: ath9k
 wlan_hardware: Atheros AR9271

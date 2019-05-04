@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Aztech
 cpu: Ralink RT3052F
 cpu_cores: 1
 cpu_mhz: 384
@@ -33,6 +32,7 @@ supported_since_rel: '12.09'
 switch: Ralink RT3052
 target: ramips
 usb_ports: 1x 2.0
+vendor: Aztech
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Aztech_HW550-3G
 wlan_24ghz: b/g/n

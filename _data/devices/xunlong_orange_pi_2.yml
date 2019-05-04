@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Xunlong
 button_count: '3'
 cpu: Allwinner H3
 cpu_cores: 4
@@ -29,6 +28,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f9ecb0d562bd1dab9dadb150f6a6c146b948fc5c
 supported_since_rel: 18.06.0
 target: sunxi
+vendor: Xunlong
 video_ports: HDMI
 wlan_24ghz: b/g/n
 wlan_driver: unknown

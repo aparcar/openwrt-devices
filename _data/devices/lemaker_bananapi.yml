@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Lemaker
 comments: See also http://linux-sunxi.org/LeMaker_Banana_Pi
 cpu: Allwinner A20
 cpu_cores: 2
@@ -32,4 +31,5 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=1bd75f114f10fb04a691a9b71a939d690946463f
 supported_since_rel: 17.01.0
 target: sunxi
+vendor: Lemaker
 where_available: aliexpress.com

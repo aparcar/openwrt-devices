@@ -1,5 +1,4 @@
 availability: unknown 2019
-brand: AVM
 button_count: '2'
 cpu: Lantiq XWAY VRX220
 cpu_cores: 2
@@ -26,6 +25,7 @@ subtarget: xrx200
 supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=20f48c8ae334f8502e756282995cc84d89fa81c1
 target: lantiq
+vendor: AVM
 wlan_24ghz: b/g/n
 wlan_driver: ath9k
 wlan_hardware: Atheros AR9287

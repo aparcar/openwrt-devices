@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: D-Link
 cpu: Qualcomm Atheros QCA9563
 cpu_cores: 1
 cpu_mhz: 750
@@ -31,6 +30,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=5a
 supported_since_rel: 17.01.0
 switch: Atheros AR8337N
 target: ar71xx
+vendor: D-Link
 version: A1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-869

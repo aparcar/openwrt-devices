@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: Gateworks
 button_count: '1'
 cpu: Intel IXP425
 cpu_cores: 1
@@ -30,6 +29,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=1834a712041e0907ff05eac19fbba768cde2c19a
 supported_since_rel: '7.06'
 target: ixp4xx
+vendor: Gateworks
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Gateworks_Avila_GW2342
 wlan_driver: unknown

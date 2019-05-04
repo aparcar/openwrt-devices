@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Open-Mesh
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
 cpu_mhz: 720
@@ -27,6 +26,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=305c1431e308b1d498dc5e47e77dcc311910b1d3
 supported_since_rel: '15.05'
 target: ar71xx
+vendor: Open-Mesh
 version: v1
 wikidevi_url: https://wikidevi.com/wiki/Open-Mesh_MR900_v1
 wlan_24ghz: b/g/n

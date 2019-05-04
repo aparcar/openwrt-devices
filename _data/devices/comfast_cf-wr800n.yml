@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: COMFAST
 button_count: '1'
 cpu: MediaTek MT7620N
 cpu_cores: 1
@@ -30,6 +29,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=5e
 supported_since_rel: '15.05'
 switch: MediaTek MT7530
 target: ramips
+vendor: COMFAST
 version: v1
 vlan: true
 where_available: newegg.com

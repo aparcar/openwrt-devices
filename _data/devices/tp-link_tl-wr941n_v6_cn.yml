@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: TP-Link
 cpu: Atheros AR9344
 cpu_cores: 1
 device_id: tp-link_tl-wr941n_v6_cn
@@ -20,6 +19,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=07fac13b5198277075a219d58dea637fa8c4f481
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: TP-Link
 version: v6 (CN)
 wlan_24ghz: b/g/n
 wlan_driver: ath9k

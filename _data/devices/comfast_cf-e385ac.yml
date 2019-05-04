@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: COMFAST
 button_count: '1'
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
@@ -27,6 +26,7 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 switch: Qualcomm Atheros QCA8337
 target: ar71xx
+vendor: COMFAST
 vlan: true
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

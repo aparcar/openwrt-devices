@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: JBoot
-brand: D-Link
 button_count: '2'
 cpu: MediaTek MT7620N
 cpu_cores: 1
@@ -32,6 +31,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=9f0e2335764674d0324dd90adb3e185cc8befe5f
 target: ramips
 usb_ports: 1x 2.0
+vendor: D-Link
 version: E2
 wlan_24ghz: b/g/n
 wlan_comments: for wifi internal antennas only; external antennas are for 4G LTE

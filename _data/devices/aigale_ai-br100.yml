@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Aigale
 button_count: '2'
 cpu: MediaTek MT7620A
 cpu_cores: 1
@@ -27,5 +26,6 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=26
 supported_since_rel: 17.01.0
 target: ramips
 usb_ports: 1x 2.0
+vendor: Aigale
 wlan_24ghz: b/g/n
 wlan_driver: unknown

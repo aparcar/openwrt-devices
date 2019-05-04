@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Catch Tec
 cpu: Broadcom BCM5354
 cpu_cores: 1
 cpu_mhz: 240
@@ -17,6 +16,7 @@ ram_mb: 32
 subtarget: legacy
 target: brcm47xx
 usb_ports: 1x 2.0
+vendor: Catch Tec
 vlan: true
 wlan_24ghz: b/g
 wlan_driver: b43

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TRENDnet
 button_count: '2'
 cpu: Ralink RT3052F
 cpu_cores: 1
@@ -30,6 +29,7 @@ supported_current_rel: 18.06.1
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=82f9486142adff9c0d34393a63d3844d1da7ed03
 supported_since_rel: 18.06.0
 target: ramips
+vendor: TRENDnet
 version: v2
 wikidevi_url: https://wikidevi.com/wiki/TRENDnet_TEW-638APB_V2.0R
 wlan_24ghz: b/g/n

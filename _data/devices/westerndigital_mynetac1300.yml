@@ -1,5 +1,4 @@
 availability: Available 2017
-brand: Western Digital
 cpu: Broadcom BCM4706
 cpu_cores: 1
 cpu_mhz: 600
@@ -19,6 +18,7 @@ ram_mb: 128
 subtarget: mips74k
 target: brcm47xx
 usb_ports: 2x 2.0
+vendor: Western Digital
 wikidevi_url: https://wikidevi.com/wiki/Western_Digital_My_Net_AC1300
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

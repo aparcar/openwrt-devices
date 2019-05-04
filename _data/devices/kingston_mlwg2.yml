@@ -1,6 +1,5 @@
 availability: Discontinued 2016
 bootloader: U-Boot
-brand: Kingston
 cpu: MediaTek MT7620N
 cpu_cores: 1
 cpu_mhz: 580
@@ -30,6 +29,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=7a65864344b0515b740f42149d6c24ef0d1c775e
 supported_since_rel: '15.05'
 target: ramips
+vendor: Kingston
 wlan_24ghz: b/g/n
 wlan_driver: mt76
 wlan_hardware: MediaTek MT7620N

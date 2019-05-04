@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: Gainstrong
 button_count: '1'
 cpu: Atheros AR9331
 cpu_cores: 1
@@ -28,6 +27,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=8d8a937272fd03902d4e40888efcf3ff707c0d57
 supported_since_rel: 15.05.1
 target: ar71xx
+vendor: Gainstrong
 version: v1.0
 vlan: true
 wlan_24ghz: b/g/n

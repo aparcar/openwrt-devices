@@ -1,6 +1,5 @@
 availability: Discontinued 2016
 bootloader: U-Boot
-brand: Belkin
 button_count: '2'
 cpu: Qualcomm Atheros QCA9558
 cpu_cores: 1
@@ -36,6 +35,7 @@ supported_since_rel: '15.05'
 switch: Qualcomm Atheros QCA8337
 target: ar71xx
 usb_ports: 2x 3.0
+vendor: Belkin
 version: v2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Belkin_F9K1115_v2

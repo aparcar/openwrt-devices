@@ -1,7 +1,6 @@
 availability: Available 2019
 bluetooth: '4.1'
 bootloader: U-Boot
-brand: Creator
 button_count: '2'
 comments: Bluetooth- 4.1 and BTLE, 6LoWPAN - 802.15.4 Cascoda ca8210, Module interfaces
   - 3v3 only. 2x mikroBUS, 1x Pi header. Jumpers to select either mikroBUS mode or
@@ -32,6 +31,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=0d271cef8071d0698246b4b50a610b5ff718af01
 supported_since_rel: 18.06.0
 target: pistachio
+vendor: Creator
 version: 02KZ/5+
 vlan: false
 where_available: mouser.de

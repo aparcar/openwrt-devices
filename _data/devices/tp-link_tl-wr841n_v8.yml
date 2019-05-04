@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 comment_installation: For TFTP, rename -factory image to wr841nv8_tp_recovery.bin
 comment_recovery: For TFTP, rename -factory image to wr841nv8_tp_recovery.bin (newer
@@ -38,6 +37,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=be
 supported_since_rel: '12.09'
 switch: Atheros AR9341
 target: ar71xx-ath79
+vendor: TP-Link
 version: v8
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR841N_v8.x

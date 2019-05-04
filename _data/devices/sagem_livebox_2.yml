@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: Sagem
 comments_network_ports: '4'
 cpu: Ikanos Fusiv Vx160
 cpu_cores: 1
@@ -16,6 +15,7 @@ modem: ADSL
 ram_mb: 64
 unsupported_functions: Possible to support
 usb_ports: 2x 2.0
+vendor: Sagem
 version: '2'
 wlan_24ghz: b/g/n
 wlan_driver: ath9k

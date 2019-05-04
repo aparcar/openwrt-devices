@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: CFE
-brand: TP-Link
 cpu: Broadcom BCM6318
 cpu_cores: 1
 cpu_mhz: 333
@@ -34,6 +33,7 @@ supported_since_rel: 17.01.0
 switch: Broadcom BCM6318
 target: brcm63xx
 usb_ports: 1x 2.0
+vendor: TP-Link
 version: v3
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TD-W8968_v3

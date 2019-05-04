@@ -1,5 +1,4 @@
 availability: Discontinued 2014
-brand: ZyXEL
 cpu: Mindspeed Comcerto 1000 (M83241G-13) + Ralink RT3883
 cpu_cores: 1
 cpu_mhz: 450
@@ -21,6 +20,7 @@ ram_mb: 128
 switch: Atheros AR8328
 unsupported_functions: Unknown if possible
 usb_ports: 2x 2.0
+vendor: ZyXEL
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ZyXEL_NBG5715

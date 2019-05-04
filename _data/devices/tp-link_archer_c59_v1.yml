@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: TP-Link
 button_count: '3'
 comment_installation: Rename installation image to tp_recovery.bin, see git-commit
 comment_recovery: 'TFTP recovery filename: tp_recovery.bin (use factory image)'
@@ -36,6 +35,7 @@ supported_since_rel: 18.06.0
 switch: Qualcomm Atheros QCA9561
 target: ar71xx-ath79
 usb_ports: 1x 2.0
+vendor: TP-Link
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C59_v1.x

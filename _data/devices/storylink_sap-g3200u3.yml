@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: STORYLiNK
 button_count: '2'
 cpu: MediaTek MT7621AT
 cpu_cores: 2
@@ -32,6 +31,7 @@ supported_since_rel: 17.01.0
 switch: MediaTek MT7530
 target: ramips
 usb_ports: 1x 3.0
+vendor: STORYLiNK
 vlan: true
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

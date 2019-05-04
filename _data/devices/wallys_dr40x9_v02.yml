@@ -1,5 +1,4 @@
 availability: Available 2019
-brand: Wallys
 button_count: '1'
 comments_network_ports: Comments on Ethernet and Fibre
 cpu: IPQ4019/29
@@ -35,6 +34,7 @@ supported_since_commit: "http://\xBF"
 switch: IPQ8075/2
 target: ipq40xx
 usb_ports: 1x 3.0
+vendor: Wallys
 version: V02
 wikidevi_url: "http://\xBF"
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Linksys
 button_count: '1'
 cpu: Broadcom BCM4785
 cpu_cores: 1
@@ -34,6 +33,7 @@ supported_since_rel: '15.05'
 switch: Broadcom BCM5397
 target: brcm47xx
 usb_ports: 1x 2.0
+vendor: Linksys
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT350N_v1

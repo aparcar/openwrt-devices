@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Belkin
 cpu: Atheros AR9130
 cpu_cores: 1
 cpu_mhz: 400
@@ -17,6 +16,7 @@ subtarget: generic
 target: ar71xx
 unsupported_functions: Possible to support
 usb_ports: 4x 2.0
+vendor: Belkin
 version: v1
 wikidevi_url: https://wikidevi.com/wiki/Belkin_F5L049
 wlan_24ghz: b/g/n

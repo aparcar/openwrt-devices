@@ -1,6 +1,5 @@
 availability: Discontinued 2016
 bootloader: U-Boot
-brand: BT Openreach
 button_count: '1'
 cpu: Lantiq XRX200
 cpu_cores: 1
@@ -31,5 +30,6 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=858b972e66f4f215fcf9774525a5c71bd80be90f
 supported_since_rel: '15.05'
 target: lantiq
+vendor: BT Openreach
 version: v2
 vlan: true

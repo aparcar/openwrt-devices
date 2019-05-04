@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Compex
 button_count: '1'
 cpu: Atheros AR9342
 cpu_cores: 1
@@ -30,6 +29,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=d9799dea89ea1da5bbc0c9146a2e1ae5e54bd742
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: Compex
 version: 7A05
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Compex_WPJ342

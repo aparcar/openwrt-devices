@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: GnuBee
 cpu: MediaTek MT7621AT
 cpu_cores: 2
 cpu_mhz: 880
@@ -27,4 +26,5 @@ supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;
 supported_since_rel: 18.06.0
 target: ramips
 unsupported_functions: see git-commit
+vendor: GnuBee
 where_available: crowdsupply.com

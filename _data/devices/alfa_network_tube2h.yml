@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: ALFA Network
 comments: Bootlog see https://forum.freifunk.net/t/alfa-tube2h-debrick/14914
 cpu: Atheros AR9331
 cpu_cores: 1
@@ -34,6 +33,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=495aef39f4805b2d3b341dd7f70437901ce9d13b
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: ALFA Network
 where_available: amazon.de
 wlan_24ghz: b/g/n
 wlan_driver: ath9k

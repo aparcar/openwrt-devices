@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: ALFA Network
 button_count: '1'
 comments: 2HP = 2H with double Flash/RAM
 cpu: Atheros AR9331
@@ -34,6 +33,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=495aef39f4805b2d3b341dd7f70437901ce9d13b
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: ALFA Network
 wlan_24ghz: b/g/n
 wlan_driver: ath9k
 wlan_hardware: Atheros AR9331

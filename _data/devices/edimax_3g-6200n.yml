@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Edimax
 cpu: Ralink RT3050F
 cpu_cores: 1
 cpu_mhz: 320
@@ -33,6 +32,7 @@ supported_since_rel: '15.05'
 switch: Ralink RT3050
 target: ramips
 usb_ports: 1x 2.0
+vendor: Edimax
 wikidevi_url: https://wikidevi.com/wiki/Edimax_3G-6200n
 wlan_24ghz: b/g/n
 wlan_driver: unknown

@@ -1,6 +1,5 @@
 availability: Available 2017
 bootloader: U-Boot
-brand: Linksys
 comment_installation: Image name may need to be changed to OEM Code Name
 comment_recovery: Image name MUST be OEM Code Name
 comments: '[Launch Date: 2016.10] OEM Firmware Name: rango.img'
@@ -41,6 +40,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=37
 supported_since_rel: 17.01.0
 switch: Marvell 88E6352
 target: mvebu
+vendor: Linksys
 version: v1 (rango)
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT3200ACM

@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Sophos
 cpu: Freescale P1010
 cpu_cores: 1
 device_id: sophos_red_15w_rev-_1
@@ -29,6 +28,7 @@ supported_current_rel: snapshot
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=97e4311fca73d064d17065e7844699aa777cb157
 target: mpc85xx
 usb_ports: 1x 2.0
+vendor: Sophos
 version: Rev. 1
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

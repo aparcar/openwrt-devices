@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: ZTE
 button_count: '4'
 cpu: Broadcom BCM6368
 cpu_cores: 2
@@ -24,6 +23,7 @@ power_supply: 12 VDC, 1.5 A
 ram_mb: 64
 serial: true
 target: brcm63xx
+vendor: ZTE
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ZTE_ZXDSL_931WII_V1

@@ -1,6 +1,5 @@
 availability: Discontinued 2015
 bootloader: U-Boot
-brand: HooToo
 button_count: '2'
 comments: Internal hardware same as HooToo Tripmate Nano and uses same LEDE image
 cpu: Ralink RT5350F
@@ -37,6 +36,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=21
 supported_since_rel: '15.05'
 switch: Ralink RT5350
 target: ramips
+vendor: HooToo
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/HooToo_TripMate_Elite
 wlan_24ghz: b/g/n

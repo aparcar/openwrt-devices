@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: Coreboot
-brand: PC Engines
 button_count: '1'
 comments: 'bare board, requires case, PS and media for OS.See: https://www.pcengines.ch/newshop.php?c=4'
 comments_network_ports: 3 Realtek RTL8111E
@@ -36,4 +35,5 @@ supported_since_commit: "http://\xBF"
 supported_since_rel: 17.01.2
 target: x86
 usb_ports: 2x 2.0
+vendor: PC Engines
 wlan_comments: 2x mini-PCIe

@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: brnboot
-brand: Arcadyan / Astoria
 comments: Same as toh/arcadyan/arv7510pw or not?
 comments_network_ports: '4'
 cpu: Lantiq XWAY Danube
@@ -35,6 +34,7 @@ supported_since_rel: '14.07'
 switch: Atheros AR8216
 target: lantiq
 usb_ports: 3x 2.0
+vendor: Arcadyan / Astoria
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: rt2800pci

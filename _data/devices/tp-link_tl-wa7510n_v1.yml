@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '1'
 cpu: Atheros AR7240
 cpu_cores: 1
@@ -34,6 +33,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=62c8ff19ad57b42df2cdc160b9ca37fbf86dd53a
 supported_since_rel: '12.09'
 target: ar71xx
+vendor: TP-Link
 version: v1
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WA7510N_v1.x

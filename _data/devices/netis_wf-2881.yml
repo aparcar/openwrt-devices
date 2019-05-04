@@ -1,6 +1,5 @@
 availability: Discontinued 2016
 bootloader: U-Boot
-brand: Netis
 button_count: '1'
 cpu: MediaTek MT7621AT
 cpu_cores: 2
@@ -35,6 +34,7 @@ supported_since_rel: 17.01.0
 switch: MediaTek MT7530
 target: ramips
 usb_ports: 1x 3.0
+vendor: Netis
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netis_WF2881
 wlan_24ghz: b/g/n

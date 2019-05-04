@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: TP-Link
 cpu: Atheros AR9331
 cpu_cores: 1
 cpu_mhz: 400
@@ -30,6 +29,7 @@ supported_since_rel: '15.05'
 switch: Atheros AR9331
 target: ar71xx-ath79
 usb_ports: 1x 2.0
+vendor: TP-Link
 version: v1.0 (US)
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR710N_v1.0

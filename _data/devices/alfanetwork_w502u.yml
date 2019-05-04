@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: ALFA Network
 cpu: Ralink RT3050F
 cpu_cores: 1
 cpu_mhz: 320
@@ -28,6 +27,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=98
 supported_since_rel: '12.09'
 target: ramips
 usb_ports: 1x 2.0
+vendor: ALFA Network
 wikidevi_url: https://wikidevi.com/wiki/ALFA_Network_R36
 wlan_24ghz: b/g/n
 wlan_driver: unknown

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: JCG
 button_count: '1'
 comments: 'DD Trunk: Runs in CLI mode with ~4MB free, but WITHOUT WIFI! Goes oom when
   using LuCI or sysupgrade due to insufficient RAM.'
@@ -37,6 +36,7 @@ supported_since_rel: 17.01.0
 switch: Ralink RT3050
 target: ramips
 unsupported_functions: WiFi 2.4GHz
+vendor: JCG
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/JCG_JHR-N805R
 wlan_24ghz: b/g/n

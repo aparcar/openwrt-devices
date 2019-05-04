@@ -1,7 +1,6 @@
 availability: Available 2019
 bluetooth: '4.0'
 bootloader: U-Boot
-brand: FriendlyElec
 button_count: '1'
 cpu: Allwinner H3
 cpu_cores: 4
@@ -31,6 +30,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b3
 supported_since_rel: 18.06.0
 target: sunxi
 unsupported_functions: Bluetooth
+vendor: FriendlyElec
 wlan_24ghz: b/g/n
 wlan_comments: Bluetooth also via AMPAK AP6212A
 wlan_driver: unknown

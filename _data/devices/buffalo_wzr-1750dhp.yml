@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Buffalo
 cpu: Broadcom BCM4708A0
 cpu_cores: 2
 cpu_mhz: 800
@@ -34,6 +33,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=94
 supported_since_rel: '15.05'
 switch: Broadcom BCM4708A0
 target: bcm53xx
+vendor: Buffalo
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Buffalo_WZR-1750DHP
 wlan_24ghz: b/g/n

@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: CFE
-brand: Telsey
 cpu: Broadcom BCM6358
 cpu_cores: 2
 cpu_mhz: 300
@@ -28,6 +27,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=04
 supported_since_rel: '12.09'
 target: brcm63xx
 usb_ports: 1x 2.0
+vendor: Telsey
 vlan: true
 wlan_24ghz: b/g
 wlan_driver: unknown

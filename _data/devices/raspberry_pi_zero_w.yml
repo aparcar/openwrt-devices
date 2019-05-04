@@ -1,6 +1,5 @@
 availability: Available 2019
 bluetooth: '4.1'
-brand: Raspberry Pi Foundation
 comments_av_ports: MiniHDMI jack, composite video require solder a header on TV holes,
   audio output via HDMI or on-board I2S
 cpu: Broadcom BCM2835
@@ -29,6 +28,7 @@ subtarget: bcm2708
 supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=6debeaab45a08d52cc018b1e5bc69924d9b41d6d
 target: brcm2708
+vendor: Raspberry Pi Foundation
 where_available: commonly avaliable
 wikidevi_url: https://wikidevi.com/wiki/RPF_Raspberry_Pi_Zero_W
 wlan_24ghz: b/g/n

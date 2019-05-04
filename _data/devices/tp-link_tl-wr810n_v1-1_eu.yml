@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: TP-Link
 button_count: '1'
 cpu: Qualcomm Atheros QCA9531
 cpu_cores: 1
@@ -37,6 +36,7 @@ supported_since_rel: 17.01.0
 switch: Qualcomm Atheros QCA9531
 target: ar71xx-ath79
 usb_ports: 1x 2.0
+vendor: TP-Link
 version: v1.1 (EU)
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR810N_v1.1

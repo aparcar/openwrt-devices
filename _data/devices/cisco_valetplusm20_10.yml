@@ -1,5 +1,4 @@
 availability: Available 2017
-brand: Cisco
 cpu: Broadcom BCM4716
 cpu_cores: 1
 cpu_mhz: 300
@@ -16,6 +15,7 @@ ram_mb: 32
 subtarget: mips74k
 target: brcm47xx
 unsupported_functions: Possible to support
+vendor: Cisco
 version: '1.0'
 wikidevi_url: https://wikidevi.com/wiki/Cisco_Valet_Plus_M20
 wlan_24ghz: b/g/n

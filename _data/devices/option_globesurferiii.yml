@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Option
 cpu: Broadcom BCM5354
 cpu_cores: 1
 cpu_mhz: 240
@@ -21,6 +20,7 @@ serial: true
 subtarget: legacy
 target: brcm47xx
 usb_ports: 1x 2.0
+vendor: Option
 wikidevi_url: https://wikidevi.com/wiki/Option_GlobeSurfer_III
 wlan_24ghz: b/g
 wlan_driver: b43

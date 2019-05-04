@@ -1,6 +1,5 @@
 availability: Discontinued 2016
 bootloader: U-Boot
-brand: D-Link
 button_count: '2'
 cpu: Atheros AR9344
 cpu_cores: 1
@@ -36,6 +35,7 @@ supported_since_rel: '14.07'
 switch: Atheros AR8327
 target: ar71xx-ath79
 usb_ports: 1x 2.0
+vendor: D-Link
 version: A1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DIR-835_rev_A1

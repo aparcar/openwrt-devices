@@ -1,6 +1,5 @@
 availability: Discontinued 2016
 bootloader: U-Boot
-brand: Logitech
 cpu: Atheros AR9331
 cpu_cores: 1
 cpu_mhz: 400
@@ -19,6 +18,7 @@ serial: true
 subtarget: generic
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: Logitech
 wlan_24ghz: b/g/n
 wlan_driver: ath9k
 wlan_hardware: Atheros AR9331

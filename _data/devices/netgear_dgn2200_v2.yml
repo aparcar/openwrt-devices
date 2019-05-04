@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Netgear
 cpu: Broadcom BCM6328
 cpu_cores: 1
 cpu_mhz: 320
@@ -22,6 +21,7 @@ subtarget: generic
 target: brcm63xx
 unsupported_functions: WIP
 usb_ports: 1x 2.0
+vendor: Netgear
 version: v2
 wlan_24ghz: b/g/n
 wlan_hardware: Broadcom BCM43225

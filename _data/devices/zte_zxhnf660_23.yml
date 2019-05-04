@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: ZTE
 comments_network_ports: Fibre
 cpu: Broadcom BCM63168
 cpu_cores: 2
@@ -16,6 +15,7 @@ model: ZXHN F660
 target: brcm63xx
 unsupported_functions: Possible to support
 usb_ports: 2x 2.0
+vendor: ZTE
 version: '2.3'
 wlan_24ghz: b/g/n
 wlan_driver: b43

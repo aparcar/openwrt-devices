@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Lenovo
 button_count: '1'
 cpu: MediaTek MT7621AT
 cpu_cores: 2
@@ -28,6 +27,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=14
 supported_since_rel: 17.01.0
 switch: MediaTek MT7621AT
 target: ramips
+vendor: Lenovo
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Lenovo_Newifi_D1
 wlan_24ghz: b/g/n

@@ -1,5 +1,4 @@
 availability: unknown 2018
-brand: Patriot Memory
 button_count: '3'
 comments: includes 320GB HD, Lithium-ion polymer battery up to 5.5 hours
 cpu: Ralink RT5350F
@@ -24,6 +23,7 @@ subtarget: rt305x
 target: ramips
 unsupported_functions: WIP
 usb_ports: 1x 2.0
+vendor: Patriot Memory
 wlan_24ghz: b/g/n
 wlan_driver: unknown
 wlan_hardware: Ralink RT5350F

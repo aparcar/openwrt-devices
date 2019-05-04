@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: TRENDnet
 comments_network_ports: (PoE)
 cpu: Marvell 98dx4122
 cpu_cores: 1
@@ -19,5 +18,6 @@ ram_mb: 128
 serial: true
 target: kirkwood
 unsupported_functions: WIP
+vendor: TRENDnet
 version: v1.1R
 wlan_driver: unknown

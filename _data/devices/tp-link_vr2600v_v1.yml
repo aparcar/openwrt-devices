@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '5'
 cpu: Qualcomm IPQ8064
 cpu_cores: 2
@@ -34,6 +33,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ae
 supported_since_rel: 17.01.0
 target: ipq806x
 usb_ports: 2x 3.0
+vendor: TP-Link
 version: v1
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: CFE
-brand: ZyXEL
 cpu: Broadcom BCM6368
 cpu_cores: 2
 cpu_mhz: 400
@@ -21,6 +20,7 @@ serial: true
 target: brcm63xx
 unsupported_functions: WIP
 usb_ports: 1x 2.0
+vendor: ZyXEL
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: b43

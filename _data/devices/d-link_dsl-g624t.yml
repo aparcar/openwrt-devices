@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: Adam2
-brand: D-Link
 button_count: '1'
 cpu: Texas Instruments TNETD7300
 cpu_cores: 1
@@ -33,6 +32,7 @@ supported_current_rel: '14.07'
 supported_since_rel: 10.03.1
 switch: Infineon ADM6996M
 target: ar7
+vendor: D-Link
 version: A1 (EU)
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DSL-G624T_rev_A1

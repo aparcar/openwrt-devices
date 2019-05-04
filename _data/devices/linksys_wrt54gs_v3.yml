@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Linksys
 cpu: Broadcom BCM5352E
 cpu_cores: 1
 cpu_mhz: 200
@@ -26,6 +25,7 @@ supported_since_rel: '0.9'
 switch: Broadcom BCM5352E
 target: brcm47xx
 usb_ports: Mod
+vendor: Linksys
 version: v3.0
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_WRT54GS_v3

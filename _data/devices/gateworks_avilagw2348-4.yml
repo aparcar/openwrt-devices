@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Gateworks
 cpu: Intel IXP425
 cpu_cores: 1
 cpu_mhz: 533
@@ -20,6 +19,7 @@ subtarget: generic
 supported_current_rel: '12.09'
 supported_since_rel: '12.09'
 target: ixp4xx
+vendor: Gateworks
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/Gateworks_Avila_GW2348-4
 wlan_driver: unknown

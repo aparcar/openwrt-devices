@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: 7Links
 comments: 4M image not built for 18.06.0
 cpu: Ralink RT5350
 cpu_cores: 1
@@ -25,6 +24,7 @@ supported_current_rel: 18.06.1
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=cd5f3584e2c2044c2cd53d723350a8d02b227aff
 supported_since_rel: '14.07'
 target: ramips
+vendor: 7Links
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: unknown

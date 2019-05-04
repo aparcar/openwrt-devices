@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Qxwlan
 button_count: '1'
 cpu: Qualcomm Atheros QCA9531
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=d8e6c3f6d95304bc84269d2292581767fc9bfd3a
 supported_since_rel: 18.06.0
 target: ar71xx
+vendor: Qxwlan
 version: v2
 wlan_24ghz: b/g/n
 wlan_driver: ath10k

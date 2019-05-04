@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: RedBoot
-brand: Fon
 button_count: '1'
 comments: Releases past Backfire are essentially worthless because of lack of RAM
 cpu: Atheros AR2315
@@ -26,6 +25,7 @@ supported_current_rel: 10.03.1
 supported_since_rel: 8.09.2
 switch: Marvell 88E6060
 target: ath25
+vendor: Fon
 version: FON2201
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/La_Fonera%2B_FON2201

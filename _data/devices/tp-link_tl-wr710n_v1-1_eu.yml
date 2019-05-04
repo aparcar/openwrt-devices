@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '1'
 comments: wallwart size; built in AC PSU
 cpu: Atheros AR9331
@@ -35,6 +34,7 @@ supported_since_rel: '14.07'
 switch: Atheros AR9331
 target: ar71xx-ath79
 usb_ports: 1x 2.0
+vendor: TP-Link
 version: v1.1 (EU)
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-WR710N_v1.0

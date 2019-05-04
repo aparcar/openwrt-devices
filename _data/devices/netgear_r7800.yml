@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: Netgear
 cpu: Qualcomm Atheros IPQ8065
 cpu_cores: 2
 cpu_mhz: 1700
@@ -38,6 +37,7 @@ supported_since_rel: 17.01.0
 switch: Qualcomm Atheros QCA8337
 target: ipq806x
 usb_ports: 2x 3.0
+vendor: Netgear
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Netgear_R7800
 wlan_24ghz: b/g/n

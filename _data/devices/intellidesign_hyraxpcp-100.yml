@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: U-Boot
-brand: Intellidesign
 cpu: Atmel ATSAMA5D35
 cpu_cores: 1
 cpu_mhz: 536
@@ -31,6 +30,7 @@ supported_current_rel: 18.06.2
 supported_since_rel: '14.07'
 target: at91
 usb_ports: true
+vendor: Intellidesign
 version: A
 wlan_24ghz: b/g/n
 wlan_driver: unknown

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: Sercomm
 button_count: '3'
 comments: aka "Picasso gateway"; RAM NANYA NT5TU64M16GG-AC;
 cpu: MediaTek MT7620A
@@ -31,6 +30,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=b5
 supported_since_rel: '15.05'
 target: ramips
 usb_ports: 1x 2.0
+vendor: Sercomm
 wikidevi_url: https://wikidevi.com/wiki/Telefonica_Smart_Home_Gateway_(Picasso)
 wlan_24ghz: b/g/n
 wlan_comments: Z-Wave capable

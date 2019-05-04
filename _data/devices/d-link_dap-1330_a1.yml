@@ -1,6 +1,5 @@
 availability: Available 2019
 bootloader: U-Boot
-brand: D-Link
 button_count: '2'
 comments: Phased out 09/01/2018 acc. OEM website
 cpu: Qualcomm Atheros QCA9533 v2
@@ -34,6 +33,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.openwrt.org/?p=openwrt/openwrt.git;a=commit;h=d265a8f2ca49a67a46493cf57de7c265855b317f
 supported_since_rel: 18.06.0
 target: ar71xx
+vendor: D-Link
 version: A1
 where_available: reichelt.de, voelkner.de
 wlan_24ghz: b/g/n

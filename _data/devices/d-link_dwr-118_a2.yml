@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: JBoot
-brand: D-Link
 button_count: '2'
 comments: 'GELAN support ready: https://github.com/openwrt/openwrt/pull/1510'
 comments_network_ports: 'Gigabit PHY: Marvell 88E1510'
@@ -37,6 +36,7 @@ switch: MediaTek MT7620A
 target: ramips
 unsupported_functions: Gbit Ethernet port (PR ready)
 usb_ports: 1x 2.0
+vendor: D-Link
 version: A2
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/D-Link_DWR-118_rev_A2

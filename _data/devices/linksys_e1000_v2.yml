@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Linksys
 cpu: Broadcom BCM5357
 cpu_cores: 1
 cpu_mhz: 300
@@ -33,6 +32,7 @@ supported_since_rel: '14.07'
 switch: Broadcom BCM5357B0
 target: brcm47xx
 unsupported_functions: WiFi 2.4GHz
+vendor: Linksys
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/Linksys_E1000_v2.0
 wlan_24ghz: b/g/n

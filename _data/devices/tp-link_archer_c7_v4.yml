@@ -1,6 +1,5 @@
 availability: Discontinued 2017
 bootloader: U-Boot
-brand: TP-Link
 button_count: '2'
 comment_installation: Rename installation image to 'ArcherC7v4_tp_recovery.bin', see
   git-commit
@@ -40,6 +39,7 @@ supported_since_rel: 18.06.0
 switch: Qualcomm Atheros QCA8337N
 target: ar71xx-ath79
 usb_ports: 2x 2.0
+vendor: TP-Link
 version: v4
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C7_v4.x

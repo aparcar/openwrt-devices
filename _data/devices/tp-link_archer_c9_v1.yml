@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: TP-Link
 comment_recovery: 'TFTP-Recoveryname: ArcherC9v1_tp_recovery.bin'
 cpu: Broadcom BCM4709
 cpu_cores: 2
@@ -32,6 +31,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=5e
 supported_since_rel: 17.01.0
 switch: Broadcom BCM4709
 target: bcm53xx
+vendor: TP-Link
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C9_v1.x

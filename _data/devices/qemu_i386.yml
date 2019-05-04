@@ -1,5 +1,4 @@
 availability: Available 2019
-brand: QEMU (i386)
 comments_network_ports: '2'
 cpu: x86 kvm_guest
 cpu_cores: 1
@@ -16,6 +15,7 @@ package_architecture: i386_pentium4
 supported_current_rel: 15.05.1
 supported_since_rel: '10.03'
 target: x86
+vendor: QEMU (i386)
 version: 0.12.5
 vlan: false
 where_available: qemu.org

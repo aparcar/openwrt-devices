@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Asus
 comments: Releases after Backfire are not viable because of lack of sufficient RAM.
 cpu: Broadcom BCM5354
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=f5fba5bc3ccf493289396deaa64a7ce7385d8590
 supported_since_rel: '10.03'
 target: brcm47xx
+vendor: Asus
 vlan: false
 wikidevi_url: https://wikidevi.com/wiki/ASUS_WL-330gE
 wlan_24ghz: b/g

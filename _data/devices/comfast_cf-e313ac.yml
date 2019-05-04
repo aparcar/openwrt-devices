@@ -1,6 +1,5 @@
 availability: Available 2018
 bootloader: U-Boot
-brand: COMFAST
 button_count: '1'
 comments: 'PR submitted: https://github.com/openwrt/openwrt/pull/1942'
 cpu: Qualcomm Atheros QCA9531
@@ -34,6 +33,7 @@ subtarget: generic
 switch: AR934X built-in switch
 target: ath79
 unsupported_functions: WIP
+vendor: COMFAST
 vlan: true
 where_available: aliexpress.com
 wlan_50ghz: a/n/ac

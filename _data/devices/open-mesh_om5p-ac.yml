@@ -1,5 +1,4 @@
 availability: Available 2017
-brand: Open-Mesh
 button_count: '1'
 cpu: Qualcomm Atheros QCA9557
 cpu_cores: 1
@@ -31,6 +30,7 @@ supported_current_rel: 18.06.2
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=0211fa12531f60f31e8eba1798a5e9f657da98e9
 supported_since_rel: 17.01.0
 target: ar71xx
+vendor: Open-Mesh
 vlan: true
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac

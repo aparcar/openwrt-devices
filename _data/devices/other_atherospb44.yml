@@ -1,6 +1,5 @@
 availability: unknown 2018
 bootloader: RedBoot
-brand: Evaluation boards / unbranded boards
 cpu: Atheros AR7161
 cpu_cores: 1
 cpu_mhz: 680
@@ -25,6 +24,7 @@ supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=ac
 supported_since_rel: '10.03'
 target: ar71xx
 usb_ports: 2x 2.0
+vendor: Evaluation boards / unbranded boards
 vlan: false
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n

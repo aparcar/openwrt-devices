@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 cpu: Atheros AR7240
 cpu_cores: 1
 cpu_mhz: 400
@@ -26,6 +25,7 @@ subtarget: tiny
 supported_current_rel: 18.06.2
 supported_since_rel: '12.09'
 target: ar71xx
+vendor: TP-Link
 version: v2.1 (BR)
 wlan_24ghz: b/g/n
 wlan_driver: unknown

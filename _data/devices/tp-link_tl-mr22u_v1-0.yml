@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: U-Boot
-brand: TP-Link
 button_count: '3'
 cpu: Qualcomm Atheros QCA9531
 cpu_cores: 1
@@ -25,6 +24,7 @@ serial: true
 subtarget: generic
 target: ar71xx
 usb_ports: 1x 2.0
+vendor: TP-Link
 version: v1
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/TP-LINK_TL-MR22U

@@ -1,6 +1,5 @@
 availability: Discontinued
 bootloader: CFE
-brand: Huawei
 button_count: '4'
 cpu: Broadcom BCM6368
 cpu_cores: 2
@@ -36,6 +35,7 @@ switch: Broadcom BCM6368
 target: brcm63xx
 unsupported_functions: DSL modem
 usb_ports: 1x 2.0
+vendor: Huawei
 vlan: true
 wlan_24ghz: b/g/n
 wlan_driver: rt2800pci

@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: Asus
 cpu: Broadcom BCM5357
 cpu_cores: 1
 cpu_mhz: 300
@@ -27,6 +26,7 @@ supported_since_rel: 17.01.0
 switch: Broadcom BCM5357
 target: brcm47xx
 unsupported_functions: WiFi 2.4GHz
+vendor: Asus
 vlan: true
 wikidevi_url: https://wikidevi.com/wiki/ASUS_RT-N12HP
 wlan_24ghz: b/g/n

@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: D-Link
 cpu: Atheros AR7240
 cpu_cores: 1
 cpu_mhz: 400
@@ -25,5 +24,6 @@ subtarget: generic
 supported_current_rel: snapshot
 supported_since_commit: https://git.lede-project.org/?p=source.git;a=commit;h=6cce9557a0b77ee2450e75779c05231692e4c71f
 target: ar71xx
+vendor: D-Link
 version: C1
 wlan_driver: unknown

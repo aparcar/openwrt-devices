@@ -1,5 +1,4 @@
 availability: Discontinued
-brand: D-Link
 comments_network_ports: '1'
 cpu: Atheros AR2313A
 cpu_cores: 1
@@ -18,6 +17,7 @@ ram_mb: 16
 supported_current_rel: 10.03.1
 supported_since_rel: 10.03.1
 target: ath25
+vendor: D-Link
 version: A2
 vlan: false
 wlan_24ghz: b/g
