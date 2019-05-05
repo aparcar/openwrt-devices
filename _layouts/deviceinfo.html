@@ -13,6 +13,9 @@ layout: default
                 {% if device.owrt_forum_topic_url %}
                 <li><a href="{{ device.owrt_forum_topic_url }}">Disucssion</a></li>
                 {% endif %}
+                {% if device.supported_since_commit %}
+                <li><a href="{{ device.supported_since_commit }}">Initial commit</a></li>
+                {% endif %}
             </ul>
             <p>
                 {% if device.firmware_openwrt_install_url %}
