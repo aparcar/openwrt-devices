@@ -2,12 +2,17 @@
 {% assign image_factory = device.firmware_openwrt_install_url | split: "/" | last %}
 ### Flashing via TFTP
 
-Pressing the WPS/Reset button during powerup makes the bootstrap loader enter
-the TFTP recovery mode. The procedure can be used to transfer a firmware image:
-
-* assign **{{ device.tftp_ip }}** to your local network interface 
-* publish a firmware image via tftp: `cp {{ image_factory }} /srv/tftp/{{ device.tftp_image }}`
-* configure your tftp server
-* wait for the firmware transfer (about 20s), firmware flash (about 90s) and subsequent reboot (about 30s)
-
-
+* Download the factory firmware image offered above to your Computer.
+* Configure a computer with static IP {{ device.tftp_ip }}/24 and a TFTP server.
+  On Debian or Ubuntu you can use either the *tftpd-hpa* or *tftpd* server
+  packages.
+* Rename the downloaded firmware image to `{{ device.tftp_image }}` and place it
+  in the tftp server's root directory. (If using **tftpd-hpa** this is
+  `/var/lib/tftpboot/`; if **tftpd**, it is `/srv/tftp/`) You can test that the
+  file is downloadable with `tftp localhost and get {{ device.tftp_image }}`.
+* Connect the computer to one of the router's Ethernet ports while the router is
+  off. Press and keep pressed the router's reset button and power it up. After
+  about 7-10 seconds release the reset button. The power LED will flicker
+  rapidly for ~3 seconds, indicating download of the firmware file.
+* The router will write the firmware to flash during ~40 more seconds of
+  occasional power LED blinks, and then will reboot by itself, ready for use.

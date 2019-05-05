@@ -1,5 +1,9 @@
 {% assign device = site.data.devices[page.device] %}
 
+{% if device.vendor contains 'TP-Link' %}
+{% include templates/install_tplink.md %}
+{% endif %}
+
 {% if device.recovery_method_s contains 'TFTP' %}
 {% include templates/recovery_tftp.md %}
 {% endif %}

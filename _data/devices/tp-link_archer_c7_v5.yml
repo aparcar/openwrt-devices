@@ -1,8 +1,8 @@
 availability: Available 2019
 bootloader: U-Boot
 button_count: '2'
-comment_installation: use TFTP Method and rename to "ArcherC7v5_tp_recovery.bin"
-comment_recovery: use TFTP Method and rename to "ArcherC7v5_tp_recovery.bin"
+comment_installation:
+comment_recovery:
 comments: 'Some devices can not be directly flashed with 18.06.1, this was fixed in
   snapshots. Either use TFTP recovery like https://openwrt.org/toh/tp-link/tp-link_archer_c20_v4#installation
   (but with filename ArcherC7v5_tp_recovery.bin) or install snapshot, then downgrade
@@ -34,6 +34,8 @@ oem_device_homepage_url: https://www.tp-link.com/en/products/details/Archer-C7.h
 package_architecture: mips_24kc
 power_supply: 12 VDC, 1.5 A
 ram_mb: 128
+tftp_image: "ArcherC7v5_tp_recovery.bin"
+tftp_ip: 192.168.0.66
 recovery_method_s: TP-Link TFTP
 serial: true
 serial_connection_parameters: 115200 / 8N1
