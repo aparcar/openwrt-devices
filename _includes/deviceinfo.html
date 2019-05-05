@@ -2,7 +2,7 @@
 <table class="table">
     <tbody>
         <tr>
-            <th colspan="2">{{ device.vendor}} {{ device.model }}</th>
+            <th colspan="2">{{ device.vendor}} {{ device.model }} {{ device.version }}</th>
         </tr>
         {% if device.image %}
         <tr>
@@ -68,6 +68,16 @@
                 {{ device.cpu_cores }} x {{ device.cpu_mhz }}MHz
             </td>
         </tr>
+        {% if device.ethernet_gbit_ports or device.ethernet_100m_ports %}
+        <tr>
+            <th scope="row">Ethernet ports</th>
+            <td>
+                {{ device.ethernet_gbit_ports | default: 0 }} x GBit
+                &mdash;
+                {{ device.ethernet_100m_ports | default: 0 }} x 100Mbit
+            </td>
+        </tr>
+        {% endif %}
         {% if device.wlan_24ghz or device.wlan_50ghz %}
         {% assign dual_band = device.wlan_24ghz and device.wlan_50ghz %}
         <tr>
@@ -80,6 +90,12 @@
                 <p><b>5Ghz:</b> {{ device.wlan_50ghz | join: "/" }}</p>
                 {% endif %}
             </td>
+        </tr>
+        {% endif %}
+        {% if device.usb_ports %}
+        <tr>
+            <th scope="row">USB</th>
+            <td>{{ device.usb_ports }}</td>
         </tr>
         {% endif %}
         {% if device.switch %}
@@ -100,5 +116,36 @@
             <td>{{ device.power_supply | default: "Unknown" }}</td>
         </tr>
         {% endif %}
+        <tr>
+            <th scope="row">Serial</th>
+            <td>
+                <i class="material-icons">
+                    {% if device.serial %}
+                    check_circle
+                    {% else %}
+                    cacel
+                    {% endif %}
+                    <i />
+            </td>
+        </tr>
+        <tr>
+            <th scope="row">Additional resources</th>
+            <td>
+                <ul>
+                    {% if device.wikidevi_url %}
+                    <li><a href="{{ device.wikidevi_url }}">WikiDev</a></li>
+                    {% endif %}
+                    {% if device.owrt_forum_topic_url %}
+                    <li><a href="{{ device.owrt_forum_topic_url }}">Disucssion</a></li>
+                    {% endif %}
+                    {% if device.supported_since_commit %}
+                    <li><a href="{{ device.supported_since_commit }}">Initial commit</a></li>
+                    {% endif %}
+                    {% if device.fccid %}
+                    <li><a href="{{ device.fccid }}">fccid</a></li>
+                    {% endif %}
+                </ul>
+            </td>
+        </tr>
     </tbody>
 </table>

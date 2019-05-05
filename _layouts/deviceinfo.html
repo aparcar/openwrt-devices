@@ -6,25 +6,15 @@ layout: default
     <div class="row">
         <div class="col-lg-7">
             <h2>Model <tt>{{ device.device_id }}</tt></h2>
-            <ul>
-                {% if device.wikidevi_url %}
-                <li><a href="{{ device.wikidevi_url }}">WikiDev</a></li>
-                {% endif %}
-                {% if device.owrt_forum_topic_url %}
-                <li><a href="{{ device.owrt_forum_topic_url }}">Disucssion</a></li>
-                {% endif %}
-                {% if device.supported_since_commit %}
-                <li><a href="{{ device.supported_since_commit }}">Initial commit</a></li>
-                {% endif %}
-            </ul>
-            <p>
+            <div class="row">
                 {% if device.firmware_openwrt_install_url %}
                 <a href="{{ device.firmware_openwrt_install_url }}" class="btn btn-primary"><i class="material-icons">get_app</i>Stock Image</a>
                 {% endif %}
                 {% if device.firmware_openwrt_upgrade_url %}
                 <a href="{{ device.firmware_openwrt_upgrade_url }}" class="btn btn-primary"><i class="material-icons">get_app</i>Upgrade Image</a>
                 {% endif %}
-            </p>
+            </div>
+            <div class="row">
             <p>
                 {% if device.firmware_openwrt_snapshot_install_url %}
                 <a href="{{ device.firmware_openwrt_snapshot_install_url }}" class="btn btn-danger"><i class="material-icons">get_app</i>Snapshot Stock Image</a>
@@ -32,7 +22,7 @@ layout: default
                 {% if device.firmware_openwrt_snapshot_install_url %}
                 <a href="{{ device.firmware_openwrt_snapshot_install_url }}" class="btn btn-danger"><i class="material-icons">get_app</i>Snapshot Upgrade Image</a>
                 {% endif %}
-            </p>
+            </div>
 
             {{ content }}
 

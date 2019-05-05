@@ -9,10 +9,12 @@
 {% endif %}
 
 {%- if device.switch_ports %}
+
 ### Switch Ports (for VLANs)
 
 | Switch port | Port |
-|:---         | ---: |
+| :---------- | ---: |
+
 {%- for port in device.switch_ports %}
 | {{ port[0] }} | {{ port[1] }} |
 {%- endfor %}
@@ -53,8 +55,12 @@
 {% endif %}
 
 {% if device.flash_layout %}
-
 ### Flash layout
 
-<pre>{{ device.flash_layout }}</pre>
+| Region | Label |
+| :----- | :---- |
+
+{%- for layout in device.flash_layout %}
+| `{{ layout[1] }}` | {{ layout[0] }} |
+{%- endfor %}
 {% endif %}

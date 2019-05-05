@@ -54,3 +54,8 @@ wikidevi_url: https://wikidevi.com/wiki/TP-LINK_Archer_C7_v5.x
 wlan_24ghz: b/g/n
 wlan_50ghz: a/n/ac
 wlan_driver: ath10k
+flash_layout:
+  uboot: 0x00000-0x10000
+  uboot_env: 0x10000-0x10000
+  firmware: 0x20000-0x3d0000
+  boardconfig: 0x3f0000-0x10000
