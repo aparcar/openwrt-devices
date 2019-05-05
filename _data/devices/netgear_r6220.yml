@@ -22,6 +22,13 @@ fccid: https://fcc.io/PY3/14200274
 firmware_oem_stock_url: https://www.netgear.com/support/product/R6220
 firmware_openwrt_snapshot_upgrade_url: https://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-r6220-squashfs-sysupgrade.bin
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-r6220-squashfs-sysupgrade.tar
+flash_layout:
+  SC PID: 0x100000-0x100000
+  factory: 0x2e00000-0x100000
+  kernel: 0x200000-0x400000
+  reserved: 0x4200000-0x3c00000
+  u-boot: 0x0-0x100000
+  ubi: 0x600000-0x1c00000
 flash_mb: 128
 forum_search: R6220
 git_search: R6220

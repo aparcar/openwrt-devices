@@ -10,6 +10,12 @@ ethernet_gbit_ports: 5
 firmware_oem_stock_url: https://www.zyxel.com/support/DownloadLandingSR.shtml?c=gb&l=en&kbid=MD09035&md=P-2812HNU-F3
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xrx200/openwrt-lantiq-xrx200-zyxel_p-2812hnu-f3-squashfs-sysupgrade.bin
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xrx200/openwrt-18.06.2-lantiq-xrx200-zyxel_p-2812hnu-f3-squashfs-sysupgrade.bin
+flash_layout:
+  kernel: 0x0-0x200000
+  ubi: 0x200000-0x7e00000
+  uboot: 0x0-0x50000
+  uboot-env: 0x50000-0x10000
+  unused: 0x60000-0x7a0000
 forum_search: P-2812HNU-F3
 git_search: P-2812HNU
 image: zyxel_p-2812hnu-f3.gif

@@ -10,6 +10,10 @@ fccid: "http://\xBF"
 firmware_oem_stock_url: https://www.elecom.co.jp/support/download/network/wireless_lan/wrc-300ghbk2-i/
 firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-elecom_wrc-300ghbk2-i-initramfs-factory.bin
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-elecom_wrc-300ghbk2-i-squashfs-sysupgrade.bin
+flash_layout:
+  ART: 0x7f0000-0x010000
+  firmware: 0x070000-0x770000
+  hwconfig: 0x7e0000-0x010000
 flash_mb: 8
 forum_search: WRC-300GHBK2-I
 git_search: WRC-300GHBK2-I

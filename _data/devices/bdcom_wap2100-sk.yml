@@ -9,6 +9,11 @@ device_type: WiFi Router
 ethernet_100m_ports: 5
 fccid: "http://\xBF"
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-bdcom_wap2100-sk-squashfs-sysupgrade.bin
+flash_layout:
+  factory: 0x40000-0x10000
+  firmware: 0x50000-0xf70000
+  u-boot: 0x0-0x30000
+  u-boot-env: 0x30000-0x10000
 forum_search: WAP2100-SK
 git_search: WAP2100-SK
 led_count: '10'

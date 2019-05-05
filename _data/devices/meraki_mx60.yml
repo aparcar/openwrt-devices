@@ -11,6 +11,11 @@ ethernet_gbit_ports: 5
 firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/apm821xx/nand/openwrt-apm821xx-nand-meraki_mx60-initramfs-kernel.bin
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/apm821xx/nand/openwrt-apm821xx-nand-meraki_mx60-squashfs-sysupgrade.bin
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/apm821xx/nand/openwrt-18.06.2-apm821xx-nand-meraki_mx60-squashfs-sysupgrade.tar
+flash_layout:
+  oops: 0x00200000-0x00040000
+  u-boot: 0x00000000-0x00100000
+  u-boot-env: 0x00100000-0x00100000
+  ubi: 0x00240000-0x3fdc0000
 flash_mb: 1024
 forum_search: MX60
 git_search: MX60

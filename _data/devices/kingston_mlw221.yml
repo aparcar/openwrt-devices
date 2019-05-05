@@ -9,6 +9,12 @@ device_type: Travel Router - Battery powered
 fccid: https://fcc.io/ZME/-MLW221
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-mlw221-squashfs-sysupgrade.bin
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7620/openwrt-18.06.2-ramips-mt7620-mlw221-squashfs-sysupgrade.bin
+flash_layout:
+  factory: 0x40000-0x10000
+  firmware: 0x50000-0xf60000
+  u-boot: 0x0-0x30000
+  u-boot-env: 0x30000-0x10000
+  user-config: 0xfb0000-0x50000
 flash_mb: 16
 forum_search: MLW221
 git_search: MLW221

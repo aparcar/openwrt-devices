@@ -10,6 +10,14 @@ fccid: "http://\xBF"
 firmware_oem_stock_url: https://mikrotik.com/product/m11g
 firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-mikrotik_rbm11g-initramfs-kernel.bin
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-mikrotik_rbm11g-squashfs-sysupgrade.bin
+flash_layout:
+  RouterBoot: 0x0-0x40000
+  bios: 0x30000-0x1000
+  bootloader1: 0x0-0xf000
+  bootloader2: 0x10000-0xf000
+  firmware: 0x040000-0xFC0000
+  hard_config: 0xf000-0x1000
+  soft_config: 0x20000-0x1000
 flash_mb: 16
 forum_search: RBM11g
 git_search: RBM11g

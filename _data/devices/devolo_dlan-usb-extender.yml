@@ -7,6 +7,11 @@ device_id: devolo_dlan-usb-extender
 device_page: dlan-usb-extender
 device_type: Modem
 ethernet_100m_ports: 1
+flash_layout:
+  ArmBoot: 0-0x30000
+  Config1: 0x30000-0x10000
+  Config2: 0x40000-0x10000
+  linux: 0x50000-0x4C0000
 flash_mb: 8
 forum_search: dlan-usb-extender
 git_search: dlan-usb-extender

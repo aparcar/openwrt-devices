@@ -11,6 +11,23 @@ fccid: https://fcc.io/PY3/14300283
 firmware_oem_stock_url: https://www.netgear.com/support/product/EX6150
 firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-netgear_ex6150-squashfs-factory.chk
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-netgear_ex6150-squashfs-sysupgrade.bin
+flash_layout:
+  ML1: 0xed0000-0x10000
+  ML2: 0xef0000-0x20000
+  ML3: 0xf10000-0x20000
+  ML4: 0xf30000-0x20000
+  ML5: 0xf50000-0x20000
+  ML6: 0xf70000-0x20000
+  ML7: 0xf90000-0x20000
+  POT: 0xfd0000-0x10000
+  T_Meter1: 0xfb0000-0x10000
+  T_Meter2: 0xfc0000-0x10000
+  board_data: 0xfe0000-0x10000
+  config: 0x30000-0x10000
+  factory: 0x40000-0x10000
+  firmware: 0x50000-0xe80000
+  nvram: 0xff0000-0x10000
+  u-boot: 0x0-0x30000
 flash_mb: 16
 forum_search: EX6150
 git_search: EX6150

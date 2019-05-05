@@ -13,6 +13,10 @@ firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targ
 firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/smp/lede-brcm63xx-smp-VH4032N-squashfs-cfe.bin
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/smp/lede-brcm63xx-smp-VH4032N-squashfs-sysupgrade.bin
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/smp/openwrt-18.06.2-brcm63xx-smp-VH4032N-squashfs-sysupgrade.bin
+flash_layout:
+  CFE: 0x0000000-0x0020000
+  linux: 0x0020000-0x1fc0000
+  nvram: 0x1fe0000-0x020000
 flash_mb: 32
 forum_search: VH4032N
 git_search: VH4032N

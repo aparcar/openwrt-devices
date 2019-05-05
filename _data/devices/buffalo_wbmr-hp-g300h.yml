@@ -17,6 +17,12 @@ firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targ
 firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xway/openwrt-lantiq-xway-buffalo_wbmr-hp-g300h-b-initramfs-kernel.bin
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/lantiq/xway/openwrt-lantiq-xway-buffalo_wbmr-hp-g300h-b-squashfs-sysupgrade.bin
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/lantiq/xway/openwrt-18.06.2-lantiq-xway-buffalo_wbmr-hp-g300h-b-squashfs-sysupgrade.bin
+flash_layout:
+  board: 0x1fc0000-0x20000
+  calibration: 0x1fe0000-0x20000
+  firmware: 0x60000-0x1f20000
+  uboot: 0x00000-0x40000
+  uboot_env: 0x40000-0x20000
 flash_mb: 32
 forum_search: WBMR-HP-G300H
 git_search: WBMR

@@ -9,6 +9,11 @@ ethernet_100m_ports: 2
 fccid: "http://\xBF"
 firmware_oem_stock_url: "http://\xBF"
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-comfast_cf-e5-squashfs-sysupgrade.bin
+flash_layout:
+  art: 0x010000-0x010000
+  art-backup: 0xff0000-0x010000
+  firmware: 0x020000-0xfd0000
+  u-boot: 0x000000-0x010000
 flash_mb: 16
 forum_search: CF-E5
 git_search: CF-E5

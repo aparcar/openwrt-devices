@@ -59,3 +59,11 @@ flash_layout:
   uboot_env: 0x10000-0x10000
   firmware: 0x20000-0x3d0000
   boardconfig: 0x3f0000-0x10000
+switch_ports:
+  0: eth1
+  1: WAN
+  2: LAN1
+  3: LAN2
+  4: LAN3
+  5: LAN4
+  6: eth0

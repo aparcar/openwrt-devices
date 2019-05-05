@@ -14,6 +14,14 @@ firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targ
 firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ipq40xx/generic/openwrt-ipq40xx-asus_rt-ac58u-initramfs-fit-uImage.itb
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ipq40xx/generic/openwrt-ipq40xx-asus_rt-ac58u-squashfs-sysupgrade.bin
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ipq40xx/generic/openwrt-18.06.2-ipq40xx-asus_rt-ac58u-squashfs-sysupgrade.bin
+flash_layout:
+  ART: 0x00170000-0x00010000
+  CDT: 0x000c0000-0x00010000
+  DDRPARAMS: 0x000d0000-0x00010000
+  MIBIB: 0x00040000-0x00020000
+  QSEE: 0x00060000-0x00060000
+  SBL1: 0x00000000-0x00040000
+  ubi: 0x00000000-0x08000000
 forum_search: RT-AC58U
 git_search: RT-AC58U
 image: asus_rt-ac58u.png

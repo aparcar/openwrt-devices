@@ -13,6 +13,16 @@ firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.1/targ
 firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/lede-ramips-rt305x-f7c027-initramfs-kernel.bin
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/lede-ramips-rt305x-f7c027-squashfs-sysupgrade.bin
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-f7c027-squashfs-sysupgrade.bin
+flash_layout:
+  belkin_settings: 0xf30000-0xa0000
+  factory: 0x40000-0x10000
+  firmware: 0x50000-0x770000
+  firmware2: 0x7c0000-0x770000
+  nvram: 0xfe0000-0x10000
+  u-boot: 0x0-0x30000
+  u-boot-env: 0x30000-0x10000
+  unknown: 0xfd0000-0x10000
+  user_factory: 0xff0000-0x10000
 flash_mb: 16
 forum_search: F7C027
 git_search: F7C027

@@ -7,6 +7,13 @@ device_type: WiFi AP
 fccid: "http://\xBF"
 firmware_oem_stock_url: "http://\xBF"
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-winchannel_wb2000-squashfs-sysupgrade.bin
+flash_layout:
+  addr: 0xff0000-0x10000
+  art: 0xfe0000-0x10000
+  firmware: 0x50000-0xf80000
+  nvram: 0xfd0000-0x10000
+  u-boot: 0x0-0x40000
+  u-boot-env: 0x40000-0x10000
 flash_mb: 16
 forum_search: WB2000
 git_search: WB2000

@@ -11,6 +11,22 @@ fccid: "http://\xBF"
 firmware_oem_stock_url: http://d.buffalo.jp/wxr-2533dhp/
 firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ipq806x/generic/openwrt-ipq806x-buffalo_wxr-2533dhp-initramfs-uImage
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ipq806x/generic/openwrt-ipq806x-buffalo_wxr-2533dhp-squashfs-sysupgrade.bin
+flash_layout:
+  APPSBL: 0x100000-0x70000
+  APPSBLENV: 0x170000-0x10000
+  APPSBL_1: 0x1d0000-0x70000
+  ART: 0x180000-0x40000
+  BOOTCONFIG: 0x1c0000-0x10000
+  DDRCONFIG: 0x90000-0x10000
+  MIBIB: 0x10000-0x20000
+  RPM: 0xe0000-0x20000
+  SBL1: 0x0-0x10000
+  SBL2: 0x30000-0x30000
+  SBL3: 0x60000-0x30000
+  SSD: 0xa0000-0x10000
+  TZ: 0xb0000-0x30000
+  rootfs_1: 0x4000000-0x4000000
+  ubi: 0x0000000-0x4000000
 flash_mb: 256
 forum_search: WXR-2533DHP
 git_search: WXR-2533DHP

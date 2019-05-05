@@ -10,6 +10,11 @@ device_type: WiFi Router
 ethernet_gbit_ports: 5
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-wl-351-squashfs-sysupgrade.bin
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-wl-351-squashfs-sysupgrade.bin
+flash_layout:
+  factory: 0x40000-0x10000
+  firmware: 0x50000-0x3b0000
+  u-boot: 0x0-0x30000
+  u-boot-env: 0x30000-0x10000
 flash_mb: 4
 forum_search: WL-351
 git_search: WL-351

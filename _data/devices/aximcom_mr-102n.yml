@@ -9,6 +9,13 @@ device_type: Travel Router - Battery powered
 ethernet_100m_ports: 1
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-mr-102n-squashfs-sysupgrade.bin
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-mr-102n-squashfs-sysupgrade.bin
+flash_layout:
+  factory: 0x40000-0x10000
+  firmware: 0x50000-0x790000
+  nvram: 0x7e0000-0x10000
+  nvram_backup: 0x7f0000-0x10000
+  u-boot: 0x0-0x30000
+  u-boot-env: 0x30000-0x10000
 flash_mb: 8
 forum_search: MR-102N
 git_search: MR-102N

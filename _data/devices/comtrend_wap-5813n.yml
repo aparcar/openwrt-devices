@@ -12,6 +12,10 @@ ethernet_gbit_ports: 5
 firmware_oem_stock_url: https://drive.google.com/uc?id=0ByrtEG1tVo67WVN3c3QzTDNER28
 firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/smp/openwrt-18.06.2-brcm63xx-smp-WAP-5813n-squashfs-cfe.bin
 firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/smp/lede-brcm63xx-smp-WAP-5813n-squashfs-cfe.bin
+flash_layout:
+  CFE: 0x000000-0x010000
+  linux: 0x010000-0x7e0000
+  nvram: 0x7f0000-0x010000
 flash_mb: 8
 forum_search: WAP-5813n
 git_search: WAP-5813n

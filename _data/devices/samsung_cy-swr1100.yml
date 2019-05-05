@@ -11,6 +11,13 @@ firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targ
 firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt3883/lede-ramips-rt3883-cy-swr1100-squashfs-factory.bin
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt3883/lede-ramips-rt3883-cy-swr1100-squashfs-sysupgrade.bin
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/rt3883/openwrt-18.06.2-ramips-rt3883-cy-swr1100-squashfs-sysupgrade.bin
+flash_layout:
+  devdata: 0x40000-0x10000
+  factory: 0x34000-0x4000
+  firmware: 0x50000-0x7b0000
+  nvram: 0x38000-0x8000
+  uboot: 0x0-0x30000
+  uboot-env: 0x30000-0x4000
 flash_mb: 8
 forum_search: CY-SWR1100
 git_search: CY-SWR1100

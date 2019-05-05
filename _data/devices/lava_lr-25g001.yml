@@ -11,6 +11,10 @@ ethernet_gbit_ports: 5
 fccid: "http://\xBF"
 firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-lava_lr-25g001-squashfs-factory.bin
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7620/openwrt-ramips-mt7620-lava_lr-25g001-squashfs-sysupgrade.bin
+flash_layout:
+  config: 0xff0000-0x10000
+  firmware: 0x10000-0xfe0000
+  jboot: 0x0-0x10000
 flash_mb: 16
 forum_search: LR-25G001
 git_search: LR-25G001

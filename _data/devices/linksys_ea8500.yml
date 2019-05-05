@@ -16,6 +16,25 @@ firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targ
 firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ipq806x/generic/openwrt-ipq806x-linksys_ea8500-squashfs-factory.bin
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ipq806x/generic/openwrt-ipq806x-linksys_ea8500-squashfs-sysupgrade.bin
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ipq806x/generic/openwrt-18.06.2-ipq806x-linksys_ea8500-squashfs-sysupgrade.bin
+flash_layout:
+  APPSBL: 0x0dc0000-0x0100000
+  DDRCONFIG: 0x0540000-0x0120000
+  MIBIB: 0x0040000-0x0140000
+  RPM: 0x0a00000-0x0280000
+  SBL1: 0x0000000-0x0040000
+  SBL2: 0x0180000-0x0140000
+  SBL3: 0x02c0000-0x0280000
+  SSD: 0x0660000-0x0120000
+  TZ: 0x0780000-0x0280000
+  art: 0x0c80000-0x0140000
+  devinfo: 0x0f40000-0x0040000
+  kernel1: 0x0f80000-0x2800000
+  kernel2: 0x3780000-0x2800000
+  rootfs1: 0x1280000-0x2500000
+  rootfs2: 0x3a80000-0x2500000
+  s_env: 0x0f00000-0x0040000
+  syscfg: 0x5f80000-0x2080000
+  u_env: 0x0ec0000-0x0040000
 flash_mb: 128NAND
 forum_search: EA8500
 git_search: EA8500

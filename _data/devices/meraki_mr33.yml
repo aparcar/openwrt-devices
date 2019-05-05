@@ -12,6 +12,19 @@ ethernet_gbit_ports: 1
 fccid: https://fcc.io/UDX-60052010
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ipq40xx/generic/openwrt-ipq40xx-meraki_mr33-squashfs-sysupgrade.bin
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ipq40xx/generic/openwrt-18.06.2-ipq40xx-meraki_mr33-squashfs-sysupgrade.bin
+flash_layout:
+  ART: 0x000000b00000-0x000000080000
+  bootconfig: 0x000000200000-0x000000100000
+  cdt: 0x000000500000-0x000000080000
+  cdt_alt: 0x000000580000-0x000000080000
+  ddrparams: 0x000000600000-0x000000080000
+  mibib: 0x000000100000-0x000000100000
+  qsee: 0x000000300000-0x000000100000
+  qsee_alt: 0x000000400000-0x000000100000
+  sbl1: 0x000000000000-0x000000100000
+  u-boot: 0x000000700000-0x000000200000
+  u-boot-backup: 0x000000900000-0x000000200000
+  ubi: 0x000000c00000-0x000007000000
 flash_mb: 128NAND
 forum_search: MR33
 git_search: MR33

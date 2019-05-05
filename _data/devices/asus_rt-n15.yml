@@ -12,6 +12,11 @@ fccid: https://fcc.io/MSQ/-RTN15
 firmware_oem_stock_url: https://www.asus.com/us/Networking/RTN15/HelpDesk_BIOS/
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt288x/openwrt-ramips-rt288x-rt-n15-squashfs-sysupgrade.bin
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/rt288x/openwrt-18.06.2-ramips-rt288x-rt-n15-squashfs-sysupgrade.bin
+flash_layout:
+  factory: 0x40000-0x10000
+  firmware: 0x50000-0x3b0000
+  uboot: 0x0-0x30000
+  uboot-env: 0x30000-0x10000
 flash_mb: 4
 forum_search: RT-N15
 git_search: RT-N15

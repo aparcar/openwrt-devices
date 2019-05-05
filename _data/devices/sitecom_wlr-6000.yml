@@ -14,6 +14,14 @@ firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targ
 firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt3883/lede-ramips-rt3883-wlr-6000-squashfs-factory.dlf
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt3883/lede-ramips-rt3883-wlr-6000-squashfs-sysupgrade.bin
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/rt3883/openwrt-18.06.2-ramips-rt3883-wlr-6000-squashfs-sysupgrade.bin
+flash_layout:
+  backup: 0x7E0000-0x10000
+  factory: 0x40000-0x10000
+  firmware: 0x50000-0x713000
+  manufacture: 0x763000-0x7D000
+  storage: 0x7F0000-0x10000
+  u-boot: 0x0-0x30000
+  u-boot-env: 0x30000-0x10000
 flash_mb: 16
 forum_search: WLR-6000
 git_search: WLR-6000

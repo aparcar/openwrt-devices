@@ -9,6 +9,10 @@ device_type: WiFi Router
 ethernet_100m_ports: 4
 firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-CT-5365-squashfs-cfe.bin
 firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-CT-5365-squashfs-cfe.bin
+flash_layout:
+  CFE: 0x000000-0x010000
+  linux: 0x010000-0x3e0000
+  nvram: 0x3f0000-0x010000
 flash_mb: 4
 forum_search: CT-5365
 git_search: CT-5365

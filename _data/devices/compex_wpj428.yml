@@ -12,6 +12,14 @@ fccid: https://fcc.io/TK4/WPJ428
 firmware_oem_stock_url: "http://\xBF"
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ipq40xx/generic/openwrt-ipq40xx-compex_wpj428-squashfs-sysupgrade.bin
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ipq40xx/generic/openwrt-18.06.2-ipq40xx-compex_wpj428-squashfs-sysupgrade.bin
+flash_layout:
+  0:ART: 0x00170000-0x00010000
+  0:CDT: 0x000c0000-0x00010000
+  0:DDRPARAMS: 0x000d0000-0x00010000
+  0:MIBIB: 0x00040000-0x00020000
+  0:QSEE: 0x00060000-0x00060000
+  0:SBL1: 0x00000000-0x00040000
+  firmware: 0x00180000-0x01e80000
 forum_search: WPJ428
 git_search: WPJ428
 installation_method_s: see git-commit

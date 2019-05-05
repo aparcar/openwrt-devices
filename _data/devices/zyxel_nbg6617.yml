@@ -12,6 +12,18 @@ fccid: https://fcc.io/I88/NBG6617
 firmware_oem_stock_url: https://www.zyxel.com/products_services/AC1300-MU-MIMO-Dual-Band-Wireless-Gigabit-Router-NBG6617/downloads
 firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ipq40xx/generic/openwrt-ipq40xx-zyxel_nbg6617-squashfs-factory.bin
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ipq40xx/generic/openwrt-ipq40xx-zyxel_nbg6617-squashfs-sysupgrade.bin
+flash_layout:
+  ART: 0x00170000-0x00010000
+  CDT: 0x000c0000-0x00010000
+  DDRPARAMS: 0x000d0000-0x00010000
+  MIBIB: 0x00040000-0x00020000
+  QSEE: 0x00060000-0x00060000
+  SBL1: 0x00000000-0x00040000
+  dualflag: 0x00580000-0x00010000
+  header: 0x00590000-0x00010000
+  kernel: 0x00180000-0x00400000
+  romd: 0x005a0000-0x00100000
+  rootfs: 0x007a0000-0x01860000
 flash_mb: 32
 forum_search: NBG6617
 git_search: NBG6617

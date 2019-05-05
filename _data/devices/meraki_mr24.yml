@@ -13,6 +13,12 @@ firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targ
 firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/apm821xx/nand/openwrt-apm821xx-nand-meraki_mr24-initramfs-kernel.bin
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/apm821xx/nand/openwrt-apm821xx-nand-meraki_mr24-squashfs-sysupgrade.bin
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/apm821xx/nand/openwrt-18.06.2-apm821xx-nand-meraki_mr24-squashfs-sysupgrade.tar
+flash_layout:
+  oops: 0x00170000-0x00010000
+  u-boot: 0x00000000-0x00150000
+  u-boot-env: 0x00150000-0x00010000
+  u-boot-env-redundant: 0x00160000-0x00010000
+  ubi: 0x00180000-0x01e80000
 flash_mb: 32
 forum_search: MR24
 git_search: MR24

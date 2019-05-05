@@ -14,6 +14,11 @@ fccid: https://fcc.io/Q87/-RE6500
 firmware_oem_stock_url: https://www.linksys.com/us/support-article?articleNum=148460
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-re6500-squashfs-sysupgrade.bin
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-re6500-squashfs-sysupgrade.bin
+flash_layout:
+  factory: 0x40000-0x10000
+  firmware: 0x50000-0x7b0000
+  u-boot: 0x0-0x30000
+  u-boot-env: 0x30000-0x10000
 flash_mb: 8
 forum_search: RE6500
 git_search: RE6500

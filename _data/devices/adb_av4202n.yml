@@ -7,6 +7,10 @@ device_id: adb_av4202n
 device_page: p.dg_av4202n
 device_type: WiFi Router
 ethernet_100m_ports: 4
+flash_layout:
+  CFE: 0x000000-0x020000
+  linux: 0x020000-0xfc0000
+  nvram: 0xfe0000-0x020000
 flash_mb: 16
 forum_search: AV4202N
 git_search: AV4202N

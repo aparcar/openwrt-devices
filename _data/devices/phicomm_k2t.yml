@@ -9,6 +9,12 @@ device_type: WiFi Router
 ethernet_gbit_ports: 3
 firmware_oem_stock_url: "http://\xBF"
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-phicomm_k2t-squashfs-sysupgrade.bin
+flash_layout:
+  art: 0xff0000-0x010000
+  config: 0x030000-0x10000
+  firmware: 0x090000-0xf60000
+  permanent: 0x040000-0x50000
+  u-boot: 0x000000-0x30000
 flash_mb: 16
 forum_search: K2T
 git_search: K2T

@@ -10,6 +10,12 @@ ethernet_100m_ports: 2
 firmware_oem_stock_url: https://www.planex.co.jp/support/download/router/mzk-wdpr/fw.shtml
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/rt305x/openwrt-ramips-rt305x-mzk-wdpr-squashfs-sysupgrade.bin
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.1/targets/ramips/rt305x/openwrt-18.06.1-ramips-rt305x-mzk-wdpr-squashfs-sysupgrade.bin
+flash_layout:
+  Data3G: 0x7f0000-0x10000
+  factory: 0x40000-0x10000
+  firmware: 0x50000-0x680000
+  u-boot: 0x0-0x30000
+  u-boot-env: 0x30000-0x10000
 flash_mb: 4
 forum_search: MZK-WDPR
 git_search: MZK-WDPR

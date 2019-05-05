@@ -10,6 +10,11 @@ ethernet_gbit_ports: 5
 firmware_oem_stock_url: https://www.planex.co.jp/support/download/vr500/fw.shtml
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-vr500-squashfs-sysupgrade.bin
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ramips/mt7621/openwrt-18.06.2-ramips-mt7621-vr500-squashfs-sysupgrade.bin
+flash_layout:
+  factory: 0x40000-0x10000
+  firmware: 0x50000-0x3fb0000
+  u-boot: 0x0-0x30000
+  u-boot-env: 0x30000-0x10000
 flash_mb: 64
 forum_search: VR500
 git_search: VR500

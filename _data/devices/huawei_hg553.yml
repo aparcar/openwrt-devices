@@ -9,6 +9,10 @@ device_type: Modem
 ethernet_100m_ports: 4
 firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-HG553-squashfs-cfe.bin
 firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-HG553-squashfs-cfe.bin
+flash_layout:
+  CFE: 0x000000-0x020000
+  linux: 0x020000-0xfc0000
+  nvram: 0xfe0000-0x020000
 flash_mb: 16
 forum_search: HG553
 git_search: HG553

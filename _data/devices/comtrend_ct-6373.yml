@@ -10,6 +10,10 @@ ethernet_100m_ports: 4
 fccid: https://fcc.io/D6X/WL5011S
 firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-CT-6373-squashfs-cfe.bin
 firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-CT-6373-squashfs-cfe.bin
+flash_layout:
+  CFE: 0x000000-0x010000
+  linux: 0x010000-0x7e0000
+  nvram: 0x7f0000-0x010000
 flash_mb: 8
 forum_search: CT-6373
 git_search: CT-6373

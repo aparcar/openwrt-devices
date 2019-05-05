@@ -14,6 +14,14 @@ fccid: https://fcc.io/2AAUY-KOALA
 firmware_oem_stock_url: "http://\xBF"
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ath79/generic/openwrt-ath79-generic-ocedo_koala-squashfs-sysupgrade.bin
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/generic/openwrt-18.06.2-ar71xx-generic-koala-squashfs-sysupgrade.bin
+flash_layout:
+  art: 0xff0000-0x010000
+  data: 0xed0000-0x110000
+  firmware: 0x050000-0x740000
+  id: 0xfe0000-0x010000
+  u-boot: 0x000000-0x040000
+  u-boot-env: 0x040000-0x010000
+  vendor: 0x790000-0x740000
 flash_mb: 16
 forum_search: Koala
 git_search: Koala

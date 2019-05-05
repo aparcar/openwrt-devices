@@ -12,6 +12,12 @@ fccid: http://fcc.io/2AHVHWR1201
 firmware_oem_stock_url: "http://\xBF"
 firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-mtc_wr1201-initramfs-kernel.bin
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-mtc_wr1201-squashfs-sysupgrade.bin
+flash_layout:
+  Bootloader: 0x0-0x30000
+  Config: 0x30000-0x10000
+  Factory: 0x40000-0x10000
+  Second_Config: 0xff0000-0x10000
+  firmware: 0x50000-0xfa0000
 forum_search: WR1201
 git_search: WR1201
 image: mtc_wr1201.jpg

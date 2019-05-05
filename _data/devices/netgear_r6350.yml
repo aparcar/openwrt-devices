@@ -10,6 +10,14 @@ ethernet_gbit_ports: 5
 fccid: https://fcc.io/PY3/17300390
 firmware_oem_stock_url: https://www.netgear.com/support/product/R6350.aspx
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/ramips/mt7621/openwrt-ramips-mt7621-netgear_r6350-squashfs-sysupgrade.bin
+flash_layout:
+  SC PART_MAP: 0x100000-0x100000
+  factory: 0x4600000-0x200000
+  kernel: 0x200000-0x400000
+  reserved0: 0x2e00000-0x1800000
+  reserved1: 0x4800000-0x3800000
+  u-boot: 0x0-0x100000
+  ubi: 0x600000-0x2800000
 flash_mb: 128NAND
 forum_search: R6350
 git_search: R6350

@@ -13,6 +13,11 @@ firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targ
 firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-HG622-squashfs-cfe.bin
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-HG622-squashfs-sysupgrade.bin
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-HG622-squashfs-sysupgrade.bin
+flash_layout:
+  CFE: 0x000000-0x020000
+  cal_data: 0xfa0000-0x020000
+  linux: 0x020000-0xf80000
+  nvram: 0xfe0000-0x020000
 flash_mb: 16
 forum_search: HG622
 git_search: HG622

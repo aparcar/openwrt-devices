@@ -12,15 +12,26 @@
 
 ### Switch Ports (for VLANs)
 
-| Switch port | Port |
-| :---------- | ---: |
+| VLAN | Port |
+| ---- | ---: |
 
 {%- for port in device.switch_ports %}
-| {{ port[0] }} | {{ port[1] }} |
+| `{{ port[0] }}` | `{{ port[1] }}` |
 {%- endfor %}
 {%- endif %}
 
-{% if device.comments or device.wlan_comments %}
+{% if device.flash_layout %}
+### Flash layout
+
+| Region | Label |
+| :----- | :---- |
+
+{%- for layout in device.flash_layout %}
+| `{{ layout[1] }}` | {{ layout[0] }} |
+{%- endfor %}
+{% endif %}
+
+{% if device.comments or device.wlan_comments or device.comment_installation %}
 
 ### Comments
 
@@ -54,13 +65,3 @@
 
 {% endif %}
 
-{% if device.flash_layout %}
-### Flash layout
-
-| Region | Label |
-| :----- | :---- |
-
-{%- for layout in device.flash_layout %}
-| `{{ layout[1] }}` | {{ layout[0] }} |
-{%- endfor %}
-{% endif %}

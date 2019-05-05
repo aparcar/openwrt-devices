@@ -11,6 +11,11 @@ firmware_openwrt_install_url: http://downloads.openwrt.org/releases/18.06.2/targ
 firmware_openwrt_snapshot_install_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-EVG2000-squashfs-factory.chk
 firmware_openwrt_snapshot_upgrade_url: http://downloads.openwrt.org/snapshots/targets/brcm63xx/generic/lede-brcm63xx-generic-EVG2000-squashfs-sysupgrade.bin
 firmware_openwrt_upgrade_url: http://downloads.openwrt.org/releases/18.06.2/targets/brcm63xx/generic/openwrt-18.06.2-brcm63xx-generic-EVG2000-squashfs-sysupgrade.bin
+flash_layout:
+  CFE: 0x00000000-0x00020000
+  board_data: 0x00f60000-0x00080000
+  linux: 0x00020000-0x00f40000
+  nvram: 0x00fe0000-0x00020000
 flash_mb: 16
 forum_search: EVG2000
 git_search: EVG2000
