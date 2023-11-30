@@ -22,6 +22,7 @@
     "git_search_search-gits": "Scorpion SC300M",
     "gluon_support_gluonsupport": "No",
     "gpios_numgpio": "more than 20",
+    "id": "abicominternational_scorpion_sc300m",
     "installation_method(s)_method-installations": "see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "4",

@@ -23,6 +23,7 @@
     "git_search_search-gits": "SimpleShare",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "simpletech_simpleshare",
     "installation_method(s)_method-installations": "TFTP generic, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

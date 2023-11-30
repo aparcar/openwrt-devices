@@ -26,6 +26,7 @@
     "git_search_search-gits": "N150R",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "onnetworks_n150r",
     "image_too_big_releasecurrents": "18.06.0",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "Unknown",

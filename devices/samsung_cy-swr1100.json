@@ -25,6 +25,7 @@
     "git_search_search-gits": "CY-SWR1100",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "samsung_cy-swr1100",
     "installation_method(s)_method-installations": "U-Boot TFTP recovery",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

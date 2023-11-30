@@ -26,6 +26,7 @@
     "git_search_search-gits": "FRITZ!WLAN Repeater DVB-C",
     "gluon_support_gluonsupport": "No",
     "gpios_numgpio": "-",
+    "id": "avm_fritz_wlan_repeater_dvb-c",
     "installation_method(s)_method-installations": "EVA FTP, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "8",

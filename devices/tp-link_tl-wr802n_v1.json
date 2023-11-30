@@ -27,6 +27,7 @@
     "git_search_search-gits": "TL-WR802N",
     "gluon_support_gluonsupport": "Broken",
     "gpios_numgpio": "-",
+    "id": "tp-link_tl-wr802n_v1",
     "installation_method(s)_method-installations": "U-Boot TFTP recovery, see forum",
     "jtag_yesno": "No",
     "led_count_numled": "1",

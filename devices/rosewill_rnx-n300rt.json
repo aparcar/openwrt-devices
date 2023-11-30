@@ -22,6 +22,7 @@
     "git_search_search-gits": "RNX-N300RT",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "rosewill_rnx-n300rt",
     "installation_method(s)_method-installations": "see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "9",

@@ -26,6 +26,7 @@
     "git_search_search-gits": "NA502S",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "sercomm_na502s",
     "installation_method(s)_method-installations": "U-Boot TFTP + serial recovery, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "9",

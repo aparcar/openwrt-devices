@@ -24,6 +24,7 @@
     "git_search_search-gits": "U25AWF",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "blueendless_u25awf",
     "installation_method(s)_method-installations": "GUI OEM, see git-commit",
     "jtag_yesno": "No",
     "led_count_numled": "4",

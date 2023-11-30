@@ -27,6 +27,7 @@
     "git_search_search-gits": "microuter-N300",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "Unknown",
+    "id": "gl.inet_microuter-n300",
     "installation_method(s)_method-installations": "GL.Inet installation",
     "jtag_yesno": "Unknown",
     "led_count_numled": "2",

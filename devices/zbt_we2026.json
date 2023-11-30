@@ -23,6 +23,7 @@
     "git_search_search-gits": "WE2026",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "zbt_we2026",
     "installation_method(s)_method-installations": "see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "2",

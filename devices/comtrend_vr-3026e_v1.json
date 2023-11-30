@@ -25,6 +25,7 @@
     "git_search_search-gits": "VR-3026e",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "comtrend_vr-3026e_v1",
     "installation_method(s)_method-installations": "CFE web recovery, see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "Unknown",

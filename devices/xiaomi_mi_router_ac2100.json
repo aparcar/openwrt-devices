@@ -28,6 +28,7 @@
     "git_search_search-gits": "Mi Router AC2100",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "xiaomi_mi_router_ac2100",
     "installation_method(s)_method-installations": "see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "2",

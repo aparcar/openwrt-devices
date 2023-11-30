@@ -26,6 +26,7 @@
     "git_search_search-gits": "WPN824N",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "netgear_wpn824n",
     "installation_method(s)_method-installations": "U-Boot TFTP recovery, U-Boot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "16",

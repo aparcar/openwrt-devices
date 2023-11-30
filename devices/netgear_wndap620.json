@@ -26,6 +26,7 @@
     "git_search_search-gits": "WNDAP620",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "netgear_wndap620",
     "installation_method(s)_method-installations": "U-Boot TFTP + serial recovery, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "5",

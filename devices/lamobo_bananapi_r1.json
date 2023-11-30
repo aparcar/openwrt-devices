@@ -24,6 +24,7 @@
     "git_search_search-gits": "BananaPi R1",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "more than 20",
+    "id": "lamobo_bananapi_r1",
     "installation_method(s)_method-installations": "Sunxi installation",
     "jtag_yesno": "No",
     "led_count_numled": "Unknown",

@@ -27,6 +27,7 @@
     "git_search_search-gits": "FRITZ!Repeater 1200",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "avm_fritz_repeater_1200",
     "installation_method(s)_method-installations": "see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "1",

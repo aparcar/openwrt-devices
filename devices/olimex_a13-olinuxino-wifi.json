@@ -25,6 +25,7 @@
     "git_search_search-gits": "A13-OLinuXino-WIFI",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "more than 20",
+    "id": "olimex_a13-olinuxino-wifi",
     "installation_method(s)_method-installations": "Sunxi installation",
     "jtag_yesno": "No",
     "led_count_numled": "Unknown",

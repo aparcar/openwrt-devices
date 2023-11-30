@@ -26,6 +26,7 @@
     "git_search_search-gits": "CF-EW72 V2",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "1",
+    "id": "comfast_cf-ew72_v2",
     "installation_method(s)_method-installations": "U-Boot web recovery",
     "jtag_yesno": "No",
     "led_count_numled": "8",

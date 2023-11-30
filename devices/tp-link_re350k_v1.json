@@ -26,6 +26,7 @@
     "git_search_search-gits": "RE350K",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "tp-link_re350k_v1",
     "installation_method(s)_method-installations": "GUI OEM, see git-commit",
     "jtag_yesno": "Yes",
     "led_count_numled": "3",

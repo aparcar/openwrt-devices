@@ -24,6 +24,7 @@
     "git_search_search-gits": "WL-500g Deluxe",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "asus_wl-500gdeluxe",
     "installation_method(s)_method-installations": "Asus Firmware Restoration tool, CFE TFTP recovery, see devicepage",
     "jtag_yesno": "No",
     "led_count_numled": "7",

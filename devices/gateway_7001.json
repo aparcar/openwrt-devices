@@ -25,6 +25,7 @@
     "git_search_search-gits": "7001",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "gateway_7001",
     "installation_method(s)_method-installations": "RedBoot TFTP + serial recovery",
     "jtag_yesno": "Yes",
     "led_count_numled": "Unknown",

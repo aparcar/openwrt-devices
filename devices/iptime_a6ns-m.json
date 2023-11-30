@@ -25,6 +25,7 @@
     "git_search_search-gits": "A6ns-M",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "iptime_a6ns-m",
     "installation_method(s)_method-installations": "GUI OEM, Sysupgrade, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "4",

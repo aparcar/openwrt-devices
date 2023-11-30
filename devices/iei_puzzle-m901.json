@@ -26,6 +26,7 @@
     "git_search_search-gits": "PUZZLE-M901",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "iei_puzzle-m901",
     "installation_method(s)_method-installations": "GUI generic",
     "jtag_yesno": "No",
     "led_count_numled": "4",

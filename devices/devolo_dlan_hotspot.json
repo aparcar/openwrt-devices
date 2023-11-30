@@ -22,6 +22,7 @@
     "git_search_search-gits": "dLAN Hotspot",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "devolo_dlan_hotspot",
     "installation_method(s)_method-installations": "unknown",
     "jtag_yesno": "Unknown",
     "led_count_numled": "3",

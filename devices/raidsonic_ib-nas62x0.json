@@ -25,6 +25,7 @@
     "git_search_search-gits": "IB-NAS62x0, ib62x0, raidsonic",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "raidsonic_ib-nas62x0",
     "installation_method(s)_method-installations": "unknown",
     "jtag_yesno": "Unknown",
     "led_count_numled": "4",

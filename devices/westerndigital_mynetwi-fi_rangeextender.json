@@ -26,6 +26,7 @@
     "git_search_search-gits": "My Net Wi-Fi Range Extender",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "westerndigital_mynetwi-fi_rangeextender",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

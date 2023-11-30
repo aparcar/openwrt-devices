@@ -27,6 +27,7 @@
     "git_search_search-gits": "EMG2926-Q10A",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "zyxel_emg2926-q10a_1.00",
     "installation_method(s)_method-installations": "see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "6",

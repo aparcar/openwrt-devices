@@ -26,6 +26,7 @@
     "git_search_search-gits": "RT-AC1200",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "asus_rt-ac1200_v2",
     "installation_method(s)_method-installations": "Asus Firmware Restoration tool, U-Boot TFTP recovery, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "8",

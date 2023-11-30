@@ -24,6 +24,7 @@
     "git_search_search-gits": "WBMR-G54",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "buffalo_wbmr-g54",
     "installation_method(s)_method-installations": "ADAM2 FTP, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

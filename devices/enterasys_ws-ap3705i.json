@@ -25,6 +25,7 @@
     "git_search_search-gits": "WS-AP3705i",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "enterasys_ws-ap3705i",
     "installation_method(s)_method-installations": "U-Boot TFTP recovery",
     "jtag_yesno": "Unknown",
     "led_count_numled": "5",

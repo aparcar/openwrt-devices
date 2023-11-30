@@ -25,6 +25,7 @@
     "git_search_search-gits": "CPE220",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "tp-link_cpe220_v1",
     "installation_method(s)_method-installations": "see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

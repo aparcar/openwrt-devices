@@ -26,6 +26,7 @@
     "git_search_search-gits": "UniFi AP PRO",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "ubiquiti_unifi_ap_pro",
     "installation_method(s)_method-installations": "CLI generic, U-Boot TFTP recovery, see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "Unknown",

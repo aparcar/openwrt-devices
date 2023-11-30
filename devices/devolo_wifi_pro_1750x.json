@@ -24,6 +24,7 @@
     "git_search_search-gits": "WiFi pro 1750x",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "devolo_wifi_pro_1750x",
     "installation_method(s)_method-installations": "Sysupgrade, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "3",

@@ -26,6 +26,7 @@
     "git_search_search-gits": "RBwAP2nD",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "mikrotik_rbwap2nd_wap",
     "installation_method(s)_method-installations": "Mikrotik TFTP",
     "jtag_yesno": "Yes",
     "led_count_numled": "3",

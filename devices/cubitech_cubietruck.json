@@ -24,6 +24,7 @@
     "git_search_search-gits": "Cubietruck",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "cubitech_cubietruck",
     "installation_method(s)_method-installations": "Sunxi installation",
     "jtag_yesno": "No",
     "led_count_numled": "Unknown",

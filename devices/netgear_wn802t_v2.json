@@ -22,6 +22,7 @@
     "git_search_search-gits": "WN802T",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "netgear_wn802t_v2",
     "jtag_yesno": "Yes",
     "led_count_numled": "2",
     "minipci_ports_port-minipci": "Unknown",

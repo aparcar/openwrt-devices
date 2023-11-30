@@ -28,6 +28,7 @@
     "git_search_search-gits": "EX3800",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "Unknown",
+    "id": "netgear_ex3800",
     "installation_method(s)_method-installations": "GUI OEM",
     "jtag_yesno": "Unknown",
     "led_count_numled": "7",

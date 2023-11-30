@@ -25,6 +25,7 @@
     "git_search_search-gits": "RT-AC54U",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "asus_rt-ac54u",
     "installation_method(s)_method-installations": "Asus Firmware Restoration tool, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "9",

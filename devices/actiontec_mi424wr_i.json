@@ -23,6 +23,7 @@
     "git_search_search-gits": "MI424WR",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "actiontec_mi424wr_i",
     "installation_method(s)_method-installations": "U-Boot TFTP + serial recovery",
     "jtag_yesno": "Yes",
     "led_count_numled": "Unknown",

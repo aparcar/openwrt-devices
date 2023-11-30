@@ -27,6 +27,7 @@
     "git_search_search-gits": "ENS620EXT",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "engenius_ens620ext",
     "installation_method(s)_method-installations": "see git-commit",
     "jtag_yesno": "No",
     "led_count_numled": "5",

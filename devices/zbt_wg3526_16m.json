@@ -27,6 +27,7 @@
     "git_search_search-gits": "WG3526",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "zbt_wg3526_16m",
     "installation_method(s)_method-installations": "see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "10",

@@ -27,6 +27,7 @@
     "git_search_search-gits": "CR5000",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "powercloud_systems_cr5000",
     "installation_method(s)_method-installations": "TFTP generic, Sysupgrade, U-Boot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "No",
     "led_count_numled": "3",

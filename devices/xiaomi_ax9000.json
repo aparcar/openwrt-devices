@@ -25,6 +25,7 @@
     "git_search_search-gits": "AX9000",
     "gluon_support_gluonsupport": "No",
     "gpios_numgpio": "-",
+    "id": "xiaomi_ax9000",
     "installation_method(s)_method-installations": "CLI generic",
     "jtag_yesno": "No",
     "led_count_numled": "3",

@@ -27,6 +27,7 @@
     "git_search_search-gits": "LS220DE",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "buffalo_linkstation_ls220de",
     "installation_method(s)_method-installations": "Sysupgrade, U-Boot TFTP + serial recovery",
     "jtag_yesno": "Unknown",
     "led_count_numled": "7",

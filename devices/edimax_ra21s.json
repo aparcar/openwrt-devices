@@ -27,6 +27,7 @@
     "git_search_search-gits": "RA21S",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "edimax_ra21s",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP recovery, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "4",

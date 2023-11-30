@@ -28,6 +28,7 @@
     "git_search_search-gits": "Archer C6 v3",
     "gluon_support_gluonsupport": "Broken",
     "gpios_numgpio": "-",
+    "id": "tp-link_archer_c6_v3",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP recovery, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "5",

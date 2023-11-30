@@ -26,6 +26,7 @@
     "git_search_search-gits": "Cloud Hub",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "i.onik_cloud_hub",
     "installation_method(s)_method-installations": "Serial, Telnet",
     "jtag_yesno": "Unknown",
     "led_count_numled": "1",

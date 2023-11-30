@@ -25,6 +25,7 @@
     "git_search_search-gits": "WAP-5813n",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "comtrend_wap-5813n",
     "installation_method(s)_method-installations": "CFE TFTP + serial recovery, CFE web recovery, see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "9",

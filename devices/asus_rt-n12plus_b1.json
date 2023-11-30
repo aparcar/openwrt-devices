@@ -27,6 +27,7 @@
     "git_search_search-gits": "RT-N12+ B1",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "asus_rt-n12plus_b1",
     "installation_method(s)_method-installations": "U-Boot TFTP recovery, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "4",

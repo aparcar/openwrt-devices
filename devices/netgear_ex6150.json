@@ -28,6 +28,7 @@
     "git_search_search-gits": "EX6150",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "netgear_ex6150",
     "installation_method(s)_method-installations": "GUI OEM, nmrpflash, Serial, U-Boot TFTP + serial recovery",
     "jtag_yesno": "Unknown",
     "led_count_numled": "6",

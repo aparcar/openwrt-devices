@@ -25,6 +25,7 @@
     "git_search_search-gits": "TL-WA801ND",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "tp-link_tl-wa801nd_v2",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP recovery",
     "jtag_yesno": "Unknown",
     "led_count_numled": "5",

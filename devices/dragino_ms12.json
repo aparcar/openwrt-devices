@@ -20,6 +20,7 @@
     "git_search_search-gits": "MS12",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "dragino_ms12",
     "installation_method(s)_method-installations": "GUI OEM",
     "jtag_yesno": "No",
     "minipci_ports_port-minipci": "Unknown",

@@ -24,6 +24,7 @@
     "git_search_search-gits": "R36A",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "alfa_network_r36a",
     "installation_method(s)_method-installations": "see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "6",

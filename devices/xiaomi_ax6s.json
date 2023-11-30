@@ -27,6 +27,7 @@
     "git_search_search-gits": "AX6S",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "xiaomi_ax6s",
     "installation_method(s)_method-installations": "see devicepage, see git-commit",
     "jtag_yesno": "No",
     "led_count_numled": "2",

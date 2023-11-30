@@ -29,6 +29,7 @@
     "git_search_search-gits": "DGS-1210-10MP",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "d-link_dgs-1210-10mp_f1",
     "installation_method(s)_method-installations": "see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "3",

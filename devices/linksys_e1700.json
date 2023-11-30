@@ -30,6 +30,7 @@
     "git_search_search-gits": "E1700",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "linksys_e1700",
     "installation_method(s)_method-installations": "U-Boot TFTP recovery, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "7",

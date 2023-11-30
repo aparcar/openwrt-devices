@@ -27,6 +27,7 @@
     "git_search_search-gits": "C301",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "qihoohardware_c301",
     "installation_method(s)_method-installations": "U-Boot web recovery, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

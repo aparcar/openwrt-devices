@@ -26,6 +26,7 @@
     "git_search_search-gits": "RouterStation Pro",
     "gluon_support_gluonsupport": "No",
     "gpios_numgpio": "Unknown",
+    "id": "ubiquiti_routerstationpro",
     "installation_method(s)_method-installations": "RedBoot TFTP recovery, see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "2",

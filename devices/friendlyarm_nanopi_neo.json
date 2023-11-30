@@ -24,6 +24,7 @@
     "git_search_search-gits": "NanoPi NEO",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "more than 20",
+    "id": "friendlyarm_nanopi_neo",
     "installation_method(s)_method-installations": "unknown",
     "jtag_yesno": "No",
     "led_count_numled": "2",

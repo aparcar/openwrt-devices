@@ -24,6 +24,7 @@
     "git_search_search-gits": "MWR03",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "motorola_mwr03",
     "installation_method(s)_method-installations": "U-Boot TFTP + serial recovery, see git-commit",
     "jtag_yesno": "No",
     "led_count_numled": "2",

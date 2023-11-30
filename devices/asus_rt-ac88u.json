@@ -27,6 +27,7 @@
     "git_search_search-gits": "RT-AC88U",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "asus_rt-ac88u",
     "installation_method(s)_method-installations": "Asus Firmware Restoration tool, CFE TFTP recovery, CFE TFTP + serial recovery, CFE web recovery",
     "jtag_yesno": "Yes",
     "led_count_numled": "7",

@@ -23,6 +23,7 @@
     "git_search_search-gits": "R36M-E4G",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "alfa_network_r36m-e4g",
     "installation_method(s)_method-installations": "Sysupgrade, U-Boot web recovery, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "8",

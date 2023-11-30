@@ -23,6 +23,7 @@
     "git_search_search-gits": "XY-C5",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "xiaoyu_xy-c5",
     "installation_method(s)_method-installations": "U-Boot TFTP recovery, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "2",

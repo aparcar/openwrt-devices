@@ -25,6 +25,7 @@
     "git_search_search-gits": "FRITZ!Box 7490",
     "gluon_support_gluonsupport": "No",
     "gpios_numgpio": "-",
+    "id": "avm_fritzbox7490",
     "jtag_yesno": "Yes",
     "led_count_numled": "5",
     "minipci_ports_port-minipci": "Unknown",

@@ -27,6 +27,7 @@
     "git_search_search-gits": "R7800",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "netgear_r7800",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP recovery, see forum",
     "jtag_yesno": "Unknown",
     "led_count_numled": "7",

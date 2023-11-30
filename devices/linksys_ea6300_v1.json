@@ -27,6 +27,7 @@
     "git_search_search-gits": "EA6300",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "linksys_ea6300_v1",
     "installation_method(s)_method-installations": "TFTP generic, Linksys TFTP, see forum",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

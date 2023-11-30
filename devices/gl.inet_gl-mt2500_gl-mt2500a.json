@@ -27,6 +27,7 @@
     "git_search_search-gits": "GL-MT2500",
     "gluon_support_gluonsupport": "No",
     "gpios_numgpio": "Unknown",
+    "id": "gl.inet_gl-mt2500_gl-mt2500a",
     "installation_method(s)_method-installations": "unknown",
     "jtag_yesno": "Unknown",
     "led_count_numled": "2",

@@ -29,6 +29,7 @@
     "git_search_search-gits": "LHG XL 5 ac (RBLHGG-5acD-XL)",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "mikrotik_lhg_xl_5_ac_rblhgg-5acd-xl",
     "installation_method(s)_method-installations": "Mikrotik TFTP",
     "jtag_yesno": "Unknown",
     "led_count_numled": "7",

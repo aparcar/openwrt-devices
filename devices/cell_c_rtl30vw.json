@@ -28,6 +28,7 @@
     "git_search_search-gits": "RTL30VW",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "cell_c_rtl30vw",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP + serial recovery, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

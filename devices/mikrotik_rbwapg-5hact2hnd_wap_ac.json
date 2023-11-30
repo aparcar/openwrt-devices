@@ -30,6 +30,7 @@
     "git_search_search-gits": "RBwAPG-5HacT2HnD, wAP AC",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "mikrotik_rbwapg-5hact2hnd_wap_ac",
     "installation_method(s)_method-installations": "Mikrotik TFTP",
     "jtag_yesno": "No",
     "led_count_numled": "-",

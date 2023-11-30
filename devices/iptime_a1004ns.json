@@ -26,6 +26,7 @@
     "git_search_search-gits": "A1004ns",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "iptime_a1004ns",
     "installation_method(s)_method-installations": "GUI OEM, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "2",

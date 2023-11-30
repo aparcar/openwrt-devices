@@ -22,6 +22,7 @@
     "git_search_search-gits": "MBRN3000",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "netgear_mbrn3000_0",
     "jtag_yesno": "Yes",
     "minipci_ports_port-minipci": "Unknown",
     "model": "MBRN3000",

@@ -25,6 +25,7 @@
     "git_search_search-gits": "GL-MT1300",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "gl.inet_gl-mt1300",
     "installation_method(s)_method-installations": "U-Boot web recovery, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "2",

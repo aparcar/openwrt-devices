@@ -27,6 +27,7 @@
     "git_search_search-gits": "RT-N18U",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "asus_rt-n18u_a1",
     "installation_method(s)_method-installations": "CFE TFTP recovery, see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "Unknown",

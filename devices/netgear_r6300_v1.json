@@ -25,6 +25,7 @@
     "git_search_search-gits": "R6300",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "netgear_r6300_v1",
     "installation_method(s)_method-installations": "CFE TFTP + serial recovery, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "7",

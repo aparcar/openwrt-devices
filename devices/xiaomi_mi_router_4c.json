@@ -27,6 +27,7 @@
     "git_search_search-gits": "Mi Router 4C",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "xiaomi_mi_router_4c",
     "installation_method(s)_method-installations": "see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "1",

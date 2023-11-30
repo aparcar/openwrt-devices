@@ -27,6 +27,7 @@
     "git_search_search-gits": "ALIX 1d",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "pcengines_alix1d",
     "installation_method(s)_method-installations": "CF card, x86 installation, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "3",

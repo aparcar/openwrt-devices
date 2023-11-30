@@ -28,6 +28,7 @@
     "git_search_search-gits": "GS308T",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "netgear_gs308t_1",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP recovery",
     "jtag_yesno": "No",
     "led_count_numled": "2",

@@ -27,6 +27,7 @@
     "git_search_search-gits": "PRP-X5/X6",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "poray_prp-x5-x6",
     "installation_method(s)_method-installations": "U-Boot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "6",

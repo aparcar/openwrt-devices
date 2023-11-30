@@ -24,6 +24,7 @@
     "git_search_search-gits": "E2000",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "linksys_e2000_v1",
     "installation_method(s)_method-installations": "CFE TFTP recovery, see devicepage",
     "jtag_yesno": "No",
     "led_count_numled": "Unknown",

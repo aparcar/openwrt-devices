@@ -25,6 +25,7 @@
     "git_search_search-gits": "TD-W8960N",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "tp-link_td-w8960n",
     "installation_method(s)_method-installations": "TFTP generic, see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "Unknown",

@@ -24,6 +24,7 @@
     "git_search_search-gits": "WPE72NX",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "compex_wpe72nx_7a07",
     "installation_method(s)_method-installations": "CFE TFTP recovery, see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "Unknown",

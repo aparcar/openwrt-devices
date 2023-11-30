@@ -27,6 +27,7 @@
     "git_search_search-gits": "DGS-1210-10P",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "d-link_dgs-1210-10p_f1",
     "installation_method(s)_method-installations": "Sysupgrade, U-Boot TFTP recovery",
     "jtag_yesno": "Yes",
     "led_count_numled": "1",

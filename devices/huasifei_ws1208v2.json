@@ -27,6 +27,7 @@
     "git_search_search-gits": "WS1208V2",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "huasifei_ws1208v2",
     "installation_method(s)_method-installations": "Sysupgrade",
     "jtag_yesno": "Unknown",
     "led_count_numled": "6",

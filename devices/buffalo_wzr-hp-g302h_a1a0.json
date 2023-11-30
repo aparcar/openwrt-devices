@@ -26,6 +26,7 @@
     "git_search_search-gits": "WZR-HP-G302H",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "buffalo_wzr-hp-g302h_a1a0",
     "installation_method(s)_method-installations": "GUI OEM, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "7",

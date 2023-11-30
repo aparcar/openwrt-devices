@@ -26,6 +26,7 @@
     "git_search_search-gits": "NanoStation Loco M5 xw",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "Unknown",
+    "id": "ubiquiti_nanostation_loco_m5_xw",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP recovery, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

@@ -24,6 +24,7 @@
     "git_search_search-gits": "CF-WR752AC",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "comfast_cf-wr752ac_v1",
     "installation_method(s)_method-installations": "Sysupgrade, U-Boot web recovery, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "3",

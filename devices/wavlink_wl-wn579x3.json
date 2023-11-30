@@ -26,6 +26,7 @@
     "git_search_search-gits": "WL-WN579X3",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "wavlink_wl-wn579x3",
     "installation_method(s)_method-installations": "see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "6",

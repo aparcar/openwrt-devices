@@ -22,6 +22,7 @@
     "git_search_search-gits": "MR3201A",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "accton_mr3201a",
     "installation_method(s)_method-installations": "RedBoot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "No",
     "led_count_numled": "Unknown",

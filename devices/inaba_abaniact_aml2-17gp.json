@@ -24,6 +24,7 @@
     "git_search_search-gits": "Abaniact, AML2-17GP",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "inaba_abaniact_aml2-17gp",
     "installation_method(s)_method-installations": "U-Boot TFTP + serial recovery",
     "jtag_yesno": "No",
     "led_count_numled": "1",

@@ -25,6 +25,7 @@
     "git_search_search-gits": "TL-WR847N",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "tp-link_tl-wr847n_v8",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP recovery, U-Boot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "Unknown",

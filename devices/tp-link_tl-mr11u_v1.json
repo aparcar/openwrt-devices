@@ -25,6 +25,7 @@
     "git_search_search-gits": "TL-MR11U",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "tp-link_tl-mr11u_v1",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

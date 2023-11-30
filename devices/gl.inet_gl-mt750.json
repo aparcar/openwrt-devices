@@ -26,6 +26,7 @@
     "git_search_search-gits": "GL-MT750",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "4",
+    "id": "gl.inet_gl-mt750",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot web recovery",
     "jtag_yesno": "Unknown",
     "led_count_numled": "11",

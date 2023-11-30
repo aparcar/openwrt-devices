@@ -24,6 +24,7 @@
     "git_search_search-gits": "VoCore2",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "more than 20",
+    "id": "vocore_vocore2",
     "installation_method(s)_method-installations": "Sysupgrade",
     "jtag_yesno": "Unknown",
     "led_count_numled": "-",

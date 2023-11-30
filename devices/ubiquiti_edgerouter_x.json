@@ -26,6 +26,7 @@
     "git_search_search-gits": "EdgeRouter X",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "ubiquiti_edgerouter_x",
     "installation_method(s)_method-installations": "U-Boot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "Unknown",

@@ -21,6 +21,7 @@
     "git_search_search-gits": "SMT-G3020",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "samsung_smt-g3020",
     "jtag_yesno": "Yes",
     "minipci_ports_port-minipci": "Unknown",
     "model": "SMT-G3020",

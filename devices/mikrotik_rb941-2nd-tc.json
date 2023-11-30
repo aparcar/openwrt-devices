@@ -26,6 +26,7 @@
     "git_search_search-gits": "RB941-2nD-TC",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "mikrotik_rb941-2nd-tc",
     "installation_method(s)_method-installations": "see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "2",

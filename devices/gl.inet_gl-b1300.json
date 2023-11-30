@@ -27,6 +27,7 @@
     "git_search_search-gits": "GL-B1300",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "Unknown",
+    "id": "gl.inet_gl-b1300",
     "installation_method(s)_method-installations": "U-Boot TFTP recovery, U-Boot TFTP + serial recovery, U-Boot web recovery, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "3",

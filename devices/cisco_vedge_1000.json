@@ -28,6 +28,7 @@
     "git_search_search-gits": "vEdge 1000",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "1",
+    "id": "cisco_vedge_1000",
     "installation_method(s)_method-installations": "Serial",
     "jtag_yesno": "Yes",
     "led_count_numled": "18",

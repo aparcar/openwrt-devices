@@ -27,6 +27,7 @@
     "git_search_search-gits": "PowerBridge M",
     "gluon_support_gluonsupport": "No",
     "gpios_numgpio": "-",
+    "id": "ubiquiti_powerbridge_m",
     "installation_method(s)_method-installations": "GUI OEM, Ubiquiti TFTP, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "6",

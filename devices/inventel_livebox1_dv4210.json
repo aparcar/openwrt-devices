@@ -24,6 +24,7 @@
     "git_search_search-gits": "Livebox 1",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "inventel_livebox1_dv4210",
     "installation_method(s)_method-installations": "TFTP generic",
     "jtag_yesno": "Yes",
     "led_count_numled": "4",

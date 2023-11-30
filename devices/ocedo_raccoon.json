@@ -26,6 +26,7 @@
     "git_search_search-gits": "Raccoon",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "ocedo_raccoon",
     "installation_method(s)_method-installations": "U-Boot TFTP recovery, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "4",

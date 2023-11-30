@@ -20,6 +20,7 @@
     "git_search_search-gits": "Minnowboard Max",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "other_minnowboardmax",
     "jtag_yesno": "Unknown",
     "minipci_ports_port-minipci": "Unknown",
     "model": "Minnowboard Max",

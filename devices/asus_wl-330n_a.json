@@ -24,6 +24,7 @@
     "git_search_search-gits": "WL-330N",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "asus_wl-330n_a",
     "image_too_big_releasecurrents": "snapshot",
     "installation_method(s)_method-installations": "U-Boot TFTP recovery, U-Boot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "Yes",

@@ -27,6 +27,7 @@
     "git_search_search-gits": "WRH-300CR",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "elecom_wrh-300cr",
     "installation_method(s)_method-installations": "unknown",
     "jtag_yesno": "Unknown",
     "led_count_numled": "3",

@@ -27,6 +27,7 @@
     "git_search_search-gits": "WAX206",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "netgear_wax206",
     "installation_method(s)_method-installations": "TFTP generic, GUI OEM, nmrpflash, U-Boot TFTP recovery, see git-commit",
     "led_count_numled": "8",
     "minipci_ports_port-minipci": "-",

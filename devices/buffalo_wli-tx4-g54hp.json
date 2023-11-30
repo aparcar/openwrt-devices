@@ -24,6 +24,7 @@
     "git_search_search-gits": "WLI-TX4-G54HP",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "buffalo_wli-tx4-g54hp",
     "installation_method(s)_method-installations": "TFTP generic",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

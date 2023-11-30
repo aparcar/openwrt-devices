@@ -27,6 +27,7 @@
     "git_search_search-gits": "BR-6208AC",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "edimax_br-6208ac_v2",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP + serial recovery",
     "jtag_yesno": "Yes",
     "led_count_numled": "5",

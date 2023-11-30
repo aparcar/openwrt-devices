@@ -27,6 +27,7 @@
     "git_search_search-gits": "RT-N16",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "asus_rt-n16",
     "installation_method(s)_method-installations": "Asus Firmware Restoration tool, CFE TFTP recovery, see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "2",

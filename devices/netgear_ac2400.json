@@ -27,6 +27,7 @@
     "git_search_search-gits": "AC2400",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "netgear_ac2400",
     "installation_method(s)_method-installations": "GUI OEM",
     "jtag_yesno": "No",
     "led_count_numled": "18",

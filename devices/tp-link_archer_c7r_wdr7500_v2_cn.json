@@ -22,6 +22,7 @@
     "git_search_search-gits": "Archer C7R, WDR7500",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "tp-link_archer_c7r_wdr7500_v2_cn",
     "jtag_yesno": "Yes",
     "led_count_numled": "Unknown",
     "minipci_ports_port-minipci": "1x miniPCIe",

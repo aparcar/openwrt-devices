@@ -28,6 +28,7 @@
     "git_search_search-gits": "NanoBridge",
     "gluon_support_gluonsupport": "No",
     "gpios_numgpio": "-",
+    "id": "ubiquiti_nanobridge_m",
     "installation_method(s)_method-installations": "TFTP generic, GUI generic, Ubiquiti TFTP",
     "jtag_yesno": "No",
     "led_count_numled": "5",

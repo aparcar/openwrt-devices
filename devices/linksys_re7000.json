@@ -26,6 +26,7 @@
     "git_search_search-gits": "RE7000",
     "gluon_support_gluonsupport": "No",
     "gpios_numgpio": "Unknown",
+    "id": "linksys_re7000",
     "installation_method(s)_method-installations": "unknown",
     "jtag_yesno": "No",
     "led_count_numled": "3",

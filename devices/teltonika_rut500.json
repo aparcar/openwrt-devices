@@ -25,6 +25,7 @@
     "git_search_search-gits": "RUT500",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "teltonika_rut500",
     "installation_method(s)_method-installations": "unknown",
     "jtag_yesno": "No",
     "led_count_numled": "1",

@@ -26,6 +26,7 @@
     "git_search_search-gits": "A226M",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "pirelli_drg_a226m",
     "installation_method(s)_method-installations": "CFE TFTP + serial recovery",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

@@ -27,6 +27,7 @@
     "git_search_search-gits": "TL-WR902AC",
     "gluon_support_gluonsupport": "Broken",
     "gpios_numgpio": "-",
+    "id": "tp-link_tl-wr902ac_v1",
     "installation_method(s)_method-installations": "GUI OEM, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "5",

@@ -29,6 +29,7 @@
     "git_search_search-gits": "EAP615-Wall",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "tp-link_eap615-wall",
     "installation_method(s)_method-installations": "see git-commit",
     "jtag_yesno": "Yes",
     "led_count_numled": "1",

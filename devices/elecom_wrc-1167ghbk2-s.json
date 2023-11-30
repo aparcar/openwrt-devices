@@ -26,6 +26,7 @@
     "git_search_search-gits": "WRC-1167GHBK2-S",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "elecom_wrc-1167ghbk2-s",
     "installation_method(s)_method-installations": "GUI OEM, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "6",

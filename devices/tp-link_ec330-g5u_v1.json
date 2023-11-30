@@ -27,6 +27,7 @@
     "git_search_search-gits": "EC330-G5u",
     "gluon_support_gluonsupport": "No",
     "gpios_numgpio": "13",
+    "id": "tp-link_ec330-g5u_v1",
     "installation_method(s)_method-installations": "see devicepage",
     "jtag_yesno": "No",
     "led_count_numled": "8",

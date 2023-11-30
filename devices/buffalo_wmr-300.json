@@ -25,6 +25,7 @@
     "git_search_search-gits": "WMR-300",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "buffalo_wmr-300",
     "installation_method(s)_method-installations": "U-Boot TFTP recovery, U-Boot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "No",
     "led_count_numled": "2",

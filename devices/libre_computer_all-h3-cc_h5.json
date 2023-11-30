@@ -24,6 +24,7 @@
     "git_search_search-gits": "ALL-H3-CC H5",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "more than 20",
+    "id": "libre_computer_all-h3-cc_h5",
     "installation_method(s)_method-installations": "SD card, Sunxi installation, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "3",

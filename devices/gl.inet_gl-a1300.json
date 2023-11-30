@@ -28,6 +28,7 @@
     "git_search_search-gits": "GL-A1300",
     "gluon_support_gluonsupport": "No",
     "gpios_numgpio": "Unknown",
+    "id": "gl.inet_gl-a1300",
     "installation_method(s)_method-installations": "GL.Inet installation, U-Boot TFTP + serial recovery, U-Boot web recovery",
     "jtag_yesno": "Unknown",
     "led_count_numled": "2",

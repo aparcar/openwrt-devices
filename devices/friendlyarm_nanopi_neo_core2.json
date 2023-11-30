@@ -27,6 +27,7 @@
     "git_search_search-gits": "NanoPi NEO Core2",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "more than 20",
+    "id": "friendlyarm_nanopi_neo_core2",
     "installation_method(s)_method-installations": "Sysupgrade, SD card, U-Boot USB recovery",
     "jtag_yesno": "No",
     "led_count_numled": "2",

@@ -25,6 +25,7 @@
     "git_search_search-gits": "RB411",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "mikrotik_rb411",
     "installation_method(s)_method-installations": "Mikrotik TFTP, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "6",

@@ -27,6 +27,7 @@
     "git_search_search-gits": "BSAP-1800",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "bluesocket_bsap-1800_v2",
     "installation_method(s)_method-installations": "see git-commit",
     "jtag_yesno": "Yes",
     "led_count_numled": "4",

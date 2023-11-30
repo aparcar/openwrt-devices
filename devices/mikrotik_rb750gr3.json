@@ -27,6 +27,7 @@
     "git_search_search-gits": "RB750Gr3",
     "gluon_support_gluonsupport": "No",
     "gpios_numgpio": "Unknown",
+    "id": "mikrotik_rb750gr3",
     "installation_method(s)_method-installations": "Mikrotik TFTP",
     "jtag_yesno": "No",
     "led_count_numled": "1",

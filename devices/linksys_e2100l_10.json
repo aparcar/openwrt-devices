@@ -22,6 +22,7 @@
     "git_search_search-gits": "E2100L",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "linksys_e2100l_10",
     "installation_method(s)_method-installations": "U-Boot TFTP + serial recovery, see forum",
     "jtag_yesno": "Yes",
     "minipci_ports_port-minipci": "Unknown",

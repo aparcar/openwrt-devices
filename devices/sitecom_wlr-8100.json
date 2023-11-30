@@ -25,6 +25,7 @@
     "git_search_search-gits": "WLR-8100",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "sitecom_wlr-8100",
     "installation_method(s)_method-installations": "U-Boot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

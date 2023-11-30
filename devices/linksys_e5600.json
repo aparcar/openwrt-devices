@@ -27,6 +27,7 @@
     "git_search_search-gits": "E5600",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "linksys_e5600",
     "installation_method(s)_method-installations": "Linksys TFTP",
     "jtag_yesno": "No",
     "led_count_numled": "6",

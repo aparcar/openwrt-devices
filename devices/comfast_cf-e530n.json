@@ -22,6 +22,7 @@
     "git_search_search-gits": "CF-E530N",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "comfast_cf-e530n",
     "installation_method(s)_method-installations": "GUI OEM, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "1",

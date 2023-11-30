@@ -27,6 +27,7 @@
     "git_search_search-gits": "NanoBeam 5AC",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "ubiquiti_nanobeam_ac_gen2_xc",
     "installation_method(s)_method-installations": "Ubiquiti XC",
     "jtag_yesno": "No",
     "led_count_numled": "4",

@@ -27,6 +27,7 @@
     "git_search_search-gits": "TL-WR850N",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "tp-link_tl-wr850n_v1",
     "installation_method(s)_method-installations": "TP-Link TFTP, U-Boot TFTP recovery, see git-commit",
     "jtag_yesno": "Yes",
     "led_count_numled": "5",

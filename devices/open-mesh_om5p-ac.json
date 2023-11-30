@@ -23,6 +23,7 @@
     "git_search_search-gits": "OM5P-AC",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "open-mesh_om5p-ac",
     "installation_method(s)_method-installations": "unknown",
     "jtag_yesno": "Unknown",
     "led_count_numled": "4",

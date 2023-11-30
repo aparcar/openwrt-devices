@@ -20,6 +20,7 @@
     "flash_mb_mbflashs": "32",
     "gluon_support_gluonsupport": "No",
     "gpios_numgpio": "-",
+    "id": "asus_rt-ac57u_v3",
     "jtag_yesno": "Unknown",
     "led_count_numled": "9",
     "minipci_ports_port-minipci": "-",

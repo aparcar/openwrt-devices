@@ -20,6 +20,7 @@
     "git_search_search-gits": "EPC3825",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "cisco_epc3825",
     "jtag_yesno": "Unknown",
     "minipci_ports_port-minipci": "Unknown",
     "model": "EPC3825",

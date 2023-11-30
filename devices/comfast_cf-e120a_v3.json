@@ -30,6 +30,7 @@
     "git_search_search-gits": "CF-E120A",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "comfast_cf-e120a_v3",
     "installation_method(s)_method-installations": "GUI OEM, CLI generic, Sysupgrade, U-Boot web recovery, see devicepage",
     "jtag_yesno": "No",
     "led_count_numled": "8",

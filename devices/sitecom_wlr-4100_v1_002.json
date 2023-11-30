@@ -27,6 +27,7 @@
     "git_search_search-gits": "WLR-4100",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "sitecom_wlr-4100_v1_002",
     "installation_method(s)_method-installations": "GUI OEM, see git-commit",
     "jtag_yesno": "No",
     "led_count_numled": "7",

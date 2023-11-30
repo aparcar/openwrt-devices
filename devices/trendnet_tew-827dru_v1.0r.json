@@ -25,6 +25,7 @@
     "git_search_search-gits": "TEW-827DRU",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "trendnet_tew-827dru_v1.0r",
     "installation_method(s)_method-installations": "U-Boot TFTP + serial recovery, U-Boot web recovery, see forum",
     "jtag_yesno": "Yes",
     "led_count_numled": "9",

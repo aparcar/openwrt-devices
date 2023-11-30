@@ -27,6 +27,7 @@
     "git_search_search-gits": "RB921GS-5HPacD-15S",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "mikrotik_rb921gs-5hpacd-15s",
     "installation_method(s)_method-installations": "see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "1",

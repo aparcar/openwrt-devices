@@ -28,6 +28,7 @@
     "git_search_search-gits": "ToughSwitch TS-5-POE",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "ubiquiti_toughswitch_ts-5-poe",
     "installation_method(s)_method-installations": "see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

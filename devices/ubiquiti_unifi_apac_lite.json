@@ -26,6 +26,7 @@
     "git_search_search-gits": "UniFi AP AC LITE",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "ubiquiti_unifi_apac_lite",
     "installation_method(s)_method-installations": "U-Boot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "2",

@@ -25,6 +25,7 @@
     "git_search_search-gits": "Newifi mini Y1",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "lenovo_newifi_mini_y1",
     "installation_method(s)_method-installations": "U-Boot web recovery, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "5",

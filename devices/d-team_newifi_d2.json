@@ -24,6 +24,7 @@
     "git_search_search-gits": "Newifi D2",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "d-team_newifi_d2",
     "installation_method(s)_method-installations": "see devicepage, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "5",

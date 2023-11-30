@@ -25,6 +25,7 @@
     "git_search_search-gits": "NBG-419N",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "zyxel_nbg-419n_v2",
     "installation_method(s)_method-installations": "U-Boot TFTP + serial recovery",
     "jtag_yesno": "Unknown",
     "led_count_numled": "3",

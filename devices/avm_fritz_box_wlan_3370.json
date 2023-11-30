@@ -29,6 +29,7 @@
     "git_search_search-gits": "FRITZ!Box WLAN 3370",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "avm_fritz_box_wlan_3370",
     "installation_method(s)_method-installations": "EVA FTP",
     "jtag_yesno": "Yes",
     "led_count_numled": "5",

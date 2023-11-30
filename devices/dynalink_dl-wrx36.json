@@ -31,6 +31,7 @@
     "git_search_search-gits": "DL-WRX36",
     "gluon_support_gluonsupport": "No",
     "gpios_numgpio": "-",
+    "id": "dynalink_dl-wrx36",
     "installation_method(s)_method-installations": "CLI generic",
     "jtag_yesno": "Unknown",
     "led_count_numled": "1",

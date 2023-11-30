@@ -24,6 +24,7 @@
     "git_search_search-gits": "WS-WN530HP3-A",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "renkforce_ws-wn530hp3-a",
     "installation_method(s)_method-installations": "U-Boot web recovery, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "2",

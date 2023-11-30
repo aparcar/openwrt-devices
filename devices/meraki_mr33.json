@@ -24,6 +24,7 @@
     "git_search_search-gits": "MR33",
     "gluon_support_gluonsupport": "Broken",
     "gpios_numgpio": "-",
+    "id": "meraki_mr33",
     "installation_method(s)_method-installations": "TFTP generic, see devicepage, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "4",

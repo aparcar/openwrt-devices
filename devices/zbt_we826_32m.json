@@ -25,6 +25,7 @@
     "git_search_search-gits": "WE826",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "zbt_we826_32m",
     "installation_method(s)_method-installations": "U-Boot TFTP + serial recovery, U-Boot web recovery, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "8",

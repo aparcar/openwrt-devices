@@ -25,6 +25,7 @@
     "git_search_search-gits": "XWR-3150",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "luxul_xwr-3150",
     "installation_method(s)_method-installations": "GUI OEM, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

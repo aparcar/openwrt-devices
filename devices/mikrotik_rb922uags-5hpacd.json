@@ -26,6 +26,7 @@
     "git_search_search-gits": "RB922UAGS-5HPacD",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "mikrotik_rb922uags-5hpacd",
     "installation_method(s)_method-installations": "Mikrotik TFTP, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

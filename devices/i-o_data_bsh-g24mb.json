@@ -25,6 +25,7 @@
     "git_search_search-gits": "BSH-G24MB",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "i-o_data_bsh-g24mb",
     "installation_method(s)_method-installations": "see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "1",

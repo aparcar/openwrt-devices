@@ -27,6 +27,7 @@
     "git_search_search-gits": "RBmAP-2nD (mAP)",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "mikrotik_rbmap-2nd",
     "installation_method(s)_method-installations": "Mikrotik TFTP, see git-commit",
     "jtag_yesno": "Yes",
     "led_count_numled": "7",

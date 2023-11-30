@@ -25,6 +25,7 @@
     "git_search_search-gits": "TL-WA901ND",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "tp-link_tl-wa901nd_v2",
     "installation_method(s)_method-installations": "TFTP generic, GUI OEM, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

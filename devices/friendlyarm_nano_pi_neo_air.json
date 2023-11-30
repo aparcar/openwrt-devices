@@ -24,6 +24,7 @@
     "git_search_search-gits": "Nano PI NEO Air",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "more than 20",
+    "id": "friendlyarm_nano_pi_neo_air",
     "installation_method(s)_method-installations": "see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "2",

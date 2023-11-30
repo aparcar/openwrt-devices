@@ -26,6 +26,7 @@
     "git_search_search-gits": "WZR-HP-G450H",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "Unknown",
+    "id": "buffalo_wzr-hp-g450h_v1",
     "installation_method(s)_method-installations": "U-Boot TFTP recovery, U-Boot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

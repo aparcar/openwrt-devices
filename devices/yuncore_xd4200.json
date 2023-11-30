@@ -25,6 +25,7 @@
     "git_search_search-gits": "XD4200",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "yuncore_xd4200",
     "installation_method(s)_method-installations": "Sysupgrade, U-Boot TFTP recovery, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "5",

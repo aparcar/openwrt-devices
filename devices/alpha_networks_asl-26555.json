@@ -24,6 +24,7 @@
     "git_search_search-gits": "ASL-26555, ASL26555",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "alpha_networks_asl-26555",
     "installation_method(s)_method-installations": "U-Boot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

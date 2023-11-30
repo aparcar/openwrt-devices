@@ -26,6 +26,7 @@
     "git_search_search-gits": "A64+",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "pine64_a64",
     "installation_method(s)_method-installations": "SD card, Sunxi installation",
     "jtag_yesno": "No",
     "led_count_numled": "Unknown",

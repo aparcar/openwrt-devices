@@ -22,6 +22,7 @@
     "git_search_search-gits": "P8702N",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "zyxel_p8702n",
     "jtag_yesno": "No",
     "led_count_numled": "11",
     "minipci_ports_port-minipci": "Unknown",

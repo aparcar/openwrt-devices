@@ -28,6 +28,7 @@
     "git_search_search-gits": "GL-AR750S",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "4",
+    "id": "gl.inet_gl-ar750s",
     "installation_method(s)_method-installations": "GUI OEM, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "3",

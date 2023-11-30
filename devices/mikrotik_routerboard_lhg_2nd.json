@@ -30,6 +30,7 @@
     "git_search_search-gits": "RouterBOARD LHG 2nD",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "mikrotik_routerboard_lhg_2nd",
     "installation_method(s)_method-installations": "Mikrotik TFTP",
     "jtag_yesno": "Unknown",
     "led_count_numled": "7",

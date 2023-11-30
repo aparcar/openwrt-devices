@@ -27,6 +27,7 @@
     "git_search_search-gits": "GS110TPP",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "netgear_gs110tpp_v1",
     "installation_method(s)_method-installations": "U-Boot TFTP + serial recovery",
     "jtag_yesno": "No",
     "led_count_numled": "Unknown",

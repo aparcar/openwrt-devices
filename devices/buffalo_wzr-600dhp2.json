@@ -27,6 +27,7 @@
     "git_search_search-gits": "WZR-600DHP2",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "buffalo_wzr-600dhp2",
     "installation_method(s)_method-installations": "CFE TFTP recovery, CFE TFTP + serial recovery, see forum",
     "jtag_yesno": "Yes",
     "led_count_numled": "Unknown",

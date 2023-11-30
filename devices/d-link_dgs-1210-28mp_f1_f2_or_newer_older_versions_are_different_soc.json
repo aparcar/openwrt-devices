@@ -27,6 +27,7 @@
     "git_search_search-gits": "DGS-1210-28MP",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "d-link_dgs-1210-28mp_f1_f2_or_newer_older_versions_are_different_soc",
     "installation_method(s)_method-installations": "see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

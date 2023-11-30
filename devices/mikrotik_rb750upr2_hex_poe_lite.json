@@ -25,6 +25,7 @@
     "git_search_search-gits": "RB750UPr2 (hEX PoE lite)",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "mikrotik_rb750upr2_hex_poe_lite",
     "installation_method(s)_method-installations": "unknown",
     "jtag_yesno": "Yes",
     "led_count_numled": "6",

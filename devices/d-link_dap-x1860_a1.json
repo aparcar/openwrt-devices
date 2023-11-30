@@ -29,6 +29,7 @@
     "git_search_search-gits": "DAP-X1860",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "Unknown",
+    "id": "d-link_dap-x1860_a1",
     "installation_method(s)_method-installations": "D-Link Recovery GUI",
     "jtag_yesno": "Unknown",
     "led_count_numled": "7",

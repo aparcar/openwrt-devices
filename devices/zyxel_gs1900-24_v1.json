@@ -27,6 +27,7 @@
     "git_search_search-gits": "GS1900-24",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "zyxel_gs1900-24_v1",
     "installation_method(s)_method-installations": "GUI generic, U-Boot TFTP + serial recovery, see git-commit",
     "jtag_yesno": "Yes",
     "led_count_numled": "1",

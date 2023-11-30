@@ -24,6 +24,7 @@
     "git_search_search-gits": "KD22",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "shuttle_omninas_kd22",
     "installation_method(s)_method-installations": "TFTP generic",
     "jtag_yesno": "No",
     "led_count_numled": "4",

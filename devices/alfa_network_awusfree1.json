@@ -23,6 +23,7 @@
     "git_search_search-gits": "AWUSFREE1",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "alfa_network_awusfree1",
     "installation_method(s)_method-installations": "GUI generic, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "4",

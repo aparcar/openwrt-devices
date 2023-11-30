@@ -26,6 +26,7 @@
     "git_search_search-gits": "UniFi 6 Lite",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "ubiquiti_unifi_6_lite",
     "installation_method(s)_method-installations": "see devicepage, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "2",

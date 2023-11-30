@@ -27,6 +27,7 @@
     "git_search_search-gits": "RBM11g",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "mikrotik_rbm11g",
     "installation_method(s)_method-installations": "see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

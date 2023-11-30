@@ -24,6 +24,7 @@
     "git_search_search-gits": "WHR-G300N",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "buffalo_whr-g300n_v1",
     "image_too_big_releasecurrents": "snapshot",
     "installation_method(s)_method-installations": "U-Boot TFTP recovery, see devicepage",
     "jtag_yesno": "Yes",

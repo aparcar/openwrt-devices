@@ -26,6 +26,7 @@
     "git_search_search-gits": "RP-WD03",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "ravpower_rp-wd03",
     "installation_method(s)_method-installations": "TFTP generic, Sysupgrade, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "3",

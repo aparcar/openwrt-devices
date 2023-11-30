@@ -29,6 +29,7 @@
     "git_search_search-gits": "NanoStation Loco M2",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "ubiquiti_nanostation_loco_m2_xw",
     "installation_method(s)_method-installations": "Sysupgrade",
     "jtag_yesno": "Unknown",
     "led_count_numled": "6",

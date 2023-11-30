@@ -24,6 +24,7 @@
     "git_search_search-gits": "X1",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "telco_electronics_x1",
     "installation_method(s)_method-installations": "GUI OEM, Sysupgrade, see git-commit",
     "jtag_yesno": "Yes",
     "led_count_numled": "6",

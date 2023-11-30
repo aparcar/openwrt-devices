@@ -25,6 +25,7 @@
     "git_search_search-gits": "WN2500RP",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "netgear_wn2500rp_v1",
     "installation_method(s)_method-installations": "GUI OEM, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

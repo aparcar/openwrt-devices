@@ -25,6 +25,7 @@
     "git_search_search-gits": "TrimSlice",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "compulab_trimslice",
     "installation_method(s)_method-installations": "see git-commit",
     "jtag_yesno": "Yes",
     "led_count_numled": "2",

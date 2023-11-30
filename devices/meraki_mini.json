@@ -20,6 +20,7 @@
     "git_search_search-gits": "Mini",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "meraki_mini",
     "installation_method(s)_method-installations": "RedBoot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "Unknown",
     "minipci_ports_port-minipci": "Unknown",

@@ -23,6 +23,7 @@
     "git_search_search-gits": "NanoBeam 2AC",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "ubiquiti_nanobeam_ac_13",
     "jtag_yesno": "No",
     "led_count_numled": "4",
     "minipci_ports_port-minipci": "Unknown",

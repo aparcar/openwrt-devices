@@ -25,6 +25,7 @@
     "git_search_search-gits": "WNR854T",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "netgear_wnr854t",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "-",

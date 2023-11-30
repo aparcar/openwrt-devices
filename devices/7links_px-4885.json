@@ -25,6 +25,7 @@
     "git_search_search-gits": "PX-4885",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "7links_px-4885",
     "image_too_big_releasecurrents": "snapshot",
     "installation_method(s)_method-installations": "TFTP generic, GUI OEM, see devicepage",
     "jtag_yesno": "Unknown",

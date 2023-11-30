@@ -27,6 +27,7 @@
     "git_search_search-gits": "Bullet M, bullet, ubnt-m-xw",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "ubiquiti_bullet_m_xw",
     "installation_method(s)_method-installations": "U-Boot TFTP + serial recovery, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "4",

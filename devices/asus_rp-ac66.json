@@ -27,6 +27,7 @@
     "git_search_search-gits": "RP-AC66",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "asus_rp-ac66",
     "installation_method(s)_method-installations": "Asus Firmware Restoration tool, U-Boot TFTP + serial recovery",
     "jtag_yesno": "No",
     "led_count_numled": "3",

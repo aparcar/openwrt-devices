@@ -25,6 +25,7 @@
     "git_search_search-gits": "TL-MR3220",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "tp-link_tl-mr3220_v2",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP + serial recovery, see forum",
     "jtag_yesno": "No",
     "led_count_numled": "Unknown",

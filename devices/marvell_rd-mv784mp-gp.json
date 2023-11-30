@@ -23,6 +23,7 @@
     "git_search_search-gits": "Marvell RD-MV784MP-GP",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "marvell_rd-mv784mp-gp",
     "installation_method(s)_method-installations": "unknown",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

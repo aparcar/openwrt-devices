@@ -27,6 +27,7 @@
     "git_search_search-gits": "CAP324",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "powercloud_systems_cap324",
     "installation_method(s)_method-installations": "Sysupgrade, U-Boot TFTP + serial recovery",
     "jtag_yesno": "No",
     "led_count_numled": "3",

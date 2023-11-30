@@ -25,6 +25,7 @@
     "git_search_search-gits": "ESR1750",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "engenius_esr1750_v110",
     "installation_method(s)_method-installations": "U-Boot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "5",

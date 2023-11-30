@@ -21,6 +21,7 @@
     "git_search_search-gits": "GL-M9331 Plus",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "gl-m9331_plus",
     "jtag_yesno": "Yes",
     "led_count_numled": "Unknown",
     "minipci_ports_port-minipci": "Unknown",

@@ -25,6 +25,7 @@
     "git_search_search-gits": "WN-AC733GR3",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "i-o_data_wn-ac733gr3",
     "installation_method(s)_method-installations": "GUI OEM, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "4",

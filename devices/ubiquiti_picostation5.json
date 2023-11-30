@@ -23,6 +23,7 @@
     "git_search_search-gits": "PicoStation 5",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "ubiquiti_picostation5",
     "installation_method(s)_method-installations": "RedBoot TFTP recovery, RedBoot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "Unknown",

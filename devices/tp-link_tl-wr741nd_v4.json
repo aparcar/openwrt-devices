@@ -25,6 +25,7 @@
     "git_search_search-gits": "TL-WR741ND",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "tp-link_tl-wr741nd_v4",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "No",
     "led_count_numled": "9",

@@ -24,6 +24,7 @@
     "git_search_search-gits": "MDH 610",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "16",
+    "id": "mb_connect_line_mdh_610_hw.01",
     "installation_method(s)_method-installations": "RedBoot TFTP recovery",
     "jtag_yesno": "Unknown",
     "led_count_numled": "8",

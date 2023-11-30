@@ -26,6 +26,7 @@
     "git_search_search-gits": "SAMA5D27 SOM1 EK",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "microchip_sama5d27_som1_ek",
     "installation_method(s)_method-installations": "unknown",
     "jtag_yesno": "Yes",
     "led_count_numled": "Unknown",

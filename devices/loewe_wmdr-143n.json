@@ -23,6 +23,7 @@
     "git_search_search-gits": "WMDR-143N",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "loewe_wmdr-143n",
     "installation_method(s)_method-installations": "see git-commit",
     "jtag_yesno": "No",
     "led_count_numled": "-",

@@ -27,6 +27,7 @@
     "git_search_search-gits": "EA6350",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "linksys_ea6350_v3",
     "image_too_big_releasecurrents": "snapshot",
     "installation_method(s)_method-installations": "GUI OEM, see devicepage, see git-commit",
     "jtag_yesno": "Unknown",

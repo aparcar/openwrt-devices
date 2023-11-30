@@ -27,6 +27,7 @@
     "git_search_search-gits": "EdgeRouter Pro",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "ubiquiti_edgerouter_pro_erpro-8",
     "installation_method(s)_method-installations": "Sysupgrade, USB",
     "jtag_yesno": "Yes",
     "led_count_numled": "1",

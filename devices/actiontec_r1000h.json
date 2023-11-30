@@ -25,6 +25,7 @@
     "git_search_search-gits": "R1000H",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "actiontec_r1000h",
     "installation_method(s)_method-installations": "CFE web recovery",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

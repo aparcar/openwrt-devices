@@ -26,6 +26,7 @@
     "git_search_search-gits": "RUT955 H7V3C0",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "10",
+    "id": "teltonika_rut955_h7v3c0",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot web recovery, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "11",

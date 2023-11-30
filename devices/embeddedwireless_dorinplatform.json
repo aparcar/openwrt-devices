@@ -27,6 +27,7 @@
     "git_search_search-gits": "Dorin",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "embeddedwireless_dorinplatform",
     "installation_method(s)_method-installations": "GUI OEM, Sysupgrade",
     "jtag_yesno": "Yes",
     "led_count_numled": "Unknown",

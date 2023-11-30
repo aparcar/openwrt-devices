@@ -27,6 +27,7 @@
     "git_search_search-gits": "DM200",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "netgear_dm200",
     "installation_method(s)_method-installations": "GUI generic, U-Boot TFTP recovery, see devicepage, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "3",

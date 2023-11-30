@@ -25,6 +25,7 @@
     "git_search_search-gits": "RT-AC51U",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "asus_rt-ac51u",
     "installation_method(s)_method-installations": "Asus Firmware Restoration tool, U-Boot TFTP recovery, see devicepage, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "9",

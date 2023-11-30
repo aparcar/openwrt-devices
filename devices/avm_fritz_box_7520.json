@@ -29,6 +29,7 @@
     "git_search_search-gits": "FRITZ!Box 7520",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "avm_fritz_box_7520",
     "installation_method(s)_method-installations": "EVA FTP, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "6",

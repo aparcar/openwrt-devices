@@ -24,6 +24,7 @@
     "git_search_search-gits": "WL-HDD2.5",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "asus_wl-hdd25",
     "installation_method(s)_method-installations": "CFE TFTP recovery, see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "Unknown",

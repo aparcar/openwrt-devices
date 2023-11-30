@@ -30,6 +30,7 @@
     "git_search_search-gits": "Archer C6",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "tp-link_archer_c6_v2_eu",
     "installation_method(s)_method-installations": "GUI OEM, TP-Link TFTP, see forum, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "6",

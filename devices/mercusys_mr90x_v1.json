@@ -29,6 +29,7 @@
     "git_search_search-gits": "MR90X",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "mercusys_mr90x_v1",
     "installation_method(s)_method-installations": "see devicepage",
     "jtag_yesno": "No",
     "led_count_numled": "6",

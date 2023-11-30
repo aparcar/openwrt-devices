@@ -27,6 +27,7 @@
     "git_search_search-gits": "WZR-HP-G300NH",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "buffalo_wzr-hp-g300nh_v1",
     "installation_method(s)_method-installations": "see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "4",

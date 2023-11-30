@@ -31,6 +31,7 @@
     "git_search_search-gits": "Turris Omnia",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "10",
+    "id": "turris_turris_omnia",
     "installation_method(s)_method-installations": "see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "12",

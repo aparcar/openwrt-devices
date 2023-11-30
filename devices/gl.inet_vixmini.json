@@ -24,6 +24,7 @@
     "git_search_search-gits": "VIXMINI",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "gl.inet_vixmini",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP recovery, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "2",

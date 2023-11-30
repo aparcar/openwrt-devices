@@ -26,6 +26,7 @@
     "git_search_search-gits": "net5501",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "12",
+    "id": "soekris_net5501_70",
     "installation_method(s)_method-installations": "unknown",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

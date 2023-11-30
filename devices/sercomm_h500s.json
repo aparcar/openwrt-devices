@@ -26,6 +26,7 @@
     "git_search_search-gits": "H500-s",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "sercomm_h500s",
     "installation_method(s)_method-installations": "GUI OEM",
     "jtag_yesno": "No",
     "led_count_numled": "11",

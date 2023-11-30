@@ -26,6 +26,7 @@
     "git_search_search-gits": "MR16",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "meraki_mr16",
     "installation_method(s)_method-installations": "U-Boot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

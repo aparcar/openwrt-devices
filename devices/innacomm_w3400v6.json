@@ -26,6 +26,7 @@
     "git_search_search-gits": "W3400V6",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "innacomm_w3400v6",
     "installation_method(s)_method-installations": "see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "9",

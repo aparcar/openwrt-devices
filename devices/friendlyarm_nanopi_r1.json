@@ -24,6 +24,7 @@
     "git_search_search-gits": "NanoPi R1",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "friendlyarm_nanopi_r1",
     "installation_method(s)_method-installations": "SD card, Sunxi installation, see git-commit",
     "jtag_yesno": "No",
     "led_count_numled": "3",

@@ -24,6 +24,7 @@
     "git_search_search-gits": "WiFi Pineapple Mark 7",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "hak5_wifi_pineapple_mark_7",
     "installation_method(s)_method-installations": "Sysupgrade, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "3",

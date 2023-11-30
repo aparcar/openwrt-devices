@@ -27,6 +27,7 @@
     "git_search_search-gits": "CPE-W4N",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "4",
+    "id": "snr_cpe-w4n_rev._m",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP + serial recovery",
     "jtag_yesno": "Unknown",
     "led_count_numled": "9",

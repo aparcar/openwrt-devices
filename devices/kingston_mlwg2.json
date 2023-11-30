@@ -25,6 +25,7 @@
     "git_search_search-gits": "MLWG2",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "kingston_mlwg2",
     "installation_method(s)_method-installations": "see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

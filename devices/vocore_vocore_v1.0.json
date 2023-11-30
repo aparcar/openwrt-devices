@@ -27,6 +27,7 @@
     "git_search_search-gits": "VoCore",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "vocore_vocore_v1.0",
     "installation_method(s)_method-installations": "GUI OEM, Sysupgrade",
     "jtag_yesno": "Yes",
     "led_count_numled": "Unknown",

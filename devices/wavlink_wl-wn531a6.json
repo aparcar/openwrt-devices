@@ -27,6 +27,7 @@
     "git_search_search-gits": "WL-WN531A6",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "wavlink_wl-wn531a6",
     "installation_method(s)_method-installations": "see devicepage, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "8",

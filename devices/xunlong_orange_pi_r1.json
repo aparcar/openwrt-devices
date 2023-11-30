@@ -29,6 +29,7 @@
     "git_search_search-gits": "Orange Pi R1",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "more than 20",
+    "id": "xunlong_orange_pi_r1",
     "installation_method(s)_method-installations": "Sunxi installation",
     "jtag_yesno": "Unknown",
     "led_count_numled": "2",

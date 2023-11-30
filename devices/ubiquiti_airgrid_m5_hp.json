@@ -25,6 +25,7 @@
     "git_search_search-gits": "AirGrid M5 HP",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "ubiquiti_airgrid_m5_hp",
     "installation_method(s)_method-installations": "unknown",
     "jtag_yesno": "Unknown",
     "led_count_numled": "6",

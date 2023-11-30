@@ -23,6 +23,7 @@
     "git_search_search-gits": "HooToo, HT-TM03, TripMate Mini",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "hootoo_ht-tm03_tripmate_mini",
     "jtag_yesno": "No",
     "led_count_numled": "5",
     "minipci_ports_port-minipci": "Unknown",

@@ -27,6 +27,7 @@
     "git_search_search-gits": "TL-WR703N",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "tp-link_tl-wr703n_v1",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "No",
     "led_count_numled": "Unknown",

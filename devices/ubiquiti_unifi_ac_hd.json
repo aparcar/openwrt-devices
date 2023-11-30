@@ -28,6 +28,7 @@
     "git_search_search-gits": "UniFi AC HD",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "ubiquiti_unifi_ac_hd",
     "installation_method(s)_method-installations": "CLI generic, see git-commit",
     "jtag_yesno": "Yes",
     "led_count_numled": "2",

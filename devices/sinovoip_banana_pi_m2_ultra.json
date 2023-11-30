@@ -23,6 +23,7 @@
     "git_search_search-gits": "Banana Pi M2 Ultra",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "more than 20",
+    "id": "sinovoip_banana_pi_m2_ultra",
     "installation_method(s)_method-installations": "SD card, Sunxi installation",
     "jtag_yesno": "No",
     "led_count_numled": "3",

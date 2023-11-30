@@ -26,6 +26,7 @@
     "git_search_search-gits": "ON100",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "cisco_on100-k9_v01",
     "installation_method(s)_method-installations": "see git-commit",
     "jtag_yesno": "Yes",
     "led_count_numled": "2",

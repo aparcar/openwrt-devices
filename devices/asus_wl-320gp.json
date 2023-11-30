@@ -24,6 +24,7 @@
     "git_search_search-gits": "WL-320gP",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "asus_wl-320gp",
     "installation_method(s)_method-installations": "CFE TFTP recovery",
     "jtag_yesno": "Unknown",
     "led_count_numled": "4",

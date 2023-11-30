@@ -24,6 +24,7 @@
     "git_search_search-gits": "UniFi AP AC",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "ubiquiti_unifi_apac",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",
     "minipci_ports_port-minipci": "Unknown",

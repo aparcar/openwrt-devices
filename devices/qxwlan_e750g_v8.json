@@ -26,6 +26,7 @@
     "git_search_search-gits": "E750G",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "qxwlan_e750g_v8",
     "installation_method(s)_method-installations": "U-Boot TFTP recovery, U-Boot web recovery, see git-commit",
     "jtag_yesno": "No",
     "led_count_numled": "7",

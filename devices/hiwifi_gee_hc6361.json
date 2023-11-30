@@ -26,6 +26,7 @@
     "git_search_search-gits": "HC6361",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "hiwifi_gee_hc6361",
     "installation_method(s)_method-installations": "CLI generic, Sysupgrade, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "3",

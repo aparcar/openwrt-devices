@@ -27,6 +27,7 @@
     "git_search_search-gits": "WNDR4700",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "netgear_wndr4700_v1",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP recovery, see git-commit",
     "jtag_yesno": "Yes",
     "led_count_numled": "Unknown",

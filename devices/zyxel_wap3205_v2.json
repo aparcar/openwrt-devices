@@ -24,6 +24,7 @@
     "git_search_search-gits": "WAP3205",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "zyxel_wap3205_v2",
     "installation_method(s)_method-installations": "U-Boot TFTP + serial recovery, see forum",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

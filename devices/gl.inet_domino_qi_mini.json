@@ -22,6 +22,7 @@
     "git_search_search-gits": "Domino Qi Mini",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "12",
+    "id": "gl.inet_domino_qi_mini",
     "jtag_yesno": "Yes",
     "led_count_numled": "4",
     "minipci_ports_port-minipci": "Unknown",

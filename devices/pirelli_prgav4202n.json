@@ -23,6 +23,7 @@
     "git_search_search-gits": "PRG AV4202N",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "pirelli_prgav4202n",
     "installation_method(s)_method-installations": "CFE TFTP + serial recovery",
     "jtag_yesno": "Yes",
     "minipci_ports_port-minipci": "Unknown",

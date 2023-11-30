@@ -24,6 +24,7 @@
     "git_search_search-gits": "GT-AC5300",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "asus_gt-ac5300",
     "installation_method(s)_method-installations": "GUI OEM",
     "jtag_yesno": "Yes",
     "led_count_numled": "6",

@@ -25,6 +25,7 @@
     "git_search_search-gits": "JHR-N926R",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "jcg_jhr-n926r",
     "image_too_big_releasecurrents": "snapshot",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP recovery, see devicepage",
     "jtag_yesno": "Yes",

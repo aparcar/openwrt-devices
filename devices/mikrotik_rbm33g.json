@@ -26,6 +26,7 @@
     "git_search_search-gits": "RBM33G",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "12",
+    "id": "mikrotik_rbm33g",
     "installation_method(s)_method-installations": "see devicepage, see git-commit",
     "jtag_yesno": "Yes",
     "led_count_numled": "2",

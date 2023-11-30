@@ -27,6 +27,7 @@
     "git_search_search-gits": "WL-WN530HG4",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "wavlink_wl-wn530hg4",
     "installation_method(s)_method-installations": "GUI OEM, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "3",

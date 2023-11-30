@@ -28,6 +28,7 @@
     "git_search_search-gits": "Archer C7 AC1750",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "tp-link_archer_c7_ac1750_v1",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP recovery, see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "10",

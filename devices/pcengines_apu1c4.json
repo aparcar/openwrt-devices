@@ -26,6 +26,7 @@
     "git_search_search-gits": "APU1C4",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "pcengines_apu1c4",
     "installation_method(s)_method-installations": "SD card, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

@@ -26,6 +26,7 @@
     "git_search_search-gits": "Arion",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "bolt_arion",
     "installation_method(s)_method-installations": "Telnet, U-Boot TFTP + serial recovery, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "7",

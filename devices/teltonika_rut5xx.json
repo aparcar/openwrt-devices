@@ -26,6 +26,7 @@
     "git_search_search-gits": "RUT5XX",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "teltonika_rut5xx",
     "installation_method(s)_method-installations": "unknown",
     "jtag_yesno": "Unknown",
     "led_count_numled": "1",

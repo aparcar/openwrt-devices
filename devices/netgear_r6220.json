@@ -30,6 +30,7 @@
     "git_search_search-gits": "R6220",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "netgear_r6220",
     "installation_method(s)_method-installations": "GUI OEM, nmrpflash",
     "jtag_yesno": "Unknown",
     "led_count_numled": "9",

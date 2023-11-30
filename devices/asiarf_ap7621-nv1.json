@@ -25,6 +25,7 @@
     "git_search_search-gits": "AP7621-NV1",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "8",
+    "id": "asiarf_ap7621-nv1",
     "installation_method(s)_method-installations": "Sysupgrade, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "4",

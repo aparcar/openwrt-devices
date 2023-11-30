@@ -22,6 +22,7 @@
     "git_search_search-gits": "NanoStation 2",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "ubiquiti_nanostation2",
     "installation_method(s)_method-installations": "TFTP generic, GUI OEM, see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "Unknown",

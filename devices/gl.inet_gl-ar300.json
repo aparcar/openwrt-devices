@@ -25,6 +25,7 @@
     "git_search_search-gits": "GL-AR300",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "7",
+    "id": "gl.inet_gl-ar300",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot web recovery",
     "jtag_yesno": "No",
     "led_count_numled": "3",

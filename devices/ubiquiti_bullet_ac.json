@@ -27,6 +27,7 @@
     "git_search_search-gits": "Bullet AC",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "ubiquiti_bullet_ac",
     "installation_method(s)_method-installations": "Ubiquiti 2WA, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

@@ -24,6 +24,7 @@
     "git_search_search-gits": "WRT160NL",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "linksys_wrt160nl",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP recovery, U-Boot TFTP + serial recovery",
     "jtag_yesno": "Yes",
     "led_count_numled": "8",

@@ -22,6 +22,7 @@
     "git_search_search-gits": "FRITZ!Box Fon WLAN 7570",
     "gluon_support_gluonsupport": "No",
     "gpios_numgpio": "-",
+    "id": "avm_fritzboxfonwlan7570",
     "jtag_yesno": "Yes",
     "minipci_ports_port-minipci": "Unknown",
     "model": "FRITZ!Box Fon WLAN 7570",

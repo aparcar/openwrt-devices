@@ -23,6 +23,7 @@
     "git_search_search-gits": "WL-600g",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "asus_wl-600g",
     "installation_method(s)_method-installations": "CFE TFTP recovery, see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "Unknown",

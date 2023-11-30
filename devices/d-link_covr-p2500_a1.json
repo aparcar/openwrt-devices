@@ -25,6 +25,7 @@
     "git_search_search-gits": "COVR-P2500",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "d-link_covr-p2500_a1",
     "installation_method(s)_method-installations": "GUI generic, GUI OEM, U-Boot TFTP + serial recovery",
     "jtag_yesno": "Unknown",
     "led_count_numled": "5",

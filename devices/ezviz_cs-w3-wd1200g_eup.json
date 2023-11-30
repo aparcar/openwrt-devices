@@ -27,6 +27,7 @@
     "git_search_search-gits": "CS-W3-WD1200G EUP",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "ezviz_cs-w3-wd1200g_eup",
     "installation_method(s)_method-installations": "U-Boot TFTP + serial recovery, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "1",

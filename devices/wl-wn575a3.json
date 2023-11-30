@@ -25,6 +25,7 @@
     "git_search_search-gits": "WL-WN575A3B",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "wl-wn575a3",
     "installation_method(s)_method-installations": "U-Boot TFTP recovery, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "7",

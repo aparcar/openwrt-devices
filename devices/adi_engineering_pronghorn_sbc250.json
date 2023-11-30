@@ -26,6 +26,7 @@
     "git_search_search-gits": "Pronghorn SBC250",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "4",
+    "id": "adi_engineering_pronghorn_sbc250",
     "installation_method(s)_method-installations": "RedBoot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "-",

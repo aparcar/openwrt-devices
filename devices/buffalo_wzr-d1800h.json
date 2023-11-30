@@ -21,6 +21,7 @@
     "git_search_search-gits": "WZR-D1800H",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "buffalo_wzr-d1800h",
     "jtag_yesno": "Unknown",
     "minipci_ports_port-minipci": "Unknown",
     "model": "WZR-D1800H",

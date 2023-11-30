@@ -24,6 +24,7 @@
     "git_search_search-gits": "Air Pen",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "pqi_air_pen",
     "installation_method(s)_method-installations": "TFTP generic",
     "jtag_yesno": "Unknown",
     "led_count_numled": "2",

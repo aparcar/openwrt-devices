@@ -23,6 +23,7 @@
     "git_search_search-gits": "E2500 V4",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "linksys_e2500_v4",
     "installation_method(s)_method-installations": "U-Boot TFTP + serial recovery",
     "jtag_yesno": "No",
     "led_count_numled": "6",

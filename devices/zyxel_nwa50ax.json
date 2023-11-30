@@ -26,6 +26,7 @@
     "git_search_search-gits": "NWA50AX",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "zyxel_nwa50ax",
     "installation_method(s)_method-installations": "GUI OEM, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "1",

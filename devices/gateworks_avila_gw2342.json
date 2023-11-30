@@ -26,6 +26,7 @@
     "git_search_search-gits": "Avila GW2342",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "gateworks_avila_gw2342",
     "installation_method(s)_method-installations": "RedBoot TFTP recovery, see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "1",

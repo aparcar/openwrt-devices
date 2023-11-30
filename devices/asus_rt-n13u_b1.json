@@ -27,6 +27,7 @@
     "git_search_search-gits": "RT-N13U",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "asus_rt-n13u_b1",
     "installation_method(s)_method-installations": "U-Boot TFTP recovery, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "3",

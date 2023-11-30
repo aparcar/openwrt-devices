@@ -26,6 +26,7 @@
     "git_search_search-gits": "AirRouter",
     "gluon_support_gluonsupport": "No",
     "gpios_numgpio": "-",
+    "id": "ubiquiti_airrouter",
     "installation_method(s)_method-installations": "GUI OEM, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "3",

@@ -27,6 +27,7 @@
     "git_search_search-gits": "LS421DE",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "8",
+    "id": "buffalo_ls421de_v1",
     "installation_method(s)_method-installations": "U-Boot TFTP + serial recovery",
     "jtag_yesno": "No",
     "led_count_numled": "5",

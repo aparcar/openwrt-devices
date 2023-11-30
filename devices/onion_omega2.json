@@ -23,6 +23,7 @@
     "git_search_search-gits": "Omega2",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "15",
+    "id": "onion_omega2",
     "installation_method(s)_method-installations": "unknown",
     "jtag_yesno": "Unknown",
     "led_count_numled": "1",

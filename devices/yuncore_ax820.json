@@ -29,6 +29,7 @@
     "git_search_search-gits": "AX820",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "yuncore_ax820",
     "installation_method(s)_method-installations": "GUI OEM",
     "jtag_yesno": "Unknown",
     "led_count_numled": "3",

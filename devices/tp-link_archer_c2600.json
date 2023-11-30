@@ -29,6 +29,7 @@
     "git_search_search-gits": "Archer C2600",
     "gluon_support_gluonsupport": "Broken",
     "gpios_numgpio": "-",
+    "id": "tp-link_archer_c2600",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP recovery, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "10",

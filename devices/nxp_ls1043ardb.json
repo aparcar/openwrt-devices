@@ -26,6 +26,7 @@
     "git_search_search-gits": "LS1043ARDB",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "nxp_ls1043ardb",
     "installation_method(s)_method-installations": "unknown",
     "jtag_yesno": "Yes",
     "led_count_numled": "Unknown",

@@ -31,6 +31,7 @@
     "git_search_search-gits": "RT-SF-1",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "rostelecom_rt-sf-1",
     "installation_method(s)_method-installations": "GUI OEM",
     "jtag_yesno": "No",
     "led_count_numled": "3",

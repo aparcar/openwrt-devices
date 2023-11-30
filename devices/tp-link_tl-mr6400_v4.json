@@ -27,6 +27,7 @@
     "git_search_search-gits": "TL-MR6400",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "tp-link_tl-mr6400_v4",
     "installation_method(s)_method-installations": "TP-Link TFTP",
     "jtag_yesno": "Unknown",
     "led_count_numled": "7",

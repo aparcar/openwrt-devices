@@ -22,6 +22,7 @@
     "git_search_search-gits": "WZR-RS-G54",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "-",
+    "id": "buffalo_wzr-rs-g54",
     "jtag_yesno": "Unknown",
     "minipci_ports_port-minipci": "Unknown",
     "model": "WZR-RS-G54",

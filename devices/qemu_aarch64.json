@@ -21,6 +21,7 @@
     "git_search_search-gits": "qemu-system-aarch64, qemu",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "qemu_aarch64",
     "jtag_yesno": "No",
     "minipci_ports_port-minipci": "Unknown",
     "model": "qemu-system-aarch64",

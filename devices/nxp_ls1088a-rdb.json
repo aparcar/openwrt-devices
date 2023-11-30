@@ -28,6 +28,7 @@
     "git_search_search-gits": "LS1088A-RDB",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "nxp_ls1088a-rdb",
     "installation_method(s)_method-installations": "SD card, U-Boot TFTP recovery",
     "jtag_yesno": "Yes",
     "led_count_numled": "Unknown",

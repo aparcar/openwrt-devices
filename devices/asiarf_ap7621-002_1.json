@@ -27,6 +27,7 @@
     "git_search_search-gits": "AP7621-002",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "8",
+    "id": "asiarf_ap7621-002_1",
     "installation_method(s)_method-installations": "TFTP generic, Telnet, U-Boot TFTP + serial recovery",
     "jtag_yesno": "No",
     "led_count_numled": "6",

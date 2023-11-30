@@ -27,6 +27,7 @@
     "git_search_search-gits": "TL-WR841N(D)",
     "gluon_support_gluonsupport": "Broken",
     "gpios_numgpio": "-",
+    "id": "tp-link_tl-wr841n_v12",
     "installation_method(s)_method-installations": "GUI OEM, TP-Link TFTP, U-Boot TFTP recovery, U-Boot TFTP + serial recovery, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

@@ -27,6 +27,7 @@
     "git_search_search-gits": "CPE210",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "tp-link_cpe210_v3",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP recovery, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "5",

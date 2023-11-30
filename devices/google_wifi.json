@@ -27,6 +27,7 @@
     "git_search_search-gits": "Google Wifi",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "google_wifi",
     "installation_method(s)_method-installations": "see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "1",

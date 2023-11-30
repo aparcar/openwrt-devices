@@ -27,6 +27,7 @@
     "git_search_search-gits": "dLAN pro 1200+ WiFi ac",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "devolo_dlan_pro_1200_wifi_ac",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP recovery, see devicepage",
     "jtag_yesno": "Unknown",
     "led_count_numled": "3",

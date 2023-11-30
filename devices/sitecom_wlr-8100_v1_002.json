@@ -26,6 +26,7 @@
     "git_search_search-gits": "WLR-8100",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "sitecom_wlr-8100_v1_002",
     "installation_method(s)_method-installations": "GUI OEM, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "9",

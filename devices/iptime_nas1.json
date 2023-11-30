@@ -24,6 +24,7 @@
     "git_search_search-gits": "NAS1",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "iptime_nas1",
     "installation_method(s)_method-installations": "GUI OEM, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "Unknown",

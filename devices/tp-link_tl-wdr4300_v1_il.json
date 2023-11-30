@@ -26,6 +26,7 @@
     "git_search_search-gits": "TL-WDR4300",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "tp-link_tl-wdr4300_v1_il",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP recovery, U-Boot TFTP + serial recovery",
     "jtag_yesno": "Yes",
     "led_count_numled": "7",

@@ -23,6 +23,7 @@
     "git_search_search-gits": "ZedBoard",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "avnet_zedboard",
     "installation_method(s)_method-installations": "unknown",
     "jtag_yesno": "Unknown",
     "led_count_numled": "9",

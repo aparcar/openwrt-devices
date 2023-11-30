@@ -23,6 +23,7 @@
     "git_search_search-gits": "EG-200, EG200",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "etactica_eg-200",
     "installation_method(s)_method-installations": "GUI OEM, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "5",

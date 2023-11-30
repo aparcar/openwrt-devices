@@ -26,6 +26,7 @@
     "git_search_search-gits": "LS2088ARDB",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "Unknown",
+    "id": "nxp_ls2088ardb",
     "installation_method(s)_method-installations": "unknown",
     "jtag_yesno": "Yes",
     "led_count_numled": "Unknown",

@@ -27,6 +27,7 @@
     "git_search_search-gits": "RT-AX1800U",
     "gluon_support_gluonsupport": "No",
     "gpios_numgpio": "Unknown",
+    "id": "asus_rt-ax1800u",
     "installation_method(s)_method-installations": "unknown",
     "jtag_yesno": "Yes",
     "led_count_numled": "8",

@@ -26,6 +26,7 @@
     "git_search_search-gits": "GL-AR300M, GL-AR300M-Lite",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "2",
+    "id": "gl.inet_gl-ar300m-lite",
     "installation_method(s)_method-installations": "Sysupgrade, see git-commit",
     "jtag_yesno": "No",
     "led_count_numled": "3",

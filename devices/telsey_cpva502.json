@@ -23,6 +23,7 @@
     "git_search_search-gits": "CPVA502+",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "telsey_cpva502",
     "installation_method(s)_method-installations": "GUI OEM, CFE TFTP + serial recovery, CFE web recovery, see devicepage",
     "jtag_yesno": "Yes",
     "led_count_numled": "3",

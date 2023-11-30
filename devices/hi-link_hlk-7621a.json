@@ -27,6 +27,7 @@
     "git_search_search-gits": "HLK-7621A",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "more than 20",
+    "id": "hi-link_hlk-7621a",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot TFTP + serial recovery",
     "jtag_yesno": "Yes",
     "led_count_numled": "1",

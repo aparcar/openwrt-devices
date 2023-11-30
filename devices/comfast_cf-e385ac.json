@@ -24,6 +24,7 @@
     "git_search_search-gits": "CF-E385AC",
     "gluon_support_gluonsupport": "unknown",
     "gpios_numgpio": "-",
+    "id": "comfast_cf-e385ac",
     "installation_method(s)_method-installations": "GUI OEM, see git-commit",
     "jtag_yesno": "No",
     "led_count_numled": "1",

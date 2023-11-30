@@ -24,6 +24,7 @@
     "git_search_search-gits": "Picostation M XM",
     "gluon_support_gluonsupport": "No",
     "gpios_numgpio": "-",
+    "id": "ubiquiti_picostation_m_xm",
     "installation_method(s)_method-installations": "Ubiquiti TFTP, see git-commit",
     "jtag_yesno": "Unknown",
     "led_count_numled": "6",

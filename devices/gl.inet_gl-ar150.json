@@ -26,6 +26,7 @@
     "git_search_search-gits": "GL-AR150",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "4",
+    "id": "gl.inet_gl-ar150",
     "installation_method(s)_method-installations": "GUI OEM, U-Boot USB recovery, U-Boot web recovery, see devicepage",
     "jtag_yesno": "No",
     "led_count_numled": "3",

@@ -30,6 +30,7 @@
     "git_search_search-gits": "NanoPi R2S",
     "gluon_support_gluonsupport": "Yes",
     "gpios_numgpio": "10",
+    "id": "friendlyarm_nanopi_r2s",
     "installation_method(s)_method-installations": "SD card",
     "jtag_yesno": "No",
     "led_count_numled": "3",
